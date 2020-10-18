@@ -1,0 +1,50 @@
+body {
+  font-size: 2.3em;
+  padding: 10px 10px;
+  line-height: 1.3em;
+  font-weight: 400;
+  font-family: "open_sansregular", sans-serif;
+}
+
+.section {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+
+h1 {
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+html,
+body,
+h1,
+h2,
+h4,
+h5,
+h6,
+p,
+ul,
+form {
+  margin: 0;
+}
+
+section:first-child .title {
+  font-size: 2.3em;
+  padding: 10px 0;
+  line-height: 1.3em;
+  font-weight: 400;
+  font-family: "open_sansregular", sans-serif;
+}
+
+@media screen and (min-width: 600px) {
+  .main-column {
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+}

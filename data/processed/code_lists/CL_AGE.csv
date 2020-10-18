@@ -1,0 +1,99 @@
+AGE,AGE_DESC
+Y15T24,15 to 24 years old
+Y15T19,15 to 19 years old
+Y20T24,20 to 24 years old
+Y25T29,25 to 29 years old
+Y30T34,30 to 34 years old
+Y35T39,35 to 39 years old
+Y40T44,40 to 44 years old
+Y45T49,45 to 49 years old
+Y50T54,50 to 54 years old
+Y55T59,55 to 59 years old
+Y60T64,60 to 64 years old
+Y_GE65,65 years old and over
+Y_GE15,15 years old and over
+Y25T54,25 to 54 years old
+Y35T54,35 to 54 years old
+Y55T64,55 to 64 years old
+_T,All age ranges or no breakdown by age
+Y65T69,65 to 69 years old
+Y70T74,70 to 74 years old
+Y75T79,75 to 79 years old
+Y80T84,80 to 84 years old
+Y85T89,85 to 89 years old
+Y_GE50,50 years old and over
+Y50,50 years old
+Y55,55 years old
+Y60,60 years old
+Y65,65 years old
+Y70,70 years old
+Y75,75 years old
+Y80,80 years old
+Y85,85 years old
+Y85T100,85 to 100 years old
+Y15T49,15 to 49 years old
+Y15T20,15 to 20 years old
+Y20T34,20 to 34 years old
+Y35T49,35 to 49 years old
+Y50T64,50 to 64 years old
+Y05T14,5 to 14 years old
+Y00T04,under 5 years old
+Y65T74,65 to 74 years old
+Y75T84,75 to 84 years old
+Y35T44,35 to 44 years old
+Y45T54,45 to 54 years old
+Y25T34,25 to 34 years old
+Y00,At birth
+Y05,5 years old
+Y10,10 years old
+Y15,15 years old
+Y20,20 years old
+Y25,25 years old
+Y30,30 years old
+Y35,35 years old
+Y40,40 years old
+Y45,45 years old
+Y90,90 years old
+Y95,95 years old
+Y_GE100,100 years old and over
+Y_GE18,18 years old and over
+Y30T70,30 to 70 years old
+Y_GE80,80 old and over
+Y15T17,15 to 17 years old
+Y18T19,18 to 19 years old
+Y30T39,35 to 39 years old
+Y_GE60,60 years old and over
+_X,Not Available or not specified
+Y15T44,15 to 44 years old
+Y15T64,15 to 64 years old
+Y18T49,18 to 49 years old
+Y18T60,18 to 60 years old
+Y18T69,18 to 69 years old
+Y18T74,18 to 74 years old
+Y20T29,20 to 29 years old
+Y18T29,18 to 29 years old
+Y16,16 years old
+Y17,17 years old
+Y18,18 years old
+Y19,19 years old
+Y21,21 years old
+Y22,22 years old
+Y23,23 years old
+Y24,24 years old
+Y15T25,15 to 25 years
+Y00T14,under 15 years old
+Y00T09,under 10 years old
+Y10T19,10 to 19 years old
+Y30T39,30 to 39 years old
+Y40T49,40 to 49 years old
+Y50T59,50 to 59 years old
+Y60T69,60 to 69 years old
+Y70T79,70 to 79 years old
+Y25T49,25 to 49 years old
+Y18T75,18 to 75 years
+Y18T24,18-24 years
+Y25T29,25-29 years
+Y30T39,30-39 years
+Y40T49,40-49 years
+Y50T59,50-59 years
+Y60T75,60-75 years

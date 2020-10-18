@@ -1,0 +1,7 @@
+SERIES	SERIES_DESC	REPORTING_TYPE	REPORTING_TYPE_DESC	GEOLEVEL	GEOLEVEL_DESC	X	Y	REF_AREA	REF_AREA_DESC	TIME_PERIOD	SEX	SEX_DESC	OBS_VALUE	UNIT_MEASURE	UNIT_MEASURE_DESC	UNIT_MULT	UNIT_MULT_DESC	NATURE	NATURE_DESC	SOURCE_DETAIL	SOURCE_DETAIL_URL	TIME_DETAIL	COMMENT_OBS
+S_1420	Number of speakers in national parliaments	G	Global	0	Global	nan	nan	1	World	1995	_T	Both sexes or no breakdown by sex	228	NUMBER	Number	0	Units	nan	nan	IPU’s Parline database https://data.ipu.org/	nan	nan	nan
+S_1420	Number of speakers in national parliaments	G	Global	0	Global	nan	nan	1	World	2000	_T	Both sexes or no breakdown by sex	242	NUMBER	Number	0	Units	nan	nan	IPU’s Parline database https://data.ipu.org/	nan	nan	nan
+S_1420	Number of speakers in national parliaments	G	Global	0	Global	nan	nan	1	World	2005	_T	Both sexes or no breakdown by sex	254	NUMBER	Number	0	Units	nan	nan	IPU’s Parline database https://data.ipu.org/	nan	nan	nan
+S_1420	Number of speakers in national parliaments	G	Global	0	Global	nan	nan	1	World	2010	_T	Both sexes or no breakdown by sex	269	NUMBER	Number	0	Units	nan	nan	IPU’s Parline database https://data.ipu.org/	nan	nan	nan
+S_1420	Number of speakers in national parliaments	G	Global	0	Global	nan	nan	1	World	2015	_T	Both sexes or no breakdown by sex	273	NUMBER	Number	0	Units	nan	nan	IPU’s Parline database https://data.ipu.org/	nan	nan	nan
+S_1420	Number of speakers in national parliaments	G	Global	0	Global	nan	nan	1	World	2020	_T	Both sexes or no breakdown by sex	278	NUMBER	Number	0	Units	nan	nan	IPU’s Parline database https://data.ipu.org/	nan	nan	nan

@@ -1,0 +1,9 @@
+EDUCATION_LEV,EDUCATION_LEV_DESC
+_T,Total or no breakdown by education level
+ISCED11A_01,Never attended an education programme / No schooling
+ISCED11_1,Primary education
+AGG_2_3,Secondary education (lower and upper secondary education)
+AGG_5T8,Tertiary education
+ISCED11A_0_G23,"Some primary education, grades 2 or 3"
+ISCED11_2,Lower secondary education
+ISCED11_3,Upper secondary education

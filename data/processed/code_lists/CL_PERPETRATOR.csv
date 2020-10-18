@@ -1,0 +1,18 @@
+PERPETRATOR,PERPETRATOR_DESC
+INT_PARTNER,Current or former intimate partner
+HUS_PART_CURR,Current husband or partner
+HUS_PART_FRMR,Former husband or partner
+RELATIVE_OTH,Other relative
+STRANGER,Stranger
+BRTH,Brother/step-brother
+BOYFRND,Current or former boyfriend
+EMPLYR,Employer/someone at work
+FAMFRND,Family friend
+FATH,Father/step-father
+INLAW,In-law
+OTHER,Other
+OWNFRND_ACQ,Own friend/acquaintance
+POLICE_SOLDIER,Police/soldier
+RELIG,Priest/religious leader
+TEACH,Teacher
+NOT_INT_PARTNER,Persons other than an intimate partner

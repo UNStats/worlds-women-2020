@@ -1,0 +1,7 @@
+VIOLENCE_TYPE,VIOLENCE_TYPE_DESC
+PHY,Physical
+PHY+SEX+PSY,Physical or sexual or psychological
+PSY,Psychological
+SEX,Sexual
+PHY+SEX,Physical and sexual
+ECO,Economic

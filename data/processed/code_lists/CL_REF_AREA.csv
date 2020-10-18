@@ -1,0 +1,322 @@
+REF_AREA,REF_AREA_DESC
+1,World
+4,Afghanistan
+8,Albania
+9,Oceania
+12,Algeria
+15,Northern Africa
+21,Northern America
+24,Angola
+30,Eastern Asia
+32,Argentina
+34,Southern Asia
+35,South-Eastern Asia
+36,Australia
+40,Austria
+50,Bangladesh
+51,Armenia
+53,Australia and New Zealand
+56,Belgium
+62,Central and Southern Asia
+68,Bolivia (Plurinational State of)
+70,Bosnia and Herzegovina
+72,Botswana
+76,Brazil
+84,Belize
+90,Solomon Islands
+96,Brunei Darussalam
+100,Bulgaria
+104,Myanmar
+108,Burundi
+112,Belarus
+116,Cambodia
+120,Cameroon
+124,Canada
+132,Cabo Verde
+143,Central Asia
+144,Sri Lanka
+145,Western Asia
+150,Europe
+152,Chile
+170,Colombia
+174,Comoros
+178,Congo
+180,Democratic Republic of the Congo
+188,Costa Rica
+191,Croatia
+196,Cyprus
+199,Least Developed Countries (LDCs)
+202,Sub-Saharan Africa
+203,Czechia
+204,Benin
+208,Denmark
+214,Dominican Republic
+218,Ecuador
+222,El Salvador
+231,Ethiopia
+233,Estonia
+242,Fiji
+246,Finland
+250,France
+268,Georgia
+270,Gambia
+275,State of Palestine
+276,Germany
+288,Ghana
+296,Kiribati
+300,Greece
+320,Guatemala
+324,Guinea
+328,Guyana
+332,Haiti
+340,Honduras
+348,Hungary
+352,Iceland
+356,India
+360,Indonesia
+364,Iran (Islamic Republic of)
+368,Iraq
+372,Ireland
+376,Israel
+380,Italy
+384,Côte d'Ivoire
+392,Japan
+398,Kazakhstan
+404,Kenya
+417,Kyrgyzstan
+418,Lao People's Democratic Republic
+419,Latin America and the Caribbean
+422,Lebanon
+428,Latvia
+430,Liberia
+432,Landlocked developing countries (LLDCs)
+440,Lithuania
+442,Luxembourg
+450,Madagascar
+454,Malawi
+458,Malaysia
+462,Maldives
+466,Mali
+470,Malta
+478,Mauritania
+480,Mauritius
+484,Mexico
+496,Mongolia
+498,Republic of Moldova
+499,Montenegro
+513,Europe and Northern America
+516,Namibia
+520,Nauru
+524,Nepal
+528,Netherlands
+531,Curaçao
+543,Oceania (exc. Australia and New Zealand)
+548,Vanuatu
+554,New Zealand
+558,Nicaragua
+562,Niger
+566,Nigeria
+578,Norway
+583,Micronesia (Federated States of)
+585,Palau
+586,Pakistan
+591,Panama
+598,Papua New Guinea
+600,Paraguay
+604,Peru
+608,Philippines
+616,Poland
+620,Portugal
+626,Timor-Leste
+634,Qatar
+642,Romania
+643,Russian Federation
+646,Rwanda
+682,Saudi Arabia
+686,Senegal
+688,Serbia
+694,Sierra Leone
+702,Singapore
+703,Slovakia
+704,Viet Nam
+705,Slovenia
+710,South Africa
+716,Zimbabwe
+722,Small island developing States (SIDS)
+724,Spain
+729,Sudan
+747,Northern Africa and Western Asia
+748,Eswatini
+752,Sweden
+753,Eastern and South-Eastern Asia
+756,Switzerland
+762,Tajikistan
+764,Thailand
+768,Togo
+780,Trinidad and Tobago
+784,United Arab Emirates
+788,Tunisia
+792,Turkey
+798,Tuvalu
+800,Uganda
+804,Ukraine
+807,North Macedonia
+818,Egypt
+826,United Kingdom
+834,United Republic of Tanzania
+840,United States of America
+858,Uruguay
+862,Venezuela (Bolivarian Republic of)
+882,Samoa
+887,Yemen
+894,Zambia
+911,Low income economies (WB)
+912,Lower middle economies (WB)
+914,Upper middle economies (WB)
+910,High income economies (WB)
+514,Developed
+515,​Developing
+308,Grenada
+92,British Virgin Islands
+446,"China, Macao Special Administrative Region"
+388,Jamaica
+414,Kuwait
+504,Morocco
+48,Bahrain
+344,"China, Hong Kong Special Administrative Region"
+426,Lesotho
+410,Republic of Korea
+512,Oman
+31,Azerbaijan
+262,Djibouti
+508,Mozambique
+64,Bhutan
+136,Cayman Islands
+184,Cook Islands
+238,Falkland Islands (Malvinas)
+630,Puerto Rico
+662,Saint Lucia
+690,Seychelles
+740,Suriname
+776,Tonga
+660,Anguilla
+28,Antigua and Barbuda
+533,Aruba
+44,Bahamas
+52,Barbados
+60,Bermuda
+854,Burkina Faso
+140,Central African Republic
+148,Chad
+156,China
+192,Cuba
+408,Democratic People's Republic of Korea
+212,Dominica
+226,Equatorial Guinea
+232,Eritrea
+266,Gabon
+292,Gibraltar
+624,Guinea-Bissau
+400,Jordan
+434,Libya
+438,Liechtenstein
+584,Marshall Islands
+500,Montserrat
+570,Niue
+659,Saint Kitts and Nevis
+670,Saint Vincent and the Grenadines
+674,San Marino
+678,Sao Tome and Principe
+534,Sint Maarten (Dutch part)
+760,Syrian Arab Republic
+795,Turkmenistan
+860,Uzbekistan
+772,Tokelau
+16,American Samoa
+312,Guadeloupe
+474,Martinique
+638,Réunion
+654,Saint Helena
+706,Somalia
+728,South Sudan
+850,United States Virgin Islands
+254,French Guiana
+258,French Polynesia
+336,Holy See
+666,Saint Pierre and Miquelon
+20,Andorra
+492,Monaco
+796,Turks and Caicos Islands
+175,Mayotte
+830,Channel Islands
+833,Isle of Man
+304,Greenland
+234,Faroe Islands
+876,Wallis and Futuna Islands
+540,New Caledonia
+580,Northern Mariana Islands
+316,Guam
+158,"China, Taiwan Province of China"
+420,Latin America
+142,Asia
+2,Africa
+5,South America
+11,Western Africa
+13,Central America
+14,Eastern Africa
+17,Middle Africa
+18,Southern Africa
+29,Caribbean
+39,Southern Europe
+151,Eastern Europe
+154,Northern Europe
+155,Western Europe
+54,Melanesia
+57,Micronesia
+61,Polynesia
+MX - AG,Aguascalientes
+MX - BC,Baja California
+MX - BS,Baja California Sur
+MX - CM,Campeche
+MX - CS,Coahuila de Zaragoza
+MX - CH,Colima
+MX - DF,Chiapas
+MX - CO,Chihuahua
+MX - CL,Ciudad de México
+MX - DG,Durango
+MX - GT,Guanajuato
+MX - GR,Guerrero
+MX - HG,Hidalgo
+MX - JA,Jalisco
+MX - EM,México
+MX - MI,Michoacán de Ocampo
+MX - MO,Morelos
+MX - NA,Nayarit
+MX - NL,Nuevo León
+MX - OA,Oaxaca
+MX - PU,Puebla
+MX - QT,Querétaro
+MX - QR,Quintana Roo
+MX - SL,San Luis Potosí
+MX - SI,Sinaloa
+MX - SO,Sonora
+MX - TB,Tabasco
+MX - TM,Tamaulipas
+MX - TL,Tlaxcala
+MX - VE,Veracruz de Ignacio de la Llave
+MX - YU,Yucatán
+MX - ZA,Zacatecas
+MX - CS,Coahuila
+MX - EM,Estado de México
+MX - MI,Michoacán
+MX - VE,Veracruz
+ZW_01,Bulawayo
+ZW_03,Manicaland
+ZW_04,Mashonaland Central
+ZW_05,Mashonaland East
+ZW_06,Mashonaland West
+ZW_08,Matabeleland North
+ZW_09,Matabeleland South
+ZW_10,Midlands
+ZW_07,Masvingo
+ZW_02,Harare

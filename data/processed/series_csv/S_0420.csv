@@ -1,0 +1,41 @@
+SERIES	SERIES_DESC	REPORTING_TYPE	REPORTING_TYPE_DESC	GEOLEVEL	GEOLEVEL_DESC	X	Y	REF_AREA	REF_AREA_DESC	TIME_PERIOD	SEX	SEX_DESC	AGE	AGE_DESC	OBS_VALUE	UNIT_MEASURE	UNIT_MEASURE_DESC	UNIT_MULT	UNIT_MULT_DESC	NATURE	NATURE_DESC	SOURCE_DETAIL	SOURCE_DETAIL_URL	TIME_DETAIL	COMMENT_OBS
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	M	Male	Y05	5 years old	67.95	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	M	Male	Y10	10 years old	63.28	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	M	Male	Y15	15 years old	58.53	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	M	Male	Y20	20 years old	53.87	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	M	Male	Y25	25 years old	49.31	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	M	Male	Y30	30 years old	44.75	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	M	Male	Y35	35 years old	40.23	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	M	Male	Y40	40 years old	35.77	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	M	Male	Y45	45 years old	31.37	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	M	Male	Y50	50 years old	27.07	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	M	Male	Y55	55 years old	22.97	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	M	Male	Y60	60 years old	19.13	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	M	Male	Y65	65 years old	15.6	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	M	Male	Y70	70 years old	12.42	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	M	Male	Y75	75 years old	9.68	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	M	Male	Y80	80 years old	7.39	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	M	Male	Y85	85 years old	5.57	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	M	Male	Y90	90 years old	4.17	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	M	Male	Y95	95 years old	3.15	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	M	Male	Y_GE100	100 years old and over	2.42	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	F	Female	Y05	5 years old	72.62	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	F	Female	Y10	10 years old	67.95	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	F	Female	Y15	15 years old	63.19	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	F	Female	Y20	20 years old	58.47	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	F	Female	Y25	25 years old	53.8	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	F	Female	Y30	30 years old	49.12	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	F	Female	Y35	35 years old	44.47	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	F	Female	Y40	40 years old	39.85	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	F	Female	Y45	45 years old	35.28	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	F	Female	Y50	50 years old	30.78	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	F	Female	Y55	55 years old	26.42	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	F	Female	Y60	60 years old	22.26	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	F	Female	Y65	65 years old	18.34	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	F	Female	Y70	70 years old	14.74	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	F	Female	Y75	75 years old	11.55	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	F	Female	Y80	80 years old	8.83	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	F	Female	Y85	85 years old	6.62	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	F	Female	Y90	90 years old	4.89	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	F	Female	Y95	95 years old	3.61	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan
+S_0420	Life expectancy by sex, over time	G	Global	0	Global	nan	nan	1	World	2020	F	Female	Y_GE100	100 years old and over	2.7	YR	Years	0	Units	nan	nan	World population prospects 2019	nan	2015-2020	nan

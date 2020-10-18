@@ -1,0 +1,192 @@
+Series	Series_Desc	Narrative_id	Theme_id	Subtheme_id	Tags
+S_0010	Total female population aged 45-49 years	['NP23']	['POP']	['POP_SUB1']	population, demography
+S_0020	Total population by age, sex	['NV14']	['POP']	['POP_SUB1']	population, demography
+S_0030	Number of older persons aged 65+ and 80+	['NP20']	['POP']	['POP_SUB2']	population, demography, ageing
+S_0040	Share of women among older persons aged 65+ and 80+	['NP20']	['POP']	['POP_SUB2']	population, demography, ageing
+S_0050	Share of women and men aged 65+ and 80+ living alone	['NP20']	['POP']	['POP_SUB2']	population, demography, ageing
+S_0060	Singulate mean age at first marriage	['NP21']	['POP']	['POP_SUB3']	population, demography, family, couples
+S_0070	Proportion of women who were married or in a union before age 15	['NP25']	['POP']	['POP_SUB3']	population, demography, family, couples
+S_0080	Proportion of women who were married or in a union before age 18	['NP25']	['POP']	['POP_SUB3']	population, demography, family, couples
+S_0090	Proportions of women and men aged 20–24 who were married or in a union before age 15	['NP21']	['POP']	['POP_SUB3']	population, demography, family, couples
+S_0100	Proportions of women and men aged 20–24 who were married or in a union before age 18	['NP21']	['POP']	['POP_SUB3']	population, demography, family, couples
+S_0110	Proportion of divorced or separated persons aged 45–49 by sex and region	['NP22']	['POP']	['POP_SUB3']	population, demography, family, couples
+S_0120	Proportion of widowed women and men aged 65-69 by sex and region	['NP22']	['POP']	['POP_SUB3']	population, demography, family, couples
+S_0130	Female mean age of childbearing	['NP23']	['POP']	['POP_SUB4']	population, demography, family
+S_0140	Mean age at first birth for first time parents by sex	['NP26']	['POP']	['POP_SUB4']	population, demography, family
+S_0150	Total fertility rate	['NP23']	['POP']	['POP_SUB4']	population, demography, family
+S_0170	Adolescent birth rate per 1,000 women aged 15-19 years	['NP21']	['POP']	['POP_SUB4']	population, demography, family
+S_0180	Proportion of women aged 45 to 49 years who have not had a child	['NP23']	['POP']	['POP_SUB4']	population, demography, family
+S_0185	Number of women aged 45 to 49 years who have not had a child	['NP23']	['POP']	['POP_SUB4']	population, demography, family
+S_0190	Proportion of one-parent households by sex of parent	['NP18']	['POP']	['POP_SUB4']	population, demography, family
+S_0200	Proportion of couples’ households with and without children	['NP18']	['POP']	['POP_SUB4']	population, demography, family
+S_0220	Gross enrolment ratio in tertiary education, by sex	['NE10']	['EDU']	['EDU_SUB1']	education, enrolment
+S_0230	Gender parity index of the gross enrolment ratios, by education level	['NE11']	['EDU']	['EDU_SUB1']	education, enrolment
+S_0240	Rate (percent) of out-of-school children, adolescents and youth	['NE3']	['EDU']	['EDU_SUB1']	education, enrolment
+S_0250	Adjusted gender parity index of out-of-school rate	['NE3']	['EDU']	['EDU_SUB1']	education, enrolment
+S_0260	Schools with access to access to single-sex basic sanitation, by education level (%)	['NE12']	['EDU']	['EDU_SUB1']	education, enrolment
+S_0270	School attendance rate of the population aged 15 to 24	['NE1']	['EDU']	['EDU_SUB1']	education, enrolment
+S_0280	Participation rate in technical and vocational programmes (15- to 24-year-olds), by sex	['NE13']	['EDU']	['EDU_SUB1']	education, enrolment
+S_0290	Proportion of youth and adults with information and communications technology (ICT) skills, by sex and type of skill (percent)	['NE5']	['EDU']	['EDU_SUB2']	education, quality
+S_0300	Minimum proficiency in numeracy in Zimbabwe, by education level and sex (%)	['NE2']	['EDU']	['EDU_SUB2']	education, quality
+S_0310	Minimum proficiency in reading in Zimbabwe, by education level and sex (%)	['NE2']	['EDU']	['EDU_SUB2']	education, quality
+S_0320	Proportion of children and young people achieving at least a minimum proficiency level in mathematics, by sex	['NE14']	['EDU']	['EDU_SUB2']	education, quality
+S_0330	Proportion of children and young people achieving at least a minimum proficiency level in reading, by sex	['NE14']	['EDU']	['EDU_SUB2']	education, quality
+S_0340	School completion rate	['NE6']	['EDU']	['EDU_SUB2']	education, quality
+S_0350	Literacy rate	['NE7']	['EDU']	['EDU_SUB2', 'EDU_SUB4']	education, quality, ageing
+S_0360	Share of female graduates at tertiary level, by area of study	['NE15']	['EDU']	['EDU_SUB3']	education, youth
+S_0370	Proportion of females among tertiary education teachers or professors	['NE16']	['EDU']	['EDU_SUB3']	education, youth
+S_0380	Share of women among researchers, by discipline	['NE8']	['EDU']	['EDU_SUB3']	education, youth
+S_0390	Percentage of students who experienced bullying in the last 12 months, by socio economic and immigration background	['NE17']	['EDU']	['EDU_SUB3']	education, youth
+S_0400	Percentage of schools providing life skills-based HIV and sexuality education, by type of school	['NE18']	['EDU']	['EDU_SUB3']	education, youth
+S_0410	Life expectancy at birth by sex, over time	['NH5']	['HEA']	['HEA_SUB1']	health, population, demography
+S_0420	Life expectancy by sex, over time	['NH5']	['HEA']	['HEA_SUB1']	health, population, demography
+S_0430	Distribution of deaths by major categories of causes of death, by sex, region	['NH5']	['HEA']	['HEA_SUB1']	health, population, demography
+S_0440	Female death rates as proportion of total death rates by cause of death	['NH5']	['HEA']	['HEA_SUB1']	health, population, demography
+S_0450	Annual number of deaths, by leading causes of deaths	['NH5']	['HEA']	['HEA_SUB1']	health, population, demography
+S_0460	Cause-specific mortality rate (age-standardized), by leading causes of death	['NH11']	['HEA']	['HEA_SUB1']	health, population, demography
+S_0461	Share of COVID-19 death (percentage)	['NH12']	['HEA']	['HEA_SUB1']	health, population, demography, covid-19
+S_0462	Share of COVID-19 incidence (percentage)	['NH12']	['HEA']	['HEA_SUB1']	health, population, demography, covid-19
+S_0470	Cause-specific mortality rate (age-standardized), due to self-harm	['NH8']	['HEA']	['HEA_SUB3']	health, youth
+S_0480	Proportion of births attended by skilled health personnel	['NH1', 'NH7']	['HEA']	['HEA_SUB4']	health
+S_0490	Proportion of births delivered at a health facility	['NH1']	['HEA']	['HEA_SUB4']	health
+S_0495	Maternal mortality ratio - number of maternal deaths per 100,000 live births	['NH7']	['HEA']	['HEA_SUB4']	health
+S_0500	Number of new HIV infections per 1,000 uninfected population, by sex and age	['NH10']	['HEA']	['HEA_SUB4']	health
+S_0510	Cause-specific mortality rate (age-standardized), due to interpersonal violence	['NH8']	['HEA']	['HEA_SUB4']	health
+S_0520	Percentage of women aged 15-49 using any method of contraception	['NP23']	['HEA']	['HEA_SUB4']	health
+S_0525	Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods	['NH7']	['HEA']	['HEA_SUB4']	health
+S_0530	Proportion of population living with HIV/AIDS that are receiving treatment	['NH10']	['HEA']	['HEA_SUB4']	health
+S_0540	Proportion of population living with HIV/AIDS that have suppressed their viral loads	['NH10']	['HEA']	['HEA_SUB4']	health
+S_0550	Proportion of population living with HIV/AIDS that know their HIV status	['NH10']	['HEA']	['HEA_SUB4']	health
+S_0560	Estimated incidence of tuberculosis, who are not notified	['NH10']	['HEA']	['HEA_SUB4']	health
+S_0570	Estimated incidence of tuberculosis, who are notified	['NH10']	['HEA']	['HEA_SUB4']	health
+S_0580	Proportion of women and adolescent girls (15-49) who did not participate in school, work or social activities during their last menstrual period	['NH13']	['HEA']	['HEA_SUB4']	health
+S_0590	Proportion of women and adolescent girls (15-49) using menstrual hygiene materials	['NH13']	['HEA']	['HEA_SUB4']	health
+S_0600	Proportion of women and adolescent girls (15-49) with a private place to wash and change	['NH13']	['HEA']	['HEA_SUB4']	health
+S_0610	Proportion of women and adolescent girls (15-49) with a private place to wash and change and using menstrual hygiene materials	['NH13']	['HEA']	['HEA_SUB4']	health
+S_0620	Cause-specific mortality rate (age-standardized), due to 12 leading causes of cancer, aged 50 years and above	['NH11']	['HEA']	['HEA_SUB5']	health, ageing
+S_0630	Probability of dying from any of cardiovascular disease, cancer, diabetes, chronic respiratory disease between ages 30 and 70, by sex	['NH9']	['HEA']	['HEA_SUB5']	health, ageing
+S_0640	Cause-specific mortality rate (age-standardized), due to Alzheimer and other dementia, aged 50 years and above	['NH11']	['HEA']	['HEA_SUB5']	health, ageing
+S_0650	Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%)	['NH6']	['HEA']	['HEA_SUB6']	health
+S_0660	Alcohol consumption per capita 15 years of age and above	['NH6']	['HEA']	['HEA_SUB6']	health
+S_0670	Prevalence of obesity among adults, BMI >= 30 (age-standardized estimate)	['NH6']	['HEA']	['HEA_SUB6']	health
+S_0680	Age-standardized mortality rate attributed to ambient air pollution (deaths per 100,000 population), by sex	['NN4']	['ENV', 'HEA']	['ENV_SUB5', 'HEA_SUB6']	health, environment, risk factors
+S_0690	Age-standardized mortality rate attributed to household air pollution (deaths per 100,000 population), by sex	['NN4']	['ENV', 'HEA']	['ENV_SUB5', 'HEA_SUB6']	health, environment, risk factors
+S_0700	Age-standardized mortality rate attributed to joint household and ambient air pollution (deaths per 100,000 population), by sex	['NN4']	['ENV', 'HEA']	['ENV_SUB5', 'HEA_SUB6']	health, environment, risk factors
+S_0710	Cause-specific mortality rate (age-standardized), due to road injury	['NH8']	['HEA']	['HEA_SUB6']	health
+S_0720	Percentage of adolescent girls aged 15-19 years who have undergone female genital mutilation/cutting	['NV5']	['VAW']	['VAW_SUB1']	violence
+S_0730	Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting	['NV5']	['VAW']	['VAW_SUB1']	violence
+S_0740	Number of femicide	['NV8']	['VAW']	['VAW_SUB1']	violence
+S_0750	Number of femicide by intimate partner	['NV8']	['VAW']	['VAW_SUB1']	violence
+S_0760	Rate of femicide	['NV8']	['VAW']	['VAW_SUB1']	violence
+S_0770	Rate of femicide by intimate partner	['NV8']	['VAW']	['VAW_SUB1']	violence
+S_0780	Number of ever-partnered women and girls subjected to violence by a current or former intimate partner in the previous 12 months, by type of violence, by age	['NV14']	['VAW']	['VAW_SUB1']	violence
+S_0790	Proportion of ever-partnered women and girls subjected to violence by a current or former intimate partner in the previous 12 months, by type of violence, by age (%)	['NV1', 'NV13', 'NV14']	['VAW']	['VAW_SUB1']	violence
+S_0795	Proportion of ever-partnered women and girls subjected to violence by a current or former intimate partner in a lifetime, by type of violence, by age (%)	['NV13']	['VAW']	['VAW_SUB1']	violence
+S_0800	Percentage of women to whom sexual violence was committed by non -partners, by perpetrator	['NV2']	['VAW']	['VAW_SUB1']	violence
+S_0810	Proportion of women aged 20-29 who have ever experienced sexual violence by a non-partner since age of 15	['NV2', 'NV3']	['VAW']	['VAW_SUB1']	violence
+S_0820	Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18	['NV3']	['VAW']	['VAW_SUB1']	violence
+S_0830	Share of female police officers	['NV11']	['VAW', 'POW']	['VAW_SUB2', 'POW_SUB3']	violence, power, judiciary, government
+S_0840	Proportion of Female Professional Judges or Magistrates	['NV10']	['VAW']	['VAW_SUB2']	violence
+S_0850	Existence of laws on domestic violence (1 = YES; 0 = NO)	['NV9']	['VAW']	['VAW_SUB2']	violence
+S_0860	Existence of laws on marital rape (1 = YES; 0 = NO)	['NV9']	['VAW']	['VAW_SUB2']	violence
+S_0870	Existence of laws on sexual harassment (1 = YES; 0 = NO)	['NV9']	['VAW']	['VAW_SUB2']	violence
+S_0880	Percentage of women and men who consider a husband to be justified in hitting or beating his wife if she burns the food, argues with him, goes out without telling him, neglects the children or refuses sexual relations	['NV12']	['VAW', 'ECO']	['VAW_SUB2', 'ECO_SUB1']	violence, economy, work, rights
+S_0890	Labour force participation rate among people aged 15 years and older, by sex and age group	['NW1']	['ECO']	['ECO_SUB1']	economy, work, rights
+S_0900	Labour force participation rate among people aged 25–54 by sex and household type	['NW1']	['ECO']	['ECO_SUB1']	economy, work, rights
+S_0910	Labour force participation rate among people aged 25–54 years by sex, region with 1 child under age six in couple and extended family households	['NW1']	['ECO']	['ECO_SUB1']	economy, work, rights
+S_0920	Labour force participation rate among people aged 25–54 years by sex, region with 2 children under age six in couple and extended family households	['NW1']	['ECO']	['ECO_SUB1']	economy, work, rights
+S_0930	Labour force participation rate among people aged 25–54 years by sex, region with 3 or more children under age six in couple and extended family households	['NW1']	['ECO']	['ECO_SUB1']	economy, work, rights
+S_0940	Labour force participation rate among people aged 25–54 years by sex, region with no children under age six in couple and extended family households	['NW1']	['ECO']	['ECO_SUB1']	economy, work, rights
+S_0942	Does the law mandate equal remuneration for work of equal value (ILO convention 100)? (1=Yes, 0=No)		['ECO']	['ECO_SUB1']	economy, work, rights
+S_0944	Does the law prohibit discrimination in employment based on gender (ILO convention 111)? (1=Yes, 0=No)		['ECO']	['ECO_SUB1']	economy, work, rights
+S_0950	Unemployment rate, by sex and age (%)	['NW26']	['ECO']	['ECO_SUB1']	economy, work, rights
+S_0960	Proportion of youth (aged 15-24 years) not in education, employment or training (%)	['NW18', 'NW20']	['ECO']	['ECO_SUB1']	economy, work, rights
+S_0970	Proportion of women in co-residing couples who make joint decision on expensive household purchases	['ND11']	['POW', 'ECO']	['POW_SUB6', 'ECO_SUB2']	power, economy, family, household, income, decision-making
+S_0980	Proportion of women in co-residing couples who make joint decision on expensive household purchases	['ND11']	['POW', 'ECO']	['POW_SUB6', 'ECO_SUB2']	power, economy, family, household, income, decision-making
+S_0990	Proportion of women in co-residing couples who make personal decision on expensive household purchases	['ND11']	['POW', 'ECO']	['POW_SUB6', 'ECO_SUB2']	power, economy, family, household, income, decision-making
+S_1000	Proportion of women in co-residing couples who make personal decision on routine household purchases	['ND11']	['POW', 'ECO']	['POW_SUB6', 'ECO_SUB2']	power, economy, family, household, income, decision-making
+S_1010	Distribution of employed population by employment status	['NW23']	['ECO']	['ECO_SUB3']	economy, work, rights
+S_1020	Distribution of employed persons by occupation and sex	['NW3']	['ECO']	['ECO_SUB3']	economy, work, rights
+S_1030	Average hourly earnings of employees by sex and occupation (local currency)	['NW21']	['ECO']	['ECO_SUB3']	economy, work, rights
+S_1040	Gender pay gap, EU-27 countries	['NW21']	['ECO']	['ECO_SUB3']	economy, work, rights
+S_1050	Proportion of employed women and men working part-time	['NW4']	['ECO']	['ECO_SUB4']	economy, employment
+S_1060	Proportion of informal employment in total employment, by age groups and sex	['NW5']	['ECO']	['ECO_SUB4']	economy, employment
+S_1070	Proportion of informal employment in total employment, by highest level of education and sex	['NW5']	['ECO']	['ECO_SUB4']	economy, employment
+S_1080	Proportion of informal employment in total employment, by sector and sex	['NW5']	['ECO']	['ECO_SUB4']	economy, employment
+S_1090	Hours per week spent on unpaid domestic and care work, by sex, location and income quintile	['NW29']	['ECO']	['ECO_SUB5']	economy, work, well-being
+S_1100	Internet penetration rate	['NW28']	['ECO']	['ECO_SUB7']	economy, assets
+S_1110	Internet user gender gap	['NW28']	['ECO']	['ECO_SUB7']	economy, assets
+S_1120	Gender gap in mobile phone ownership	['NW28']	['ECO']	['ECO_SUB7']	economy, assets
+S_1125	Countries with equal ownership rights to immovable property (1= Yes, 0= No)		['ECO']	['ECO_SUB7']	economy, assets
+S_1126	Countries with equal rights for children to inherit assets from parents (1= Yes, 0= No)		['ECO']	['ECO_SUB7']	economy, assets
+S_1127	Countries with equal inheritance rights for female and male surviving spouses (1= Yes, 0= No)		['ECO']	['ECO_SUB7']	economy, assets
+S_1128	Countries with law that grant spouses equal administrative authority over assets during marriage (1= Yes, 0= No)		['ECO']	['ECO_SUB7']	economy, assets
+S_1129	Countries with law that provide for the valuation of nonmonetary contributions (1= Yes, 0= No)		['ECO']	['ECO_SUB7']	economy, assets
+S_1130	Proportion of women and men (15 years or older) with an account at a bank or other financial institution or with a mobile-money-service provider, by sex	['NW6']	['ECO']	['ECO_SUB8']	economy, assets
+S_1140	Share of women and men among adults without access to formal financial services	['NW6']	['ECO']	['ECO_SUB8']	economy, assets
+S_1150	Proportion of women and men (aged 15 years or older) who saved any money in the previous 12 months	['NW6']	['ECO']	['ECO_SUB8']	economy, assets
+S_1160	Proportion of women and men (aged 15 years or older) who saved money at a financial institution in the previous 12 months	['NW6']	['ECO']	['ECO_SUB8']	economy, assets
+S_1170	Proportion of women and men who saved money using alternative methods (e.g. a savings club or a person outside the family) in the previous 12 months	['NW6']	['ECO']	['ECO_SUB8']	economy, assets
+S_1180	Number of seats in national parliaments (lower or single houses)	['ND5', 'ND6']	['POW']	['POW_SUB1']	power, legislative, government
+S_1190	Number of seats held by women in national parliaments (lower or single houses)	['ND5', 'ND6']	['POW']	['POW_SUB1']	power, legislative, government
+S_1200	Number of seats held in the upper houses of national parliaments, by sex	['ND6', 'ND7']	['POW']	['POW_SUB1']	power, legislative, government
+S_1210	Proportion of seats held in national parliaments (lower or single houses), by sex	['ND6', 'ND7']	['POW']	['POW_SUB1']	power, legislative, government
+S_1220	Proportion of seats held by women in national parliaments (lower or single houses)	['ND5']	['POW']	['POW_SUB1']	power, legislative, government
+S_1230	Number of seats in upper houses of national parliaments	['ND6', 'ND7']	['POW']	['POW_SUB1']	power, legislative, government
+S_1240	Proportion of seats held in the upper houses of national parliaments, by sex	['ND6', 'ND7']	['POW']	['POW_SUB1']	power, legislative, government
+S_1250	Electoral system for parliament	['ND5']	['POW']	['POW_SUB1']	power, legislative, government
+S_1260	Presence of a gender quota for parliament (1 = YES, 0 = NO)	['ND5']	['POW']	['POW_SUB1']	power, legislative, government
+S_1270	Number of women candidates for the lower or single houses of parliament	['ND5']	['POW']	['POW_SUB1']	power, legislative, government
+S_1280	Share of women among candidate for the lower or single houses of parliament	['ND5']	['POW']	['POW_SUB1']	power, legislative, government
+S_1290	Total number of candidates for the lower or single houses of parliament	['ND5']	['POW']	['POW_SUB1']	power, legislative, government
+S_1300	Countries with a female Head Government	['ND3']	['POW']	['POW_SUB2']	power, executive, government
+S_1310	Countries with a female Head of State	['ND3']	['POW']	['POW_SUB2']	power, executive, government
+S_1320	Number of female core ministers	['ND3']	['POW']	['POW_SUB2']	power, executive, government
+S_1330	Number of countries with women ministers, by portfolio	['ND3']	['POW']	['POW_SUB2']	power, executive, government
+S_1340	Total number of core ministers	['ND3']	['POW']	['POW_SUB2']	power, executive, government
+S_1350	Women’s share of government ministerial positions	['ND3']	['POW']	['POW_SUB2']	power, executive, government
+S_1360	Sex of chair of defence committee	['ND6']	['POW']	['POW_SUB1']	power, legislative, government
+S_1370	Sex of chair of finance committee	['ND6']	['POW']	['POW_SUB1']	power, legislative, government
+S_1380	Sex of chair of foreign affairs committee	['ND6']	['POW']	['POW_SUB1']	power, legislative, government
+S_1390	Sex of chair of gender equality committee	['ND6']	['POW']	['POW_SUB1']	power, legislative, government
+S_1400	Sex of chair of human rights committee	['ND6']	['POW']	['POW_SUB1']	power, legislative, government
+S_1410	Sex of the speakers in national parliaments	['ND6']	['POW']	['POW_SUB1']	power, legislative, government
+S_1420	Number of speakers in national parliaments	['ND6']	['POW']	['POW_SUB1']	power, legislative, government
+S_1430	Number of women speakers in national parliaments	['ND6']	['POW']	['POW_SUB1']	power, legislative, government
+S_1440	Sex of head of National Statistical Office (NSO)	['ND4']	['POW']	['POW_SUB2']	power, executive, government
+S_1450	Percentage of women’s representation in municipal councils	['ND7']	['POW']	['POW_SUB2']	power, executive, government
+S_1460	Proportion of elected seats held by women in deliberative bodies of local government (%)	['ND9']	['POW']	['POW_SUB2']	power, executive, government
+S_1470	Number of staff in the higher category in the United Nations system, by sex	['ND4']	['POW']	['POW_SUB2']	power, executive, government
+S_1480	Number of staff in the international professional and higher categories in the United Nations system, by sex	['ND4']	['POW']	['POW_SUB2']	power, executive, government
+S_1490	Number of staff in the junior international professional category (P1, P2) in the United Nations system, by sex	['ND4']	['POW']	['POW_SUB2']	power, executive, government
+S_1500	Number of staff in the senior international professional category (P5, D1, D2) in the United Nations system, by sex	['ND4']	['POW']	['POW_SUB2']	power, executive, government
+S_1510	Percentage of female staff in higher category in the United Nations system	['ND4']	['POW']	['POW_SUB2']	power, executive, government
+S_1520	Percentage of female staff in the international professional and higher categories in the United Nations system	['ND4']	['POW']	['POW_SUB2']	power, executive, government
+S_1530	Percentage of female staff in the junior international professional category (P1, P2) in the United Nations system	['ND4']	['POW']	['POW_SUB2']	power, executive, government
+S_1540	Percentage of female staff in the senior international professional category (P5, D1, D2) in the United Nations system	['ND4']	['POW']	['POW_SUB2']	power, executive, government
+S_1550	Percent of firms with a female top manager	['ND1']	['POW']	['POW_SUB4']	power, private sector
+S_1560	Proportion of women in managerial positions	['ND1']	['POW']	['POW_SUB4']	power, private sector
+S_1570	Proportion of women in senior and middle management positions	['ND1']	['POW']	['POW_SUB4']	power, private sector
+S_1580	Percentage of women among senior-level civil servants	['ND4']	['POW']	['POW_SUB4']	power, private sector
+S_1590	Percentage of women serving on board with female CEO	['ND2']	['POW']	['POW_SUB4']	power, private sector
+S_1600	Percentage of women serving on board with female chair	['ND2']	['POW']	['POW_SUB4']	power, private sector
+S_1610	Percentage of women serving on board with male CEO	['ND2']	['POW']	['POW_SUB4']	power, private sector
+S_1620	Percentage of women serving on board with male chair	['ND2']	['POW']	['POW_SUB4']	power, private sector
+S_1630	Proportion of board seats held by women	['ND2']	['POW']	['POW_SUB4']	power, private sector
+S_1640	Proportion of women on boards of MSCI ACWI companies	['ND2']	['POW']	['POW_SUB4']	power, private sector
+S_1650	Proportion of women on boards of MSCI Emerging Market companies	['ND2']	['POW']	['POW_SUB4']	power, private sector
+S_1660	Proportion of women on boards of MSCI World companies	['ND2']	['POW']	['POW_SUB4']	power, private sector
+S_1670	Proportion of women on the boards of the largest publicly listed companies in the EU, with binding quota	['ND2']	['POW']	['POW_SUB4']	power, private sector
+S_1680	Proportion of women on the boards of the largest publicly listed companies in the EU, with no action	['ND2']	['POW']	['POW_SUB4']	power, private sector
+S_1690	Proportion of women on the boards of the largest publicly listed companies in the EU, with soft measure	['ND2']	['POW']	['POW_SUB4']	power, private sector
+S_1700	Proportion of board chairs that are women	['ND2']	['POW']	['POW_SUB4']	power, private sector
+S_1710	Percentage of the population living in households with water 30 minutes or less away round trip	['NN3']	['ENV']	['ENV_SUB3']	environment
+S_1720	Percentage of the population living in households with water more than 30 minutes away round trip	['NN3']	['ENV']	['ENV_SUB3']	environment
+S_1730	Percentage of the population living in households with water on the premises	['NN3']	['ENV']	['ENV_SUB3']	environment
+S_1740	Number of slum dwellers in India responsible for fetching water, by sex and age	['NN2']	['ENV']	['ENV_SUB3']	environment
+S_1750	Proportion of slum dwellers in India responsible for fetching water, by sex and age	['NN2']	['ENV']	['ENV_SUB3']	environment
+S_1760	Gender parity index among individuals aged 15-49 who lack access to basic drinking water sources, by wealth and location	['NN2']	['ENV']	['ENV_SUB3']	environment
+S_1770	Distribution of households by person usually responsible for water collection, by age and sex	['NN3']	['ENV']	['ENV_SUB3']	environment
+S_1780	Gender parity index among slum dwellers	['NN2']	['ENV']	['ENV_SUB7']	environment
+S_1790	Proportion of urban population living in slums	['NN2']	['ENV']	['ENV_SUB7']	environment
+S_1800	Total number of people living in slums	['NN2']	['ENV']	['ENV_SUB7']	environment

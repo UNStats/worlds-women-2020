@@ -1,0 +1,9 @@
+NARRATIVE_ID	SERIES_DESC_OLD	SERIES_DESC_NEW
+NH11	Cause-specific mortality rate (age-standardized). by leading causes of death	Cause-specific mortality rate (age-standardized), by leading causes of death
+ND6	number of seats held in national parliaments (lower or single houses), by sex	Number of seats held in national parliaments (lower or single houses), by sex
+NE14	Proportion of children and young people: (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in mathematics, by sex	Proportion of children and young people achieving at least a minimum proficiency level in mathematics, by sex and education level
+NE14	Proportion of children and young people: (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in reading, by sex	Proportion of children and young people achieving at least a minimum proficiency level in reading, by sex and education level
+NE1	School attendance rate of the population aged 15 to 24 by sex and federal entity	School attendance rate of the population aged 15 to 24
+NE1	School attendance rate of the population aged 15 to 24 by sex and location	School attendance rate of the population aged 15 to 24
+NE1	School attendance rate of the population aged 15 to 24, by age and sex	School attendance rate of the population aged 15 to 24
+NE1	School attendance rate of the population aged 15 to 24, by sex	School attendance rate of the population aged 15 to 24

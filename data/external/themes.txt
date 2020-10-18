@@ -1,0 +1,8 @@
+Theme_Code	Theme_Desc	Theme_Code2	Theme_Desc2	ThemeTags
+POP	Population and families	NP	Population and families	population, demography
+ECO	Economic structures, participation in productive activities, and access to resources	NW	Economic empowerment	economy
+EDU	Education	NE	Education	education
+HEA	Health and related services	NH	Health	health
+POW	Power and decision making	ND	Power and decision making	power
+VAW	Violence against women and girl children	NV	Violence against women and girl children	violence
+ENV	Environment	NN	Environment	environment

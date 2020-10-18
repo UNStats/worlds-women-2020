@@ -1,0 +1,170 @@
+SERIES,SERIES_DESC
+S_0960,"Proportion of youth (aged 15-24 years) not in education, employment or training (%)"
+S_0890,"Labour force participation rate among people aged 15 years and older, by sex and age group"
+S_0900,Labour force participation rate among people aged 25–54 by sex and household type
+S_0910,"Labour force participation rate among people aged 25–54 years by sex, region with 1 child under age six in couple and extended family households"
+S_0920,"Labour force participation rate among people aged 25–54 years by sex, region with 2 children under age six in couple and extended family households"
+S_0930,"Labour force participation rate among people aged 25–54 years by sex, region with 3 or more children under age six in couple and extended family households"
+S_0940,"Labour force participation rate among people aged 25–54 years by sex, region with no children under age six in couple and extended family households"
+S_1010,Distribution of employed population by employment status
+S_1100,Internet penetration rate
+S_1110,Internet user gender gap
+S_1120,Gender gap in mobile phone ownership
+S_1090,"Hours per week spent on unpaid domestic and care work, by sex, location and income quintile"
+S_1050,Proportion of employed women and men working part-time
+S_1060,"Proportion of informal employment in total employment, by age groups and sex"
+S_1070,"Proportion of informal employment in total employment, by highest level of education and sex"
+S_1080,"Proportion of informal employment in total employment, by sector and sex"
+S_0220,"Gross enrolment ratio in tertiary education, by sex"
+S_0230,"Gender parity index of the gross enrolment ratios, by education level"
+S_0280,"Participation rate in technical and vocational programmes (15- to 24-year-olds), by sex"
+S_0320,"Proportion of children and young people achieving at least a minimum proficiency level in mathematics, by sex"
+S_0330,"Proportion of children and young people achieving at least a minimum proficiency level in reading, by sex"
+S_0360,"Share of female graduates at tertiary level, by area of study"
+S_0370,Proportion of females among tertiary education teachers or professors
+S_0250,Adjusted gender parity index of out-of-school rate
+S_0240,"Rate (percent) of out-of-school children, adolescents and youth"
+S_0290,"Proportion of youth and adults with information and communications technology (ICT) skills, by sex and type of skill (percent)"
+S_0340,School completion rate
+S_0380,"Share of women among researchers, by discipline"
+S_0620,"Cause-specific mortality rate (age-standardized), due to 12 leading causes of cancer, aged 50 years and above"
+S_0640,"Cause-specific mortality rate (age-standardized), due to Alzheimer and other dementia, aged 50 years and above"
+S_0460,"Cause-specific mortality rate (age-standardized), by leading causes of death"
+S_0590,Proportion of women and adolescent girls (15-49) using menstrual hygiene materials
+S_0600,Proportion of women and adolescent girls (15-49) with a private place to wash and change
+S_0610,Proportion of women and adolescent girls (15-49) with a private place to wash and change and using menstrual hygiene materials
+S_0580,"Proportion of women and adolescent girls (15-49) who did not participate in school, work or social activities during their last menstrual period"
+S_0480,Proportion of births attended by skilled health personnel
+S_0490,Proportion of births delivered at a health facility
+S_0450,"Annual number of deaths, by leading causes of deaths"
+S_0430,"Distribution of deaths by major categories of causes of death, by sex, region"
+S_0440,Female death rates as proportion of total death rates by cause of death
+S_0410,"Life expectancy at birth by sex, over time"
+S_0420,"Life expectancy by sex, over time"
+S_0650,"Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%)"
+S_0660,Alcohol consumption per capita 15 years of age and above
+S_0670,"Prevalence of obesity among adults, BMI >= 30 (age-standardized estimate)"
+S_0510,"Cause-specific mortality rate (age-standardized), due to interpersonal violence"
+S_0710,"Cause-specific mortality rate (age-standardized), due to road injury"
+S_0470,"Cause-specific mortality rate (age-standardized), due to self-harm"
+S_0630,"Probability of dying from any of cardiovascular disease, cancer, diabetes, chronic respiratory disease between ages 30 and 70, by sex"
+S_0200,Proportion of couples’ households with and without children
+S_0190,Proportion of one-parent households by sex of parent
+S_0040,Share of women among older persons aged 65+ and 80+
+S_0050,Share of women and men aged 65+ and 80+ living alone
+S_0030,Number of older persons aged 65+ and 80+
+S_0170,"Adolescent birth rate per 1,000 women aged 15-19 years"
+S_0090,Proportions of women and men aged 20–24 who were married or in a union before age 15
+S_0100,Proportions of women and men aged 20–24 who were married or in a union before age 18
+S_0060,Singulate mean age at first marriage
+S_0110,Proportion of divorced or separated persons aged 45–49 by sex and region
+S_0120,Proportion of widowed women and men aged 65-69 by sex and region
+S_0180,Proportion of women aged 45 to 49 years who have not had a child
+S_0130,Female mean age of childbearing
+S_0520,Percentage of women aged 15-49 using any method of contraception
+S_0010,Total female population aged 45-49 years
+S_0150,Total fertility rate
+S_1550,Percent of firms with a female top manager
+S_1560,Proportion of women in managerial positions (%)
+S_1570,Proportion of women in senior and middle management positions (%)
+S_1670,"Proportion of women on the boards of the largest publicly listed companies in the EU, with binding quota"
+S_1680,"Proportion of women on the boards of the largest publicly listed companies in the EU, with no action"
+S_1690,"Proportion of women on the boards of the largest publicly listed companies in the EU, with soft measure"
+S_1640,Proportion of women on boards of MSCI ACWI companies
+S_1660,Proportion of women on boards of MSCI World companies
+S_1650,Proportion of women on boards of MSCI Emerging Market companies
+S_1630,Proportion of board seats held by women
+S_1700,Proportion of board chairs that are women
+S_1600,Percentage of women serving on board with female chair
+S_1620,Percentage of women serving on board with male chair
+S_1590,Percentage of women serving on board with female CEO
+S_1610,Percentage of women serving on board with male CEO
+S_1340,Total number of core ministers
+S_1320,Number of female core ministers
+S_1350,Women’s share of government ministerial positions
+S_1310,Countries with a female Head of State
+S_1300,Countries with a female Head Government
+S_1330,Portfolios held by Women Ministers
+S_1440,"Heads of national statistical offices (NSOs), by sex"
+S_1580,Percentage of women among senior-level civil servants
+S_1500,"Number of staff in the senior international professional category (P5, D1, D2), by sex"
+S_1490,"Number of staff in the junior international professional category (P1, P2), by sex"
+S_1470,"Number of staff in the higher category, by sex"
+S_1480,"Number of staff in the international professional and higher categories, by sex"
+S_1520,Percentage of female staff in the international professional and higher categories
+S_1530,"Percentage of female staff in the junior international professional category (P1, P2)"
+S_1540,"Percentage of female staff in the senior international professional category (P5, D1, D2), sex"
+S_1510,Percentage of female staff in higher category
+S_1190,Number of seats held by women in national parliaments (lower or single houses)
+S_1200,"Number of seats held in the upper houses of national parliaments, by sex"
+S_1180,Number of seats in national parliaments (lower or single houses)
+S_1230,Number of seats in upper houses of national parliaments
+S_1420,Number of speakers in national parliaments
+S_1430,Number of women speakers in national parliaments
+S_1210,"Proportion of seats held in national parliaments (lower or single houses), by sex"
+S_1240,"Proportion of seats held in the upper houses of national parliaments, by sex"
+S_1360,Sex of chair of defence committee
+S_1370,Sex of chair of finance committee
+S_1380,Sex of chair of foreign affairs committee
+S_1390,Sex of chair of gender equality committee
+S_1400,Sex of chair of human rights committee
+S_1410,Sex of the speakers in national parliaments
+S_1450,Percentage of women’s representation in municipal councils
+S_1460,Proportion of elected seats held by women in deliberative bodies of local government (%)
+S_0840,Proportion of Female Professional Judges or Magistrates
+S_0830,Share of female police officers
+S_0880,"Percentage of women and men who consider a husband to be justified in hitting or beating his wife if she burns the food, argues with him, goes out without telling him, neglects the children or refuses sexual relations"
+S_0780,"Number of ever-partnered women and girls subjected to violence by a current or former intimate partner in the previous 12 months, by type of violence, by age"
+S_0790,"Proportion of ever-partnered women and girls subjected to violence by a current or former intimate partner in the previous 12 months, by type of violence, by age (%)"
+S_0020,"Total population by age, sex"
+S_0800,"Percentage of women to whom sexual violence was committed by non -partners, by perpetrator"
+S_0810,Proportion of women aged 20-29 who have ever experienced sexual violence by a non-partner since age of 15
+S_0820,Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18
+S_0730,Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting
+S_0720,Percentage of adolescent girls aged 15-19 years who have undergone female genital mutilation/cutting
+S_0740,Number of femicide
+S_0760,Rate of femicide
+S_0750,Number of femicide by intimate partner
+S_0770,Rate of femicide by intimate partner
+S_0850,Existence of laws on domestic violence (1 = YES; 0 = NO)
+S_0860,Existence of laws on marital rape (1 = YES; 0 = NO)
+S_0870,Existence of laws on sexual harassment (1 = YES; 0 = NO)
+S_0970,Proportion of women in co-residing couples who make joint decision on expensive household purchases
+S_0980,Proportion of women in co-residing couples who make joint decision on routine household purchases
+S_0990,Proportion of women in co-residing couples who make personal decision on expensive household purchases
+S_1000,Proportion of women in co-residing couples who make personal decision on routine household purchases
+S_1250,Electoral system for parliament
+S_1260,"Presence of a gender quota for parliament (1 = YES, 0 = NO)"
+S_1220,Proportion of seats held by women in national parliaments (lower or single houses)
+S_1280,Share of women among candidate for the lower or single houses of parliament
+S_1290,Total number of candidates for the lower or single houses of parliament
+S_1270,Number of women candidates for the lower or single houses of parliament
+S_0260,"Schools with access to access to single-sex basic sanitation, by education level (%)"
+S_0390,"Percentage of students who experienced bullying in the last 12 months, by socio economic and immigration background"
+S_0400,"Percentage of schools providing life skills-based HIV and sexuality education, by type of school"
+S_0270,School attendance rate of the population aged 15 to 24
+S_0310,"Minimum proficiency in reading, by education level and sex (%)"
+S_0300,"Minimum proficiency in numeracy, by education level and sex (%)"
+S_0350,Literacy rate
+S_0500,"Number of new HIV infections per 1,000 uninfected population, by sex and age"
+S_0550,Proportion of population living with HIV/AIDS that know their HIV status
+S_0530,Proportion of population living with HIV/AIDS that are receiving treatment
+S_0540,Proportion of population living with HIV/AIDS that have suppressed their viral loads
+S_0570,"Estimated incidence of tuberculosis, who are notified"
+S_0560,"Estimated incidence of tuberculosis, who are not notified"
+S_1760,"Gender parity index among individuals aged 15-49 who lack access to basic drinking water sources, by wealth and location"
+S_1780,Gender parity index among slum dwellers
+S_1790,Proportion of urban population living in slums
+S_1800,Total number of people living in slums
+S_1740,"Number of slum dwellers in India responsible for fetching water, by sex and age"
+S_1750,"Proportion of slum dwellers in India responsible for fetching water, by sex and age"
+S_1770,"Distribution of households by person usually responsible for water collection, by age and sex"
+S_1730,Percentage of the population living in households with water on the premises
+S_1710,Percentage of the population living in households with water 30 minutes or less away round trip
+S_1720,Percentage of the population living in households with water more than 30 minutes away round trip
+S_0680,"Age-standardized mortality rate attributed to ambient air pollution (deaths per 100,000 population), by sex"
+S_0690,"Age-standardized mortality rate attributed to household air pollution (deaths per 100,000 population), by sex"
+S_0700,"Age-standardized mortality rate attributed to joint household and ambient air pollution (deaths per 100,000 population), by sex"
+S_0070,Proportion of women who were married or in a union before age 15
+S_0080,Proportion of women who were married or in a union before age 18
+S_0140,Mean age at first birth for first time parents by sex

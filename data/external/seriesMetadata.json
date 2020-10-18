@@ -1,0 +1,4622 @@
+[
+    {
+        "code": "S_0010",
+        "name": "Total female population aged 45-49 years",
+        "themes": [
+            {
+                "code": "POP",
+                "name": "Population and families",
+                "subthemes": [
+                    {
+                        "code": "POP_SUB1",
+                        "name": "Population size by age and sex and changes over time and by region"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NP23"
+        ],
+        "tags": [
+            "population",
+            "demography"
+        ]
+    },
+    {
+        "code": "S_0020",
+        "name": "Total population by age, sex",
+        "themes": [
+            {
+                "code": "POP",
+                "name": "Population and families",
+                "subthemes": [
+                    {
+                        "code": "POP_SUB1",
+                        "name": "Population size by age and sex and changes over time and by region"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NV14"
+        ],
+        "tags": [
+            "population",
+            "demography"
+        ]
+    },
+    {
+        "code": "S_0030",
+        "name": "Number of older persons aged 65 and older and 80 and older",
+        "themes": [
+            {
+                "code": "POP",
+                "name": "Population and families",
+                "subthemes": [
+                    {
+                        "code": "POP_SUB2",
+                        "name": "Ageing and living arrangments"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NP20"
+        ],
+        "tags": [
+            "population",
+            "demography",
+            "ageing"
+        ]
+    },
+    {
+        "code": "S_0040",
+        "name": "Share of women among older persons aged 65 and older and 80 and older",
+        "themes": [
+            {
+                "code": "POP",
+                "name": "Population and families",
+                "subthemes": [
+                    {
+                        "code": "POP_SUB2",
+                        "name": "Ageing and living arrangments"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NP20"
+        ],
+        "tags": [
+            "population",
+            "demography",
+            "ageing"
+        ]
+    },
+    {
+        "code": "S_0050",
+        "name": "Share of women and men aged 65 and older and 80 and older living alone",
+        "themes": [
+            {
+                "code": "POP",
+                "name": "Population and families",
+                "subthemes": [
+                    {
+                        "code": "POP_SUB2",
+                        "name": "Ageing and living arrangments"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NP20"
+        ],
+        "tags": [
+            "population",
+            "demography",
+            "ageing"
+        ]
+    },
+    {
+        "code": "S_0060",
+        "name": "Singulate mean age at first marriage",
+        "themes": [
+            {
+                "code": "POP",
+                "name": "Population and families",
+                "subthemes": [
+                    {
+                        "code": "POP_SUB3",
+                        "name": "Couples formation and dissolution"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NP21"
+        ],
+        "tags": [
+            "population",
+            "demography",
+            "family",
+            "couples"
+        ]
+    },
+    {
+        "code": "S_0070",
+        "name": "Proportion of women who were married or in a union before age 15",
+        "themes": [
+            {
+                "code": "POP",
+                "name": "Population and families",
+                "subthemes": [
+                    {
+                        "code": "POP_SUB3",
+                        "name": "Couples formation and dissolution"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NP25"
+        ],
+        "tags": [
+            "population",
+            "demography",
+            "family",
+            "couples"
+        ]
+    },
+    {
+        "code": "S_0080",
+        "name": "Proportion of women who were married or in a union before age 18",
+        "themes": [
+            {
+                "code": "POP",
+                "name": "Population and families",
+                "subthemes": [
+                    {
+                        "code": "POP_SUB3",
+                        "name": "Couples formation and dissolution"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NP25"
+        ],
+        "tags": [
+            "population",
+            "demography",
+            "family",
+            "couples"
+        ]
+    },
+    {
+        "code": "S_0090",
+        "name": "Proportions of women and men aged 20\u201324 who were married or in a union before age 15",
+        "themes": [
+            {
+                "code": "POP",
+                "name": "Population and families",
+                "subthemes": [
+                    {
+                        "code": "POP_SUB3",
+                        "name": "Couples formation and dissolution"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NP21"
+        ],
+        "tags": [
+            "population",
+            "demography",
+            "family",
+            "couples"
+        ]
+    },
+    {
+        "code": "S_0100",
+        "name": "Proportions of women and men aged 20\u201324 who were married or in a union before age 18",
+        "themes": [
+            {
+                "code": "POP",
+                "name": "Population and families",
+                "subthemes": [
+                    {
+                        "code": "POP_SUB3",
+                        "name": "Couples formation and dissolution"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NP21"
+        ],
+        "tags": [
+            "population",
+            "demography",
+            "family",
+            "couples"
+        ]
+    },
+    {
+        "code": "S_0110",
+        "name": "Proportion of divorced or separated persons aged 45\u201349 by sex and region",
+        "themes": [
+            {
+                "code": "POP",
+                "name": "Population and families",
+                "subthemes": [
+                    {
+                        "code": "POP_SUB3",
+                        "name": "Couples formation and dissolution"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NP22"
+        ],
+        "tags": [
+            "population",
+            "demography",
+            "family",
+            "couples"
+        ]
+    },
+    {
+        "code": "S_0120",
+        "name": "Proportion of widowed women and men aged 65-69 by sex and region",
+        "themes": [
+            {
+                "code": "POP",
+                "name": "Population and families",
+                "subthemes": [
+                    {
+                        "code": "POP_SUB3",
+                        "name": "Couples formation and dissolution"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NP22"
+        ],
+        "tags": [
+            "population",
+            "demography",
+            "family",
+            "couples"
+        ]
+    },
+    {
+        "code": "S_0130",
+        "name": "Female mean age of childbearing",
+        "themes": [
+            {
+                "code": "POP",
+                "name": "Population and families",
+                "subthemes": [
+                    {
+                        "code": "POP_SUB4",
+                        "name": "Fertility, childlessness and lone parents "
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NP23"
+        ],
+        "tags": [
+            "population",
+            "demography",
+            "family"
+        ]
+    },
+    {
+        "code": "S_0140",
+        "name": "Mean age at first birth for first time parents by sex",
+        "themes": [
+            {
+                "code": "POP",
+                "name": "Population and families",
+                "subthemes": [
+                    {
+                        "code": "POP_SUB4",
+                        "name": "Fertility, childlessness and lone parents "
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NP26"
+        ],
+        "tags": [
+            "population",
+            "demography",
+            "family"
+        ]
+    },
+    {
+        "code": "S_0150",
+        "name": "Total fertility rate",
+        "themes": [
+            {
+                "code": "POP",
+                "name": "Population and families",
+                "subthemes": [
+                    {
+                        "code": "POP_SUB4",
+                        "name": "Fertility, childlessness and lone parents "
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NP23"
+        ],
+        "tags": [
+            "population",
+            "demography",
+            "family"
+        ]
+    },
+    {
+        "code": "S_0170",
+        "name": "Adolescent birth rate per 1,000 women aged 15-19 years",
+        "themes": [
+            {
+                "code": "POP",
+                "name": "Population and families",
+                "subthemes": [
+                    {
+                        "code": "POP_SUB4",
+                        "name": "Fertility, childlessness and lone parents "
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NP21"
+        ],
+        "tags": [
+            "population",
+            "demography",
+            "family"
+        ]
+    },
+    {
+        "code": "S_0180",
+        "name": "Proportion of women aged 45 to 49 years who have not had a child",
+        "themes": [
+            {
+                "code": "POP",
+                "name": "Population and families",
+                "subthemes": [
+                    {
+                        "code": "POP_SUB4",
+                        "name": "Fertility, childlessness and lone parents "
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NP23"
+        ],
+        "tags": [
+            "population",
+            "demography",
+            "family"
+        ]
+    },
+    {
+        "code": "S_0185",
+        "name": "Number of women aged 45 to 49 years who have not had a child",
+        "themes": [
+            {
+                "code": "POP",
+                "name": "Population and families",
+                "subthemes": [
+                    {
+                        "code": "POP_SUB4",
+                        "name": "Fertility, childlessness and lone parents "
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NP23"
+        ],
+        "tags": [
+            "population",
+            "demography",
+            "family"
+        ]
+    },
+    {
+        "code": "S_0190",
+        "name": "Proportion of one-parent households by sex of parent",
+        "themes": [
+            {
+                "code": "POP",
+                "name": "Population and families",
+                "subthemes": [
+                    {
+                        "code": "POP_SUB4",
+                        "name": "Fertility, childlessness and lone parents "
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NP18"
+        ],
+        "tags": [
+            "population",
+            "demography",
+            "family"
+        ]
+    },
+    {
+        "code": "S_0200",
+        "name": "Proportion of couples\u2019 households with and without children",
+        "themes": [
+            {
+                "code": "POP",
+                "name": "Population and families",
+                "subthemes": [
+                    {
+                        "code": "POP_SUB4",
+                        "name": "Fertility, childlessness and lone parents "
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NP18"
+        ],
+        "tags": [
+            "population",
+            "demography",
+            "family"
+        ]
+    },
+    {
+        "code": "S_0220",
+        "name": "Gross enrolment ratio in tertiary education, by sex",
+        "themes": [
+            {
+                "code": "EDU",
+                "name": "Education",
+                "subthemes": [
+                    {
+                        "code": "EDU_SUB1",
+                        "name": "Access to schools (enrolment)"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NE10"
+        ],
+        "tags": [
+            "education",
+            "enrolment"
+        ]
+    },
+    {
+        "code": "S_0230",
+        "name": "Gender parity index of the gross enrolment ratios, by education level",
+        "themes": [
+            {
+                "code": "EDU",
+                "name": "Education",
+                "subthemes": [
+                    {
+                        "code": "EDU_SUB1",
+                        "name": "Access to schools (enrolment)"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NE11"
+        ],
+        "tags": [
+            "education",
+            "enrolment"
+        ]
+    },
+    {
+        "code": "S_0240",
+        "name": "Rate (percent) of out-of-school children, adolescents and youth",
+        "themes": [
+            {
+                "code": "EDU",
+                "name": "Education",
+                "subthemes": [
+                    {
+                        "code": "EDU_SUB1",
+                        "name": "Access to schools (enrolment)"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NE3"
+        ],
+        "tags": [
+            "education",
+            "enrolment"
+        ]
+    },
+    {
+        "code": "S_0250",
+        "name": "Adjusted gender parity index of out-of-school rate",
+        "themes": [
+            {
+                "code": "EDU",
+                "name": "Education",
+                "subthemes": [
+                    {
+                        "code": "EDU_SUB1",
+                        "name": "Access to schools (enrolment)"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NE3"
+        ],
+        "tags": [
+            "education",
+            "enrolment"
+        ]
+    },
+    {
+        "code": "S_0260",
+        "name": "Schools with access to access to single-sex basic sanitation, by education level (%)",
+        "themes": [
+            {
+                "code": "EDU",
+                "name": "Education",
+                "subthemes": [
+                    {
+                        "code": "EDU_SUB1",
+                        "name": "Access to schools (enrolment)"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NE12"
+        ],
+        "tags": [
+            "education",
+            "enrolment"
+        ]
+    },
+    {
+        "code": "S_0270",
+        "name": "School attendance rate of the population aged 15 to 24",
+        "themes": [
+            {
+                "code": "EDU",
+                "name": "Education",
+                "subthemes": [
+                    {
+                        "code": "EDU_SUB1",
+                        "name": "Access to schools (enrolment)"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NE1"
+        ],
+        "tags": [
+            "education",
+            "enrolment"
+        ]
+    },
+    {
+        "code": "S_0280",
+        "name": "Participation rate in technical and vocational programmes (15- to 24-year-olds), by sex",
+        "themes": [
+            {
+                "code": "EDU",
+                "name": "Education",
+                "subthemes": [
+                    {
+                        "code": "EDU_SUB1",
+                        "name": "Access to schools (enrolment)"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NE13"
+        ],
+        "tags": [
+            "education",
+            "enrolment"
+        ]
+    },
+    {
+        "code": "S_0290",
+        "name": "Proportion of youth and adults with information and communications technology skills by sex and type of skill",
+        "themes": [
+            {
+                "code": "EDU",
+                "name": "Education",
+                "subthemes": [
+                    {
+                        "code": "EDU_SUB2",
+                        "name": "Quality of education"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NE5"
+        ],
+        "tags": [
+            "education",
+            "quality"
+        ]
+    },
+    {
+        "code": "S_0300",
+        "name": "Minimum proficiency in numeracy in Zimbabwe, by education level and sex (%)",
+        "themes": [
+            {
+                "code": "EDU",
+                "name": "Education",
+                "subthemes": [
+                    {
+                        "code": "EDU_SUB2",
+                        "name": "Quality of education"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NE2"
+        ],
+        "tags": [
+            "education",
+            "quality"
+        ]
+    },
+    {
+        "code": "S_0310",
+        "name": "Minimum proficiency in reading in Zimbabwe, by education level and sex (%)",
+        "themes": [
+            {
+                "code": "EDU",
+                "name": "Education",
+                "subthemes": [
+                    {
+                        "code": "EDU_SUB2",
+                        "name": "Quality of education"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NE2"
+        ],
+        "tags": [
+            "education",
+            "quality"
+        ]
+    },
+    {
+        "code": "S_0320",
+        "name": "Proportion of children and young people achieving at least a minimum proficiency level in mathematics, by sex",
+        "themes": [
+            {
+                "code": "EDU",
+                "name": "Education",
+                "subthemes": [
+                    {
+                        "code": "EDU_SUB2",
+                        "name": "Quality of education"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NE14"
+        ],
+        "tags": [
+            "education",
+            "quality"
+        ]
+    },
+    {
+        "code": "S_0330",
+        "name": "Proportion of children and young people achieving at least a minimum proficiency level in reading, by sex",
+        "themes": [
+            {
+                "code": "EDU",
+                "name": "Education",
+                "subthemes": [
+                    {
+                        "code": "EDU_SUB2",
+                        "name": "Quality of education"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NE14"
+        ],
+        "tags": [
+            "education",
+            "quality"
+        ]
+    },
+    {
+        "code": "S_0340",
+        "name": "School completion rate",
+        "themes": [
+            {
+                "code": "EDU",
+                "name": "Education",
+                "subthemes": [
+                    {
+                        "code": "EDU_SUB2",
+                        "name": "Quality of education"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NE6"
+        ],
+        "tags": [
+            "education",
+            "quality"
+        ]
+    },
+    {
+        "code": "S_0350",
+        "name": "Literacy rate",
+        "themes": [
+            {
+                "code": "EDU",
+                "name": "Education",
+                "subthemes": [
+                    {
+                        "code": "EDU_SUB2",
+                        "name": "Quality of education"
+                    },
+                    {
+                        "code": "EDU_SUB4",
+                        "name": "Focus on ageing (life-long learning)"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NE7"
+        ],
+        "tags": [
+            "education",
+            "quality",
+            "ageing"
+        ]
+    },
+    {
+        "code": "S_0360",
+        "name": "Share of female graduates at tertiary level, by area of study",
+        "themes": [
+            {
+                "code": "EDU",
+                "name": "Education",
+                "subthemes": [
+                    {
+                        "code": "EDU_SUB3",
+                        "name": "Focus on youth"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NE15"
+        ],
+        "tags": [
+            "education",
+            "youth"
+        ]
+    },
+    {
+        "code": "S_0370",
+        "name": "Proportion of females among tertiary education teachers or professors",
+        "themes": [
+            {
+                "code": "EDU",
+                "name": "Education",
+                "subthemes": [
+                    {
+                        "code": "EDU_SUB3",
+                        "name": "Focus on youth"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NE16"
+        ],
+        "tags": [
+            "education",
+            "youth"
+        ]
+    },
+    {
+        "code": "S_0380",
+        "name": "Share of women among researchers, by discipline",
+        "themes": [
+            {
+                "code": "EDU",
+                "name": "Education",
+                "subthemes": [
+                    {
+                        "code": "EDU_SUB3",
+                        "name": "Focus on youth"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NE8"
+        ],
+        "tags": [
+            "education",
+            "youth"
+        ]
+    },
+    {
+        "code": "S_0390",
+        "name": "Percentage of students who experienced bullying in the last 12 months, by socio economic and immigration background",
+        "themes": [
+            {
+                "code": "EDU",
+                "name": "Education",
+                "subthemes": [
+                    {
+                        "code": "EDU_SUB3",
+                        "name": "Focus on youth"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NE17"
+        ],
+        "tags": [
+            "education",
+            "youth"
+        ]
+    },
+    {
+        "code": "S_0400",
+        "name": "Percentage of schools providing life skills-based HIV and sexuality education, by type of school",
+        "themes": [
+            {
+                "code": "EDU",
+                "name": "Education",
+                "subthemes": [
+                    {
+                        "code": "EDU_SUB3",
+                        "name": "Focus on youth"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NE18"
+        ],
+        "tags": [
+            "education",
+            "youth"
+        ]
+    },
+    {
+        "code": "S_0410",
+        "name": "Life expectancy at birth by sex, over time",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB1",
+                        "name": "Life expctancy/mortality"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH5"
+        ],
+        "tags": [
+            "health",
+            "population",
+            "demography"
+        ]
+    },
+    {
+        "code": "S_0420",
+        "name": "Life expectancy by sex, over time",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB1",
+                        "name": "Life expctancy/mortality"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH5"
+        ],
+        "tags": [
+            "health",
+            "population",
+            "demography"
+        ]
+    },
+    {
+        "code": "S_0430",
+        "name": "Distribution of deaths by major categories of causes of death, by sex, region",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB1",
+                        "name": "Life expctancy/mortality"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH5"
+        ],
+        "tags": [
+            "health",
+            "population",
+            "demography"
+        ]
+    },
+    {
+        "code": "S_0440",
+        "name": "Female death rates as proportion of total death rates by cause of death",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB1",
+                        "name": "Life expctancy/mortality"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH5"
+        ],
+        "tags": [
+            "health",
+            "population",
+            "demography"
+        ]
+    },
+    {
+        "code": "S_0450",
+        "name": "Annual number of deaths, by leading causes of deaths",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB1",
+                        "name": "Life expctancy/mortality"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH5"
+        ],
+        "tags": [
+            "health",
+            "population",
+            "demography"
+        ]
+    },
+    {
+        "code": "S_0460",
+        "name": "Cause-specific mortality rate (age-standardized), by leading causes of death",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB1",
+                        "name": "Life expctancy/mortality"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH11"
+        ],
+        "tags": [
+            "health",
+            "population",
+            "demography"
+        ]
+    },
+    {
+        "code": "S_0461",
+        "name": "Share of COVID-19 death by sex (percentage)",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB1",
+                        "name": "Life expctancy/mortality"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH12"
+        ],
+        "tags": [
+            "health",
+            "population",
+            "demography",
+            "covid-19"
+        ]
+    },
+    {
+        "code": "S_0462",
+        "name": "Share of COVID-19 incidence by sex (percentage)",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB1",
+                        "name": "Life expctancy/mortality"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH12"
+        ],
+        "tags": [
+            "health",
+            "population",
+            "demography",
+            "covid-19"
+        ]
+    },
+    {
+        "code": "S_0470",
+        "name": "Cause-specific mortality rate (age-standardized), due to self-harm",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB3",
+                        "name": "Youth/adolescent health"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH8"
+        ],
+        "tags": [
+            "health",
+            "youth"
+        ]
+    },
+    {
+        "code": "S_0480",
+        "name": "Proportion of births attended by skilled health personnel",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB4",
+                        "name": "Health at reproductive ages"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH1",
+            "NH7"
+        ],
+        "tags": [
+            "health"
+        ]
+    },
+    {
+        "code": "S_0490",
+        "name": "Proportion of births delivered at a health facility",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB4",
+                        "name": "Health at reproductive ages"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH1"
+        ],
+        "tags": [
+            "health"
+        ]
+    },
+    {
+        "code": "S_0495",
+        "name": "Maternal mortality ratio - number of maternal deaths per 100,000 live births",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB4",
+                        "name": "Health at reproductive ages"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH7"
+        ],
+        "tags": [
+            "health"
+        ]
+    },
+    {
+        "code": "S_0500",
+        "name": "Number of new HIV infections per 1,000 uninfected population, by sex and age",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB4",
+                        "name": "Health at reproductive ages"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH10"
+        ],
+        "tags": [
+            "health"
+        ]
+    },
+    {
+        "code": "S_0510",
+        "name": "Cause-specific mortality rate (age-standardized), due to interpersonal violence",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB4",
+                        "name": "Health at reproductive ages"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH8"
+        ],
+        "tags": [
+            "health"
+        ]
+    },
+    {
+        "code": "S_0520",
+        "name": "Percentage of women aged 15-49 using any method of contraception",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB4",
+                        "name": "Health at reproductive ages"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NP23"
+        ],
+        "tags": [
+            "health"
+        ]
+    },
+    {
+        "code": "S_0525",
+        "name": "Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB4",
+                        "name": "Health at reproductive ages"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH7"
+        ],
+        "tags": [
+            "health"
+        ]
+    },
+    {
+        "code": "S_0530",
+        "name": "Proportion of population living with HIV/AIDS that are receiving treatment",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB4",
+                        "name": "Health at reproductive ages"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH10"
+        ],
+        "tags": [
+            "health"
+        ]
+    },
+    {
+        "code": "S_0540",
+        "name": "Proportion of population living with HIV/AIDS that have suppressed their viral loads",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB4",
+                        "name": "Health at reproductive ages"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH10"
+        ],
+        "tags": [
+            "health"
+        ]
+    },
+    {
+        "code": "S_0550",
+        "name": "Proportion of population living with HIV/AIDS that know their HIV status",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB4",
+                        "name": "Health at reproductive ages"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH10"
+        ],
+        "tags": [
+            "health"
+        ]
+    },
+    {
+        "code": "S_0560",
+        "name": "Estimated incidence of tuberculosis, who are not notified",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB4",
+                        "name": "Health at reproductive ages"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH10"
+        ],
+        "tags": [
+            "health"
+        ]
+    },
+    {
+        "code": "S_0570",
+        "name": "Estimated incidence of tuberculosis, who are notified",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB4",
+                        "name": "Health at reproductive ages"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH10"
+        ],
+        "tags": [
+            "health"
+        ]
+    },
+    {
+        "code": "S_0580",
+        "name": "Proportion of women and adolescent girls (15-49) who did not participate in school, work or social activities during their last menstrual period",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB4",
+                        "name": "Health at reproductive ages"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH13"
+        ],
+        "tags": [
+            "health"
+        ]
+    },
+    {
+        "code": "S_0590",
+        "name": "Proportion of women and adolescent girls (15-49) using menstrual hygiene materials",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB4",
+                        "name": "Health at reproductive ages"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH13"
+        ],
+        "tags": [
+            "health"
+        ]
+    },
+    {
+        "code": "S_0600",
+        "name": "Proportion of women and adolescent girls (15-49) with a private place to wash and change",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB4",
+                        "name": "Health at reproductive ages"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH13"
+        ],
+        "tags": [
+            "health"
+        ]
+    },
+    {
+        "code": "S_0610",
+        "name": "Proportion of women and adolescent girls (15-49) with a private place to wash and change and using menstrual hygiene materials",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB4",
+                        "name": "Health at reproductive ages"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH13"
+        ],
+        "tags": [
+            "health"
+        ]
+    },
+    {
+        "code": "S_0620",
+        "name": "Cause-specific mortality rate (age-standardized), due to 12 leading causes of cancer, aged 50 years and above",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB5",
+                        "name": "Health at older ages"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH11"
+        ],
+        "tags": [
+            "health",
+            "ageing"
+        ]
+    },
+    {
+        "code": "S_0630",
+        "name": "Probability of dying from any of cardiovascular disease, cancer, diabetes, chronic respiratory disease between ages 30 and 70, by sex",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB5",
+                        "name": "Health at older ages"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH9"
+        ],
+        "tags": [
+            "health",
+            "ageing"
+        ]
+    },
+    {
+        "code": "S_0640",
+        "name": "Cause-specific mortality rate (age-standardized), due to Alzheimer and other dementia, aged 50 years and above",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB5",
+                        "name": "Health at older ages"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH11"
+        ],
+        "tags": [
+            "health",
+            "ageing"
+        ]
+    },
+    {
+        "code": "S_0650",
+        "name": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older, by sex (%)",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB6",
+                        "name": "Health risk factors"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH6"
+        ],
+        "tags": [
+            "health"
+        ]
+    },
+    {
+        "code": "S_0660",
+        "name": "Alcohol consumption per capita 15 years of age and above",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB6",
+                        "name": "Health risk factors"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH6"
+        ],
+        "tags": [
+            "health"
+        ]
+    },
+    {
+        "code": "S_0670",
+        "name": "Prevalence of obesity among adults, BMI greater than or equal to 30  (age-standardized estimate)",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB6",
+                        "name": "Health risk factors"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH6"
+        ],
+        "tags": [
+            "health"
+        ]
+    },
+    {
+        "code": "S_0680",
+        "name": "Age-standardized mortality rate attributed to ambient air pollution (deaths per 100,000 population), by sex",
+        "themes": [
+            {
+                "code": "ENV",
+                "name": "Environment",
+                "subthemes": [
+                    {
+                        "code": "ENV_SUB5",
+                        "name": ""
+                    },
+                    {
+                        "code": "HEA_SUB6",
+                        "name": "Health risk factors"
+                    }
+                ]
+            },
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "ENV_SUB5",
+                        "name": ""
+                    },
+                    {
+                        "code": "HEA_SUB6",
+                        "name": "Health risk factors"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NN4"
+        ],
+        "tags": [
+            "health",
+            "environment",
+            "risk factors"
+        ]
+    },
+    {
+        "code": "S_0690",
+        "name": "Age-standardized mortality rate attributed to household air pollution (deaths per 100,000 population), by sex",
+        "themes": [
+            {
+                "code": "ENV",
+                "name": "Environment",
+                "subthemes": [
+                    {
+                        "code": "ENV_SUB5",
+                        "name": ""
+                    },
+                    {
+                        "code": "HEA_SUB6",
+                        "name": "Health risk factors"
+                    }
+                ]
+            },
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "ENV_SUB5",
+                        "name": ""
+                    },
+                    {
+                        "code": "HEA_SUB6",
+                        "name": "Health risk factors"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NN4"
+        ],
+        "tags": [
+            "health",
+            "environment",
+            "risk factors"
+        ]
+    },
+    {
+        "code": "S_0700",
+        "name": "Age-standardized mortality rate attributed to joint household and ambient air pollution (deaths per 100,000 population), by sex",
+        "themes": [
+            {
+                "code": "ENV",
+                "name": "Environment",
+                "subthemes": [
+                    {
+                        "code": "ENV_SUB5",
+                        "name": ""
+                    },
+                    {
+                        "code": "HEA_SUB6",
+                        "name": "Health risk factors"
+                    }
+                ]
+            },
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "ENV_SUB5",
+                        "name": ""
+                    },
+                    {
+                        "code": "HEA_SUB6",
+                        "name": "Health risk factors"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NN4"
+        ],
+        "tags": [
+            "health",
+            "environment",
+            "risk factors"
+        ]
+    },
+    {
+        "code": "S_0710",
+        "name": "Cause-specific mortality rate (age-standardized), due to road injury",
+        "themes": [
+            {
+                "code": "HEA",
+                "name": "Health and related services",
+                "subthemes": [
+                    {
+                        "code": "HEA_SUB6",
+                        "name": "Health risk factors"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NH8"
+        ],
+        "tags": [
+            "health"
+        ]
+    },
+    {
+        "code": "S_0720",
+        "name": "Percentage of adolescent girls aged 15-19 years who have undergone female genital mutilation/cutting",
+        "themes": [
+            {
+                "code": "VAW",
+                "name": "Violence against women and girl children",
+                "subthemes": [
+                    {
+                        "code": "VAW_SUB1",
+                        "name": "Violence against women and girl children"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NV5"
+        ],
+        "tags": [
+            "violence"
+        ]
+    },
+    {
+        "code": "S_0730",
+        "name": "Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting",
+        "themes": [
+            {
+                "code": "VAW",
+                "name": "Violence against women and girl children",
+                "subthemes": [
+                    {
+                        "code": "VAW_SUB1",
+                        "name": "Violence against women and girl children"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NV5"
+        ],
+        "tags": [
+            "violence"
+        ]
+    },
+    {
+        "code": "S_0740",
+        "name": "Number of femicide",
+        "themes": [
+            {
+                "code": "VAW",
+                "name": "Violence against women and girl children",
+                "subthemes": [
+                    {
+                        "code": "VAW_SUB1",
+                        "name": "Violence against women and girl children"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NV8"
+        ],
+        "tags": [
+            "violence"
+        ]
+    },
+    {
+        "code": "S_0750",
+        "name": "Number of femicide by intimate partner",
+        "themes": [
+            {
+                "code": "VAW",
+                "name": "Violence against women and girl children",
+                "subthemes": [
+                    {
+                        "code": "VAW_SUB1",
+                        "name": "Violence against women and girl children"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NV8"
+        ],
+        "tags": [
+            "violence"
+        ]
+    },
+    {
+        "code": "S_0760",
+        "name": "Rate of femicide",
+        "themes": [
+            {
+                "code": "VAW",
+                "name": "Violence against women and girl children",
+                "subthemes": [
+                    {
+                        "code": "VAW_SUB1",
+                        "name": "Violence against women and girl children"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NV8"
+        ],
+        "tags": [
+            "violence"
+        ]
+    },
+    {
+        "code": "S_0770",
+        "name": "Rate of femicide by intimate partner",
+        "themes": [
+            {
+                "code": "VAW",
+                "name": "Violence against women and girl children",
+                "subthemes": [
+                    {
+                        "code": "VAW_SUB1",
+                        "name": "Violence against women and girl children"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NV8"
+        ],
+        "tags": [
+            "violence"
+        ]
+    },
+    {
+        "code": "S_0780",
+        "name": "Number of ever-partnered women and girls subjected to violence by a current or former intimate partner in the previous 12 months, by type of violence, by age",
+        "themes": [
+            {
+                "code": "VAW",
+                "name": "Violence against women and girl children",
+                "subthemes": [
+                    {
+                        "code": "VAW_SUB1",
+                        "name": "Violence against women and girl children"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NV14"
+        ],
+        "tags": [
+            "violence"
+        ]
+    },
+    {
+        "code": "S_0790",
+        "name": "Proportion of ever-partnered women and girls subjected to violence by a current or former intimate partner in the previous 12 months, by type of violence, by age (%)",
+        "themes": [
+            {
+                "code": "VAW",
+                "name": "Violence against women and girl children",
+                "subthemes": [
+                    {
+                        "code": "VAW_SUB1",
+                        "name": "Violence against women and girl children"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NV1",
+            "NV13",
+            "NV14"
+        ],
+        "tags": [
+            "violence"
+        ]
+    },
+    {
+        "code": "S_0795",
+        "name": "Proportion of ever-partnered women and girls subjected to violence by a current or former intimate partner in a lifetime, by type of violence, by age (%)",
+        "themes": [
+            {
+                "code": "VAW",
+                "name": "Violence against women and girl children",
+                "subthemes": [
+                    {
+                        "code": "VAW_SUB1",
+                        "name": "Violence against women and girl children"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NV13"
+        ],
+        "tags": [
+            "violence"
+        ]
+    },
+    {
+        "code": "S_0800",
+        "name": "Percentage of women to whom sexual violence was committed by non -partners, by perpetrator",
+        "themes": [
+            {
+                "code": "VAW",
+                "name": "Violence against women and girl children",
+                "subthemes": [
+                    {
+                        "code": "VAW_SUB1",
+                        "name": "Violence against women and girl children"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NV2"
+        ],
+        "tags": [
+            "violence"
+        ]
+    },
+    {
+        "code": "S_0810",
+        "name": "Proportion of women aged 20-29 who have ever experienced sexual violence by a non-partner since age of 15",
+        "themes": [
+            {
+                "code": "VAW",
+                "name": "Violence against women and girl children",
+                "subthemes": [
+                    {
+                        "code": "VAW_SUB1",
+                        "name": "Violence against women and girl children"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NV2",
+            "NV3"
+        ],
+        "tags": [
+            "violence"
+        ]
+    },
+    {
+        "code": "S_0820",
+        "name": "Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18",
+        "themes": [
+            {
+                "code": "VAW",
+                "name": "Violence against women and girl children",
+                "subthemes": [
+                    {
+                        "code": "VAW_SUB1",
+                        "name": "Violence against women and girl children"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NV3"
+        ],
+        "tags": [
+            "violence"
+        ]
+    },
+    {
+        "code": "S_0830",
+        "name": "Share of female police officers",
+        "themes": [
+            {
+                "code": "VAW",
+                "name": "Violence against women and girl children",
+                "subthemes": [
+                    {
+                        "code": "VAW_SUB2",
+                        "name": "Governments' / societies' response"
+                    },
+                    {
+                        "code": "POW_SUB3",
+                        "name": "Judiciary power"
+                    }
+                ]
+            },
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "VAW_SUB2",
+                        "name": "Governments' / societies' response"
+                    },
+                    {
+                        "code": "POW_SUB3",
+                        "name": "Judiciary power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NV11"
+        ],
+        "tags": [
+            "violence",
+            "power",
+            "judiciary",
+            "government"
+        ]
+    },
+    {
+        "code": "S_0840",
+        "name": "Proportion of Female Professional Judges or Magistrates",
+        "themes": [
+            {
+                "code": "VAW",
+                "name": "Violence against women and girl children",
+                "subthemes": [
+                    {
+                        "code": "VAW_SUB2",
+                        "name": "Governments' / societies' response"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NV10"
+        ],
+        "tags": [
+            "violence"
+        ]
+    },
+    {
+        "code": "S_0850",
+        "name": "Existence of laws on domestic violence",
+        "themes": [
+            {
+                "code": "VAW",
+                "name": "Violence against women and girl children",
+                "subthemes": [
+                    {
+                        "code": "VAW_SUB2",
+                        "name": "Governments' / societies' response"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NV9"
+        ],
+        "tags": [
+            "violence"
+        ]
+    },
+    {
+        "code": "S_0860",
+        "name": "Existence of laws on marital rape",
+        "themes": [
+            {
+                "code": "VAW",
+                "name": "Violence against women and girl children",
+                "subthemes": [
+                    {
+                        "code": "VAW_SUB2",
+                        "name": "Governments' / societies' response"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NV9"
+        ],
+        "tags": [
+            "violence"
+        ]
+    },
+    {
+        "code": "S_0870",
+        "name": "Existence of laws on sexual harassment",
+        "themes": [
+            {
+                "code": "VAW",
+                "name": "Violence against women and girl children",
+                "subthemes": [
+                    {
+                        "code": "VAW_SUB2",
+                        "name": "Governments' / societies' response"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NV9"
+        ],
+        "tags": [
+            "violence"
+        ]
+    },
+    {
+        "code": "S_0880",
+        "name": "Percentage of women and men who consider a husband to be justified in hitting or beating his wife if she burns the food, argues with him, goes out without telling him, neglects the children or refuses sexual relations",
+        "themes": [
+            {
+                "code": "VAW",
+                "name": "Violence against women and girl children",
+                "subthemes": [
+                    {
+                        "code": "VAW_SUB2",
+                        "name": "Governments' / societies' response"
+                    },
+                    {
+                        "code": "ECO_SUB1",
+                        "name": "Right to work"
+                    }
+                ]
+            },
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "VAW_SUB2",
+                        "name": "Governments' / societies' response"
+                    },
+                    {
+                        "code": "ECO_SUB1",
+                        "name": "Right to work"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NV12"
+        ],
+        "tags": [
+            "violence",
+            "economy",
+            "work",
+            "rights"
+        ]
+    },
+    {
+        "code": "S_0890",
+        "name": "Labour force participation rate among people aged 15 years and older, by sex and age group",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB1",
+                        "name": "Right to work"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW1"
+        ],
+        "tags": [
+            "economy",
+            "work",
+            "rights"
+        ]
+    },
+    {
+        "code": "S_0900",
+        "name": "Labour force participation rate among people aged 25\u201354 by sex and household type",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB1",
+                        "name": "Right to work"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW1"
+        ],
+        "tags": [
+            "economy",
+            "work",
+            "rights"
+        ]
+    },
+    {
+        "code": "S_0910",
+        "name": "Labour force participation rate among people aged 25\u201354 years by sex, region with 1 child under age six in couple and extended family households",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB1",
+                        "name": "Right to work"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW1"
+        ],
+        "tags": [
+            "economy",
+            "work",
+            "rights"
+        ]
+    },
+    {
+        "code": "S_0920",
+        "name": "Labour force participation rate among people aged 25\u201354 years by sex, region with 2 children under age six in couple and extended family households",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB1",
+                        "name": "Right to work"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW1"
+        ],
+        "tags": [
+            "economy",
+            "work",
+            "rights"
+        ]
+    },
+    {
+        "code": "S_0930",
+        "name": "Labour force participation rate among people aged 25\u201354 years by sex, region with 3 or more children under age six in couple and extended family households",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB1",
+                        "name": "Right to work"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW1"
+        ],
+        "tags": [
+            "economy",
+            "work",
+            "rights"
+        ]
+    },
+    {
+        "code": "S_0940",
+        "name": "Labour force participation rate among people aged 25\u201354 years by sex, region with no children under age six in couple and extended family households",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB1",
+                        "name": "Right to work"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW1"
+        ],
+        "tags": [
+            "economy",
+            "work",
+            "rights"
+        ]
+    },
+    {
+        "code": "S_0942",
+        "name": "Does the law mandate equal remuneration for work of equal value (ILO convention 100)?",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB1",
+                        "name": "Right to work"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            ""
+        ],
+        "tags": [
+            "economy",
+            "work",
+            "rights"
+        ]
+    },
+    {
+        "code": "S_0944",
+        "name": "Does the law prohibit discrimination in employment based on gender (ILO convention 111)?",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB1",
+                        "name": "Right to work"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            ""
+        ],
+        "tags": [
+            "economy",
+            "work",
+            "rights"
+        ]
+    },
+    {
+        "code": "S_0950",
+        "name": "Unemployment rate, by sex and age (%)",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB1",
+                        "name": "Right to work"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW26"
+        ],
+        "tags": [
+            "economy",
+            "work",
+            "rights"
+        ]
+    },
+    {
+        "code": "S_0960",
+        "name": "Proportion of youth (aged 15-24 years) not in education, employment or training (%)",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB1",
+                        "name": "Right to work"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW18",
+            "NW20"
+        ],
+        "tags": [
+            "economy",
+            "work",
+            "rights"
+        ]
+    },
+    {
+        "code": "S_0970",
+        "name": "Proportion of women in co-residing couples who make joint decision on expensive household purchases",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB6",
+                        "name": "Power at home"
+                    },
+                    {
+                        "code": "ECO_SUB2",
+                        "name": "Access to income and household decision making"
+                    }
+                ]
+            },
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB6",
+                        "name": "Power at home"
+                    },
+                    {
+                        "code": "ECO_SUB2",
+                        "name": "Access to income and household decision making"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND11"
+        ],
+        "tags": [
+            "power",
+            "economy",
+            "family",
+            "household",
+            "income",
+            "decision-making"
+        ]
+    },
+    {
+        "code": "S_0980",
+        "name": "Proportion of women in co-residing couples who make joint decision on expensive household purchases",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB6",
+                        "name": "Power at home"
+                    },
+                    {
+                        "code": "ECO_SUB2",
+                        "name": "Access to income and household decision making"
+                    }
+                ]
+            },
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB6",
+                        "name": "Power at home"
+                    },
+                    {
+                        "code": "ECO_SUB2",
+                        "name": "Access to income and household decision making"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND11"
+        ],
+        "tags": [
+            "power",
+            "economy",
+            "family",
+            "household",
+            "income",
+            "decision-making"
+        ]
+    },
+    {
+        "code": "S_0990",
+        "name": "Proportion of women in co-residing couples who make personal decision on expensive household purchases",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB6",
+                        "name": "Power at home"
+                    },
+                    {
+                        "code": "ECO_SUB2",
+                        "name": "Access to income and household decision making"
+                    }
+                ]
+            },
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB6",
+                        "name": "Power at home"
+                    },
+                    {
+                        "code": "ECO_SUB2",
+                        "name": "Access to income and household decision making"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND11"
+        ],
+        "tags": [
+            "power",
+            "economy",
+            "family",
+            "household",
+            "income",
+            "decision-making"
+        ]
+    },
+    {
+        "code": "S_1000",
+        "name": "Proportion of women in co-residing couples who make personal decision on routine household purchases",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB6",
+                        "name": "Power at home"
+                    },
+                    {
+                        "code": "ECO_SUB2",
+                        "name": "Access to income and household decision making"
+                    }
+                ]
+            },
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB6",
+                        "name": "Power at home"
+                    },
+                    {
+                        "code": "ECO_SUB2",
+                        "name": "Access to income and household decision making"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND11"
+        ],
+        "tags": [
+            "power",
+            "economy",
+            "family",
+            "household",
+            "income",
+            "decision-making"
+        ]
+    },
+    {
+        "code": "S_1010",
+        "name": "Distribution of employed population by employment status",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB3",
+                        "name": "Rights at work"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW23"
+        ],
+        "tags": [
+            "economy",
+            "work",
+            "rights"
+        ]
+    },
+    {
+        "code": "S_1020",
+        "name": "Distribution of employed persons by occupation and sex",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB3",
+                        "name": "Rights at work"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW3"
+        ],
+        "tags": [
+            "economy",
+            "work",
+            "rights"
+        ]
+    },
+    {
+        "code": "S_1030",
+        "name": "Average hourly earnings of employees by sex and occupation (local currency)",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB3",
+                        "name": "Rights at work"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW21"
+        ],
+        "tags": [
+            "economy",
+            "work",
+            "rights"
+        ]
+    },
+    {
+        "code": "S_1040",
+        "name": "Gender pay gap, EU-27 countries",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB3",
+                        "name": "Rights at work"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW21"
+        ],
+        "tags": [
+            "economy",
+            "work",
+            "rights"
+        ]
+    },
+    {
+        "code": "S_1050",
+        "name": "Proportion of employed women and men working part-time",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB4",
+                        "name": "Part-time, informal employment"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW4"
+        ],
+        "tags": [
+            "economy",
+            "employment"
+        ]
+    },
+    {
+        "code": "S_1060",
+        "name": "Proportion of informal employment in total employment, by age groups and sex",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB4",
+                        "name": "Part-time, informal employment"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW5"
+        ],
+        "tags": [
+            "economy",
+            "employment"
+        ]
+    },
+    {
+        "code": "S_1070",
+        "name": "Proportion of informal employment in total employment, by highest level of education and sex",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB4",
+                        "name": "Part-time, informal employment"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW5"
+        ],
+        "tags": [
+            "economy",
+            "employment"
+        ]
+    },
+    {
+        "code": "S_1080",
+        "name": "Proportion of informal employment in total employment, by sector and sex",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB4",
+                        "name": "Part-time, informal employment"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW5"
+        ],
+        "tags": [
+            "economy",
+            "employment"
+        ]
+    },
+    {
+        "code": "S_1090",
+        "name": "Hours per week spent on unpaid domestic and care work, by sex, location and income quintile",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB5",
+                        "name": "Work-life balance"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW29"
+        ],
+        "tags": [
+            "economy",
+            "work",
+            "well-being"
+        ]
+    },
+    {
+        "code": "S_1100",
+        "name": "Internet penetration rate",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB7",
+                        "name": "Physical assets"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW28"
+        ],
+        "tags": [
+            "economy",
+            "assets"
+        ]
+    },
+    {
+        "code": "S_1110",
+        "name": "Internet user gender gap",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB7",
+                        "name": "Physical assets"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW28"
+        ],
+        "tags": [
+            "economy",
+            "assets"
+        ]
+    },
+    {
+        "code": "S_1120",
+        "name": "Gender gap in mobile phone ownership",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB7",
+                        "name": "Physical assets"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW28"
+        ],
+        "tags": [
+            "economy",
+            "assets"
+        ]
+    },
+    {
+        "code": "S_1125",
+        "name": "Countries with equal ownership rights to immovable property",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB7",
+                        "name": "Physical assets"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            ""
+        ],
+        "tags": [
+            "economy",
+            "assets"
+        ]
+    },
+    {
+        "code": "S_1126",
+        "name": "Countries with equal rights for children to inherit assets from parents",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB7",
+                        "name": "Physical assets"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            ""
+        ],
+        "tags": [
+            "economy",
+            "assets"
+        ]
+    },
+    {
+        "code": "S_1127",
+        "name": "Countries with equal inheritance rights for female and male surviving spouses",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB7",
+                        "name": "Physical assets"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            ""
+        ],
+        "tags": [
+            "economy",
+            "assets"
+        ]
+    },
+    {
+        "code": "S_1128",
+        "name": "Countries with law that grant spouses equal administrative authority over assets during marriage",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB7",
+                        "name": "Physical assets"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            ""
+        ],
+        "tags": [
+            "economy",
+            "assets"
+        ]
+    },
+    {
+        "code": "S_1129",
+        "name": "Countries with law that provide for the valuation of nonmonetary contributions",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB7",
+                        "name": "Physical assets"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            ""
+        ],
+        "tags": [
+            "economy",
+            "assets"
+        ]
+    },
+    {
+        "code": "S_1130",
+        "name": "Proportion of women and men (15 years or older) with an account at a bank or other financial institution or with a mobile-money-service provider, by sex",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB8",
+                        "name": "Financial assets"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW6"
+        ],
+        "tags": [
+            "economy",
+            "assets"
+        ]
+    },
+    {
+        "code": "S_1140",
+        "name": "Share of women and men among adults without access to formal financial services",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB8",
+                        "name": "Financial assets"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW6"
+        ],
+        "tags": [
+            "economy",
+            "assets"
+        ]
+    },
+    {
+        "code": "S_1150",
+        "name": "Proportion of women and men (aged 15 years or older) who saved any money in the previous 12 months",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB8",
+                        "name": "Financial assets"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW6"
+        ],
+        "tags": [
+            "economy",
+            "assets"
+        ]
+    },
+    {
+        "code": "S_1160",
+        "name": "Proportion of women and men (aged 15 years or older) who saved money at a financial institution in the previous 12 months",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB8",
+                        "name": "Financial assets"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW6"
+        ],
+        "tags": [
+            "economy",
+            "assets"
+        ]
+    },
+    {
+        "code": "S_1170",
+        "name": "Proportion of women and men who saved money using alternative methods (e.g. a savings club or a person outside the family) in the previous 12 months",
+        "themes": [
+            {
+                "code": "ECO",
+                "name": "Economic structures, participation in productive activities, and access to resources",
+                "subthemes": [
+                    {
+                        "code": "ECO_SUB8",
+                        "name": "Financial assets"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NW6"
+        ],
+        "tags": [
+            "economy",
+            "assets"
+        ]
+    },
+    {
+        "code": "S_1180",
+        "name": "Number of seats in national parliaments (lower or single houses)",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB1",
+                        "name": "Legislative power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND5",
+            "ND6"
+        ],
+        "tags": [
+            "power",
+            "legislative",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1190",
+        "name": "Number of seats held by women in national parliaments (lower or single houses)",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB1",
+                        "name": "Legislative power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND5",
+            "ND6"
+        ],
+        "tags": [
+            "power",
+            "legislative",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1200",
+        "name": "Number of seats held in the upper houses of national parliaments, by sex",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB1",
+                        "name": "Legislative power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND6",
+            "ND7"
+        ],
+        "tags": [
+            "power",
+            "legislative",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1210",
+        "name": "Proportion of seats held in national parliaments (lower or single houses), by sex",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB1",
+                        "name": "Legislative power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND6",
+            "ND7"
+        ],
+        "tags": [
+            "power",
+            "legislative",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1220",
+        "name": "Proportion of seats held by women in national parliaments (lower or single houses)",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB1",
+                        "name": "Legislative power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND5"
+        ],
+        "tags": [
+            "power",
+            "legislative",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1230",
+        "name": "Number of seats in upper houses of national parliaments",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB1",
+                        "name": "Legislative power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND6",
+            "ND7"
+        ],
+        "tags": [
+            "power",
+            "legislative",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1240",
+        "name": "Proportion of seats held in the upper houses of national parliaments, by sex",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB1",
+                        "name": "Legislative power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND6",
+            "ND7"
+        ],
+        "tags": [
+            "power",
+            "legislative",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1250",
+        "name": "Electoral system for parliament",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB1",
+                        "name": "Legislative power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND5"
+        ],
+        "tags": [
+            "power",
+            "legislative",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1260",
+        "name": "Presence of a gender quota for parliament",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB1",
+                        "name": "Legislative power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND5"
+        ],
+        "tags": [
+            "power",
+            "legislative",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1270",
+        "name": "Number of women candidates for the lower or single houses of parliament",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB1",
+                        "name": "Legislative power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND5"
+        ],
+        "tags": [
+            "power",
+            "legislative",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1280",
+        "name": "Share of women among candidate for the lower or single houses of parliament",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB1",
+                        "name": "Legislative power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND5"
+        ],
+        "tags": [
+            "power",
+            "legislative",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1290",
+        "name": "Total number of candidates for the lower or single houses of parliament",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB1",
+                        "name": "Legislative power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND5"
+        ],
+        "tags": [
+            "power",
+            "legislative",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1300",
+        "name": "Countries with a female Head Government",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB2",
+                        "name": "Executive power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND3"
+        ],
+        "tags": [
+            "power",
+            "executive",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1310",
+        "name": "Countries with a female Head of State",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB2",
+                        "name": "Executive power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND3"
+        ],
+        "tags": [
+            "power",
+            "executive",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1320",
+        "name": "Number of female core ministers",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB2",
+                        "name": "Executive power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND3"
+        ],
+        "tags": [
+            "power",
+            "executive",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1330",
+        "name": "Number of countries with women ministers, by portfolio",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB2",
+                        "name": "Executive power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND3"
+        ],
+        "tags": [
+            "power",
+            "executive",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1340",
+        "name": "Total number of core ministers",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB2",
+                        "name": "Executive power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND3"
+        ],
+        "tags": [
+            "power",
+            "executive",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1350",
+        "name": "Women\u2019s share of government ministerial positions",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB2",
+                        "name": "Executive power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND3"
+        ],
+        "tags": [
+            "power",
+            "executive",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1360",
+        "name": "Sex of chair of defence committee",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB1",
+                        "name": "Legislative power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND6"
+        ],
+        "tags": [
+            "power",
+            "legislative",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1370",
+        "name": "Sex of chair of finance committee",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB1",
+                        "name": "Legislative power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND6"
+        ],
+        "tags": [
+            "power",
+            "legislative",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1380",
+        "name": "Sex of chair of foreign affairs committee",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB1",
+                        "name": "Legislative power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND6"
+        ],
+        "tags": [
+            "power",
+            "legislative",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1390",
+        "name": "Sex of chair of gender equality committee",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB1",
+                        "name": "Legislative power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND6"
+        ],
+        "tags": [
+            "power",
+            "legislative",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1400",
+        "name": "Sex of chair of human rights committee",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB1",
+                        "name": "Legislative power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND6"
+        ],
+        "tags": [
+            "power",
+            "legislative",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1410",
+        "name": "Sex of the speakers in national parliaments",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB1",
+                        "name": "Legislative power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND6"
+        ],
+        "tags": [
+            "power",
+            "legislative",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1420",
+        "name": "Number of speakers in national parliaments",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB1",
+                        "name": "Legislative power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND6"
+        ],
+        "tags": [
+            "power",
+            "legislative",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1430",
+        "name": "Number of women speakers in national parliaments",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB1",
+                        "name": "Legislative power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND6"
+        ],
+        "tags": [
+            "power",
+            "legislative",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1440",
+        "name": "Sex of head of National Statistical Office (NSO)",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB2",
+                        "name": "Executive power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND4"
+        ],
+        "tags": [
+            "power",
+            "executive",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1450",
+        "name": "Percentage of women\u2019s representation in municipal councils",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB2",
+                        "name": "Executive power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND7"
+        ],
+        "tags": [
+            "power",
+            "executive",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1460",
+        "name": "Proportion of elected seats held by women in deliberative bodies of local government (%)",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB2",
+                        "name": "Executive power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND9"
+        ],
+        "tags": [
+            "power",
+            "executive",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1470",
+        "name": "Number of staff in the higher category in the United Nations system, by sex",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB2",
+                        "name": "Executive power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND4"
+        ],
+        "tags": [
+            "power",
+            "executive",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1480",
+        "name": "Number of staff in the international professional and higher categories in the United Nations system, by sex",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB2",
+                        "name": "Executive power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND4"
+        ],
+        "tags": [
+            "power",
+            "executive",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1490",
+        "name": "Number of staff in the junior international professional category (P1, P2) in the United Nations system, by sex",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB2",
+                        "name": "Executive power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND4"
+        ],
+        "tags": [
+            "power",
+            "executive",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1500",
+        "name": "Number of staff in the senior international professional category (P5, D1, D2) in the United Nations system, by sex",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB2",
+                        "name": "Executive power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND4"
+        ],
+        "tags": [
+            "power",
+            "executive",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1510",
+        "name": "Percentage of female staff in higher category in the United Nations system",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB2",
+                        "name": "Executive power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND4"
+        ],
+        "tags": [
+            "power",
+            "executive",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1520",
+        "name": "Percentage of female staff in the international professional and higher categories in the United Nations system",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB2",
+                        "name": "Executive power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND4"
+        ],
+        "tags": [
+            "power",
+            "executive",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1530",
+        "name": "Percentage of female staff in the junior international professional category (P1, P2) in the United Nations system",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB2",
+                        "name": "Executive power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND4"
+        ],
+        "tags": [
+            "power",
+            "executive",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1540",
+        "name": "Percentage of female staff in the senior international professional category (P5, D1, D2) in the United Nations system",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB2",
+                        "name": "Executive power"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND4"
+        ],
+        "tags": [
+            "power",
+            "executive",
+            "government"
+        ]
+    },
+    {
+        "code": "S_1550",
+        "name": "Percent of firms with a female top manager",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB4",
+                        "name": "Power in the private sector"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND1"
+        ],
+        "tags": [
+            "power",
+            "private sector"
+        ]
+    },
+    {
+        "code": "S_1560",
+        "name": "Proportion of women in managerial positions",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB4",
+                        "name": "Power in the private sector"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND1"
+        ],
+        "tags": [
+            "power",
+            "private sector"
+        ]
+    },
+    {
+        "code": "S_1570",
+        "name": "Proportion of women in senior and middle management positions",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB4",
+                        "name": "Power in the private sector"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND1"
+        ],
+        "tags": [
+            "power",
+            "private sector"
+        ]
+    },
+    {
+        "code": "S_1580",
+        "name": "Percentage of women among senior-level civil servants",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB4",
+                        "name": "Power in the private sector"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND4"
+        ],
+        "tags": [
+            "power",
+            "private sector"
+        ]
+    },
+    {
+        "code": "S_1590",
+        "name": "Percentage of women serving on board with female CEO",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB4",
+                        "name": "Power in the private sector"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND2"
+        ],
+        "tags": [
+            "power",
+            "private sector"
+        ]
+    },
+    {
+        "code": "S_1600",
+        "name": "Percentage of women serving on board with female chair",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB4",
+                        "name": "Power in the private sector"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND2"
+        ],
+        "tags": [
+            "power",
+            "private sector"
+        ]
+    },
+    {
+        "code": "S_1610",
+        "name": "Percentage of women serving on board with male CEO",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB4",
+                        "name": "Power in the private sector"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND2"
+        ],
+        "tags": [
+            "power",
+            "private sector"
+        ]
+    },
+    {
+        "code": "S_1620",
+        "name": "Percentage of women serving on board with male chair",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB4",
+                        "name": "Power in the private sector"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND2"
+        ],
+        "tags": [
+            "power",
+            "private sector"
+        ]
+    },
+    {
+        "code": "S_1630",
+        "name": "Proportion of board seats held by women",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB4",
+                        "name": "Power in the private sector"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND2"
+        ],
+        "tags": [
+            "power",
+            "private sector"
+        ]
+    },
+    {
+        "code": "S_1640",
+        "name": "Proportion of women on boards of MSCI ACWI companies",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB4",
+                        "name": "Power in the private sector"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND2"
+        ],
+        "tags": [
+            "power",
+            "private sector"
+        ]
+    },
+    {
+        "code": "S_1650",
+        "name": "Proportion of women on boards of MSCI Emerging Market companies",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB4",
+                        "name": "Power in the private sector"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND2"
+        ],
+        "tags": [
+            "power",
+            "private sector"
+        ]
+    },
+    {
+        "code": "S_1660",
+        "name": "Proportion of women on boards of MSCI World companies",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB4",
+                        "name": "Power in the private sector"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND2"
+        ],
+        "tags": [
+            "power",
+            "private sector"
+        ]
+    },
+    {
+        "code": "S_1670",
+        "name": "Proportion of women on the boards of the largest publicly listed companies in the EU, with binding quota",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB4",
+                        "name": "Power in the private sector"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND2"
+        ],
+        "tags": [
+            "power",
+            "private sector"
+        ]
+    },
+    {
+        "code": "S_1680",
+        "name": "Proportion of women on the boards of the largest publicly listed companies in the EU, with no action",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB4",
+                        "name": "Power in the private sector"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND2"
+        ],
+        "tags": [
+            "power",
+            "private sector"
+        ]
+    },
+    {
+        "code": "S_1690",
+        "name": "Proportion of women on the boards of the largest publicly listed companies in the EU, with soft measure",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB4",
+                        "name": "Power in the private sector"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND2"
+        ],
+        "tags": [
+            "power",
+            "private sector"
+        ]
+    },
+    {
+        "code": "S_1700",
+        "name": "Proportion of board chairs that are women",
+        "themes": [
+            {
+                "code": "POW",
+                "name": "Power and decision making",
+                "subthemes": [
+                    {
+                        "code": "POW_SUB4",
+                        "name": "Power in the private sector"
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "ND2"
+        ],
+        "tags": [
+            "power",
+            "private sector"
+        ]
+    },
+    {
+        "code": "S_1710",
+        "name": "Percentage of the population living in households with water 30 minutes or less away round trip",
+        "themes": [
+            {
+                "code": "ENV",
+                "name": "Environment",
+                "subthemes": [
+                    {
+                        "code": "ENV_SUB3",
+                        "name": ""
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NN3"
+        ],
+        "tags": [
+            "environment"
+        ]
+    },
+    {
+        "code": "S_1720",
+        "name": "Percentage of the population living in households with water more than 30 minutes away round trip",
+        "themes": [
+            {
+                "code": "ENV",
+                "name": "Environment",
+                "subthemes": [
+                    {
+                        "code": "ENV_SUB3",
+                        "name": ""
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NN3"
+        ],
+        "tags": [
+            "environment"
+        ]
+    },
+    {
+        "code": "S_1730",
+        "name": "Percentage of the population living in households with water on the premises",
+        "themes": [
+            {
+                "code": "ENV",
+                "name": "Environment",
+                "subthemes": [
+                    {
+                        "code": "ENV_SUB3",
+                        "name": ""
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NN3"
+        ],
+        "tags": [
+            "environment"
+        ]
+    },
+    {
+        "code": "S_1740",
+        "name": "Number of slum dwellers in India responsible for fetching water, by sex and age",
+        "themes": [
+            {
+                "code": "ENV",
+                "name": "Environment",
+                "subthemes": [
+                    {
+                        "code": "ENV_SUB3",
+                        "name": ""
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NN2"
+        ],
+        "tags": [
+            "environment"
+        ]
+    },
+    {
+        "code": "S_1750",
+        "name": "Proportion of slum dwellers in India responsible for fetching water, by sex and age",
+        "themes": [
+            {
+                "code": "ENV",
+                "name": "Environment",
+                "subthemes": [
+                    {
+                        "code": "ENV_SUB3",
+                        "name": ""
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NN2"
+        ],
+        "tags": [
+            "environment"
+        ]
+    },
+    {
+        "code": "S_1760",
+        "name": "Gender parity index among individuals aged 15-49 who lack access to basic drinking water sources, by wealth and location",
+        "themes": [
+            {
+                "code": "ENV",
+                "name": "Environment",
+                "subthemes": [
+                    {
+                        "code": "ENV_SUB3",
+                        "name": ""
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NN2"
+        ],
+        "tags": [
+            "environment"
+        ]
+    },
+    {
+        "code": "S_1770",
+        "name": "Distribution of households by person usually responsible for water collection, by age and sex",
+        "themes": [
+            {
+                "code": "ENV",
+                "name": "Environment",
+                "subthemes": [
+                    {
+                        "code": "ENV_SUB3",
+                        "name": ""
+                    }
+                ]
+            }
+        ],
+        "narratives": [
+            "NN3"
+        ],
+        "tags": [
+            "environment"
+        ]
+    },
+    {
+        "code": "S_1780",
+        "name": "Gender parity index among slum dwellers",
+        "themes": [
+            {
+                "code": "ENV",
+                "name": "Environment",
+                "subthemes": []
+            }
+        ],
+        "narratives": [
+            "NN2"
+        ],
+        "tags": [
+            "environment"
+        ]
+    },
+    {
+        "code": "S_1790",
+        "name": "Proportion of urban population living in slums",
+        "themes": [
+            {
+                "code": "ENV",
+                "name": "Environment",
+                "subthemes": []
+            }
+        ],
+        "narratives": [
+            "NN2"
+        ],
+        "tags": [
+            "environment"
+        ]
+    },
+    {
+        "code": "S_1800",
+        "name": "Total number of people living in slums",
+        "themes": [
+            {
+                "code": "ENV",
+                "name": "Environment",
+                "subthemes": []
+            }
+        ],
+        "narratives": [
+            "NN2"
+        ],
+        "tags": [
+            "environment"
+        ]
+    }
+]

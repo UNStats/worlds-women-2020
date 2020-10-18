@@ -1,0 +1,27 @@
+DISCIPLINE,DISCIPLINE_DESC
+F1_AGR,"Agriculture, Forestry, Fisheries and Veterinary"
+F1_ART,Arts and Humanities
+F1_BUS,"Business, Administration and Law"
+F1_EDU,Education
+F1_ENG,"Engineering, Manufacturing and Construction"
+F1_HEA,Health and Welfare
+F1_ICT,Information and Communication Technologies
+F1_NSC,"Natural Sciences, Mathematics and Statistics"
+NOT_STEM,"Fields other than Science, Technology, Engineering and Mathematics"
+F1_UNSPEC,Unspecified fields
+STEM,"Science, Technology, Engineering and Mathematics"
+F1_SER,Services
+F1_SSC,"Social Sciences, Journalism and Information"
+F2_AGR,Agricultural and veterinary sciences
+F2_BUS_ENT,Business enterprise
+F2_ENG,Engineering and technology
+F2_GOV,Government
+F2_HIG_EDU,Higher education
+F2_HUM,Humanities and the arts
+F2_MED,Medical and health sciences
+F2_NSC,Natural sciences
+F2_NSC_ENG_MED_AGR,Natural sciences and engineering (sub-total)
+F2_UNSPEC,Not specified fields
+F2_PRI,Private non-profit
+F2_SSC,Social sciences
+F2_SSC_HUM,Social sciences and humanities (sub-total)

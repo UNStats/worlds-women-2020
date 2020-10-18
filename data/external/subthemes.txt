@@ -1,0 +1,39 @@
+Theme_Code	Subtheme_Code	Subtheme_Desc	SubthemeTags
+ECO	ECO_SUB1	Right to work	work, rights
+ECO	ECO_SUB2	Access to income and household decision making	income, decision-making
+ECO	ECO_SUB3	Rights at work	work, rights
+ECO	ECO_SUB4	Part-time, informal employment	employment
+ECO	ECO_SUB5	Work-life balance	work, well-being
+ECO	ECO_SUB6	Paid leave	work, rights
+ECO	ECO_SUB7	Physical assets	assets
+ECO	ECO_SUB8	Financial assets	assets
+ECO	ECO_SUB9	Social protection	social protection
+EDU	EDU_SUB1	Access to schools (enrolment)	schools
+EDU	EDU_SUB2	Quality of education	
+EDU	EDU_SUB3	Focus on youth	youth
+EDU	EDU_SUB4	Focus on ageing (life-long learning)	ageing
+ENV	ENV_SUB1		
+ENV	ENV_SUB2		
+ENV	ENV_SUB3		
+ENV	ENV_SUB4		
+ENV	ENV_SUB5		
+ENV	ENV_SUB6		
+HEA	HEA_SUB1	Life expctancy/mortality	population, demography
+HEA	HEA_SUB2	Children's health	children
+HEA	HEA_SUB3	Youth/adolescent health	youth
+HEA	HEA_SUB4	Health at reproductive ages	
+HEA	HEA_SUB5	Health at older ages	ageing
+HEA	HEA_SUB6	Health risk factors	
+POP	POP_SUB1	Population size by age and sex and changes over time and by region	
+POP	POP_SUB2	Ageing and living arrangments	ageing
+POP	POP_SUB3	Couples formation and dissolution	family, couples
+POP	POP_SUB4	Fertility, childlessness and lone parents 	family
+POP	POP_SUB5	[migrants/refugees]?	migrants, refugees
+POW	POW_SUB1	Legislative power	legislative, government
+POW	POW_SUB2	Executive power	executive, government
+POW	POW_SUB3	Judiciary power	judiciary, government
+POW	POW_SUB4	Power in the private sector	private sector
+POW	POW_SUB5	Influencial power	
+POW	POW_SUB6	Power at home	family, household
+VAW	VAW_SUB1	Violence against women and girl children	
+VAW	VAW_SUB2	Governments' / societies' response	

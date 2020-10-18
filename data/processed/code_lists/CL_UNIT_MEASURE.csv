@@ -1,0 +1,16 @@
+UNIT_MEASURE,UNIT_MEASURE_DESC
+PT,Percent
+HR_PER_WK,Hours per week
+PER_100000_POP,"Per 100,000 population"
+NUMBER,Number
+YR,Years
+LITRES_PURE_ALCOHOL,Litres pure alcohol
+PER_100000_LIVE_BIRTHS,"Per 100,000 live births"
+PER_1000_WOMEN,"Per 1,000 women"
+LIVE_BIRTHS_PER_WOMAN,Live births per woman
+PER_100000_WOMEN,"Per 100,000 women"
+Number,Number
+GPIA,Adjusted Gender Parity Index
+PER_1000_UNINFECTED_POP,"Per 1,000 uninfected population"
+RO,Ratio
+CATEGORICAL, Categorical variable

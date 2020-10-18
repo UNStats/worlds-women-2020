@@ -1,0 +1,9 @@
+{
+  "repository": "git@github.com:gonzalezmorales/WW2020.git",
+  "scripts": {
+    "dev": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}

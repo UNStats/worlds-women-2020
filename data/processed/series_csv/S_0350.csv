@@ -1,0 +1,673 @@
+SERIES	SERIES_DESC	REPORTING_TYPE	REPORTING_TYPE_DESC	GEOLEVEL	GEOLEVEL_DESC	X	Y	REF_AREA	REF_AREA_DESC	TIME_PERIOD	SEX	SEX_DESC	AGE	AGE_DESC	OBS_VALUE	UNIT_MEASURE	UNIT_MEASURE_DESC	UNIT_MULT	UNIT_MULT_DESC	NATURE	NATURE_DESC	SOURCE_DETAIL	SOURCE_DETAIL_URL	TIME_DETAIL	COMMENT_OBS
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	1995	F	Female	Y15T24	15 to 24 years	80.27586	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	1995	M	Male	Y15T24	15 to 24 years	87.93621	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	1996	F	Female	Y15T24	15 to 24 years	80.70453	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	1996	M	Male	Y15T24	15 to 24 years	88.051	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	1997	F	Female	Y15T24	15 to 24 years	81.90751999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	1997	M	Male	Y15T24	15 to 24 years	88.51539	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	1998	F	Female	Y15T24	15 to 24 years	82.44266999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	1998	M	Male	Y15T24	15 to 24 years	89.46526999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	1999	F	Female	Y15T24	15 to 24 years	82.92969000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	1999	M	Male	Y15T24	15 to 24 years	89.6186	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2000	F	Female	Y15T24	15 to 24 years	83.37498000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2000	M	Male	Y15T24	15 to 24 years	89.84585	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2001	F	Female	Y15T24	15 to 24 years	83.48621999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2001	M	Male	Y15T24	15 to 24 years	89.72365	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2002	F	Female	Y15T24	15 to 24 years	84.07069	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2002	M	Male	Y15T24	15 to 24 years	90.1963	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2003	F	Female	Y15T24	15 to 24 years	84.61246	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2003	M	Male	Y15T24	15 to 24 years	90.66306	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2004	F	Female	Y15T24	15 to 24 years	85.6465	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2004	M	Male	Y15T24	15 to 24 years	91.18621	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2005	F	Female	Y15T24	15 to 24 years	85.58471999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2005	M	Male	Y15T24	15 to 24 years	91.48738	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2006	F	Female	Y15T24	15 to 24 years	85.91281	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2006	M	Male	Y15T24	15 to 24 years	91.55675	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2007	F	Female	Y15T24	15 to 24 years	86.3622	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2007	M	Male	Y15T24	15 to 24 years	91.34857	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2008	F	Female	Y15T24	15 to 24 years	86.98397	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2008	M	Male	Y15T24	15 to 24 years	91.9848	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2009	F	Female	Y15T24	15 to 24 years	87.21278000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2009	M	Male	Y15T24	15 to 24 years	92.00528	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2010	F	Female	Y15T24	15 to 24 years	87.40259	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2010	M	Male	Y15T24	15 to 24 years	91.83492	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2011	F	Female	Y15T24	15 to 24 years	87.85692	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2011	M	Male	Y15T24	15 to 24 years	91.87363	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2012	F	Female	Y15T24	15 to 24 years	88.34548000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2012	M	Male	Y15T24	15 to 24 years	92.2025	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2013	F	Female	Y15T24	15 to 24 years	88.72421	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2013	M	Male	Y15T24	15 to 24 years	92.3776	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2014	F	Female	Y15T24	15 to 24 years	89.14118	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2014	M	Male	Y15T24	15 to 24 years	92.53516	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2015	F	Female	Y15T24	15 to 24 years	89.52524	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2015	M	Male	Y15T24	15 to 24 years	92.64598000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2016	F	Female	Y15T24	15 to 24 years	89.85769	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2016	M	Male	Y15T24	15 to 24 years	92.7235	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2017	F	Female	Y15T24	15 to 24 years	90.11885	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2017	M	Male	Y15T24	15 to 24 years	92.81145	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2018	F	Female	Y15T24	15 to 24 years	90.395	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2018	M	Male	Y15T24	15 to 24 years	92.86746	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	96.51752295	21.19332882	104	Myanmar	2016	F	Female	Y15T24	15 to 24 years	84.41379	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	96.51752295	21.19332882	104	Myanmar	2016	M	Male	Y15T24	15 to 24 years	85.11967	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	29.89080992	-3.366387428	108	Burundi	2017	F	Female	Y15T24	15 to 24 years	85.61855	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	29.89080992	-3.366387428	108	Burundi	2017	M	Male	Y15T24	15 to 24 years	91.03415	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	28.04940161	53.54193075	112	Belarus	2018	F	Female	Y15T24	15 to 24 years	99.87	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	28.04940161	53.54193075	112	Belarus	2018	M	Male	Y15T24	15 to 24 years	99.83	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	104.922836	12.71163737	116	Cambodia	2015	F	Female	Y15T24	15 to 24 years	92.57328000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	104.922836	12.71163737	116	Cambodia	2015	M	Male	Y15T24	15 to 24 years	91.86412	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	2.678164227	28.15940032	12	Algeria	2018	F	Female	Y15T24	15 to 24 years	97.25216	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	2.678164227	28.15940032	12	Algeria	2018	M	Male	Y15T24	15 to 24 years	97.59406	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	12.7419827	5.692387031	120	Cameroon	2018	F	Female	Y15T24	15 to 24 years	82.41	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	12.7419827	5.692387031	120	Cameroon	2018	M	Male	Y15T24	15 to 24 years	87.72	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-23.63544151	15.07791834	132	Cabo Verde	2015	F	Female	Y15T24	15 to 24 years	98.73018	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-23.63544151	15.07791834	132	Cabo Verde	2015	M	Male	Y15T24	15 to 24 years	97.58501	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	20.93559492	7.003720791	140	Central African Republic	2018	F	Female	Y15T24	15 to 24 years	28.70666	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	20.93559492	7.003720791	140	Central African Republic	2018	M	Male	Y15T24	15 to 24 years	47.80493	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	80.70489654	7.614693343	144	Sri Lanka	2018	F	Female	Y15T24	15 to 24 years	99.04459	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	80.70489654	7.614693343	144	Sri Lanka	2018	M	Male	Y15T24	15 to 24 years	98.50948000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	18.66618401	15.36279341	148	Chad	2016	F	Female	Y15T24	15 to 24 years	22.38715	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	18.66618401	15.36279341	148	Chad	2016	M	Male	Y15T24	15 to 24 years	40.692890000000006	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-71.23029019	-35.265288500000004	152	Chile	2017	F	Female	Y15T24	15 to 24 years	99.01156	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-71.23029019	-35.265288500000004	152	Chile	2017	M	Male	Y15T24	15 to 24 years	99.00582	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	104.1403375	32.30955217	156	China	2018	F	Female	Y15T24	15 to 24 years	99.78338000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	104.1403375	32.30955217	156	China	2018	M	Male	Y15T24	15 to 24 years	99.78379	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-73.07446751	3.888209046	170	Colombia	2018	F	Female	Y15T24	15 to 24 years	99.0696	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-73.07446751	3.888209046	170	Colombia	2018	M	Male	Y15T24	15 to 24 years	98.63383	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	43.34234565	-11.66121732	174	Comoros	2018	F	Female	Y15T24	15 to 24 years	78.30236	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	43.34234565	-11.66121732	174	Comoros	2018	M	Male	Y15T24	15 to 24 years	78.23940999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	15.22052612	-0.840544119	178	Congo	2018	F	Female	Y15T24	15 to 24 years	78.74231	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	15.22052612	-0.840544119	178	Congo	2018	M	Male	Y15T24	15 to 24 years	85.34165	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	23.65496507	-2.8771547319999997	180	Democratic Republic of the Congo	2016	F	Female	Y15T24	15 to 24 years	79.71484	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	23.65496507	-2.8771547319999997	180	Democratic Republic of the Congo	2016	M	Male	Y15T24	15 to 24 years	90.96096999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-84.19712782	9.970998683	188	Costa Rica	2018	F	Female	Y15T24	15 to 24 years	99.53	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-84.19712782	9.970998683	188	Costa Rica	2018	M	Male	Y15T24	15 to 24 years	99.34	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-79.54460144	22.10030366	192	Cuba	2012	F	Female	Y15T24	15 to 24 years	99.8952	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-79.54460144	22.10030366	192	Cuba	2012	M	Male	Y15T24	15 to 24 years	99.85526999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	2	Sub-region	nan	nan	202	Sub-Saharan Africa	2018	_T	Both sexes or no breakdown by sex	Y15T24	15 to 24 years	0.92416	GPIA	Adjusted Gender Parity Index	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	2.339933594	9.65401646	204	Benin	2018	F	Female	Y15T24	15 to 24 years	51.94362	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	2.339933594	9.65401646	204	Benin	2018	M	Male	Y15T24	15 to 24 years	69.76118000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-70.49847576	18.89832088	214	Dominican Republic	2016	F	Female	Y15T24	15 to 24 years	98.86737	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-70.49847576	18.89832088	214	Dominican Republic	2016	M	Male	Y15T24	15 to 24 years	98.81259	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-78.37005241	-1.4477858909999999	218	Ecuador	2017	F	Female	Y15T24	15 to 24 years	99.40241999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-78.37005241	-1.4477858909999999	218	Ecuador	2017	M	Male	Y15T24	15 to 24 years	99.10982	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-88.86862995	13.73603564	222	El Salvador	2018	F	Female	Y15T24	15 to 24 years	98.21068000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-88.86862995	13.73603564	222	El Salvador	2018	M	Male	Y15T24	15 to 24 years	97.72745	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	39.63505296	8.631223181000001	231	Ethiopia	2017	F	Female	Y15T24	15 to 24 years	71.97251	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	39.63505296	8.631223181000001	231	Ethiopia	2017	M	Male	Y15T24	15 to 24 years	73.52072	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	38.11074289	16.12894644	232	Eritrea	2018	F	Female	Y15T24	15 to 24 years	92.71403000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	38.11074289	16.12894644	232	Eritrea	2018	M	Male	Y15T24	15 to 24 years	93.81868	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	17.57817062	-12.33724746	24	Angola	2014	F	Female	Y15T24	15 to 24 years	70.58513	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	17.57817062	-12.33724746	24	Angola	2014	M	Male	Y15T24	15 to 24 years	84.86238	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	177.96608840000002	-17.83301566	242	Fiji	2017	F	Female	Y15T24	15 to 24 years	99.81083000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	177.96608840000002	-17.83301566	242	Fiji	2017	M	Male	Y15T24	15 to 24 years	99.67990999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	11.78727747	-0.60687619	266	Gabon	2018	F	Female	Y15T24	15 to 24 years	91.44938	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	11.78727747	-0.60687619	266	Gabon	2018	M	Male	Y15T24	15 to 24 years	88.14196	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	43.3713615	42.04813028	268	Georgia	2017	F	Female	Y15T24	15 to 24 years	99.49365	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	43.3713615	42.04813028	268	Georgia	2017	M	Male	Y15T24	15 to 24 years	99.76825	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-15.39944785	13.45295927	270	Gambia	2015	F	Female	Y15T24	15 to 24 years	64.44683	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-15.39944785	13.45295927	270	Gambia	2015	M	Male	Y15T24	15 to 24 years	70.74348	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	35.25694122	31.94347933	275	State of Palestine	2018	F	Female	Y15T24	15 to 24 years	99.38239	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	35.25694122	31.94347933	275	State of Palestine	2018	M	Male	Y15T24	15 to 24 years	99.29223	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-1.205623522	7.964825185	288	Ghana	2018	F	Female	Y15T24	15 to 24 years	92.20855	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-1.205623522	7.964825185	288	Ghana	2018	M	Male	Y15T24	15 to 24 years	92.76100000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	22.58307827	39.47301873	300	Greece	2018	F	Female	Y15T24	15 to 24 years	99.07	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	22.58307827	39.47301873	300	Greece	2018	M	Male	Y15T24	15 to 24 years	99.26	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-61.68248568	12.11238395	308	Grenada	2014	F	Female	Y15T24	15 to 24 years	99.5	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-61.68248568	12.11238395	308	Grenada	2014	M	Male	Y15T24	15 to 24 years	98.95	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	50.01064725	40.39229544	31	Azerbaijan	2017	F	Female	Y15T24	15 to 24 years	99.91311	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	50.01064725	40.39229544	31	Azerbaijan	2017	M	Male	Y15T24	15 to 24 years	99.96065	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-65.14563274	-35.19446255	32	Argentina	2018	F	Female	Y15T24	15 to 24 years	99.75765	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-65.14563274	-35.19446255	32	Argentina	2018	M	Male	Y15T24	15 to 24 years	99.24183000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-91.23127459999999	15.00273719	320	Guatemala	2014	F	Female	Y15T24	15 to 24 years	93.26925	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-91.23127459999999	15.00273719	320	Guatemala	2014	M	Male	Y15T24	15 to 24 years	95.48186	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-11.28173419	11.00210343	324	Guinea	2014	F	Female	Y15T24	15 to 24 years	37.21018	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-11.28173419	11.00210343	324	Guinea	2014	M	Male	Y15T24	15 to 24 years	56.97051	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-58.97322037	4.788012784	328	Guyana	2014	F	Female	Y15T24	15 to 24 years	97.03701	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-58.97322037	4.788012784	328	Guyana	2014	M	Male	Y15T24	15 to 24 years	96.33185999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-72.33640958	18.40426539	332	Haiti	2016	F	Female	Y15T24	15 to 24 years	82.63483000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-72.33640958	18.40426539	332	Haiti	2016	M	Male	Y15T24	15 to 24 years	83.3535	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-86.59974381	14.82243161	340	Honduras	2018	F	Female	Y15T24	15 to 24 years	98.1851	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-86.59974381	14.82243161	340	Honduras	2018	M	Male	Y15T24	15 to 24 years	94.89199	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	19.41221519	47.1651448	348	Hungary	2014	F	Female	Y15T24	15 to 24 years	99.0	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	19.41221519	47.1651448	348	Hungary	2014	M	Male	Y15T24	15 to 24 years	98.69	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	79.3608464	22.34642074	356	India	2018	F	Female	Y15T24	15 to 24 years	90.16941	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	79.3608464	22.34642074	356	India	2018	M	Male	Y15T24	15 to 24 years	92.99297	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	113.9174	-0.9945822040000001	360	Indonesia	2018	F	Female	Y15T24	15 to 24 years	99.69625	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	113.9174	-0.9945822040000001	360	Indonesia	2018	M	Male	Y15T24	15 to 24 years	99.71748000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	54.19766348	32.74370885	364	Iran (Islamic Republic of)	2016	F	Female	Y15T24	15 to 24 years	97.92513000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	54.19766348	32.74370885	364	Iran (Islamic Republic of)	2016	M	Male	Y15T24	15 to 24 years	98.26796999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	43.76606267	33.05013795	368	Iraq	2017	F	Female	Y15T24	15 to 24 years	92.1	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	43.76606267	33.05013795	368	Iraq	2017	M	Male	Y15T24	15 to 24 years	94.9	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	12.57022427	42.79917282	380	Italy	2018	F	Female	Y15T24	15 to 24 years	99.95	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	12.57022427	42.79917282	380	Italy	2018	M	Male	Y15T24	15 to 24 years	99.92	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-5.552690016000001	7.62211586	384	Côte d'Ivoire	2018	F	Female	Y15T24	15 to 24 years	53.0251	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-5.552690016000001	7.62211586	384	Côte d'Ivoire	2018	M	Male	Y15T24	15 to 24 years	63.844919999999995	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-77.31068409	18.15616857	388	Jamaica	2014	F	Female	Y15T24	15 to 24 years	98.8	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-77.31068409	18.15616857	388	Jamaica	2014	M	Male	Y15T24	15 to 24 years	93.86	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	66.65359159	48.01963494	398	Kazakhstan	2018	F	Female	Y15T24	15 to 24 years	99.85091	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	66.65359159	48.01963494	398	Kazakhstan	2018	M	Male	Y15T24	15 to 24 years	99.94014	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	66.02688198	33.83160199	4	Afghanistan	2018	F	Female	Y15T24	15 to 24 years	56.25475	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	66.02688198	33.83160199	4	Afghanistan	2018	M	Male	Y15T24	15 to 24 years	74.0848	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	37.13024774	30.65365973	400	Jordan	2018	F	Female	Y15T24	15 to 24 years	99.49391	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	37.13024774	30.65365973	400	Jordan	2018	M	Male	Y15T24	15 to 24 years	99.19612	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	37.86096816	0.534797278	404	Kenya	2018	F	Female	Y15T24	15 to 24 years	88.08	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	37.86096816	0.534797278	404	Kenya	2018	M	Male	Y15T24	15 to 24 years	87.59	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	47.49305029	29.53949468	414	Kuwait	2018	F	Female	Y15T24	15 to 24 years	99.50355	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	47.49305029	29.53949468	414	Kuwait	2018	M	Male	Y15T24	15 to 24 years	98.77679	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	74.52324839	41.46204516	417	Kyrgyzstan	2018	F	Female	Y15T24	15 to 24 years	99.81	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	74.52324839	41.46204516	417	Kyrgyzstan	2018	M	Male	Y15T24	15 to 24 years	99.69	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	101.99019679999999	20.27482773	418	Lao People's Democratic Republic	2015	F	Female	Y15T24	15 to 24 years	90.50107	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	101.99019679999999	20.27482773	418	Lao People's Democratic Republic	2015	M	Male	Y15T24	15 to 24 years	94.40438	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	2	Sub-region	nan	nan	419	Latin America and the Caribbean	2018	_T	Both sexes or no breakdown by sex	Y15T24	15 to 24 years	1.00380546313084	GPIA	Adjusted Gender Parity Index	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	35.89391711	33.92152458	422	Lebanon	2018	F	Female	Y15T24	15 to 24 years	99.83898	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	35.89391711	33.92152458	422	Lebanon	2018	M	Male	Y15T24	15 to 24 years	99.66274	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	28.25362195	-29.58041814	426	Lesotho	2014	F	Female	Y15T24	15 to 24 years	93.96988	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	28.25362195	-29.58041814	426	Lesotho	2014	M	Male	Y15T24	15 to 24 years	79.60804	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	26.42461876	56.64196636	428	Latvia	2018	F	Female	Y15T24	15 to 24 years	99.86	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	26.42461876	56.64196636	428	Latvia	2018	M	Male	Y15T24	15 to 24 years	99.78	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-9.311879037999999	6.448381008999999	430	Liberia	2017	F	Female	Y15T24	15 to 24 years	45.638709999999996	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-9.311879037999999	6.448381008999999	430	Liberia	2017	M	Male	Y15T24	15 to 24 years	64.95713	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	113.5665388	22.1237259	446	China, Macao Special Administrative Region	2016	F	Female	Y15T24	15 to 24 years	99.86617	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	113.5665388	22.1237259	446	China, Macao Special Administrative Region	2016	M	Male	Y15T24	15 to 24 years	99.72689	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	46.6982339	-19.38514785	450	Madagascar	2018	F	Female	Y15T24	15 to 24 years	80.67803	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	46.6982339	-19.38514785	450	Madagascar	2018	M	Male	Y15T24	15 to 24 years	81.71984	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	33.4884625	-13.40819859	454	Malawi	2015	F	Female	Y15T24	15 to 24 years	73.3858	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	33.4884625	-13.40819859	454	Malawi	2015	M	Male	Y15T24	15 to 24 years	72.49172	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	116.8346314	5.452415309	458	Malaysia	2018	F	Female	Y15T24	15 to 24 years	97.01853	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	116.8346314	5.452415309	458	Malaysia	2018	M	Male	Y15T24	15 to 24 years	96.69582	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	73.09672546	-0.614385021	462	Maldives	2016	F	Female	Y15T24	15 to 24 years	99.08863000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	73.09672546	-0.614385021	462	Maldives	2016	M	Male	Y15T24	15 to 24 years	98.39115	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-3.522016039	17.35311254	466	Mali	2018	F	Female	Y15T24	15 to 24 years	43.398109999999996	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-3.522016039	17.35311254	466	Mali	2018	M	Male	Y15T24	15 to 24 years	57.833259999999996	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	14.44617519	35.89194275	470	Malta	2018	F	Female	Y15T24	15 to 24 years	99.56088000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	14.44617519	35.89194275	470	Malta	2018	M	Male	Y15T24	15 to 24 years	99.05695	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-10.33187259	20.26089546	478	Mauritania	2017	F	Female	Y15T24	15 to 24 years	56.76071999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-10.33187259	20.26089546	478	Mauritania	2017	M	Male	Y15T24	15 to 24 years	70.93633	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	50.54907539999999	26.04407747	48	Bahrain	2018	F	Female	Y15T24	15 to 24 years	99.30134	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	50.54907539999999	26.04407747	48	Bahrain	2018	M	Male	Y15T24	15 to 24 years	99.97614	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	57.568022	-20.28581998	480	Mauritius	2018	F	Female	Y15T24	15 to 24 years	99.35342	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	57.568022	-20.28581998	480	Mauritius	2018	M	Male	Y15T24	15 to 24 years	98.73798000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-102.5148166	23.93378032	484	Mexico	2018	F	Female	Y15T24	15 to 24 years	99.38847	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-102.5148166	23.93378032	484	Mexico	2018	M	Male	Y15T24	15 to 24 years	99.24864000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	103.0728057	46.83892054	496	Mongolia	2018	F	Female	Y15T24	15 to 24 years	99.08	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	103.0728057	46.83892054	496	Mongolia	2018	M	Male	Y15T24	15 to 24 years	98.19	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	28.4650624	47.20236795	498	Republic of Moldova	2014	F	Female	Y15T24	15 to 24 years	99.81553000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	28.4650624	47.20236795	498	Republic of Moldova	2014	M	Male	Y15T24	15 to 24 years	99.8067	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	19.25214024	42.78717043	499	Montenegro	2018	F	Female	Y15T24	15 to 24 years	98.97	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	19.25214024	42.78717043	499	Montenegro	2018	M	Male	Y15T24	15 to 24 years	99.23	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	89.17660788	22.86961622	50	Bangladesh	2018	F	Female	Y15T24	15 to 24 years	94.91259000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	89.17660788	22.86961622	50	Bangladesh	2018	M	Male	Y15T24	15 to 24 years	91.80372	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-6.281942841	31.844013099999998	504	Morocco	2018	F	Female	Y15T24	15 to 24 years	97.4	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-6.281942841	31.844013099999998	504	Morocco	2018	M	Male	Y15T24	15 to 24 years	98.04	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	38.18479941	-14.27963886	508	Mozambique	2017	F	Female	Y15T24	15 to 24 years	65.48977	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	38.18479941	-14.27963886	508	Mozambique	2017	M	Male	Y15T24	15 to 24 years	77.26017	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	44.93839317	40.29499741	51	Armenia	2017	F	Female	Y15T24	15 to 24 years	99.87416	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	44.93839317	40.29499741	51	Armenia	2017	M	Male	Y15T24	15 to 24 years	99.82128	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	57.87743482	21.98805614	512	Oman	2018	F	Female	Y15T24	15 to 24 years	98.97943000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	57.87743482	21.98805614	512	Oman	2018	M	Male	Y15T24	15 to 24 years	98.35663000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-59.53464889999999	13.13648273	52	Barbados	2014	F	Female	Y15T24	15 to 24 years	99.9	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-59.53464889999999	13.13648273	52	Barbados	2014	M	Male	Y15T24	15 to 24 years	99.92	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	83.94678863	28.25866332	524	Nepal	2018	F	Female	Y15T24	15 to 24 years	90.88346999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	83.94678863	28.25866332	524	Nepal	2018	M	Male	Y15T24	15 to 24 years	94.03428000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-69.97050586	12.50878756	533	Aruba	2018	F	Female	Y15T24	15 to 24 years	99.39	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-69.97050586	12.50878756	533	Aruba	2018	M	Male	Y15T24	15 to 24 years	99.6	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	167.06797790000002	-15.34445547	548	Vanuatu	2018	F	Female	Y15T24	15 to 24 years	96.59661	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	167.06797790000002	-15.34445547	548	Vanuatu	2018	M	Male	Y15T24	15 to 24 years	95.97657	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-85.03060315	12.84210839	558	Nicaragua	2015	F	Female	Y15T24	15 to 24 years	93.60194	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-85.03060315	12.84210839	558	Nicaragua	2015	M	Male	Y15T24	15 to 24 years	89.64283	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	9.400167877000001	17.42143036	562	Niger	2012	F	Female	Y15T24	15 to 24 years	31.643909999999998	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	9.400167877000001	17.42143036	562	Niger	2012	M	Male	Y15T24	15 to 24 years	48.557179999999995	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	8.097363256	9.585789025	566	Nigeria	2018	F	Female	Y15T24	15 to 24 years	68.26263	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	8.097363256	9.585789025	566	Nigeria	2018	M	Male	Y15T24	15 to 24 years	81.58064	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	134.5733878	7.502307591	585	Palau	2015	F	Female	Y15T24	15 to 24 years	99.17051	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	134.5733878	7.502307591	585	Palau	2015	M	Male	Y15T24	15 to 24 years	98.24561	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	68.80479684	29.36491634	586	Pakistan	2017	F	Female	Y15T24	15 to 24 years	67.53713	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	68.80479684	29.36491634	586	Pakistan	2017	M	Male	Y15T24	15 to 24 years	81.26352	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-81.26616623	8.450965746	591	Panama	2018	F	Female	Y15T24	15 to 24 years	98.87429	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-81.26616623	8.450965746	591	Panama	2018	M	Male	Y15T24	15 to 24 years	99.3122	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-60.54854225	-21.70216237	600	Paraguay	2018	F	Female	Y15T24	15 to 24 years	98.86784	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-60.54854225	-21.70216237	600	Paraguay	2018	M	Male	Y15T24	15 to 24 years	97.73241999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-71.82093277	-13.58939705	604	Peru	2018	F	Female	Y15T24	15 to 24 years	98.96696999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-71.82093277	-13.58939705	604	Peru	2018	M	Male	Y15T24	15 to 24 years	99.0792	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	120.86014180000001	14.16591706	608	Philippines	2015	F	Female	Y15T24	15 to 24 years	99.26673000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	120.86014180000001	14.16591706	608	Philippines	2015	M	Male	Y15T24	15 to 24 years	98.90415	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	2	Sub-region	nan	nan	62	Central and Southern Asia	2018	_T	Both sexes or no breakdown by sex	Y15T24	15 to 24 years	0.9606399999999999	GPIA	Adjusted Gender Parity Index	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-7.961599811	39.68509315	620	Portugal	2018	F	Female	Y15T24	15 to 24 years	99.70156	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-7.961599811	39.68509315	620	Portugal	2018	M	Male	Y15T24	15 to 24 years	99.62657	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-14.40182514	12.11760394	624	Guinea-Bissau	2014	F	Female	Y15T24	15 to 24 years	49.75632	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-14.40182514	12.11760394	624	Guinea-Bissau	2014	M	Male	Y15T24	15 to 24 years	71.25033	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	125.94510520000001	-8.797497247	626	Timor-Leste	2018	F	Female	Y15T24	15 to 24 years	84.65051	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	125.94510520000001	-8.797497247	626	Timor-Leste	2018	M	Male	Y15T24	15 to 24 years	82.45848000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	51.19152467	25.28355379	634	Qatar	2017	F	Female	Y15T24	15 to 24 years	96.11466	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	51.19152467	25.28355379	634	Qatar	2017	M	Male	Y15T24	15 to 24 years	94.0699	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	90.45098484	27.39598568	64	Bhutan	2017	F	Female	Y15T24	15 to 24 years	92.89112	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	90.45098484	27.39598568	64	Bhutan	2017	M	Male	Y15T24	15 to 24 years	93.27016	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	24.98481009	45.83893563	642	Romania	2018	F	Female	Y15T24	15 to 24 years	99.43968000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	24.98481009	45.83893563	642	Romania	2018	M	Male	Y15T24	15 to 24 years	99.41938	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	99.01404926	61.61899849	643	Russian Federation	2018	F	Female	Y15T24	15 to 24 years	99.74909	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	99.01404926	61.61899849	643	Russian Federation	2018	M	Male	Y15T24	15 to 24 years	99.64997	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	29.92310194	-1.999842114	646	Rwanda	2018	F	Female	Y15T24	15 to 24 years	88.50182	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	29.92310194	-1.999842114	646	Rwanda	2018	M	Male	Y15T24	15 to 24 years	84.32593	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	12.46329038	43.93841766	674	San Marino	2018	F	Female	Y15T24	15 to 24 years	100.0	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	12.46329038	43.93841766	674	San Marino	2018	M	Male	Y15T24	15 to 24 years	100.0	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	6.609772265	0.241554875	678	Sao Tome and Principe	2018	F	Female	Y15T24	15 to 24 years	97.85418	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	6.609772265	0.241554875	678	Sao Tome and Principe	2018	M	Male	Y15T24	15 to 24 years	97.71246	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-64.66224284	-16.71273412	68	Bolivia (Plurinational State of)	2015	F	Female	Y15T24	15 to 24 years	99.40420999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-64.66224284	-16.71273412	68	Bolivia (Plurinational State of)	2015	M	Male	Y15T24	15 to 24 years	99.39402	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	44.54763347	24.12594211	682	Saudi Arabia	2017	F	Female	Y15T24	15 to 24 years	99.28044	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	44.54763347	24.12594211	682	Saudi Arabia	2017	M	Male	Y15T24	15 to 24 years	99.32151999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-14.46636926	14.35920905	686	Senegal	2017	F	Female	Y15T24	15 to 24 years	63.50271	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-14.46636926	14.35920905	686	Senegal	2017	M	Male	Y15T24	15 to 24 years	75.57641	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	20.805876	44.03145697	688	Serbia	2016	F	Female	Y15T24	15 to 24 years	99.72468	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	20.805876	44.03145697	688	Serbia	2016	M	Male	Y15T24	15 to 24 years	99.71523	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	55.46561591	-4.678053059	690	Seychelles	2018	F	Female	Y15T24	15 to 24 years	99.6	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	55.46561591	-4.678053059	690	Seychelles	2018	M	Male	Y15T24	15 to 24 years	98.56	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-11.78306584	8.568604164	694	Sierra Leone	2018	F	Female	Y15T24	15 to 24 years	62.69922	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-11.78306584	8.568604164	694	Sierra Leone	2018	M	Male	Y15T24	15 to 24 years	70.57611	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	17.78584332	44.16845548	70	Bosnia and Herzegovina	2013	F	Female	Y15T24	15 to 24 years	99.66747	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	17.78584332	44.16845548	70	Bosnia and Herzegovina	2013	M	Male	Y15T24	15 to 24 years	99.65765	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	103.81078829999998	1.361009155	702	Singapore	2018	F	Female	Y15T24	15 to 24 years	99.94237	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	103.81078829999998	1.361009155	702	Singapore	2018	M	Male	Y15T24	15 to 24 years	99.91741999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	105.802499	10.09643079	704	Viet Nam	2018	F	Female	Y15T24	15 to 24 years	98.35314	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	105.802499	10.09643079	704	Viet Nam	2018	M	Male	Y15T24	15 to 24 years	98.46011999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	14.82209486	46.11958061	705	Slovenia	2014	F	Female	Y15T24	15 to 24 years	99.9	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	14.82209486	46.11958061	705	Slovenia	2014	M	Male	Y15T24	15 to 24 years	99.79	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	24.67184355	-29.99957544	710	South Africa	2017	F	Female	Y15T24	15 to 24 years	96.87589	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	24.67184355	-29.99957544	710	South Africa	2017	M	Male	Y15T24	15 to 24 years	93.75609	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	29.86909584	-19.00075492	716	Zimbabwe	2014	F	Female	Y15T24	15 to 24 years	93.18835	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	29.86909584	-19.00075492	716	Zimbabwe	2014	M	Male	Y15T24	15 to 24 years	87.59186	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	23.81380223	-22.18810073	72	Botswana	2013	F	Female	Y15T24	15 to 24 years	99.13954	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	23.81380223	-22.18810073	72	Botswana	2013	M	Male	Y15T24	15 to 24 years	95.75475	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-3.554078296	40.39211472	724	Spain	2018	F	Female	Y15T24	15 to 24 years	99.7439	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-3.554078296	40.39211472	724	Spain	2018	M	Male	Y15T24	15 to 24 years	99.6885	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	30.32618773	7.290839152	728	South Sudan	2018	F	Female	Y15T24	15 to 24 years	47.3692	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	30.32618773	7.290839152	728	South Sudan	2018	M	Male	Y15T24	15 to 24 years	48.42514	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	29.95650159	16.02643066	729	Sudan	2018	F	Female	Y15T24	15 to 24 years	73.49	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	29.95650159	16.02643066	729	Sudan	2018	M	Male	Y15T24	15 to 24 years	72.51	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-55.90626394	4.132603197	740	Suriname	2018	F	Female	Y15T24	15 to 24 years	98.39996	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-55.90626394	4.132603197	740	Suriname	2018	M	Male	Y15T24	15 to 24 years	98.87544	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	2	Sub-region	nan	nan	747	Northern Africa and Western Asia	2018	_T	Both sexes or no breakdown by sex	Y15T24	15 to 24 years	0.96004	GPIA	Adjusted Gender Parity Index	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	31.50149288	-26.56471011	748	Eswatini	2018	F	Female	Y15T24	15 to 24 years	96.69525	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	31.50149288	-26.56471011	748	Eswatini	2018	M	Male	Y15T24	15 to 24 years	94.29769	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	2	Sub-region	nan	nan	753	Eastern and South-Eastern Asia	2018	_T	Both sexes or no breakdown by sex	Y15T24	15 to 24 years	0.9997799999999999	GPIA	Adjusted Gender Parity Index	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-53.08432878	-10.77668561	76	Brazil	2018	F	Female	Y15T24	15 to 24 years	99.43153000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-53.08432878	-10.77668561	76	Brazil	2018	M	Male	Y15T24	15 to 24 years	98.98358	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	69.29499799999999	38.43069666	762	Tajikistan	2014	F	Female	Y15T24	15 to 24 years	99.9	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	69.29499799999999	38.43069666	762	Tajikistan	2014	M	Male	Y15T24	15 to 24 years	99.86	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	101.02029509999998	15.13089239	764	Thailand	2018	F	Female	Y15T24	15 to 24 years	98.59393	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	101.02029509999998	15.13089239	764	Thailand	2018	M	Male	Y15T24	15 to 24 years	97.69088	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	0.97835765	8.532096072	768	Togo	2015	F	Female	Y15T24	15 to 24 years	78.37085	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	0.97835765	8.532096072	768	Togo	2015	M	Male	Y15T24	15 to 24 years	89.67246999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-175.1959991	-21.19511329	776	Tonga	2018	F	Female	Y15T24	15 to 24 years	99.53978000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-175.1959991	-21.19511329	776	Tonga	2018	M	Male	Y15T24	15 to 24 years	99.34871	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	53.98279159	23.43322219	784	United Arab Emirates	2015	F	Female	Y15T24	15 to 24 years	99.11	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	53.98279159	23.43322219	784	United Arab Emirates	2015	M	Male	Y15T24	15 to 24 years	99.64	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	9.572737411	34.11439971	788	Tunisia	2014	F	Female	Y15T24	15 to 24 years	95.80119	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	9.572737411	34.11439971	788	Tunisia	2014	M	Male	Y15T24	15 to 24 years	96.61184	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	35.42890329	38.9899684	792	Turkey	2017	F	Female	Y15T24	15 to 24 years	99.58643000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	35.42890329	38.9899684	792	Turkey	2017	M	Male	Y15T24	15 to 24 years	99.90791	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	58.978766500000006	40.0912346	795	Turkmenistan	2014	F	Female	Y15T24	15 to 24 years	99.9	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	58.978766500000006	40.0912346	795	Turkmenistan	2014	M	Male	Y15T24	15 to 24 years	99.77	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	20.06660928	41.13897007	8	Albania	2018	F	Female	Y15T24	15 to 24 years	99.63	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	20.06660928	41.13897007	8	Albania	2018	M	Male	Y15T24	15 to 24 years	99.05	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	32.39100438	1.279557331	800	Uganda	2018	F	Female	Y15T24	15 to 24 years	89.95064	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	32.39100438	1.279557331	800	Uganda	2018	M	Male	Y15T24	15 to 24 years	88.8269	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	31.40270802	49.00735945	804	Ukraine	2012	F	Female	Y15T24	15 to 24 years	99.98272	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	31.40270802	49.00735945	804	Ukraine	2012	M	Male	Y15T24	15 to 24 years	99.95707	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	21.700790899999998	41.60048068	807	North Macedonia	2014	F	Female	Y15T24	15 to 24 years	98.5	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	21.700790899999998	41.60048068	807	North Macedonia	2014	M	Male	Y15T24	15 to 24 years	98.76	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	29.77468534	26.57438204	818	Egypt	2017	F	Female	Y15T24	15 to 24 years	86.81055	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	29.77468534	26.57438204	818	Egypt	2017	M	Male	Y15T24	15 to 24 years	89.48338000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	34.80521182	-6.265332606	834	United Republic of Tanzania	2015	F	Female	Y15T24	15 to 24 years	84.6408	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	34.80521182	-6.265332606	834	United Republic of Tanzania	2015	M	Male	Y15T24	15 to 24 years	87.0131	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-1.7428438290000001	12.27491081	854	Burkina Faso	2018	F	Female	Y15T24	15 to 24 years	54.67	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-1.7428438290000001	12.27491081	854	Burkina Faso	2018	M	Male	Y15T24	15 to 24 years	61.79	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-56.01387025	-32.800283799999995	858	Uruguay	2018	F	Female	Y15T24	15 to 24 years	99.16599000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-56.01387025	-32.800283799999995	858	Uruguay	2018	M	Male	Y15T24	15 to 24 years	98.60475	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	63.11944558	41.77560518	860	Uzbekistan	2018	F	Female	Y15T24	15 to 24 years	99.99996	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	63.11944558	41.77560518	860	Uzbekistan	2018	M	Male	Y15T24	15 to 24 years	99.99996	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-66.15642084	7.121324747999999	862	Venezuela (Bolivarian Republic of)	2016	F	Female	Y15T24	15 to 24 years	99.09258	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-66.15642084	7.121324747999999	862	Venezuela (Bolivarian Republic of)	2016	M	Male	Y15T24	15 to 24 years	98.44194	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-172.4430749	-13.61541469	882	Samoa	2018	F	Female	Y15T24	15 to 24 years	99.43575	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-172.4430749	-13.61541469	882	Samoa	2018	M	Male	Y15T24	15 to 24 years	98.84151	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	27.850329	-14.59701056	894	Zambia	2018	F	Female	Y15T24	15 to 24 years	91.62819	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	27.850329	-14.59701056	894	Zambia	2018	M	Male	Y15T24	15 to 24 years	92.55964	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	114.62885630000001	4.49736984	96	Brunei Darussalam	2018	F	Female	Y15T24	15 to 24 years	99.78966	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	114.62885630000001	4.49736984	96	Brunei Darussalam	2018	M	Male	Y15T24	15 to 24 years	99.63516	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	1995	F	Female	Y_GE15	15 years old and over	70.1226	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	1995	M	Male	Y_GE15	15 years old and over	82.98692	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	1996	F	Female	Y_GE15	15 years old and over	70.66657	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	1996	M	Male	Y_GE15	15 years old and over	83.281	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	1997	F	Female	Y_GE15	15 years old and over	73.50133000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	1997	M	Male	Y_GE15	15 years old and over	84.51872	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	1998	F	Female	Y_GE15	15 years old and over	74.69365	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	1998	M	Male	Y_GE15	15 years old and over	85.75478000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	1999	F	Female	Y_GE15	15 years old and over	75.14498	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	1999	M	Male	Y_GE15	15 years old and over	85.99821999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2000	F	Female	Y_GE15	15 years old and over	75.44583	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2000	M	Male	Y_GE15	15 years old and over	86.16371	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2001	F	Female	Y_GE15	15 years old and over	75.79481	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2001	M	Male	Y_GE15	15 years old and over	86.28647	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2002	F	Female	Y_GE15	15 years old and over	76.22106	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2002	M	Male	Y_GE15	15 years old and over	86.6417	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2003	F	Female	Y_GE15	15 years old and over	76.81191	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2003	M	Male	Y_GE15	15 years old and over	87.10778	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2004	F	Female	Y_GE15	15 years old and over	77.39945	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2004	M	Male	Y_GE15	15 years old and over	87.53573	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2005	F	Female	Y_GE15	15 years old and over	76.97875	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2005	M	Male	Y_GE15	15 years old and over	87.56170999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2006	F	Female	Y_GE15	15 years old and over	77.6101	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2006	M	Male	Y_GE15	15 years old and over	87.44129000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2007	F	Female	Y_GE15	15 years old and over	78.26471	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2007	M	Male	Y_GE15	15 years old and over	87.74514	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2008	F	Female	Y_GE15	15 years old and over	78.73219	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2008	M	Male	Y_GE15	15 years old and over	88.08802	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2009	F	Female	Y_GE15	15 years old and over	79.15935	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2009	M	Male	Y_GE15	15 years old and over	88.29578000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2010	F	Female	Y_GE15	15 years old and over	79.88345	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2010	M	Male	Y_GE15	15 years old and over	88.33818000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2011	F	Female	Y_GE15	15 years old and over	80.33713	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2011	M	Male	Y_GE15	15 years old and over	88.45755	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2012	F	Female	Y_GE15	15 years old and over	80.69685	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2012	M	Male	Y_GE15	15 years old and over	88.7724	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2013	F	Female	Y_GE15	15 years old and over	80.93853	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2013	M	Male	Y_GE15	15 years old and over	88.88686	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2014	F	Female	Y_GE15	15 years old and over	81.44758	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2014	M	Male	Y_GE15	15 years old and over	89.13508	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2015	F	Female	Y_GE15	15 years old and over	81.81774	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2015	M	Male	Y_GE15	15 years old and over	89.38705	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2016	F	Female	Y_GE15	15 years old and over	82.20636999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2016	M	Male	Y_GE15	15 years old and over	89.5976	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2017	F	Female	Y_GE15	15 years old and over	82.53843	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2017	M	Male	Y_GE15	15 years old and over	89.71087	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2018	F	Female	Y_GE15	15 years old and over	82.7681	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	0	Global	nan	nan	1	World	2018	M	Male	Y_GE15	15 years old and over	89.83821	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	96.51752295	21.19332882	104	Myanmar	2016	F	Female	Y_GE15	15 years old and over	71.84699	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	96.51752295	21.19332882	104	Myanmar	2016	M	Male	Y_GE15	15 years old and over	80.01159	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	29.89080992	-3.366387428	108	Burundi	2017	F	Female	Y_GE15	15 years old and over	61.223690000000005	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	29.89080992	-3.366387428	108	Burundi	2017	M	Male	Y_GE15	15 years old and over	76.29605	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	28.04940161	53.54193075	112	Belarus	2018	F	Female	Y_GE15	15 years old and over	99.72518000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	28.04940161	53.54193075	112	Belarus	2018	M	Male	Y_GE15	15 years old and over	99.79398	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	104.922836	12.71163737	116	Cambodia	2015	F	Female	Y_GE15	15 years old and over	75.03387	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	104.922836	12.71163737	116	Cambodia	2015	M	Male	Y_GE15	15 years old and over	86.53244000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	2.678164227	28.15940032	12	Algeria	2018	F	Female	Y_GE15	15 years old and over	75.32297	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	2.678164227	28.15940032	12	Algeria	2018	M	Male	Y_GE15	15 years old and over	87.42296	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	12.7419827	5.692387031	120	Cameroon	2018	F	Female	Y_GE15	15 years old and over	71.58627	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	12.7419827	5.692387031	120	Cameroon	2018	M	Male	Y_GE15	15 years old and over	82.62804	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-23.63544151	15.07791834	132	Cabo Verde	2015	F	Female	Y_GE15	15 years old and over	82.04222	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-23.63544151	15.07791834	132	Cabo Verde	2015	M	Male	Y_GE15	15 years old and over	91.69144	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	20.93559492	7.003720791	140	Central African Republic	2018	F	Female	Y_GE15	15 years old and over	25.75638	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	20.93559492	7.003720791	140	Central African Republic	2018	M	Male	Y_GE15	15 years old and over	49.514590000000005	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	80.70489654	7.614693343	144	Sri Lanka	2018	F	Female	Y_GE15	15 years old and over	90.7956	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	80.70489654	7.614693343	144	Sri Lanka	2018	M	Male	Y_GE15	15 years old and over	92.77293	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	18.66618401	15.36279341	148	Chad	2016	F	Female	Y_GE15	15 years old and over	13.955229999999998	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	18.66618401	15.36279341	148	Chad	2016	M	Male	Y_GE15	15 years old and over	31.32879	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-71.23029019	-35.265288500000004	152	Chile	2017	F	Female	Y_GE15	15 years old and over	96.33402	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-71.23029019	-35.265288500000004	152	Chile	2017	M	Male	Y_GE15	15 years old and over	96.48063	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	104.1403375	32.30955217	156	China	2018	F	Female	Y_GE15	15 years old and over	95.15933000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	104.1403375	32.30955217	156	China	2018	M	Male	Y_GE15	15 years old and over	98.46654000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-73.07446751	3.888209046	170	Colombia	2018	F	Female	Y_GE15	15 years old and over	95.31891999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-73.07446751	3.888209046	170	Colombia	2018	M	Male	Y_GE15	15 years old and over	94.85183	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	43.34234565	-11.66121732	174	Comoros	2018	F	Female	Y_GE15	15 years old and over	52.95639	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	43.34234565	-11.66121732	174	Comoros	2018	M	Male	Y_GE15	15 years old and over	64.6442	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	15.22052612	-0.840544119	178	Congo	2018	F	Female	Y_GE15	15 years old and over	74.61876	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	15.22052612	-0.840544119	178	Congo	2018	M	Male	Y_GE15	15 years old and over	86.07651	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	23.65496507	-2.8771547319999997	180	Democratic Republic of the Congo	2016	F	Female	Y_GE15	15 years old and over	66.49998000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	23.65496507	-2.8771547319999997	180	Democratic Republic of the Congo	2016	M	Male	Y_GE15	15 years old and over	88.52469	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-84.19712782	9.970998683	188	Costa Rica	2018	F	Female	Y_GE15	15 years old and over	97.92443	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-84.19712782	9.970998683	188	Costa Rica	2018	M	Male	Y_GE15	15 years old and over	97.80235	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-79.54460144	22.10030366	192	Cuba	2012	F	Female	Y_GE15	15 years old and over	99.79988	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-79.54460144	22.10030366	192	Cuba	2012	M	Male	Y_GE15	15 years old and over	99.70606	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	2	Sub-region	nan	nan	202	Sub-Saharan Africa	2018	_T	Both sexes or no breakdown by sex	Y_GE15	15 years old and over	0.80883	GPIA	Adjusted Gender Parity Index	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	2.339933594	9.65401646	204	Benin	2018	F	Female	Y_GE15	15 years old and over	31.07165	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	2.339933594	9.65401646	204	Benin	2018	M	Male	Y_GE15	15 years old and over	53.977030000000006	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-70.49847576	18.89832088	214	Dominican Republic	2016	F	Female	Y_GE15	15 years old and over	93.76413000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-70.49847576	18.89832088	214	Dominican Republic	2016	M	Male	Y_GE15	15 years old and over	93.7936	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-78.37005241	-1.4477858909999999	218	Ecuador	2017	F	Female	Y_GE15	15 years old and over	92.08669	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-78.37005241	-1.4477858909999999	218	Ecuador	2017	M	Male	Y_GE15	15 years old and over	93.77906	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-88.86862995	13.73603564	222	El Salvador	2018	F	Female	Y_GE15	15 years old and over	87.23414	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-88.86862995	13.73603564	222	El Salvador	2018	M	Male	Y_GE15	15 years old and over	91.10234	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	39.63505296	8.631223181000001	231	Ethiopia	2017	F	Female	Y_GE15	15 years old and over	44.42338	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	39.63505296	8.631223181000001	231	Ethiopia	2017	M	Male	Y_GE15	15 years old and over	59.24146	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	38.11074289	16.12894644	232	Eritrea	2018	F	Female	Y_GE15	15 years old and over	68.94619	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	38.11074289	16.12894644	232	Eritrea	2018	M	Male	Y_GE15	15 years old and over	84.37324	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	17.57817062	-12.33724746	24	Angola	2014	F	Female	Y_GE15	15 years old and over	53.40721	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	17.57817062	-12.33724746	24	Angola	2014	M	Male	Y_GE15	15 years old and over	79.97415	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	177.96608840000002	-17.83301566	242	Fiji	2017	F	Female	Y_GE15	15 years old and over	99.08583	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	177.96608840000002	-17.83301566	242	Fiji	2017	M	Male	Y_GE15	15 years old and over	99.07844	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	11.78727747	-0.60687619	266	Gabon	2018	F	Female	Y_GE15	15 years old and over	83.42397	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	11.78727747	-0.60687619	266	Gabon	2018	M	Male	Y_GE15	15 years old and over	85.85235	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	43.3713615	42.04813028	268	Georgia	2017	F	Female	Y_GE15	15 years old and over	99.29475	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	43.3713615	42.04813028	268	Georgia	2017	M	Male	Y_GE15	15 years old and over	99.43751999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-15.39944785	13.45295927	270	Gambia	2015	F	Female	Y_GE15	15 years old and over	41.577020000000005	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-15.39944785	13.45295927	270	Gambia	2015	M	Male	Y_GE15	15 years old and over	61.76725	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	35.25694122	31.94347933	275	State of Palestine	2018	F	Female	Y_GE15	15 years old and over	95.74195	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	35.25694122	31.94347933	275	State of Palestine	2018	M	Male	Y_GE15	15 years old and over	98.65776	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-61.7999755	17.07761471	28	Antigua and Barbuda	2015	F	Female	Y_GE15	15 years old and over	99.42	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-61.7999755	17.07761471	28	Antigua and Barbuda	2015	M	Male	Y_GE15	15 years old and over	98.4	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-1.205623522	7.964825185	288	Ghana	2018	F	Female	Y_GE15	15 years old and over	74.47439	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-1.205623522	7.964825185	288	Ghana	2018	M	Male	Y_GE15	15 years old and over	83.52458	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	22.58307827	39.47301873	300	Greece	2018	F	Female	Y_GE15	15 years old and over	97.3941	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	22.58307827	39.47301873	300	Greece	2018	M	Male	Y_GE15	15 years old and over	98.50705	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-61.68248568	12.11238395	308	Grenada	2014	F	Female	Y_GE15	15 years old and over	98.6	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-61.68248568	12.11238395	308	Grenada	2014	M	Male	Y_GE15	15 years old and over	98.58	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	50.01064725	40.39229544	31	Azerbaijan	2017	F	Female	Y_GE15	15 years old and over	99.72199	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	50.01064725	40.39229544	31	Azerbaijan	2017	M	Male	Y_GE15	15 years old and over	99.86375	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-65.14563274	-35.19446255	32	Argentina	2018	F	Female	Y_GE15	15 years old and over	99.06204	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-65.14563274	-35.19446255	32	Argentina	2018	M	Male	Y_GE15	15 years old and over	98.93774	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-91.23127459999999	15.00273719	320	Guatemala	2014	F	Female	Y_GE15	15 years old and over	76.37066	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-91.23127459999999	15.00273719	320	Guatemala	2014	M	Male	Y_GE15	15 years old and over	86.75616	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-11.28173419	11.00210343	324	Guinea	2014	F	Female	Y_GE15	15 years old and over	21.96225	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-11.28173419	11.00210343	324	Guinea	2014	M	Male	Y_GE15	15 years old and over	43.64009	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-58.97322037	4.788012784	328	Guyana	2014	F	Female	Y_GE15	15 years old and over	85.03461	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-58.97322037	4.788012784	328	Guyana	2014	M	Male	Y_GE15	15 years old and over	86.31438	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-72.33640958	18.40426539	332	Haiti	2016	F	Female	Y_GE15	15 years old and over	58.30052	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-72.33640958	18.40426539	332	Haiti	2016	M	Male	Y_GE15	15 years old and over	65.27765	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-86.59974381	14.82243161	340	Honduras	2018	F	Female	Y_GE15	15 years old and over	87.26556	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-86.59974381	14.82243161	340	Honduras	2018	M	Male	Y_GE15	15 years old and over	87.13764	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	19.41221519	47.1651448	348	Hungary	2014	F	Female	Y_GE15	15 years old and over	99.1	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	19.41221519	47.1651448	348	Hungary	2014	M	Male	Y_GE15	15 years old and over	99.16	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	79.3608464	22.34642074	356	India	2018	F	Female	Y_GE15	15 years old and over	65.79081	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	79.3608464	22.34642074	356	India	2018	M	Male	Y_GE15	15 years old and over	82.36671	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	113.9174	-0.9945822040000001	360	Indonesia	2018	F	Female	Y_GE15	15 years old and over	93.99218	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	113.9174	-0.9945822040000001	360	Indonesia	2018	M	Male	Y_GE15	15 years old and over	97.33134	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	54.19766348	32.74370885	364	Iran (Islamic Republic of)	2016	F	Female	Y_GE15	15 years old and over	80.78744	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	54.19766348	32.74370885	364	Iran (Islamic Republic of)	2016	M	Male	Y_GE15	15 years old and over	90.35240999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	43.76606267	33.05013795	368	Iraq	2017	F	Female	Y_GE15	15 years old and over	79.9	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	43.76606267	33.05013795	368	Iraq	2017	M	Male	Y_GE15	15 years old and over	91.2	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	12.57022427	42.79917282	380	Italy	2018	F	Female	Y_GE15	15 years old and over	98.97192	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	12.57022427	42.79917282	380	Italy	2018	M	Male	Y_GE15	15 years old and over	99.35345	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-5.552690016000001	7.62211586	384	Côte d'Ivoire	2018	F	Female	Y_GE15	15 years old and over	40.49937	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-5.552690016000001	7.62211586	384	Côte d'Ivoire	2018	M	Male	Y_GE15	15 years old and over	53.656940000000006	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-77.31068409	18.15616857	388	Jamaica	2014	F	Female	Y_GE15	15 years old and over	92.7	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-77.31068409	18.15616857	388	Jamaica	2014	M	Male	Y_GE15	15 years old and over	83.44	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	66.65359159	48.01963494	398	Kazakhstan	2018	F	Female	Y_GE15	15 years old and over	99.73899	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	66.65359159	48.01963494	398	Kazakhstan	2018	M	Male	Y_GE15	15 years old and over	99.82968000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	66.02688198	33.83160199	4	Afghanistan	2018	F	Female	Y_GE15	15 years old and over	29.80521	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	66.02688198	33.83160199	4	Afghanistan	2018	M	Male	Y_GE15	15 years old and over	55.47545	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	37.13024774	30.65365973	400	Jordan	2018	F	Female	Y_GE15	15 years old and over	97.83208	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	37.13024774	30.65365973	400	Jordan	2018	M	Male	Y_GE15	15 years old and over	98.61421	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	37.86096816	0.534797278	404	Kenya	2018	F	Female	Y_GE15	15 years old and over	78.18893	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	37.86096816	0.534797278	404	Kenya	2018	M	Male	Y_GE15	15 years old and over	84.98883000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	47.49305029	29.53949468	414	Kuwait	2018	F	Female	Y_GE15	15 years old and over	94.90516	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	47.49305029	29.53949468	414	Kuwait	2018	M	Male	Y_GE15	15 years old and over	96.66646	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	74.52324839	41.46204516	417	Kyrgyzstan	2018	F	Female	Y_GE15	15 years old and over	99.49972	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	74.52324839	41.46204516	417	Kyrgyzstan	2018	M	Male	Y_GE15	15 years old and over	99.67701	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	101.99019679999999	20.27482773	418	Lao People's Democratic Republic	2015	F	Female	Y_GE15	15 years old and over	79.39104	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	101.99019679999999	20.27482773	418	Lao People's Democratic Republic	2015	M	Male	Y_GE15	15 years old and over	89.96128	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	2	Sub-region	nan	nan	419	Latin America and the Caribbean	2018	_T	Both sexes or no breakdown by sex	Y_GE15	15 years old and over	0.99087	GPIA	Adjusted Gender Parity Index	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	35.89391711	33.92152458	422	Lebanon	2018	F	Female	Y_GE15	15 years old and over	93.30501	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	35.89391711	33.92152458	422	Lebanon	2018	M	Male	Y_GE15	15 years old and over	96.85466	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	28.25362195	-29.58041814	426	Lesotho	2014	F	Female	Y_GE15	15 years old and over	84.93489	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	28.25362195	-29.58041814	426	Lesotho	2014	M	Male	Y_GE15	15 years old and over	67.74746999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	26.42461876	56.64196636	428	Latvia	2018	F	Female	Y_GE15	15 years old and over	99.9064	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	26.42461876	56.64196636	428	Latvia	2018	M	Male	Y_GE15	15 years old and over	99.86837	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-9.311879037999999	6.448381008999999	430	Liberia	2017	F	Female	Y_GE15	15 years old and over	34.092259999999996	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-9.311879037999999	6.448381008999999	430	Liberia	2017	M	Male	Y_GE15	15 years old and over	62.69656	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	113.5665388	22.1237259	446	China, Macao Special Administrative Region	2016	F	Female	Y_GE15	15 years old and over	95.03256999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	113.5665388	22.1237259	446	China, Macao Special Administrative Region	2016	M	Male	Y_GE15	15 years old and over	98.18592	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	46.6982339	-19.38514785	450	Madagascar	2018	F	Female	Y_GE15	15 years old and over	72.38409	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	46.6982339	-19.38514785	450	Madagascar	2018	M	Male	Y_GE15	15 years old and over	77.27514000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	33.4884625	-13.40819859	454	Malawi	2015	F	Female	Y_GE15	15 years old and over	55.20411	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	33.4884625	-13.40819859	454	Malawi	2015	M	Male	Y_GE15	15 years old and over	69.75397	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	116.8346314	5.452415309	458	Malaysia	2018	F	Female	Y_GE15	15 years old and over	93.50483	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	116.8346314	5.452415309	458	Malaysia	2018	M	Male	Y_GE15	15 years old and over	96.12305	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	73.09672546	-0.614385021	462	Maldives	2016	F	Female	Y_GE15	15 years old and over	98.11471	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	73.09672546	-0.614385021	462	Maldives	2016	M	Male	Y_GE15	15 years old and over	97.29893	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-3.522016039	17.35311254	466	Mali	2018	F	Female	Y_GE15	15 years old and over	25.73516	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-3.522016039	17.35311254	466	Mali	2018	M	Male	Y_GE15	15 years old and over	46.18414	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	14.44617519	35.89194275	470	Malta	2018	F	Female	Y_GE15	15 years old and over	95.98872	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	14.44617519	35.89194275	470	Malta	2018	M	Male	Y_GE15	15 years old and over	93.00997	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-10.33187259	20.26089546	478	Mauritania	2017	F	Female	Y_GE15	15 years old and over	43.35439	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-10.33187259	20.26089546	478	Mauritania	2017	M	Male	Y_GE15	15 years old and over	63.74855	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	50.54907539999999	26.04407747	48	Bahrain	2018	F	Female	Y_GE15	15 years old and over	94.94888	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	50.54907539999999	26.04407747	48	Bahrain	2018	M	Male	Y_GE15	15 years old and over	98.76317	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	57.568022	-20.28581998	480	Mauritius	2018	F	Female	Y_GE15	15 years old and over	89.36638	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	57.568022	-20.28581998	480	Mauritius	2018	M	Male	Y_GE15	15 years old and over	93.35735	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-102.5148166	23.93378032	484	Mexico	2018	F	Female	Y_GE15	15 years old and over	94.60805	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-102.5148166	23.93378032	484	Mexico	2018	M	Male	Y_GE15	15 years old and over	96.2329	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	103.0728057	46.83892054	496	Mongolia	2018	F	Female	Y_GE15	15 years old and over	98.64889000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	103.0728057	46.83892054	496	Mongolia	2018	M	Male	Y_GE15	15 years old and over	98.18601	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	28.4650624	47.20236795	498	Republic of Moldova	2014	F	Female	Y_GE15	15 years old and over	99.14041999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	28.4650624	47.20236795	498	Republic of Moldova	2014	M	Male	Y_GE15	15 years old and over	99.60200999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	19.25214024	42.78717043	499	Montenegro	2018	F	Female	Y_GE15	15 years old and over	98.27135	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	19.25214024	42.78717043	499	Montenegro	2018	M	Male	Y_GE15	15 years old and over	99.45047	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	89.17660788	22.86961622	50	Bangladesh	2018	F	Female	Y_GE15	15 years old and over	71.18194	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	89.17660788	22.86961622	50	Bangladesh	2018	M	Male	Y_GE15	15 years old and over	76.66926	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-6.281942841	31.844013099999998	504	Morocco	2018	F	Female	Y_GE15	15 years old and over	64.59138	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-6.281942841	31.844013099999998	504	Morocco	2018	M	Male	Y_GE15	15 years old and over	83.30135	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	38.18479941	-14.27963886	508	Mozambique	2017	F	Female	Y_GE15	15 years old and over	50.29514	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	38.18479941	-14.27963886	508	Mozambique	2017	M	Male	Y_GE15	15 years old and over	72.59945	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	44.93839317	40.29499741	51	Armenia	2017	F	Female	Y_GE15	15 years old and over	99.67716	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	44.93839317	40.29499741	51	Armenia	2017	M	Male	Y_GE15	15 years old and over	99.8055	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	57.87743482	21.98805614	512	Oman	2018	F	Female	Y_GE15	15 years old and over	92.69399	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	57.87743482	21.98805614	512	Oman	2018	M	Male	Y_GE15	15 years old and over	96.98942	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-59.53464889999999	13.13648273	52	Barbados	2014	F	Female	Y_GE15	15 years old and over	99.6	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-59.53464889999999	13.13648273	52	Barbados	2014	M	Male	Y_GE15	15 years old and over	99.6	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	83.94678863	28.25866332	524	Nepal	2018	F	Female	Y_GE15	15 years old and over	59.724430000000005	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	83.94678863	28.25866332	524	Nepal	2018	M	Male	Y_GE15	15 years old and over	78.59134	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-69.97050586	12.50878756	533	Aruba	2018	F	Female	Y_GE15	15 years old and over	97.81268	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-69.97050586	12.50878756	533	Aruba	2018	M	Male	Y_GE15	15 years old and over	97.80013000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	167.06797790000002	-15.34445547	548	Vanuatu	2018	F	Female	Y_GE15	15 years old and over	86.70609	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	167.06797790000002	-15.34445547	548	Vanuatu	2018	M	Male	Y_GE15	15 years old and over	88.30635	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-85.03060315	12.84210839	558	Nicaragua	2015	F	Female	Y_GE15	15 years old and over	82.77935	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-85.03060315	12.84210839	558	Nicaragua	2015	M	Male	Y_GE15	15 years old and over	82.43855	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	9.400167877000001	17.42143036	562	Niger	2012	F	Female	Y_GE15	15 years old and over	22.551289999999998	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	9.400167877000001	17.42143036	562	Niger	2012	M	Male	Y_GE15	15 years old and over	39.058690000000006	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	8.097363256	9.585789025	566	Nigeria	2018	F	Female	Y_GE15	15 years old and over	52.65648	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	8.097363256	9.585789025	566	Nigeria	2018	M	Male	Y_GE15	15 years old and over	71.25571	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	134.5733878	7.502307591	585	Palau	2015	F	Female	Y_GE15	15 years old and over	96.34015	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	134.5733878	7.502307591	585	Palau	2015	M	Male	Y_GE15	15 years old and over	96.81275	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	68.80479684	29.36491634	586	Pakistan	2017	F	Female	Y_GE15	15 years old and over	46.46767	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	68.80479684	29.36491634	586	Pakistan	2017	M	Male	Y_GE15	15 years old and over	71.116	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-81.26616623	8.450965746	591	Panama	2018	F	Female	Y_GE15	15 years old and over	94.88172	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-81.26616623	8.450965746	591	Panama	2018	M	Male	Y_GE15	15 years old and over	95.96893	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-60.54854225	-21.70216237	600	Paraguay	2018	F	Female	Y_GE15	15 years old and over	93.53171	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-60.54854225	-21.70216237	600	Paraguay	2018	M	Male	Y_GE15	15 years old and over	94.51148	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-71.82093277	-13.58939705	604	Peru	2018	F	Female	Y_GE15	15 years old and over	91.70311	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-71.82093277	-13.58939705	604	Peru	2018	M	Male	Y_GE15	15 years old and over	97.12137	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	120.86014180000001	14.16591706	608	Philippines	2015	F	Female	Y_GE15	15 years old and over	98.24175	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	120.86014180000001	14.16591706	608	Philippines	2015	M	Male	Y_GE15	15 years old and over	98.12325	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	2	Sub-region	nan	nan	62	Central and Southern Asia	2018	_T	Both sexes or no breakdown by sex	Y_GE15	15 years old and over	0.80991	GPIA	Adjusted Gender Parity Index	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-7.961599811	39.68509315	620	Portugal	2018	F	Female	Y_GE15	15 years old and over	95.07252	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-7.961599811	39.68509315	620	Portugal	2018	M	Male	Y_GE15	15 years old and over	97.35361999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-14.40182514	12.11760394	624	Guinea-Bissau	2014	F	Female	Y_GE15	15 years old and over	30.76851	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-14.40182514	12.11760394	624	Guinea-Bissau	2014	M	Male	Y_GE15	15 years old and over	62.15797	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	125.94510520000001	-8.797497247	626	Timor-Leste	2018	F	Female	Y_GE15	15 years old and over	64.21094000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	125.94510520000001	-8.797497247	626	Timor-Leste	2018	M	Male	Y_GE15	15 years old and over	71.86872	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	51.19152467	25.28355379	634	Qatar	2017	F	Female	Y_GE15	15 years old and over	94.71151	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	51.19152467	25.28355379	634	Qatar	2017	M	Male	Y_GE15	15 years old and over	93.14446	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	90.45098484	27.39598568	64	Bhutan	2017	F	Female	Y_GE15	15 years old and over	57.083619999999996	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	90.45098484	27.39598568	64	Bhutan	2017	M	Male	Y_GE15	15 years old and over	75.01985	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	24.98481009	45.83893563	642	Romania	2018	F	Female	Y_GE15	15 years old and over	98.59976999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	24.98481009	45.83893563	642	Romania	2018	M	Male	Y_GE15	15 years old and over	99.10801	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	99.01404926	61.61899849	643	Russian Federation	2018	F	Female	Y_GE15	15 years old and over	99.73411	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	99.01404926	61.61899849	643	Russian Federation	2018	M	Male	Y_GE15	15 years old and over	99.72516	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	29.92310194	-1.999842114	646	Rwanda	2018	F	Female	Y_GE15	15 years old and over	69.39454	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	29.92310194	-1.999842114	646	Rwanda	2018	M	Male	Y_GE15	15 years old and over	77.5588	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	12.46329038	43.93841766	674	San Marino	2018	F	Female	Y_GE15	15 years old and over	99.90191	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	12.46329038	43.93841766	674	San Marino	2018	M	Male	Y_GE15	15 years old and over	99.93208	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	6.609772265	0.241554875	678	Sao Tome and Principe	2018	F	Female	Y_GE15	15 years old and over	89.51573	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	6.609772265	0.241554875	678	Sao Tome and Principe	2018	M	Male	Y_GE15	15 years old and over	96.16268000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-64.66224284	-16.71273412	68	Bolivia (Plurinational State of)	2015	F	Female	Y_GE15	15 years old and over	88.58286	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-64.66224284	-16.71273412	68	Bolivia (Plurinational State of)	2015	M	Male	Y_GE15	15 years old and over	96.52275	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	44.54763347	24.12594211	682	Saudi Arabia	2017	F	Female	Y_GE15	15 years old and over	92.7072	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	44.54763347	24.12594211	682	Saudi Arabia	2017	M	Male	Y_GE15	15 years old and over	97.10370999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-14.46636926	14.35920905	686	Senegal	2017	F	Female	Y_GE15	15 years old and over	39.798559999999995	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-14.46636926	14.35920905	686	Senegal	2017	M	Male	Y_GE15	15 years old and over	64.81228	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	20.805876	44.03145697	688	Serbia	2016	F	Female	Y_GE15	15 years old and over	98.22828	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	20.805876	44.03145697	688	Serbia	2016	M	Male	Y_GE15	15 years old and over	99.4997	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	55.46561591	-4.678053059	690	Seychelles	2018	F	Female	Y_GE15	15 years old and over	96.3502	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	55.46561591	-4.678053059	690	Seychelles	2018	M	Male	Y_GE15	15 years old and over	95.41176	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-11.78306584	8.568604164	694	Sierra Leone	2018	F	Female	Y_GE15	15 years old and over	34.85203	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-11.78306584	8.568604164	694	Sierra Leone	2018	M	Male	Y_GE15	15 years old and over	51.646879999999996	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	17.78584332	44.16845548	70	Bosnia and Herzegovina	2013	F	Female	Y_GE15	15 years old and over	94.91049	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	17.78584332	44.16845548	70	Bosnia and Herzegovina	2013	M	Male	Y_GE15	15 years old and over	99.17628	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	103.81078829999998	1.361009155	702	Singapore	2018	F	Female	Y_GE15	15 years old and over	95.91941	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	103.81078829999998	1.361009155	702	Singapore	2018	M	Male	Y_GE15	15 years old and over	98.8509	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	105.802499	10.09643079	704	Viet Nam	2018	F	Female	Y_GE15	15 years old and over	93.59671	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	105.802499	10.09643079	704	Viet Nam	2018	M	Male	Y_GE15	15 years old and over	96.45678000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	14.82209486	46.11958061	705	Slovenia	2014	F	Female	Y_GE15	15 years old and over	99.6	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	14.82209486	46.11958061	705	Slovenia	2014	M	Male	Y_GE15	15 years old and over	99.69	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	24.67184355	-29.99957544	710	South Africa	2017	F	Female	Y_GE15	15 years old and over	86.45863	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	24.67184355	-29.99957544	710	South Africa	2017	M	Male	Y_GE15	15 years old and over	87.67775	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	29.86909584	-19.00075492	716	Zimbabwe	2014	F	Female	Y_GE15	15 years old and over	88.28383000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	29.86909584	-19.00075492	716	Zimbabwe	2014	M	Male	Y_GE15	15 years old and over	89.18536999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	23.81380223	-22.18810073	72	Botswana	2013	F	Female	Y_GE15	15 years old and over	87.45121	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	23.81380223	-22.18810073	72	Botswana	2013	M	Male	Y_GE15	15 years old and over	86.12214	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-3.554078296	40.39211472	724	Spain	2018	F	Female	Y_GE15	15 years old and over	97.97378	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-3.554078296	40.39211472	724	Spain	2018	M	Male	Y_GE15	15 years old and over	98.92539000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	30.32618773	7.290839152	728	South Sudan	2018	F	Female	Y_GE15	15 years old and over	28.864259999999998	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	30.32618773	7.290839152	728	South Sudan	2018	M	Male	Y_GE15	15 years old and over	40.26481	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	29.95650159	16.02643066	729	Sudan	2018	F	Female	Y_GE15	15 years old and over	56.063230000000004	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	29.95650159	16.02643066	729	Sudan	2018	M	Male	Y_GE15	15 years old and over	65.43515	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-55.90626394	4.132603197	740	Suriname	2018	F	Female	Y_GE15	15 years old and over	92.71206	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-55.90626394	4.132603197	740	Suriname	2018	M	Male	Y_GE15	15 years old and over	96.07404	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	2	Sub-region	nan	nan	747	Northern Africa and Western Asia	2018	_T	Both sexes or no breakdown by sex	Y_GE15	15 years old and over	0.8687	GPIA	Adjusted Gender Parity Index	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	31.50149288	-26.56471011	748	Eswatini	2018	F	Female	Y_GE15	15 years old and over	88.54269000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	31.50149288	-26.56471011	748	Eswatini	2018	M	Male	Y_GE15	15 years old and over	88.28758	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	2	Sub-region	nan	nan	753	Eastern and South-Eastern Asia	2018	_T	Both sexes or no breakdown by sex	Y_GE15	15 years old and over	0.9661	GPIA	Adjusted Gender Parity Index	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-53.08432878	-10.77668561	76	Brazil	2018	F	Female	Y_GE15	15 years old and over	93.42506999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-53.08432878	-10.77668561	76	Brazil	2018	M	Male	Y_GE15	15 years old and over	93.00904	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	69.29499799999999	38.43069666	762	Tajikistan	2014	F	Female	Y_GE15	15 years old and over	99.7	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	69.29499799999999	38.43069666	762	Tajikistan	2014	M	Male	Y_GE15	15 years old and over	99.82	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	101.02029509999998	15.13089239	764	Thailand	2018	F	Female	Y_GE15	15 years old and over	92.42856	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	101.02029509999998	15.13089239	764	Thailand	2018	M	Male	Y_GE15	15 years old and over	95.20239000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	0.97835765	8.532096072	768	Togo	2015	F	Female	Y_GE15	15 years old and over	51.24178	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	0.97835765	8.532096072	768	Togo	2015	M	Male	Y_GE15	15 years old and over	77.25943000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-175.1959991	-21.19511329	776	Tonga	2018	F	Female	Y_GE15	15 years old and over	99.47503	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-175.1959991	-21.19511329	776	Tonga	2018	M	Male	Y_GE15	15 years old and over	99.35098	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	53.98279159	23.43322219	784	United Arab Emirates	2015	F	Female	Y_GE15	15 years old and over	95.09761	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	53.98279159	23.43322219	784	United Arab Emirates	2015	M	Male	Y_GE15	15 years old and over	92.55615999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	9.572737411	34.11439971	788	Tunisia	2014	F	Female	Y_GE15	15 years old and over	72.22377	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	9.572737411	34.11439971	788	Tunisia	2014	M	Male	Y_GE15	15 years old and over	86.06012	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	35.42890329	38.9899684	792	Turkey	2017	F	Female	Y_GE15	15 years old and over	93.49826999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	35.42890329	38.9899684	792	Turkey	2017	M	Male	Y_GE15	15 years old and over	98.81996	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	58.978766500000006	40.0912346	795	Turkmenistan	2014	F	Female	Y_GE15	15 years old and over	99.6	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	58.978766500000006	40.0912346	795	Turkmenistan	2014	M	Male	Y_GE15	15 years old and over	99.75	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	20.06660928	41.13897007	8	Albania	2018	F	Female	Y_GE15	15 years old and over	97.76111999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	20.06660928	41.13897007	8	Albania	2018	M	Male	Y_GE15	15 years old and over	98.51361999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	32.39100438	1.279557331	800	Uganda	2018	F	Female	Y_GE15	15 years old and over	70.83806	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	32.39100438	1.279557331	800	Uganda	2018	M	Male	Y_GE15	15 years old and over	82.65601	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	31.40270802	49.00735945	804	Ukraine	2012	F	Female	Y_GE15	15 years old and over	99.9582	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	31.40270802	49.00735945	804	Ukraine	2012	M	Male	Y_GE15	15 years old and over	99.99394000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	21.700790899999998	41.60048068	807	North Macedonia	2014	F	Female	Y_GE15	15 years old and over	96.7	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	21.700790899999998	41.60048068	807	North Macedonia	2014	M	Male	Y_GE15	15 years old and over	98.81	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	29.77468534	26.57438204	818	Egypt	2017	F	Female	Y_GE15	15 years old and over	65.50569	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	29.77468534	26.57438204	818	Egypt	2017	M	Male	Y_GE15	15 years old and over	76.49521999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	34.80521182	-6.265332606	834	United Republic of Tanzania	2015	F	Female	Y_GE15	15 years old and over	73.09383000000001	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	34.80521182	-6.265332606	834	United Republic of Tanzania	2015	M	Male	Y_GE15	15 years old and over	83.20485	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-1.7428438290000001	12.27491081	854	Burkina Faso	2018	F	Female	Y_GE15	15 years old and over	32.68762	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-1.7428438290000001	12.27491081	854	Burkina Faso	2018	M	Male	Y_GE15	15 years old and over	50.07459	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-56.01387025	-32.800283799999995	858	Uruguay	2018	F	Female	Y_GE15	15 years old and over	99.00774	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-56.01387025	-32.800283799999995	858	Uruguay	2018	M	Male	Y_GE15	15 years old and over	98.37136	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	63.11944558	41.77560518	860	Uzbekistan	2018	F	Female	Y_GE15	15 years old and over	99.98586999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	63.11944558	41.77560518	860	Uzbekistan	2018	M	Male	Y_GE15	15 years old and over	100.0	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-66.15642084	7.121324747999999	862	Venezuela (Bolivarian Republic of)	2016	F	Female	Y_GE15	15 years old and over	97.21370999999999	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-66.15642084	7.121324747999999	862	Venezuela (Bolivarian Republic of)	2016	M	Male	Y_GE15	15 years old and over	97.03911	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-172.4430749	-13.61541469	882	Samoa	2018	F	Female	Y_GE15	15 years old and over	99.24504	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	-172.4430749	-13.61541469	882	Samoa	2018	M	Male	Y_GE15	15 years old and over	98.95609	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	27.850329	-14.59701056	894	Zambia	2018	F	Female	Y_GE15	15 years old and over	83.08344	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	27.850329	-14.59701056	894	Zambia	2018	M	Male	Y_GE15	15 years old and over	90.60118	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	114.62885630000001	4.49736984	96	Brunei Darussalam	2018	F	Female	Y_GE15	15 years old and over	96.30126	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
+S_0350	Literacy rate	G	Global	4	Country or Area	114.62885630000001	4.49736984	96	Brunei Darussalam	2018	M	Male	Y_GE15	15 years old and over	98.05362	PT	Percent	0	Units	nan	nan	UNESCO/UIS	nan	nan	nan
