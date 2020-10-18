@@ -1,0 +1,1489 @@
+
+=======================================================
+narrative_id=	ND2
+title=	Women as decision makers in the corporate world
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=894bed8498eb449a983af8b33a7125f3
+=======================================================
+	<a class="narrative-ref" href="#ND1" target="_blank">women in senior management and in top executive positions</a>
+	href=	#ND1
+	text=	women in senior management and in top executive positions
+	linked_narrative_id =	ND1
+	narrative_metadata_title:	Women in managerial positions 
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/0d1ff2530f17451bb8437c6ea584282e#ND1
+	---------------------------------
+=======================================================
+narrative_id=	NV1
+title=	Intimate partner violence
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=50dd1b2d6167437693178836261522e6
+=======================================================
+	<a class="narrative-ref" href="#NV7" target="_blank">killed</a>
+	href=	#NV7
+	text=	killed
+	linked_narrative_id =	NV7
+	narrative_metadata_title:	Intimate partner and family-related homicide
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/f59163868d1d48d59723c8686af8a37b#NV7
+	---------------------------------
+	<a class="narrative-ref" href="#NV10" target="_blank">Kazakhstan</a>
+	href=	#NV10
+	text=	Kazakhstan
+	linked_narrative_id =	NV10
+	narrative_metadata_title:	Women judges
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/1335cc5daa22445d9643ea04088a850a#NV10
+	---------------------------------
+	<a class="narrative-ref" href="#NV11" target="_blank">Mexico</a>
+	href=	#NV11
+	text=	Mexico
+	linked_narrative_id =	NV11
+	narrative_metadata_title:	Women in the police
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/1e36dc844718461b8a18ebf3e8a15858#NV11
+	---------------------------------
+=======================================================
+narrative_id=	NV5
+title=	Female genital mutilation
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=a362d61f439e47e1910069936cac3da3
+=======================================================
+=======================================================
+narrative_id=	NV8
+title=	Femicide in Latin America and the Caribbean [ECLAC]
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=1e0b01c9ef34415bac07df60c1aa30c0
+=======================================================
+	<a class="narrative-ref" href="#NV7" target="_blank">Femicide</a>
+	href=	#NV7
+	text=	Femicide
+	linked_narrative_id =	NV7
+	narrative_metadata_title:	Intimate partner and family-related homicide
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/f59163868d1d48d59723c8686af8a37b#NV7
+	---------------------------------
+	<a class="narrative-ref" href="#NV1" target="_blank">physical or sexual violence by an intimate partner</a>
+	href=	#NV1
+	text=	physical or sexual violence by an intimate partner
+	linked_narrative_id =	NV1
+	narrative_metadata_title:	Intimate partner violence
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/50dd1b2d6167437693178836261522e6#NV1
+	---------------------------------
+=======================================================
+narrative_id=	NH9
+title=	Deaths among people aged 30–70 from non-communicable diseases
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=b4595513eee24d9aa4a7677b2e2d6784
+=======================================================
+	<a class="narrative-ref" href="#NH6" target="_blank">risk factors</a>
+	href=	#NH6
+	text=	risk factors
+	linked_narrative_id =	NH6
+	narrative_metadata_title:	Health risk factors
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/022ab89e10d04700901ced2a133eda86#NH6
+	---------------------------------
+	<a class="narrative-ref" href="#NH11" target="_blank">cancers</a>
+	href=	#NH11
+	text=	cancers
+	linked_narrative_id =	NH11
+	narrative_metadata_title:	Leading causes of death among women and men aged 50 and older
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/527e660cda4c470980fca8eca7b2c3fc#NH11
+	---------------------------------
+	<a class="narrative-ref" href="#NH11" target="_blank">cancer rates</a>
+	href=	#NH11
+	text=	cancer rates
+	linked_narrative_id =	NH11
+	narrative_metadata_title:	Leading causes of death among women and men aged 50 and older
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/527e660cda4c470980fca8eca7b2c3fc#NH11
+	---------------------------------
+	<a class="narrative-ref" href="#NH6" target="_blank">risk factors</a>
+	href=	#NH6
+	text=	risk factors
+	linked_narrative_id =	NH6
+	narrative_metadata_title:	Health risk factors
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/022ab89e10d04700901ced2a133eda86#NH6
+	---------------------------------
+	<a class="narrative-ref" href="#NH12" target="_blank"><span class="label-ref">COVID-19</span></a>
+	href=	#NH12
+	text=	COVID-19
+	linked_narrative_id =	NH12
+	narrative_metadata_title:	Coronavirus-19: gender and health
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/2546f9aed54c4f1d8d07e65f99a55365#NH12
+	---------------------------------
+=======================================================
+narrative_id=	NV11
+title=	Women in the police
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=1e36dc844718461b8a18ebf3e8a15858
+=======================================================
+=======================================================
+narrative_id=	NV12
+title=	Attitudes towards physical violence against women
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=f47f85a0e8d64a01a8d9613ad30b84cf
+=======================================================
+	<a class="narrative-ref" href="#NV1" target="_blank">Intimate partner physical and/or sexual violence</a>
+	href=	#NV1
+	text=	Intimate partner physical and/or sexual violence
+	linked_narrative_id =	NV1
+	narrative_metadata_title:	Intimate partner violence
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/50dd1b2d6167437693178836261522e6#NV1
+	---------------------------------
+=======================================================
+narrative_id=	ND1
+title=	Women in managerial positions 
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=0d1ff2530f17451bb8437c6ea584282e
+=======================================================
+	<a class="narrative-ref" href="#NW1" target="_blank">workforce worldwide</a>
+	href=	#NW1
+	text=	workforce worldwide
+	linked_narrative_id =	NW1
+	narrative_metadata_title:	Women and men in the labour force
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/27c1c1ad540347aabc70434238223919#NW1
+	---------------------------------
+	<a class="narrative-ref" href="#ND2" target="_blank">Women in power and decision-making positions in the corporate world</a>
+	href=	#ND2
+	text=	Women in power and decision-making positions in the corporate world
+	linked_narrative_id =	ND2
+	narrative_metadata_title:	Women as decision makers in the corporate world
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/894bed8498eb449a983af8b33a7125f3#ND2
+	---------------------------------
+=======================================================
+narrative_id=	ND4
+title=	Women in the civil service
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=37fa373e01954551a8aaf81a62b3e15c
+=======================================================
+=======================================================
+narrative_id=	ND9
+title=	Women in local government [UN Women]
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=b61f8ad6e9644b4d8bc4949a107dea56
+=======================================================
+	<a class="narrative-ref" href="#ND6" target="_blank">national parliaments</a>
+	href=	#ND6
+	text=	national parliaments
+	linked_narrative_id =	ND6
+	narrative_metadata_title:	Women in national parliaments
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/abc5dcf8f01342adbc9578b4677e4832#ND6
+	---------------------------------
+	<a class="narrative-ref" href="#ND6" target="_blank">Women in national parliaments</a>
+	href=	#ND6
+	text=	Women in national parliaments
+	linked_narrative_id =	ND6
+	narrative_metadata_title:	Women in national parliaments
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/abc5dcf8f01342adbc9578b4677e4832#ND6
+	---------------------------------
+	<a class="narrative-ref" href="#ND7" target="_blank">Women in national parliaments and local governments in Mexico</a>
+	href=	#ND7
+	text=	Women in national parliaments and local governments in Mexico
+	linked_narrative_id =	ND7
+	narrative_metadata_title:	Mexico: women in the national parliament and in local government
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/1e9b7eb1a122470cae88c09a0dc8b3e9#ND7
+	---------------------------------
+	<a class="narrative-ref" href="#ND10" target="_blank">Women in politics and decision-making positions in Africa</a>
+	href=	#ND10
+	text=	Women in politics and decision-making positions in Africa
+	linked_narrative_id =	ND10
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+=======================================================
+narrative_id=	NW1
+title=	Women and men in the labour force
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=27c1c1ad540347aabc70434238223919
+=======================================================
+	<a class="narrative-ref" href="#NW8" target="_blank">discriminatory social norms</a>
+	href=	#NW8
+	text=	discriminatory social norms
+	linked_narrative_id =	NW8
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NW11" target="_blank">equal rights</a>
+	href=	#NW11
+	text=	equal rights
+	linked_narrative_id =	NW11
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NW24" target="_blank">paid leave</a>
+	href=	#NW24
+	text=	paid leave
+	linked_narrative_id =	NW24
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NE11" target="_blank">educational participation</a>
+	href=	#NE11
+	text=	educational participation
+	linked_narrative_id =	NE11
+	narrative_metadata_title:	Gender parity index of the gross enrolment ratios in primary, secondary and tertiary education
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/42bffbd08fb542ecadd0dd43a588c1b9#NE11
+	---------------------------------
+	<a class="narrative-ref" href="#NW25" target="_blank">unpaid care work</a>
+	href=	#NW25
+	text=	unpaid care work
+	linked_narrative_id =	NW25
+	narrative_metadata_title:	Time spent in unpaid work; total work burden; and work-life balance
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/6f02cbbfb8d34cb7806d21f4bd14e826#NW25
+	---------------------------------
+	<a class="narrative-ref" href="#NP18" target="_blank">Lone mothers with children</a>
+	href=	#NP18
+	text=	Lone mothers with children
+	linked_narrative_id =	NP18
+	narrative_metadata_title:	One-parent households
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/d5b5980632a8472a91211a7e94abcfb8#NP18
+	---------------------------------
+	<a class="narrative-ref" href="#NW25" target="_blank">unpaid domestic and care work</a>
+	href=	#NW25
+	text=	unpaid domestic and care work
+	linked_narrative_id =	NW25
+	narrative_metadata_title:	Time spent in unpaid work; total work burden; and work-life balance
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/6f02cbbfb8d34cb7806d21f4bd14e826#NW25
+	---------------------------------
+=======================================================
+narrative_id=	NW4
+title=	Women and men in part-time employment
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=11b52c23c621480db0f9017fa5bff63b
+=======================================================
+	<a class="narrative-ref" href="#NW26" target="_blank">unemployment benefits</a>
+	href=	#NW26
+	text=	unemployment benefits
+	linked_narrative_id =	NW26
+	narrative_metadata_title:	Unemployment rate by sex, age and persons with disabilities
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/3cbb3176f1434be9998a51378715e290#NW26
+	---------------------------------
+	<a class="narrative-ref" href="#NW26" target="_blank">informal employment</a>
+	href=	#NW26
+	text=	informal employment
+	linked_narrative_id =	NW26
+	narrative_metadata_title:	Unemployment rate by sex, age and persons with disabilities
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/3cbb3176f1434be9998a51378715e290#NW26
+	---------------------------------
+	<a class="narrative-ref" href="#NW31" target="_blank">Switzerland</a>
+	href=	#NW31
+	text=	Switzerland
+	linked_narrative_id =	NW31
+	narrative_metadata_title:	Switzerland: employment models in couple households
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/2bb9274fcdb84ff781d49734e814f03f#NW31
+	---------------------------------
+=======================================================
+narrative_id=	NW5
+title=	Women and men in informal employment by sector 
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=80c59f2ac4ac457c8f5b4223992fb06f
+=======================================================
+	<a class="narrative-ref" href="#NW2" target="_blank">economic sectors</a>
+	href=	#NW2
+	text=	economic sectors
+	linked_narrative_id =	NW2
+	narrative_metadata_title:	Employment of women and men by economic sector
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/16cf3ba269944620b610ef7f80671fd3#NW2
+	---------------------------------
+	<a class="narrative-ref" href="#NW1" target="_blank">labour force participation</a>
+	href=	#NW1
+	text=	labour force participation
+	linked_narrative_id =	NW1
+	narrative_metadata_title:	Women and men in the labour force
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/27c1c1ad540347aabc70434238223919#NW1
+	---------------------------------
+	<a class="narrative-ref" href="#NW26" target="_blank">the region with the lowest proportion of people (3%) receiving unemployment benefits</a>
+	href=	#NW26
+	text=	the region with the lowest proportion of people (3%) receiving unemployment benefits
+	linked_narrative_id =	NW26
+	narrative_metadata_title:	Unemployment rate by sex, age and persons with disabilities
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/3cbb3176f1434be9998a51378715e290#NW26
+	---------------------------------
+	<a class="narrative-ref" href="#NW4" target="_blank">part time employment</a>
+	href=	#NW4
+	text=	part time employment
+	linked_narrative_id =	NW4
+	narrative_metadata_title:	Women and men in part-time employment
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/11b52c23c621480db0f9017fa5bff63b#NW4
+	---------------------------------
+=======================================================
+narrative_id=	NW18
+title=	Youth not in education, employment or training (NEET)
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=a0e8cdf5770e41bca0f4b94df37131b2
+=======================================================
+	<a class="narrative-ref" href="#NW26" target="_blank">unemployment rate</a>
+	href=	#NW26
+	text=	unemployment rate
+	linked_narrative_id =	NW26
+	narrative_metadata_title:	Unemployment rate by sex, age and persons with disabilities
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/3cbb3176f1434be9998a51378715e290#NW26
+	---------------------------------
+	<a class="narrative-ref" href="#NW25" target="_blank">unpaid domestic and care work</a>
+	href=	#NW25
+	text=	unpaid domestic and care work
+	linked_narrative_id =	NW25
+	narrative_metadata_title:	Time spent in unpaid work; total work burden; and work-life balance
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/6f02cbbfb8d34cb7806d21f4bd14e826#NW25
+	---------------------------------
+	<a class="narrative-ref" href="#NW8" target="_blank">social norms</a>
+	href=	#NW8
+	text=	social norms
+	linked_narrative_id =	NW8
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NW11" target="_blank">legal barriers</a>
+	href=	#NW11
+	text=	legal barriers
+	linked_narrative_id =	NW11
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NW20" target="_blank">Brazil</a>
+	href=	#NW20
+	text=	Brazil
+	linked_narrative_id =	NW20
+	narrative_metadata_title:	Brazil: youth not in education, employment or training (NEET)
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/c21aa5ab525a44aa9afa6d5c14111148#NW20
+	---------------------------------
+=======================================================
+narrative_id=	NW20
+title=	Brazil: youth not in education, employment or training (NEET)
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=c21aa5ab525a44aa9afa6d5c14111148
+=======================================================
+	<a class="narrative-ref" href="#NW25" target="_blank">domestic chores and caring for family</a>
+	href=	#NW25
+	text=	domestic chores and caring for family
+	linked_narrative_id =	NW25
+	narrative_metadata_title:	Time spent in unpaid work; total work burden; and work-life balance
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/6f02cbbfb8d34cb7806d21f4bd14e826#NW25
+	---------------------------------
+=======================================================
+narrative_id=	ND3
+title=	Women Heads of State or Government and Government Ministers
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=b028c9ec771e4cb8ae93239e69ea0df5
+=======================================================
+=======================================================
+narrative_id=	ND7
+title=	Mexico: women in the national parliament and in local government
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=1e9b7eb1a122470cae88c09a0dc8b3e9
+=======================================================
+	<a class="narrative-ref" href="#ND6" target="_blank">Women in national parliaments</a>
+	href=	#ND6
+	text=	Women in national parliaments
+	linked_narrative_id =	ND6
+	narrative_metadata_title:	Women in national parliaments
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/abc5dcf8f01342adbc9578b4677e4832#ND6
+	---------------------------------
+	<a class="narrative-ref" href="#ND9" target="_blank">Women in local government positions</a>
+	href=	#ND9
+	text=	Women in local government positions
+	linked_narrative_id =	ND9
+	narrative_metadata_title:	Women in local government [UN Women]
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b61f8ad6e9644b4d8bc4949a107dea56#ND9
+	---------------------------------
+	<a class="narrative-ref" href="#ND10" target="_blank">Women in politics and decision-making positions in Africa</a>
+	href=	#ND10
+	text=	Women in politics and decision-making positions in Africa
+	linked_narrative_id =	ND10
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+=======================================================
+narrative_id=	NE3
+title=	Out-of-school children, adolescents and youth
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=7b2391b3dbc341a68b9724c0266a1bf5
+=======================================================
+=======================================================
+narrative_id=	NE5
+title=	Information and communications technology (ICT) skills
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=86be0ea0f78b46b19e8c5cf3c519e66e
+=======================================================
+=======================================================
+narrative_id=	NE6
+title=	School completion at primary and secondary levels of education
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=ef080130f70043aa994ac0a0db8d3610
+=======================================================
+=======================================================
+narrative_id=	NE8
+title=	Female researchers active in research and development (R&D)
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=8d6654cc3155423f9c2b77249b4e670e
+=======================================================
+	<a class="narrative-ref" href="#NE10" target="_blank">among university graduates</a>
+	href=	#NE10
+	text=	among university graduates
+	linked_narrative_id =	NE10
+	narrative_metadata_title:	Gross enrolment ratio in tertiary education
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/11a30d2e3cfb4e428a5124534a0ee81c#NE10
+	---------------------------------
+=======================================================
+narrative_id=	NE10
+title=	Gross enrolment ratio in tertiary education
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=11a30d2e3cfb4e428a5124534a0ee81c
+=======================================================
+	<a class="narrative-ref" href="#NE11" target="_blank">parity</a>
+	href=	#NE11
+	text=	parity
+	linked_narrative_id =	NE11
+	narrative_metadata_title:	Gender parity index of the gross enrolment ratios in primary, secondary and tertiary education
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/42bffbd08fb542ecadd0dd43a588c1b9#NE11
+	---------------------------------
+=======================================================
+narrative_id=	NE11
+title=	Gender parity index of the gross enrolment ratios in primary, secondary and tertiary education
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=42bffbd08fb542ecadd0dd43a588c1b9
+=======================================================
+	<a class="narrative-ref" href="#NE9" target="_blank">secondary education</a>
+	href=	#NE9
+	text=	secondary education
+	linked_narrative_id =	NE9
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NE10" target="_blank">tertiary education</a>
+	href=	#NE10
+	text=	tertiary education
+	linked_narrative_id =	NE10
+	narrative_metadata_title:	Gross enrolment ratio in tertiary education
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/11a30d2e3cfb4e428a5124534a0ee81c#NE10
+	---------------------------------
+=======================================================
+narrative_id=	NE13
+title=	Enrolment in technical and vocational programmes
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=145fff1d87b04bd5a777f6b1b6f702aa
+=======================================================
+=======================================================
+narrative_id=	NE14
+title=	Children and adolescents with minimum proficiency in reading and mathematics
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=cba28346e8c745ca84446dd894760e67
+=======================================================
+	<a class="narrative-ref" href="#NE11" target="_blank">in school</a>
+	href=	#NE11
+	text=	in school
+	linked_narrative_id =	NE11
+	narrative_metadata_title:	Gender parity index of the gross enrolment ratios in primary, secondary and tertiary education
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/42bffbd08fb542ecadd0dd43a588c1b9#NE11
+	---------------------------------
+	<a class="narrative-ref" href="#NE9" target="_blank">secondary education</a>
+	href=	#NE9
+	text=	secondary education
+	linked_narrative_id =	NE9
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+=======================================================
+narrative_id=	NE15
+title=	Female graduates in science, technology, engineering and mathematics at the tertiary level of education
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=205f074abfa7482487614a3536f9c10c
+=======================================================
+	<a class="narrative-ref" href="#NE10" target="_blank">enrolment in tertiary education</a>
+	href=	#NE10
+	text=	enrolment in tertiary education
+	linked_narrative_id =	NE10
+	narrative_metadata_title:	Gross enrolment ratio in tertiary education
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/11a30d2e3cfb4e428a5124534a0ee81c#NE10
+	---------------------------------
+	<a class="narrative-ref" href="#NE10" target="_blank">Women’s gross enrolment ratio in tertiary education</a>
+	href=	#NE10
+	text=	Women’s gross enrolment ratio in tertiary education
+	linked_narrative_id =	NE10
+	narrative_metadata_title:	Gross enrolment ratio in tertiary education
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/11a30d2e3cfb4e428a5124534a0ee81c#NE10
+	---------------------------------
+	<a class="narrative-ref" href="#NE8" target="_blank">Women in research and development</a>
+	href=	#NE8
+	text=	Women in research and development
+	linked_narrative_id =	NE8
+	narrative_metadata_title:	Female researchers active in research and development (R&D)
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/8d6654cc3155423f9c2b77249b4e670e#NE8
+	---------------------------------
+=======================================================
+narrative_id=	NE16
+title=	Women teachers and professors at tertiary levels of education
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=62b37a3b6370443eb3dd266133da51e4
+=======================================================
+	<a class="narrative-ref" href="#NE10" target="_blank">enrolment in tertiary education</a>
+	href=	#NE10
+	text=	enrolment in tertiary education
+	linked_narrative_id =	NE10
+	narrative_metadata_title:	Gross enrolment ratio in tertiary education
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/11a30d2e3cfb4e428a5124534a0ee81c#NE10
+	---------------------------------
+=======================================================
+narrative_id=	NH5
+title=	Life-expectancy and causes of death
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=f8555d8e5c944ba2a9ae0dde6152624c
+=======================================================
+	<a class="narrative-ref" href="#NH6" target="_blank">behavioural differences</a>
+	href=	#NH6
+	text=	behavioural differences
+	linked_narrative_id =	NH6
+	narrative_metadata_title:	Health risk factors
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/022ab89e10d04700901ced2a133eda86#NH6
+	---------------------------------
+	<a class="narrative-ref" href="#NH10" target="_blank">HIV/AIDS infection</a>
+	href=	#NH10
+	text=	HIV/AIDS infection
+	linked_narrative_id =	NH10
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NP3" target="_blank">Life expectancy at age 65</a>
+	href=	#NP3
+	text=	Life expectancy at age 65
+	linked_narrative_id =	NP3
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NH4" target="_blank">under 5 years of age</a>
+	href=	#NH4
+	text=	under 5 years of age
+	linked_narrative_id =	NH4
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NH8" target="_blank">injuries</a>
+	href=	#NH8
+	text=	injuries
+	linked_narrative_id =	NH8
+	narrative_metadata_title:	Deaths caused by injury
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b0c1d58d7f044717985af52c7b6ad2ab#NH8
+	---------------------------------
+	<a class="narrative-ref" href="#NH7" target="_blank">maternal conditions</a>
+	href=	#NH7
+	text=	maternal conditions
+	linked_narrative_id =	NH7
+	narrative_metadata_title:	Women’s health in their reproductive years
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/3e45b6c8a7ee424380dc7d8514ac43bf#NH7
+	---------------------------------
+	<a class="narrative-ref" href="#NH11" target="_blank">breast cancer</a>
+	href=	#NH11
+	text=	breast cancer
+	linked_narrative_id =	NH11
+	narrative_metadata_title:	Leading causes of death among women and men aged 50 and older
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/527e660cda4c470980fca8eca7b2c3fc#NH11
+	---------------------------------
+	<a class="narrative-ref" href="#NH10" target="_blank">tuberculosis</a>
+	href=	#NH10
+	text=	tuberculosis
+	linked_narrative_id =	NH10
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NH12" target="_blank">COVID-19</a>
+	href=	#NH12
+	text=	COVID-19
+	linked_narrative_id =	NH12
+	narrative_metadata_title:	Coronavirus-19: gender and health
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/2546f9aed54c4f1d8d07e65f99a55365#NH12
+	---------------------------------
+	<a class="narrative-ref" href="#NH10" target="_blank">non-communicable diseases</a>
+	href=	#NH10
+	text=	non-communicable diseases
+	linked_narrative_id =	NH10
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NH7" target="_blank">maternal conditions</a>
+	href=	#NH7
+	text=	maternal conditions
+	linked_narrative_id =	NH7
+	narrative_metadata_title:	Women’s health in their reproductive years
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/3e45b6c8a7ee424380dc7d8514ac43bf#NH7
+	---------------------------------
+	<a class="narrative-ref" href="#NH8" target="_blank">interpersonal violence</a>
+	href=	#NH8
+	text=	interpersonal violence
+	linked_narrative_id =	NH8
+	narrative_metadata_title:	Deaths caused by injury
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b0c1d58d7f044717985af52c7b6ad2ab#NH8
+	---------------------------------
+	<a class="narrative-ref" href="#NH11" target="_blank">age 54</a>
+	href=	#NH11
+	text=	age 54
+	linked_narrative_id =	NH11
+	narrative_metadata_title:	Leading causes of death among women and men aged 50 and older
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/527e660cda4c470980fca8eca7b2c3fc#NH11
+	---------------------------------
+=======================================================
+narrative_id=	NH6
+title=	Health risk factors
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=022ab89e10d04700901ced2a133eda86
+=======================================================
+	<a class="narrative-ref" href="#NH4" target="_blank">undernutrition</a>
+	href=	#NH4
+	text=	undernutrition
+	linked_narrative_id =	NH4
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NN3" target="_blank">unimproved water</a>
+	href=	#NN3
+	text=	unimproved water
+	linked_narrative_id =	NN3
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NN4" target="_blank">indoor smoke</a>
+	href=	#NN4
+	text=	indoor smoke
+	linked_narrative_id =	NN4
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NH10" target="_blank">HIV/AIDS</a>
+	href=	#NH10
+	text=	HIV/AIDS
+	linked_narrative_id =	NH10
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NH8" target="_blank">interpersonal violence</a>
+	href=	#NH8
+	text=	interpersonal violence
+	linked_narrative_id =	NH8
+	narrative_metadata_title:	Deaths caused by injury
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b0c1d58d7f044717985af52c7b6ad2ab#NH8
+	---------------------------------
+	<a class="narrative-ref" href="#NH11" target="_blank">cardiovascular diseases</a>
+	href=	#NH11
+	text=	cardiovascular diseases
+	linked_narrative_id =	NH11
+	narrative_metadata_title:	Leading causes of death among women and men aged 50 and older
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/527e660cda4c470980fca8eca7b2c3fc#NH11
+	---------------------------------
+	<a class="narrative-ref" href="#NH12" target="_blank">COVID-19</a>
+	href=	#NH12
+	text=	COVID-19
+	linked_narrative_id =	NH12
+	narrative_metadata_title:	Coronavirus-19: gender and health
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/2546f9aed54c4f1d8d07e65f99a55365#NH12
+	---------------------------------
+	<a class="narrative-ref" href="#NH8" target="_blank">injuries</a>
+	href=	#NH8
+	text=	injuries
+	linked_narrative_id =	NH8
+	narrative_metadata_title:	Deaths caused by injury
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b0c1d58d7f044717985af52c7b6ad2ab#NH8
+	---------------------------------
+	<a class="narrative-ref" href="#NV1" target="_blank">intimate partner violence</a>
+	href=	#NV1
+	text=	intimate partner violence
+	linked_narrative_id =	NV1
+	narrative_metadata_title:	Intimate partner violence
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/50dd1b2d6167437693178836261522e6#NV1
+	---------------------------------
+	<a class="narrative-ref" href="#NH8" target="_blank">these causes</a>
+	href=	#NH8
+	text=	these causes
+	linked_narrative_id =	NH8
+	narrative_metadata_title:	Deaths caused by injury
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b0c1d58d7f044717985af52c7b6ad2ab#NH8
+	---------------------------------
+	<a class="narrative-ref" href="#NH11" target="_blank">cancer</a>
+	href=	#NH11
+	text=	cancer
+	linked_narrative_id =	NH11
+	narrative_metadata_title:	Leading causes of death among women and men aged 50 and older
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/527e660cda4c470980fca8eca7b2c3fc#NH11
+	---------------------------------
+	<a class="narrative-ref" href="#NNW1" target="_blank">economic resources</a>
+	href=	#NNW1
+	text=	economic resources
+	linked_narrative_id =	NNW1
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NW25" target="_blank">household workload</a>
+	href=	#NW25
+	text=	household workload
+	linked_narrative_id =	NW25
+	narrative_metadata_title:	Time spent in unpaid work; total work burden; and work-life balance
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/6f02cbbfb8d34cb7806d21f4bd14e826#NW25
+	---------------------------------
+	<a class="narrative-ref" href="#NH12" target="_blank">COVID-19</a>
+	href=	#NH12
+	text=	COVID-19
+	linked_narrative_id =	NH12
+	narrative_metadata_title:	Coronavirus-19: gender and health
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/2546f9aed54c4f1d8d07e65f99a55365#NH12
+	---------------------------------
+=======================================================
+narrative_id=	NH7
+title=	Women’s health in their reproductive years
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=3e45b6c8a7ee424380dc7d8514ac43bf
+=======================================================
+	<a class="narrative-ref" href="#NH13" target="_blank">menstruation</a>
+	href=	#NH13
+	text=	menstruation
+	linked_narrative_id =	NH13
+	narrative_metadata_title:	Menstrual health and hygiene
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/d89286ad65354bbb8512329412dad320#NH13
+	---------------------------------
+	<a class="narrative-ref" href="#NH14" target="_blank">sexual and reproductive health</a>
+	href=	#NH14
+	text=	sexual and reproductive health
+	linked_narrative_id =	NH14
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NH8" target="_blank">injury</a>
+	href=	#NH8
+	text=	injury
+	linked_narrative_id =	NH8
+	narrative_metadata_title:	Deaths caused by injury
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b0c1d58d7f044717985af52c7b6ad2ab#NH8
+	---------------------------------
+	<a class="narrative-ref" href="#NH14" target="_blank">reproductive health choices</a>
+	href=	#NH14
+	text=	reproductive health choices
+	linked_narrative_id =	NH14
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NW1" target="_blank">economic empowerment</a>
+	href=	#NW1
+	text=	economic empowerment
+	linked_narrative_id =	NW1
+	narrative_metadata_title:	Women and men in the labour force
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/27c1c1ad540347aabc70434238223919#NW1
+	---------------------------------
+	<a class="narrative-ref" href="#NE21" target="_blank">educational attainment</a>
+	href=	#NE21
+	text=	educational attainment
+	linked_narrative_id =	NE21
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NP23" target="_blank">fertility</a>
+	href=	#NP23
+	text=	fertility
+	linked_narrative_id =	NP23
+	narrative_metadata_title:	Average number of children; age at childbirth; and childlessness
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/e6d6e1525ef247ef8033c1d0fd0b3a59#NP23
+	---------------------------------
+	<a class="narrative-ref" href="#NH14" target="_blank">own decisions</a>
+	href=	#NH14
+	text=	own decisions
+	linked_narrative_id =	NH14
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NH12" target="_blank">COVID-19</a>
+	href=	#NH12
+	text=	COVID-19
+	linked_narrative_id =	NH12
+	narrative_metadata_title:	Coronavirus-19: gender and health
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/2546f9aed54c4f1d8d07e65f99a55365#NH12
+	---------------------------------
+	<a class="narrative-ref" href="#NP23" target="_blank">modern contraceptive methods</a>
+	href=	#NP23
+	text=	modern contraceptive methods
+	linked_narrative_id =	NP23
+	narrative_metadata_title:	Average number of children; age at childbirth; and childlessness
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/e6d6e1525ef247ef8033c1d0fd0b3a59#NP23
+	---------------------------------
+	<a class="narrative-ref" href="#NH1" target="_blank">Ghana</a>
+	href=	#NH1
+	text=	Ghana
+	linked_narrative_id =	NH1
+	narrative_metadata_title:	Ghana: skilled health-care assistance in childbirth
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b230e6e6cb2c4aafa07ab2c598eceb09#NH1
+	---------------------------------
+	<a class="narrative-ref" href="#NP21" target="_blank">adolescent fertility</a>
+	href=	#NP21
+	text=	adolescent fertility
+	linked_narrative_id =	NP21
+	narrative_metadata_title:	Mean age at first marriage; child marriage; and teenage mothers
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/f13f7dc3b9744d5489e7ae3e87c57d71#NP21
+	---------------------------------
+	<a class="narrative-ref" href="#NH12" target="_blank">COVID-19 pandemic</a>
+	href=	#NH12
+	text=	COVID-19 pandemic
+	linked_narrative_id =	NH12
+	narrative_metadata_title:	Coronavirus-19: gender and health
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/2546f9aed54c4f1d8d07e65f99a55365#NH12
+	---------------------------------
+=======================================================
+narrative_id=	NH8
+title=	Deaths caused by injury
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=b0c1d58d7f044717985af52c7b6ad2ab
+=======================================================
+	<a class="narrative-ref" href="#NH6" target="_blank">alcohol consumption</a>
+	href=	#NH6
+	text=	alcohol consumption
+	linked_narrative_id =	NH6
+	narrative_metadata_title:	Health risk factors
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/022ab89e10d04700901ced2a133eda86#NH6
+	---------------------------------
+	<a class="narrative-ref" href="#NH11" target="_blank">health conditions</a>
+	href=	#NH11
+	text=	health conditions
+	linked_narrative_id =	NH11
+	narrative_metadata_title:	Leading causes of death among women and men aged 50 and older
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/527e660cda4c470980fca8eca7b2c3fc#NH11
+	---------------------------------
+	<a class="narrative-ref" href="#NH7" target="_blank">maternal conditions</a>
+	href=	#NH7
+	text=	maternal conditions
+	linked_narrative_id =	NH7
+	narrative_metadata_title:	Women’s health in their reproductive years
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/3e45b6c8a7ee424380dc7d8514ac43bf#NH7
+	---------------------------------
+	<a class="narrative-ref" href="#NV8" target="_blank">Latin America and the Caribbean</a>
+	href=	#NV8
+	text=	Latin America and the Caribbean
+	linked_narrative_id =	NV8
+	narrative_metadata_title:	Femicide in Latin America and the Caribbean [ECLAC]
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/1e0b01c9ef34415bac07df60c1aa30c0#NV8
+	---------------------------------
+	<a class="narrative-ref" href="#NV7" target="_blank">intimate partners or family members</a>
+	href=	#NV7
+	text=	intimate partners or family members
+	linked_narrative_id =	NV7
+	narrative_metadata_title:	Intimate partner and family-related homicide
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/f59163868d1d48d59723c8686af8a37b#NV7
+	---------------------------------
+	<a class="narrative-ref" href="#NV1" target="_blank">violence against women</a>
+	href=	#NV1
+	text=	violence against women
+	linked_narrative_id =	NV1
+	narrative_metadata_title:	Intimate partner violence
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/50dd1b2d6167437693178836261522e6#NV1
+	---------------------------------
+	<a class="narrative-ref" href="#NV12" target="_blank">cultural norms</a>
+	href=	#NV12
+	text=	cultural norms
+	linked_narrative_id =	NV12
+	narrative_metadata_title:	Attitudes towards physical violence against women
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/f47f85a0e8d64a01a8d9613ad30b84cf#NV12
+	---------------------------------
+=======================================================
+narrative_id=	NH11
+title=	Leading causes of death among women and men aged 50 and older
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=527e660cda4c470980fca8eca7b2c3fc
+=======================================================
+	<a class="narrative-ref" href="#NH9" target="_blank">non-communicable diseases</a>
+	href=	#NH9
+	text=	non-communicable diseases
+	linked_narrative_id =	NH9
+	narrative_metadata_title:	Deaths among people aged 30–70 from non-communicable diseases
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b4595513eee24d9aa4a7677b2e2d6784#NH9
+	---------------------------------
+	<a class="narrative-ref" href="#NH8" target="_blank">injuries</a>
+	href=	#NH8
+	text=	injuries
+	linked_narrative_id =	NH8
+	narrative_metadata_title:	Deaths caused by injury
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b0c1d58d7f044717985af52c7b6ad2ab#NH8
+	---------------------------------
+	<a class="narrative-ref" href="#NH6" target="_blank">tobacco use and alcohol consumption</a>
+	href=	#NH6
+	text=	tobacco use and alcohol consumption
+	linked_narrative_id =	NH6
+	narrative_metadata_title:	Health risk factors
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/022ab89e10d04700901ced2a133eda86#NH6
+	---------------------------------
+	<a class="narrative-ref" href="#NP3" target="_blank">older ages</a>
+	href=	#NP3
+	text=	older ages
+	linked_narrative_id =	NP3
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NW25" target="_blank">Informal care of individuals with dementia</a>
+	href=	#NW25
+	text=	Informal care of individuals with dementia
+	linked_narrative_id =	NW25
+	narrative_metadata_title:	Time spent in unpaid work; total work burden; and work-life balance
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/6f02cbbfb8d34cb7806d21f4bd14e826#NW25
+	---------------------------------
+=======================================================
+narrative_id=	NH13
+title=	Menstrual health and hygiene
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=d89286ad65354bbb8512329412dad320
+=======================================================
+	<a class="narrative-ref" href="#NE12" target="_blank">Schools with access to single-sex basic sanitation</a>
+	href=	#NE12
+	text=	Schools with access to single-sex basic sanitation
+	linked_narrative_id =	NE12
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+=======================================================
+narrative_id=	NP20
+title=	Proportion of older women; proportion living alone
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=ff20e9ee998f4c8ea43813616acbabe4
+=======================================================
+	<a class="narrative-ref" href="#NP3" target="_blank">life expectancy</a>
+	href=	#NP3
+	text=	life expectancy
+	linked_narrative_id =	NP3
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NP22" target="_blank">widowhood or divorce</a>
+	href=	#NP22
+	text=	widowhood or divorce
+	linked_narrative_id =	NP22
+	narrative_metadata_title:	Divorced, separated and widowed women and men
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/a561bd3799104b75b968038fce5fd052#NP22
+	---------------------------------
+	<a class="narrative-ref" href="#NW25" target="_blank">unpaid basis</a>
+	href=	#NW25
+	text=	unpaid basis
+	linked_narrative_id =	NW25
+	narrative_metadata_title:	Time spent in unpaid work; total work burden; and work-life balance
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/6f02cbbfb8d34cb7806d21f4bd14e826#NW25
+	---------------------------------
+=======================================================
+narrative_id=	NP21
+title=	Mean age at first marriage; child marriage; and teenage mothers
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=f13f7dc3b9744d5489e7ae3e87c57d71
+=======================================================
+	<a class="narrative-ref" href="#NV1" target="_blank">intimate partner violence</a>
+	href=	#NV1
+	text=	intimate partner violence
+	linked_narrative_id =	NV1
+	narrative_metadata_title:	Intimate partner violence
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/50dd1b2d6167437693178836261522e6#NV1
+	---------------------------------
+	<a class="narrative-ref" href="#NH2" target="_blank">reproductive health</a>
+	href=	#NH2
+	text=	reproductive health
+	linked_narrative_id =	NH2
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NH7" target="_blank">adolescent childbearing</a>
+	href=	#NH7
+	text=	adolescent childbearing
+	linked_narrative_id =	NH7
+	narrative_metadata_title:	Women’s health in their reproductive years
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/3e45b6c8a7ee424380dc7d8514ac43bf#NH7
+	---------------------------------
+=======================================================
+narrative_id=	NP22
+title=	Divorced, separated and widowed women and men
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=a561bd3799104b75b968038fce5fd052
+=======================================================
+	<a class="narrative-ref" href="#NP21" target="_blank">age at marriage</a>
+	href=	#NP21
+	text=	age at marriage
+	linked_narrative_id =	NP21
+	narrative_metadata_title:	Mean age at first marriage; child marriage; and teenage mothers
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/f13f7dc3b9744d5489e7ae3e87c57d71#NP21
+	---------------------------------
+	<a class="narrative-ref" href="#NH5" target="_blank">mortality</a>
+	href=	#NH5
+	text=	mortality
+	linked_narrative_id =	NH5
+	narrative_metadata_title:	Life-expectancy and causes of death
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/f8555d8e5c944ba2a9ae0dde6152624c#NH5
+	---------------------------------
+	<a class="narrative-ref" href="#NP20" target="_blank">survival rates</a>
+	href=	#NP20
+	text=	survival rates
+	linked_narrative_id =	NP20
+	narrative_metadata_title:	Proportion of older women; proportion living alone
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/ff20e9ee998f4c8ea43813616acbabe4#NP20
+	---------------------------------
+	<a class="narrative-ref" href="#NP21" target="_blank">age at marriage</a>
+	href=	#NP21
+	text=	age at marriage
+	linked_narrative_id =	NP21
+	narrative_metadata_title:	Mean age at first marriage; child marriage; and teenage mothers
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/f13f7dc3b9744d5489e7ae3e87c57d71#NP21
+	---------------------------------
+=======================================================
+narrative_id=	NP23
+title=	Average number of children; age at childbirth; and childlessness
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=e6d6e1525ef247ef8033c1d0fd0b3a59
+=======================================================
+	<a class="narrative-ref" href="#NNP21V1" target="_blank">entry into a union</a>
+	href=	#NNP21V1
+	text=	entry into a union
+	linked_narrative_id =	NNP21V1
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NH12" target="_blank">COVID-19</a>
+	href=	#NH12
+	text=	COVID-19
+	linked_narrative_id =	NH12
+	narrative_metadata_title:	Coronavirus-19: gender and health
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/2546f9aed54c4f1d8d07e65f99a55365#NH12
+	---------------------------------
+	<a class="narrative-ref" href="#NH7" target="_blank">modern contraceptive methods</a>
+	href=	#NH7
+	text=	modern contraceptive methods
+	linked_narrative_id =	NH7
+	narrative_metadata_title:	Women’s health in their reproductive years
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/3e45b6c8a7ee424380dc7d8514ac43bf#NH7
+	---------------------------------
+	<a class="narrative-ref" href="#NH14" target="_blank">control over their own sexuality</a>
+	href=	#NH14
+	text=	control over their own sexuality
+	linked_narrative_id =	NH14
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+=======================================================
+narrative_id=	NV2
+title=	Sexual violence by non-intimate partners
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=e4db21be88f5489db915cc75d14c8fde
+=======================================================
+	<a class="narrative-ref" href="#NV1" target="_blank">women’s intimate partners</a>
+	href=	#NV1
+	text=	women’s intimate partners
+	linked_narrative_id =	NV1
+	narrative_metadata_title:	Intimate partner violence
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/50dd1b2d6167437693178836261522e6#NV1
+	---------------------------------
+=======================================================
+narrative_id=	NV3
+title=	Sexual violence in childhood
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=1dc2ad5ad619470ba1e998dcfc71db0a
+=======================================================
+=======================================================
+narrative_id=	NV7
+title=	Intimate partner and family-related homicide
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=f59163868d1d48d59723c8686af8a37b
+=======================================================
+	<a class="narrative-ref" href="#NV8" target="_blank">femicide</a>
+	href=	#NV8
+	text=	femicide
+	linked_narrative_id =	NV8
+	narrative_metadata_title:	Femicide in Latin America and the Caribbean [ECLAC]
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/1e0b01c9ef34415bac07df60c1aa30c0#NV8
+	---------------------------------
+	<a class="narrative-ref" href="#NV1" target="_blank">Intimate partner physical and/or sexual violence against women and girls</a>
+	href=	#NV1
+	text=	Intimate partner physical and/or sexual violence against women and girls
+	linked_narrative_id =	NV1
+	narrative_metadata_title:	Intimate partner violence
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/50dd1b2d6167437693178836261522e6#NV1
+	---------------------------------
+=======================================================
+narrative_id=	NV14
+title=	Mexico: intimate partner violence
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=38ae8ce54de548f4bf6035f6ebacfc2e
+=======================================================
+	<a class="narrative-ref" href="#NV1" target="_blank">Intimate partner violence</a>
+	href=	#NV1
+	text=	Intimate partner violence
+	linked_narrative_id =	NV1
+	narrative_metadata_title:	Intimate partner violence
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/50dd1b2d6167437693178836261522e6#NV1
+	---------------------------------
+=======================================================
+narrative_id=	NW23
+title=	Status in employment
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=7e1b3840e78a4546b8a42f908466d742
+=======================================================
+	<a class="narrative-ref" href="#ND11" target="_blank">intra-household decision-making power</a>
+	href=	#ND11
+	text=	intra-household decision-making power
+	linked_narrative_id =	ND11
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NW21" target="_blank">gender pay gap</a>
+	href=	#NW21
+	text=	gender pay gap
+	linked_narrative_id =	NW21
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NW4" target="_blank">part-time employment</a>
+	href=	#NW4
+	text=	part-time employment
+	linked_narrative_id =	NW4
+	narrative_metadata_title:	Women and men in part-time employment
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/11b52c23c621480db0f9017fa5bff63b#NW4
+	---------------------------------
+	<a class="narrative-ref" href="#NW2" target="_blank">agriculture sector</a>
+	href=	#NW2
+	text=	agriculture sector
+	linked_narrative_id =	NW2
+	narrative_metadata_title:	Employment of women and men by economic sector
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/16cf3ba269944620b610ef7f80671fd3#NW2
+	---------------------------------
+=======================================================
+narrative_id=	ND6
+title=	Women in national parliaments
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=abc5dcf8f01342adbc9578b4677e4832
+=======================================================
+=======================================================
+narrative_id=	NH1
+title=	Ghana: skilled health-care assistance in childbirth
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=b230e6e6cb2c4aafa07ab2c598eceb09
+=======================================================
+	<a class="narrative-ref" href="#NV7" target="_blank">during childbirth</a>
+	href=	#NV7
+	text=	during childbirth
+	linked_narrative_id =	NV7
+	narrative_metadata_title:	Intimate partner and family-related homicide
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/f59163868d1d48d59723c8686af8a37b#NV7
+	---------------------------------
+=======================================================
+narrative_id=	NV10
+title=	Women judges
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=1335cc5daa22445d9643ea04088a850a
+=======================================================
+=======================================================
+narrative_id=	NP18
+title=	One-parent households
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=d5b5980632a8472a91211a7e94abcfb8
+=======================================================
+	<a class="narrative-ref" href="#NP22" target="_blank">divorce and separation</a>
+	href=	#NP22
+	text=	divorce and separation
+	linked_narrative_id =	NP22
+	narrative_metadata_title:	Divorced, separated and widowed women and men
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/a561bd3799104b75b968038fce5fd052#NP22
+	---------------------------------
+	<a class="narrative-ref" href="#NW1" target="_blank">labour force</a>
+	href=	#NW1
+	text=	labour force
+	linked_narrative_id =	NW1
+	narrative_metadata_title:	Women and men in the labour force
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/27c1c1ad540347aabc70434238223919#NW1
+	---------------------------------
+=======================================================
+narrative_id=	NV9
+title=	Laws on domestic violence
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=2426cee78ed34941a4f8eb70de3ac6da
+=======================================================
+	<a class="narrative-ref" href="#NV1" target="_blank">domestic violence</a>
+	href=	#NV1
+	text=	domestic violence
+	linked_narrative_id =	NV1
+	narrative_metadata_title:	Intimate partner violence
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/50dd1b2d6167437693178836261522e6#NV1
+	---------------------------------
+=======================================================
+narrative_id=	NW28
+title=	Use of the Internet and mobile phone ownership among women and men [ITU]
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=d6a2f8291c9c4b60a80431f65cf104af
+=======================================================
+=======================================================
+narrative_id=	NW29
+title=	Unpaid work and income poverty in countries in the Latin America and the Caribbean region [ECLAC]
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=a96b50d9213f4da4897f149d6ec339be
+=======================================================
+	<a class="narrative-ref" href="#NW25" target="_blank">Unpaid work and total work burden</a>
+	href=	#NW25
+	text=	Unpaid work and total work burden
+	linked_narrative_id =	NW25
+	narrative_metadata_title:	Time spent in unpaid work; total work burden; and work-life balance
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/6f02cbbfb8d34cb7806d21f4bd14e826#NW25
+	---------------------------------
+	<a class="narrative-ref" href="#NW19" target="_blank">Youth “not in employment, education or training” (NEET) and unpaid work in Latin America</a>
+	href=	#NW19
+	text=	Youth “not in employment, education or training” (NEET) and unpaid work in Latin America
+	linked_narrative_id =	NW19
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+=======================================================
+narrative_id=	NW30
+title=	Italy: behaviour and activities during the Coronavirus-19 lockdown: a gender approach
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=1c1d1fac8ddf47e3a0995cce1388b780
+=======================================================
+	<a class="narrative-ref" href="#NW25" target="_blank">Time spent on unpaid work, total work burden and work-life balance</a>
+	href=	#NW25
+	text=	Time spent on unpaid work, total work burden and work-life balance
+	linked_narrative_id =	NW25
+	narrative_metadata_title:	Time spent in unpaid work; total work burden; and work-life balance
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/6f02cbbfb8d34cb7806d21f4bd14e826#NW25
+	---------------------------------
+=======================================================
+narrative_id=	NH12
+title=	Coronavirus-19: gender and health
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=2546f9aed54c4f1d8d07e65f99a55365
+=======================================================
+	<a class="narrative-ref" href="#NH11" target="_blank">Older people</a>
+	href=	#NH11
+	text=	Older people
+	linked_narrative_id =	NH11
+	narrative_metadata_title:	Leading causes of death among women and men aged 50 and older
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/527e660cda4c470980fca8eca7b2c3fc#NH11
+	---------------------------------
+	<a class="narrative-ref" href="#NH9" target="_blank">heart and lung problems, diabetes or cancer</a>
+	href=	#NH9
+	text=	heart and lung problems, diabetes or cancer
+	linked_narrative_id =	NH9
+	narrative_metadata_title:	Deaths among people aged 30–70 from non-communicable diseases
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b4595513eee24d9aa4a7677b2e2d6784#NH9
+	---------------------------------
+	<a class="narrative-ref" href="#NP19" target="_blank">population</a>
+	href=	#NP19
+	text=	population
+	linked_narrative_id =	NP19
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NH11" target="_blank">large numbers of deaths</a>
+	href=	#NH11
+	text=	large numbers of deaths
+	linked_narrative_id =	NH11
+	narrative_metadata_title:	Leading causes of death among women and men aged 50 and older
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/527e660cda4c470980fca8eca7b2c3fc#NH11
+	---------------------------------
+	<a class="narrative-ref" href="#NH6" target="_blank">underlying health conditions</a>
+	href=	#NH6
+	text=	underlying health conditions
+	linked_narrative_id =	NH6
+	narrative_metadata_title:	Health risk factors
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/022ab89e10d04700901ced2a133eda86#NH6
+	---------------------------------
+	<a class="narrative-ref" href="#NH14" target="_blank">sexual and reproductive health services</a>
+	href=	#NH14
+	text=	sexual and reproductive health services
+	linked_narrative_id =	NH14
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NV1" target="_blank">maternal mortality</a>
+	href=	#NV1
+	text=	maternal mortality
+	linked_narrative_id =	NV1
+	narrative_metadata_title:	Intimate partner violence
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/50dd1b2d6167437693178836261522e6#NV1
+	---------------------------------
+	<a class="narrative-ref" href="#NW25" target="_blank">unpaid care and domestic work</a>
+	href=	#NW25
+	text=	unpaid care and domestic work
+	linked_narrative_id =	NW25
+	narrative_metadata_title:	Time spent in unpaid work; total work burden; and work-life balance
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/6f02cbbfb8d34cb7806d21f4bd14e826#NW25
+	---------------------------------
+	<a class="narrative-ref" href="#NW26" target="_blank">job and income loss</a>
+	href=	#NW26
+	text=	job and income loss
+	linked_narrative_id =	NW26
+	narrative_metadata_title:	Unemployment rate by sex, age and persons with disabilities
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/3cbb3176f1434be9998a51378715e290#NW26
+	---------------------------------
+	<a class="narrative-ref" href="#NV1" target="_blank">intimate partner violence</a>
+	href=	#NV1
+	text=	intimate partner violence
+	linked_narrative_id =	NV1
+	narrative_metadata_title:	Intimate partner violence
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/50dd1b2d6167437693178836261522e6#NV1
+	---------------------------------
+=======================================================
+narrative_id=	NW25
+title=	Time spent in unpaid work; total work burden; and work-life balance
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=6f02cbbfb8d34cb7806d21f4bd14e826
+=======================================================
+	<a class="narrative-ref" href="#NW17" target="_blank">income of the employed population and unpaid work time</a>
+	href=	#NW17
+	text=	income of the employed population and unpaid work time
+	linked_narrative_id =	NW17
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NW19" target="_blank">time spent on unpaid work of young people</a>
+	href=	#NW19
+	text=	time spent on unpaid work of young people
+	linked_narrative_id =	NW19
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NW29" target="_blank">income poverty and time poverty</a>
+	href=	#NW29
+	text=	income poverty and time poverty
+	linked_narrative_id =	NW29
+	narrative_metadata_title:	Unpaid work and income poverty in countries in the Latin America and the Caribbean region [ECLAC]
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/a96b50d9213f4da4897f149d6ec339be#NW29
+	---------------------------------
+	<a class="narrative-ref" href="#NW1" target="_blank">paid work</a>
+	href=	#NW1
+	text=	paid work
+	linked_narrative_id =	NW1
+	narrative_metadata_title:	Women and men in the labour force
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/27c1c1ad540347aabc70434238223919#NW1
+	---------------------------------
+	<a class="narrative-ref" href="#NW16" target="_blank">Colombia’s story</a>
+	href=	#NW16
+	text=	Colombia’s story
+	linked_narrative_id =	NW16
+	narrative_metadata_title:	Colombia: total workload of women and men; discriminatory attitudes towards women in the workplace; and unemployment
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/ac2f22fca7014384bd63d3f9384fd2e5#NW16
+	---------------------------------
+	<a class="narrative-ref" href="#NW24" target="_blank">Maternity Protection Convention</a>
+	href=	#NW24
+	text=	Maternity Protection Convention
+	linked_narrative_id =	NW24
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NW4" target="_blank">working part time</a>
+	href=	#NW4
+	text=	working part time
+	linked_narrative_id =	NW4
+	narrative_metadata_title:	Women and men in part-time employment
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/11b52c23c621480db0f9017fa5bff63b#NW4
+	---------------------------------
+	<a class="narrative-ref" href="#NW30" target="_blank">lockdown and gender in Italy</a>
+	href=	#NW30
+	text=	lockdown and gender in Italy
+	linked_narrative_id =	NW30
+	narrative_metadata_title:	Italy: behaviour and activities during the Coronavirus-19 lockdown: a gender approach
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/1c1d1fac8ddf47e3a0995cce1388b780#NW30
+	---------------------------------
+	<a class="narrative-ref" href="#NW7" target="_blank">Mexico</a>
+	href=	#NW7
+	text=	Mexico
+	linked_narrative_id =	NW7
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+=======================================================
+narrative_id=	NW26
+title=	Unemployment rate by sex, age and persons with disabilities
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=3cbb3176f1434be9998a51378715e290
+=======================================================
+	<a class="narrative-ref" href="#NW18" target="_blank">NEET</a>
+	href=	#NW18
+	text=	NEET
+	linked_narrative_id =	NW18
+	narrative_metadata_title:	Youth not in education, employment or training (NEET)
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/a0e8cdf5770e41bca0f4b94df37131b2#NW18
+	---------------------------------
+	<a class="narrative-ref" href="#NW1" target="_blank">labour force</a>
+	href=	#NW1
+	text=	labour force
+	linked_narrative_id =	NW1
+	narrative_metadata_title:	Women and men in the labour force
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/27c1c1ad540347aabc70434238223919#NW1
+	---------------------------------
+=======================================================
+narrative_id=	NW2
+title=	Employment of women and men by economic sector
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=16cf3ba269944620b610ef7f80671fd3
+=======================================================
+	<a class="narrative-ref" href="#NW5" target="_blank">informal employment</a>
+	href=	#NW5
+	text=	informal employment
+	linked_narrative_id =	NW5
+	narrative_metadata_title:	Women and men in informal employment by sector 
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/80c59f2ac4ac457c8f5b4223992fb06f#NW5
+	---------------------------------
+	<a class="narrative-ref" href="#NW11" target="_blank">Discrimination</a>
+	href=	#NW11
+	text=	Discrimination
+	linked_narrative_id =	NW11
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+=======================================================
+narrative_id=	NW3
+title=	Gender segregation in occupations
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=92b9b878ae304c388d10a3c31facb87f
+=======================================================
+	<a class="narrative-ref" href="#ND1" target="_blank">managerial personnel</a>
+	href=	#ND1
+	text=	managerial personnel
+	linked_narrative_id =	ND1
+	narrative_metadata_title:	Women in managerial positions 
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/0d1ff2530f17451bb8437c6ea584282e#ND1
+	---------------------------------
+	<a class="narrative-ref" href="#NW2" target="_blank">economic sectors</a>
+	href=	#NW2
+	text=	economic sectors
+	linked_narrative_id =	NW2
+	narrative_metadata_title:	Employment of women and men by economic sector
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/16cf3ba269944620b610ef7f80671fd3#NW2
+	---------------------------------
+	<a class="narrative-ref" href="#NE15" target="_blank">including in the fields of science, technology, engineering and math (STEM)</a>
+	href=	#NE15
+	text=	including in the fields of science, technology, engineering and math (STEM)
+	linked_narrative_id =	NE15
+	narrative_metadata_title:	Female graduates in science, technology, engineering and mathematics at the tertiary level of education
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/205f074abfa7482487614a3536f9c10c#NE15
+	---------------------------------
+	<a class="narrative-ref" href="#NW21" target="_blank">gender pay gap</a>
+	href=	#NW21
+	text=	gender pay gap
+	linked_narrative_id =	NW21
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+=======================================================
+narrative_id=	NW31
+title=	Switzerland: employment models in couple households
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=2bb9274fcdb84ff781d49734e814f03f
+=======================================================
+=======================================================
+narrative_id=	NW32
+title=	Canada: gender wage gap
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=cdf24c9c28b94260a4917cf5211cb321
+=======================================================
+	<a class="narrative-ref" href="#NW3" target="_blank">occupations</a>
+	href=	#NW3
+	text=	occupations
+	linked_narrative_id =	NW3
+	narrative_metadata_title:	Gender segregation in occupations
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/92b9b878ae304c388d10a3c31facb87f#NW3
+	---------------------------------
+	<a class="narrative-ref" href="#NW4" target="_blank">part-time work</a>
+	href=	#NW4
+	text=	part-time work
+	linked_narrative_id =	NW4
+	narrative_metadata_title:	Women and men in part-time employment
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/11b52c23c621480db0f9017fa5bff63b#NW4
+	---------------------------------
+=======================================================
+narrative_id=	NW27
+title=	Japan: households with dual incomes and presence of women in non-regular employment
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=d965358e9e8d4f1ba249dadaa55ea703
+=======================================================
+	<a class="narrative-ref" href="#NW1" target="_blank">labour force participation rate</a>
+	href=	#NW1
+	text=	labour force participation rate
+	linked_narrative_id =	NW1
+	narrative_metadata_title:	Women and men in the labour force
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/27c1c1ad540347aabc70434238223919#NW1
+	---------------------------------
+	<a class="narrative-ref" href="#NW21" target="_blank">gender pay gap</a>
+	href=	#NW21
+	text=	gender pay gap
+	linked_narrative_id =	NW21
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NW24" target="_blank">maternity and care leave</a>
+	href=	#NW24
+	text=	maternity and care leave
+	linked_narrative_id =	NW24
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+=======================================================
+narrative_id=	NP26
+title=	Finland: mean age at birth of first child by sex; total fertility rates; living arrangements for children
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=e3c0f6663f714d0188ab21ad58a16a44
+=======================================================
+	<a class="narrative-ref" href="#NP18" target="_blank">one-parent families</a>
+	href=	#NP18
+	text=	one-parent families
+	linked_narrative_id =	NP18
+	narrative_metadata_title:	One-parent households
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/d5b5980632a8472a91211a7e94abcfb8#NP18
+	---------------------------------
+=======================================================
+narrative_id=	NW16
+title=	Colombia: total workload of women and men; discriminatory attitudes towards women in the workplace; and unemployment
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=ac2f22fca7014384bd63d3f9384fd2e5
+=======================================================
+	<a class="narrative-ref" href="#NW25" target="_blank">total workload</a>
+	href=	#NW25
+	text=	total workload
+	linked_narrative_id =	NW25
+	narrative_metadata_title:	Time spent in unpaid work; total work burden; and work-life balance
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/6f02cbbfb8d34cb7806d21f4bd14e826#NW25
+	---------------------------------
+	<a class="narrative-ref" href="#NW8" target="_blank">harmful social norms and discriminatory attitudes</a>
+	href=	#NW8
+	text=	harmful social norms and discriminatory attitudes
+	linked_narrative_id =	NW8
+	narrative_metadata_title:	None
+	link:	None
+	---------------------------------
+	<a class="narrative-ref" href="#NW26" target="_blank">unemployment rate</a>
+	href=	#NW26
+	text=	unemployment rate
+	linked_narrative_id =	NW26
+	narrative_metadata_title:	Unemployment rate by sex, age and persons with disabilities
+	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/3cbb3176f1434be9998a51378715e290#NW26
+	---------------------------------
+=======================================================
+narrative_id=	NW15
+title=	Republic of Moldova: social protections and old age pensions
+url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=6f1628a0cf0b4af8988002a22a1dc9d3
+=======================================================
