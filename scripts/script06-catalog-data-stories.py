@@ -31,7 +31,7 @@ for item in user_items:
 
     d = dict()
 
-    d['theme'] = item["title"][:item["title"].find(' ')]
+    d['narrative_id'] = item["title"][:item["title"].find(' ')]
     d['title'] = item["title"]
     d['id'] = item["id"]
     d['url'] = item["url"]
@@ -42,7 +42,7 @@ for item in user_items:
 
     json_data = item.get_data()
 
-    with open('narratives/story-map-data/'+item["id"]+'.json', 'w') as fout:
+    with open('narratives/story-map-data/'+d['narrative_id']+'.json', 'w') as fout:
         json.dump(json_data, fout)
 
 utils.dictList2tsv(
