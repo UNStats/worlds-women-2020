@@ -36,8 +36,8 @@ for item in user_items:
     if item["id"] in galleries:
         continue
 
-    # if item["id"] != '0d1ff2530f17451bb8437c6ea584282e':
-    #     continue
+    if item["id"] == '0d1ff2530f17451bb8437c6ea584282e':
+        continue
 
     # Get metadata for current item
 
@@ -107,5 +107,7 @@ for item in user_items:
 
     with open('narratives/story-map-data/' + narrative_id + '.json', 'w') as fout:
         json.dump(json_data, fout, indent=4)
+
+    item.update(data=json_data)
 
 myfile.close()

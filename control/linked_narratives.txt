@@ -119,25 +119,6 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=f47f85a0e8d
 	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/50dd1b2d6167437693178836261522e6#NV1
 	---------------------------------
 =======================================================
-narrative_id=	ND1
-title=	Women in managerial positions 
-url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=0d1ff2530f17451bb8437c6ea584282e
-=======================================================
-	<a class="narrative-ref" href="#NW1" target="_blank">workforce worldwide</a>
-	href=	#NW1
-	text=	workforce worldwide
-	linked_narrative_id =	NW1
-	narrative_metadata_title:	Women and men in the labour force
-	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/27c1c1ad540347aabc70434238223919#NW1
-	---------------------------------
-	<a class="narrative-ref" href="#ND2" target="_blank">Women in power and decision-making positions in the corporate world</a>
-	href=	#ND2
-	text=	Women in power and decision-making positions in the corporate world
-	linked_narrative_id =	ND2
-	narrative_metadata_title:	Women as decision makers in the corporate world
-	link:	https://worlds-women-2020-data-undesa.hub.arcgis.com/app/894bed8498eb449a983af8b33a7125f3#ND2
-	---------------------------------
-=======================================================
 narrative_id=	ND4
 title=	Women in the civil service
 url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=37fa373e01954551a8aaf81a62b3e15c
