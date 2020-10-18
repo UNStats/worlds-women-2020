@@ -83,7 +83,7 @@ for item in user_items:
 
             narrative_metadata_id = None
             narrative_metadata_title = None
-            link = None
+            link = href
 
             for l in narrative_metadata:
                 # print(l['narrative_id'])
@@ -100,5 +100,12 @@ for item in user_items:
             myfile.write("\n\tlink:\t%s" %
                          link)
             myfile.write("\n\t---------------------------------")
+
+            j.attrs['href'] = link
+
+        i['content'] = str(soup)
+
+    with open('narratives/story-map-data/' + narrative_id + '.json', 'w') as fout:
+        json.dump(json_data, fout, indent=4)
 
 myfile.close()

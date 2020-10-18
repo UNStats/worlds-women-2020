@@ -59,22 +59,22 @@
             "storage": "WEBAPP",
             "sections": [
                 {
-                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Violence against women and the girl child<br />\nPower and decision making</strong></span></span></p>\n",
+                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Violence against women and the girl child<br />\nPower and decision making</strong></span></span></p>\n",
                     "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Women judges</div>\n",
                     "contentActions": [],
-                    "creaDate": 1602267339802,
-                    "pubDate": 1602267339802,
+                    "creaDate": 1603033145254,
+                    "pubDate": 1603033145254,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
                         "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/1335cc5daa22445d9643ea04088a850a/resources/nv10-home-unsplash__1602267338017__w1200.jpg",
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/1335cc5daa22445d9643ea04088a850a/resources/826936-Secretary-General%20Swears%20in%20Judges%20for%20United%20Nations%20Dispute%20Tribunal__1603033142223__w1200.jpg",
                             "type": "image",
                             "altText": "",
                             "sizes": [
                                 {
-                                    "name": "nv10-home-unsplash__1602267338017__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/1335cc5daa22445d9643ea04088a850a/resources/nv10-home-unsplash__1602267338017__w1200.jpg",
+                                    "name": "826936-Secretary-General Swears in Judges for United Nations Dispute Tribunal__1603033142223__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/1335cc5daa22445d9643ea04088a850a/resources/826936-Secretary-General%20Swears%20in%20Judges%20for%20United%20Nations%20Dispute%20Tribunal__1603033142223__w1200.jpg",
                                     "width": 1200
                                 }
                             ],
@@ -84,21 +84,21 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px\">Key points</span>",
-                    "content": "<ul class=\"key-points\">\n\t<li>In 2017, the proportion of women among judges was estimated to be 40%, up from 35% in 2008.</li>\n\t<li>If recent trends continue, the share of female judges will reach parity by 2035.</li>\n\t<li>The region with the largest proportion of women judges is Europe and Northern America (57%), while in some countries in</li>\n\t<li>Oceania, excluding Australia and New Zealand, less than 5% of judges are women.</li>\n</ul>\n",
+                    "content": "<ul class=\"key-points\">\n<li>In 2017, the proportion of women among judges was estimated to be 40%, up from 35% in 2008.</li>\n<li>If recent trends continue, the share of female judges will reach parity by 2035.</li>\n<li>The region with the largest proportion of women judges is Europe and Northern America (57%), while in some countries in</li>\n<li>Oceania, excluding Australia and New Zealand, less than 5% of judges are women.</li>\n</ul>\n",
                     "contentActions": [],
-                    "creaDate": 1602818545318,
-                    "pubDate": 1602818545318,
+                    "creaDate": 1603034408117,
+                    "pubDate": 1603034408117,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
                         "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/1335cc5daa22445d9643ea04088a850a/resources/mika-baumeister-DJCP_L51DaA-unsplash-brown%20wooden%20bird%20house__1602818543823__w1200.jpg",
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/1335cc5daa22445d9643ea04088a850a/resources/827487-Secretary-General%20Swears%20in%20UN%20Appeals%20Tribunal%20Judges__1603034406282__w1200.jpg",
                             "type": "image",
                             "altText": "",
                             "sizes": [
                                 {
-                                    "name": "mika-baumeister-DJCP_L51DaA-unsplash-brown wooden bird house__1602818543823__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/1335cc5daa22445d9643ea04088a850a/resources/mika-baumeister-DJCP_L51DaA-unsplash-brown%20wooden%20bird%20house__1602818543823__w1200.jpg",
+                                    "name": "827487-Secretary-General Swears in UN Appeals Tribunal Judges__1603034406282__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/1335cc5daa22445d9643ea04088a850a/resources/827487-Secretary-General%20Swears%20in%20UN%20Appeals%20Tribunal%20Judges__1603034406282__w1200.jpg",
                                     "width": 1200
                                 }
                             ],
@@ -108,7 +108,7 @@
                 },
                 {
                     "title": "<span style=\"font-size:28px\"><strong>Background</strong></span>",
-                    "content": "<p>The entry of women judges into judiciary positions from which they have historically been excluded has been a positive step in ensuring that judiciaries are perceived as being more inclusive and representative of the people whose lives they serve and affect. By their mere presence, women judges enhance the legitimacy of courts, sending a powerful signal that they are open and accessible to those who seek recourse to justice.</p>\n\n<p>Women judges contribute much more than improving gender balance within the judiciary, they also contribute significantly to the quality of decision-making, and thus to the quality of justice itself.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598744260872\" data-storymaps-type=\"navigate\">1</a></span></p>\n",
+                    "content": "<p>The entry of women judges into judiciary positions from which they have historically been excluded has been a positive step in ensuring that judiciaries are perceived as being more inclusive and representative of the people whose lives they serve and affect. By their mere presence, women judges enhance the legitimacy of courts, sending a powerful signal that they are open and accessible to those who seek recourse to justice.</p>\n<p>Women judges contribute much more than improving gender balance within the judiciary, they also contribute significantly to the quality of decision-making, and thus to the quality of justice itself.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598744260872\" data-storymaps-type=\"navigate\">1</a></span></p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609558915",
@@ -121,19 +121,19 @@
                             "index": 8
                         }
                     ],
-                    "creaDate": 1602818556716,
-                    "pubDate": 1602818556716,
+                    "creaDate": 1603034193522,
+                    "pubDate": 1603034193522,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
                         "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/1335cc5daa22445d9643ea04088a850a/resources/840452-Head%20of%20UNMISS%20Assesses%20Security%20Situation%20in%20Pibor__1602818376462__w1200.jpg",
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/1335cc5daa22445d9643ea04088a850a/resources/839290-ICJ%20Holds%20Public%20Hearings%20on%20Equatorial%20Guinea%20v.%20France%20Case__1603034191818__w1200.jpg",
                             "type": "image",
                             "altText": "",
                             "sizes": [
                                 {
-                                    "name": "840452-Head of UNMISS Assesses Security Situation in Pibor__1602818376462__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/1335cc5daa22445d9643ea04088a850a/resources/840452-Head%20of%20UNMISS%20Assesses%20Security%20Situation%20in%20Pibor__1602818376462__w1200.jpg",
+                                    "name": "839290-ICJ Holds Public Hearings on Equatorial Guinea v. France Case__1603034191818__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/1335cc5daa22445d9643ea04088a850a/resources/839290-ICJ%20Holds%20Public%20Hearings%20on%20Equatorial%20Guinea%20v.%20France%20Case__1603034191818__w1200.jpg",
                                     "width": 1200
                                 }
                             ],
@@ -195,7 +195,7 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<p>Based on available data up to 2017, the region with the largest percentage of women judges is Europe and Northern America (57%), largely owing to the fact that the proportion of women in the judiciary in countries in <span class=\"label-ref\">Eastern and Southern Europe</span> has already reached and/or surpassed parity in 16 out of 21 countries.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598744303298\" data-storymaps-type=\"navigate\">2</a></span></p>\n\n<p>In Latin America and the Caribbean, women make up 43% of the judiciary, followed by 40% in sub-Saharan Africa, 40% in Central and Southern Asia, 40% in Northern Africa and Western Asia, 34% in Eastern and South-Eastern Asia and 32% in Australia and New Zealand.</p>\n\n<p>In its 2015 report on gender equality, the United Nations Economic and Social Commission for Asia and the Pacific, while acknowledging the general lack of quantitative data for countries in the Pacific, reported that in some countries in <span class=\"label-ref\">Oceania</span>, excluding Australia and New Zealand, less than 5% of judges are women.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598744336143\" data-storymaps-type=\"navigate\">3</a></span></p>\n",
+                    "content": "<p>Based on available data up to 2017, the region with the largest percentage of women judges is Europe and Northern America (57%), largely owing to the fact that the proportion of women in the judiciary in countries in <span class=\"label-ref\">Eastern and Southern Europe</span> has already reached and/or surpassed parity in 16 out of 21 countries.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598744303298\" data-storymaps-type=\"navigate\">2</a></span></p>\n<p>In Latin America and the Caribbean, women make up 43% of the judiciary, followed by 40% in sub-Saharan Africa, 40% in Central and Southern Asia, 40% in Northern Africa and Western Asia, 34% in Eastern and South-Eastern Asia and 32% in Australia and New Zealand.</p>\n<p>In its 2015 report on gender equality, the United Nations Economic and Social Commission for Asia and the Pacific, while acknowledging the general lack of quantitative data for countries in the Pacific, reported that in some countries in <span class=\"label-ref\">Oceania</span>, excluding Australia and New Zealand, less than 5% of judges are women.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598744336143\" data-storymaps-type=\"navigate\">3</a></span></p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609674534",
@@ -224,7 +224,7 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"methodology\">\n<h1>About the data</h1>\n\n<h2>Coverage</h2>\n\n<p>Women professional judges and magistrates worldwide.</p>\n\n<h2>Availability</h2>\n\n<p>Trend data on professional judges or magistrates by sex are globally available for 85 countries, covering almost half of the world population. In general, it is considered that national capacity to supply such data is adequate.</p>\n\n<p>Oceania (excl) refers to Oceania excluding Australia and New Zealand throughout the publication.</p>\n\n<h2>Definitions</h2>\n\n<ul class=\"definitions\">\n\t<li><span class=\"definition\">Share of female judges</span> is the proportion of women among all judges.</li>\n\t<li><span class=\"definition\">Professional judges or magistrates</span> means both full-time and part-time officials authorized to hear civil criminal and other cases, including in appeal courts, and to make dispositions in a court of law. It may also include authorized associate judges and magistrates. Data refer to \u201cfemale professional judges or magistrates at the national level\u201d.</li>\n</ul>\n</div>\n",
+                    "content": "<div class=\"methodology\">\n<h1>About the data</h1>\n<h2>Coverage</h2>\n<p>Women professional judges and magistrates worldwide.</p>\n<h2>Availability</h2>\n<p>Trend data on professional judges or magistrates by sex are globally available for 85 countries, covering almost half of the world population. In general, it is considered that national capacity to supply such data is adequate.</p>\n<p>Oceania (excl) refers to Oceania excluding Australia and New Zealand throughout the publication.</p>\n<h2>Definitions</h2>\n<ul class=\"definitions\">\n<li><span class=\"definition\">Share of female judges</span> is the proportion of women among all judges.</li>\n<li><span class=\"definition\">Professional judges or magistrates</span> means both full-time and part-time officials authorized to hear civil criminal and other cases, including in appeal courts, and to make dispositions in a court of law. It may also include authorized associate judges and magistrates. Data refer to \u201cfemale professional judges or magistrates at the national level\u201d.</li>\n</ul>\n</div>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609809974",
@@ -257,7 +257,7 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">References </span>",
-                    "content": "<ul>\n\t<li><a href=\"http://dataunodc.un.org/\" target=\"_blank\">United Nations Office on Drugs and Crime, regional estimates: data portal</a>.</li>\n\t<li><a href=\"https://genderstats.un.org/\" target=\"_blank\">United Nations Minimum Set of Gender Indicators</a> (last accessed July 2020).</li>\n\t<li><a href=\"https://www.unodc.org/dohadeclaration/en/news/2019/01/the-role-of-women-judges-and-a-gender-perspective-in-ensuring-judicial-independence-and-integrity.html\" target=\"_blank\">United Nations Office on Drugs and Crime, \u201cThe Role of Women Judges and a Gender Perspective in Ensuring Judicial Independence and Integrity\u201d, 2019</a>.</li>\n\t<li><a href=\"https://www.unescap.org/sites/default/files/publications/B20%20Gender%20Equality%20Report%20v10-3-E.pdf\" target=\"_blank\">United Nations Economic and Social Commission for Asia and the Pacific, Gender Equality and Women\u2019s Empowerment in Asia and the Pacific, Bangkok, 2015</a>.</li>\n</ul>\n",
+                    "content": "<ul>\n<li><a href=\"http://dataunodc.un.org/\" target=\"_blank\">United Nations Office on Drugs and Crime, regional estimates: data portal</a>.</li>\n<li><a href=\"https://genderstats.un.org/\" target=\"_blank\">United Nations Minimum Set of Gender Indicators</a> (last accessed July 2020).</li>\n<li><a href=\"https://www.unodc.org/dohadeclaration/en/news/2019/01/the-role-of-women-judges-and-a-gender-perspective-in-ensuring-judicial-independence-and-integrity.html\" target=\"_blank\">United Nations Office on Drugs and Crime, \u201cThe Role of Women Judges and a Gender Perspective in Ensuring Judicial Independence and Integrity\u201d, 2019</a>.</li>\n<li><a href=\"https://www.unescap.org/sites/default/files/publications/B20%20Gender%20Equality%20Report%20v10-3-E.pdf\" target=\"_blank\">United Nations Economic and Social Commission for Asia and the Pacific, Gender Equality and Women\u2019s Empowerment in Asia and the Pacific, Bangkok, 2015</a>.</li>\n</ul>\n",
                     "contentActions": [],
                     "creaDate": 1602267739062,
                     "pubDate": 1602267739062,
@@ -274,7 +274,7 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://www.unodc.org/dohadeclaration/en/news/2019/01/the-role-of-women-judges-and-a-gender-perspective-in-ensuring-judicial-independence-and-integrity.html\" target=\"_blank\">See United Nations Office on Drugs and Crime, Doha Declaration: Promoting a Culture of Lawfulness, 2019</a>. (<a data-storymaps=\"MJ-ACTION-1598744279121\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://genderstats.un.org/\" target=\"_blank\">United Nations Minimum Set of Gender Indicators</a>. (accessed July 2020) (<a data-storymaps=\"MJ-ACTION-1598744320527\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.unescap.org/sites/default/files/publications/B20 Gender Equality Report v10-3-E.pdf\" target=\"_blank\">United Nations Economic and Social Commission for Asia and the Pacific, Gender Equality and Women\u2019s Empowerment in Asia and the Pacific, Bangkok, 2015 </a>. (<a data-storymaps=\"MJ-ACTION-1598744350619\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n</ol>\n</div>\n",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"https://www.unodc.org/dohadeclaration/en/news/2019/01/the-role-of-women-judges-and-a-gender-perspective-in-ensuring-judicial-independence-and-integrity.html\" target=\"_blank\">See United Nations Office on Drugs and Crime, Doha Declaration: Promoting a Culture of Lawfulness, 2019</a>. (<a data-storymaps=\"MJ-ACTION-1598744279121\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li><a href=\"https://genderstats.un.org/\" target=\"_blank\">United Nations Minimum Set of Gender Indicators</a>. (accessed July 2020) (<a data-storymaps=\"MJ-ACTION-1598744320527\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li><a href=\"https://www.unescap.org/sites/default/files/publications/B20 Gender Equality Report v10-3-E.pdf\" target=\"_blank\">United Nations Economic and Social Commission for Asia and the Pacific, Gender Equality and Women\u2019s Empowerment in Asia and the Pacific, Bangkok, 2015 </a>. (<a data-storymaps=\"MJ-ACTION-1598744350619\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n</ol>\n</div>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609848308",

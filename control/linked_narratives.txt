@@ -173,7 +173,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=b61f8ad6e96
 	text=	Women in politics and decision-making positions in Africa
 	linked_narrative_id =	ND10
 	narrative_metadata_title:	None
-	link:	None
+	link:	#ND10
 	---------------------------------
 =======================================================
 narrative_id=	NW1
@@ -185,21 +185,21 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=27c1c1ad540
 	text=	discriminatory social norms
 	linked_narrative_id =	NW8
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NW8
 	---------------------------------
 	<a class="narrative-ref" href="#NW11" target="_blank">equal rights</a>
 	href=	#NW11
 	text=	equal rights
 	linked_narrative_id =	NW11
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NW11
 	---------------------------------
 	<a class="narrative-ref" href="#NW24" target="_blank">paid leave</a>
 	href=	#NW24
 	text=	paid leave
 	linked_narrative_id =	NW24
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NW24
 	---------------------------------
 	<a class="narrative-ref" href="#NE11" target="_blank">educational participation</a>
 	href=	#NE11
@@ -312,14 +312,14 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=a0e8cdf5770
 	text=	social norms
 	linked_narrative_id =	NW8
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NW8
 	---------------------------------
 	<a class="narrative-ref" href="#NW11" target="_blank">legal barriers</a>
 	href=	#NW11
 	text=	legal barriers
 	linked_narrative_id =	NW11
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NW11
 	---------------------------------
 	<a class="narrative-ref" href="#NW20" target="_blank">Brazil</a>
 	href=	#NW20
@@ -369,7 +369,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=1e9b7eb1a12
 	text=	Women in politics and decision-making positions in Africa
 	linked_narrative_id =	ND10
 	narrative_metadata_title:	None
-	link:	None
+	link:	#ND10
 	---------------------------------
 =======================================================
 narrative_id=	NE3
@@ -420,7 +420,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=42bffbd08fb
 	text=	secondary education
 	linked_narrative_id =	NE9
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NE9
 	---------------------------------
 	<a class="narrative-ref" href="#NE10" target="_blank">tertiary education</a>
 	href=	#NE10
@@ -451,7 +451,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=cba28346e8c
 	text=	secondary education
 	linked_narrative_id =	NE9
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NE9
 	---------------------------------
 =======================================================
 narrative_id=	NE15
@@ -508,21 +508,21 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=f8555d8e5c9
 	text=	HIV/AIDS infection
 	linked_narrative_id =	NH10
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NH10
 	---------------------------------
 	<a class="narrative-ref" href="#NP3" target="_blank">Life expectancy at age 65</a>
 	href=	#NP3
 	text=	Life expectancy at age 65
 	linked_narrative_id =	NP3
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NP3
 	---------------------------------
 	<a class="narrative-ref" href="#NH4" target="_blank">under 5 years of age</a>
 	href=	#NH4
 	text=	under 5 years of age
 	linked_narrative_id =	NH4
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NH4
 	---------------------------------
 	<a class="narrative-ref" href="#NH8" target="_blank">injuries</a>
 	href=	#NH8
@@ -550,7 +550,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=f8555d8e5c9
 	text=	tuberculosis
 	linked_narrative_id =	NH10
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NH10
 	---------------------------------
 	<a class="narrative-ref" href="#NH12" target="_blank">COVID-19</a>
 	href=	#NH12
@@ -564,7 +564,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=f8555d8e5c9
 	text=	non-communicable diseases
 	linked_narrative_id =	NH10
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NH10
 	---------------------------------
 	<a class="narrative-ref" href="#NH7" target="_blank">maternal conditions</a>
 	href=	#NH7
@@ -597,28 +597,28 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=022ab89e10d
 	text=	undernutrition
 	linked_narrative_id =	NH4
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NH4
 	---------------------------------
 	<a class="narrative-ref" href="#NN3" target="_blank">unimproved water</a>
 	href=	#NN3
 	text=	unimproved water
 	linked_narrative_id =	NN3
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NN3
 	---------------------------------
 	<a class="narrative-ref" href="#NN4" target="_blank">indoor smoke</a>
 	href=	#NN4
 	text=	indoor smoke
 	linked_narrative_id =	NN4
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NN4
 	---------------------------------
 	<a class="narrative-ref" href="#NH10" target="_blank">HIV/AIDS</a>
 	href=	#NH10
 	text=	HIV/AIDS
 	linked_narrative_id =	NH10
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NH10
 	---------------------------------
 	<a class="narrative-ref" href="#NH8" target="_blank">interpersonal violence</a>
 	href=	#NH8
@@ -674,7 +674,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=022ab89e10d
 	text=	economic resources
 	linked_narrative_id =	NNW1
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NNW1
 	---------------------------------
 	<a class="narrative-ref" href="#NW25" target="_blank">household workload</a>
 	href=	#NW25
@@ -707,7 +707,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=3e45b6c8a7e
 	text=	sexual and reproductive health
 	linked_narrative_id =	NH14
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NH14
 	---------------------------------
 	<a class="narrative-ref" href="#NH8" target="_blank">injury</a>
 	href=	#NH8
@@ -721,7 +721,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=3e45b6c8a7e
 	text=	reproductive health choices
 	linked_narrative_id =	NH14
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NH14
 	---------------------------------
 	<a class="narrative-ref" href="#NW1" target="_blank">economic empowerment</a>
 	href=	#NW1
@@ -735,7 +735,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=3e45b6c8a7e
 	text=	educational attainment
 	linked_narrative_id =	NE21
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NE21
 	---------------------------------
 	<a class="narrative-ref" href="#NP23" target="_blank">fertility</a>
 	href=	#NP23
@@ -749,7 +749,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=3e45b6c8a7e
 	text=	own decisions
 	linked_narrative_id =	NH14
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NH14
 	---------------------------------
 	<a class="narrative-ref" href="#NH12" target="_blank">COVID-19</a>
 	href=	#NH12
@@ -871,7 +871,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=527e660cda4
 	text=	older ages
 	linked_narrative_id =	NP3
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NP3
 	---------------------------------
 	<a class="narrative-ref" href="#NW25" target="_blank">Informal care of individuals with dementia</a>
 	href=	#NW25
@@ -890,7 +890,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=d89286ad653
 	text=	Schools with access to single-sex basic sanitation
 	linked_narrative_id =	NE12
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NE12
 	---------------------------------
 =======================================================
 narrative_id=	NP20
@@ -902,7 +902,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=ff20e9ee998
 	text=	life expectancy
 	linked_narrative_id =	NP3
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NP3
 	---------------------------------
 	<a class="narrative-ref" href="#NP22" target="_blank">widowhood or divorce</a>
 	href=	#NP22
@@ -935,7 +935,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=f13f7dc3b97
 	text=	reproductive health
 	linked_narrative_id =	NH2
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NH2
 	---------------------------------
 	<a class="narrative-ref" href="#NH7" target="_blank">adolescent childbearing</a>
 	href=	#NH7
@@ -987,7 +987,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=e6d6e1525ef
 	text=	entry into a union
 	linked_narrative_id =	NNP21V1
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NNP21V1
 	---------------------------------
 	<a class="narrative-ref" href="#NH12" target="_blank">COVID-19</a>
 	href=	#NH12
@@ -1008,7 +1008,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=e6d6e1525ef
 	text=	control over their own sexuality
 	linked_narrative_id =	NH14
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NH14
 	---------------------------------
 =======================================================
 narrative_id=	NV2
@@ -1068,14 +1068,14 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=7e1b3840e78
 	text=	intra-household decision-making power
 	linked_narrative_id =	ND11
 	narrative_metadata_title:	None
-	link:	None
+	link:	#ND11
 	---------------------------------
 	<a class="narrative-ref" href="#NW21" target="_blank">gender pay gap</a>
 	href=	#NW21
 	text=	gender pay gap
 	linked_narrative_id =	NW21
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NW21
 	---------------------------------
 	<a class="narrative-ref" href="#NW4" target="_blank">part-time employment</a>
 	href=	#NW4
@@ -1166,7 +1166,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=a96b50d9213
 	text=	Youth “not in employment, education or training” (NEET) and unpaid work in Latin America
 	linked_narrative_id =	NW19
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NW19
 	---------------------------------
 =======================================================
 narrative_id=	NW30
@@ -1204,7 +1204,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=2546f9aed54
 	text=	population
 	linked_narrative_id =	NP19
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NP19
 	---------------------------------
 	<a class="narrative-ref" href="#NH11" target="_blank">large numbers of deaths</a>
 	href=	#NH11
@@ -1225,7 +1225,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=2546f9aed54
 	text=	sexual and reproductive health services
 	linked_narrative_id =	NH14
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NH14
 	---------------------------------
 	<a class="narrative-ref" href="#NV1" target="_blank">maternal mortality</a>
 	href=	#NV1
@@ -1265,14 +1265,14 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=6f02cbbfb8d
 	text=	income of the employed population and unpaid work time
 	linked_narrative_id =	NW17
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NW17
 	---------------------------------
 	<a class="narrative-ref" href="#NW19" target="_blank">time spent on unpaid work of young people</a>
 	href=	#NW19
 	text=	time spent on unpaid work of young people
 	linked_narrative_id =	NW19
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NW19
 	---------------------------------
 	<a class="narrative-ref" href="#NW29" target="_blank">income poverty and time poverty</a>
 	href=	#NW29
@@ -1300,7 +1300,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=6f02cbbfb8d
 	text=	Maternity Protection Convention
 	linked_narrative_id =	NW24
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NW24
 	---------------------------------
 	<a class="narrative-ref" href="#NW4" target="_blank">working part time</a>
 	href=	#NW4
@@ -1321,7 +1321,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=6f02cbbfb8d
 	text=	Mexico
 	linked_narrative_id =	NW7
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NW7
 	---------------------------------
 =======================================================
 narrative_id=	NW26
@@ -1359,7 +1359,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=16cf3ba2699
 	text=	Discrimination
 	linked_narrative_id =	NW11
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NW11
 	---------------------------------
 =======================================================
 narrative_id=	NW3
@@ -1392,7 +1392,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=92b9b878ae3
 	text=	gender pay gap
 	linked_narrative_id =	NW21
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NW21
 	---------------------------------
 =======================================================
 narrative_id=	NW31
@@ -1435,14 +1435,14 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=d965358e9e8
 	text=	gender pay gap
 	linked_narrative_id =	NW21
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NW21
 	---------------------------------
 	<a class="narrative-ref" href="#NW24" target="_blank">maternity and care leave</a>
 	href=	#NW24
 	text=	maternity and care leave
 	linked_narrative_id =	NW24
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NW24
 	---------------------------------
 =======================================================
 narrative_id=	NP26
@@ -1473,7 +1473,7 @@ url=	https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=ac2f22fca70
 	text=	harmful social norms and discriminatory attitudes
 	linked_narrative_id =	NW8
 	narrative_metadata_title:	None
-	link:	None
+	link:	#NW8
 	---------------------------------
 	<a class="narrative-ref" href="#NW26" target="_blank">unemployment rate</a>
 	href=	#NW26
