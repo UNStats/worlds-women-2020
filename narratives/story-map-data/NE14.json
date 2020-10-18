@@ -1,1 +1,310 @@
-{"values": {"settings": {"header": {"linkText": "World's Women 2020", "linkURL": "https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=894bed8498eb449a983af8b33a7125f3", "logoURL": "https://www.arcgis.com/sharing/rest/content/items/894bed8498eb449a983af8b33a7125f3/resources/sm_mj_logo__1598499409363.jpg", "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/", "social": {"facebook": true, "twitter": true, "bitly": true}}, "appGeocoders": [{"singleLineFieldName": "SingleLine", "name": "ArcGIS World Geocoding Service", "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"}], "layout": {"id": "side"}, "layoutOptions": {"layoutCfg": {"size": "large", "position": "right"}, "socialLinks": false}, "theme": {"colors": {"name": "side-default-5", "themeMajor": "white", "dotNav": "#68AAE1", "panel": "#FFFFFF", "media": "#E8E8DF", "text": "#000000", "textLink": "#555", "softText": "#FFF", "softBtn": "#4D4D4D", "esriLogo": "black"}, "fonts": {"sectionTitle": {"id": "default", "value": "font-family:'open_sansregular', sans-serif;"}, "sectionContent": {"id": "default", "value": "font-family:'open_sansregular', sans-serif;"}}}}, "title": "Education\n", "story": {"storage": "WEBAPP", "sections": [{"title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Education</strong></span></span></p>\n", "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Children and adolescents with minimum proficiency in reading and mathematics</div>\n", "contentActions": [], "creaDate": 1602773597767, "pubDate": 1602773597767, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/cba28346e8c745ca84446dd894760e67/resources/santi-vedri-O5EMzfdxedg-unsplash__1602773595598__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "santi-vedri-O5EMzfdxedg-unsplash__1602773595598__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/cba28346e8c745ca84446dd894760e67/resources/santi-vedri-O5EMzfdxedg-unsplash__1602773595598__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px\">Key points</span>", "content": "<ul class=\"key-points\">\n\t<li>Girls outperform boys in reading proficiency in every region of the world and across all three levels of education (early and late primary education and at the end of lower secondary education).</li>\n\t<li>Girls performed better than boys in reading in all but one country (85 out of 86 countries) at the end of lower secondary education. Girls' overperformance in reading skills is more pronounced at the end of lower secondary education than at lower levels of education.</li>\n\t<li>Large regional differences exist in minimum proficiency in reading skills; extremely low proficiency levels in reading were observed in the majority of countries in sub-Saharan Africa (proficiency level of less than 30% in grades 2 or 3 of primary education).</li>\n\t<li>Overall gender disparities in proficiency in mathematics is not significant as opposed to gender differences in reading skills; however, boys slightly outperform girls in mathematics at the end of primary education and girls outperform boys at the end of lower secondary education.</li>\n\t<li>Gender disparity in student learning changes over young adulthood, and the gender gap in reading, at the advantage of girls, is almost completely closed at around age 30.</li>\n</ul>\n", "contentActions": [], "creaDate": 1602773651102, "pubDate": 1602773651102, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/cba28346e8c745ca84446dd894760e67/resources/814419-Mozambique%20Recovers%20after%20Cyclones%20Idai%20and%20Kenneth__1602773649195__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "814419-Mozambique Recovers after Cyclones Idai and Kenneth__1602773649195__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/cba28346e8c745ca84446dd894760e67/resources/814419-Mozambique%20Recovers%20after%20Cyclones%20Idai%20and%20Kenneth__1602773649195__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:28px;\">Background</span>", "content": "<p>The main purpose of education is to impart skills to young people so that they can effectively participate in social, economic and political life. Ensuring that children are <a class=\"narrative-ref\" href=\"#NE11\" target=\"_blank\">in school</a> is not an end in itself. Reading and mathematics are considered to be the most important, most basic, skills as they serve as the foundation for all other skills and are needed to obtain further education and training. People who cannot read, write and do basic arithmetic have fewer opportunities for gainful employment, entrepreneurial activity or civic participation.</p>\n\n<p>Foundation skills are also essential for active citizenship and safe choices about personal health. A lack of basic knowledge in those two subject areas not only threatens an individual\u2019s ability to climb out of poverty, it also jeopardizes the economic future of entire nations if they are obliged to compete in a global marketplace with less-than-skilled human resources.<span class=\"footnote-index\">1</span> Sustainable Development Goal (SDG) 4, indicator 4.1.1, measures the quality of student learning outcomes in two subject areas (mathematics and reading) in early and late primary education and at the end of lower secondary education.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609558915", "type": "navigate", "index": -1}], "creaDate": 1601858801993, "pubDate": 1601858760000, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/nd2-fig1", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;Current situation</span>", "content": "<p><strong>Girls outperformed boys in reading skills in the vast majority of countries; this gap is more pronounced at the end of lower secondary than at lower levels of education</strong></p>\n\n<p>Girls\u2019 advantage in reading is well documented. Girls outperformed boys in reading proficiency in every region of the world and across all three levels of education\u2014early and late primary education and at the end of lower secondary education (see figures I, II and III). This was the case in 64 out of 73 countries with data at the level of grades 2 or 3 of primary education, and this was also the case in 31 out of 35 countries at the end of primary education. Girls performed better than boys in reading in all but one country (85 out of 86 countries) at the end of lower <a class=\"narrative-ref\" href=\"#NE9\" target=\"_blank\">secondary education</a>. These gaps underscore the importance of a gender-sensitive approach in teaching.</p>\n\n<p>Gender gaps in reading proficiency, which generally favour girls, tend to be more pronounced at the end of lower secondary than at the other two lower levels of education. This is the case in both developing and developed countries.</p>\n", "contentActions": [], "creaDate": 1601859245824, "pubDate": 1601859245824, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/nd2-fig2", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:28px;\">&nbsp;</span>", "content": "<p><strong>Proficiency in reading was extremely low in countries in sub-Saharan Africa</strong></p>\n\n<p>Large regional differences exist in minimum proficiency in reading. Extremely low proficiency levels in reading were observed in the majority of countries in <span class=\"label-ref\">sub-Saharan Africa</span>, where more than 7 out of 10 countries with data show a proficiency level of less than 30% at grades 2 or 3 of primary education. Proficiency in reading for both girls and boys at that level of education was similarly low in many countries in Central and Southern Asia. Despite years of steady growth in enrolment rates, proficiency rates in these regions remain extremely low. In contrast, proficiency in reading for both girls and boys was high (above 90%) in Europe and Northern America and Australia and New Zealand, as well as in some countries in Eastern and South-Eastern Asia. Proficiency in reading was moderate in the majority of the countries in Northern Africa and Western Asia and Latin America and the Caribbean.</p>\n\n<p>The regional patterns of reading skills were similar for the other two levels of education (end of primary education and end of lower secondary education), although proficiency levels were more modest in comparison to those at grades 2 or 3 of primary education.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609631920", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609642799", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609651540", "type": "navigate", "index": -1}], "creaDate": 1601858920690, "pubDate": 1601858880000, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/nd2-fig3", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px\">&nbsp;</span>", "content": "<p><strong>Boys outperform girls in mathematics at the end of primary education, but girls outperform boys at the end of lower secondary education</strong></p>\n\n<p>Proficiency in mathematics presents a mixed picture than reading, though it&nbsp;is also characterized by gender differences. However, in contrast to what was observed for reading skills, with few exceptions, the gender gaps were not significant across educational levels and regions (see figures I, II and III).</p>\n\n<p>Gender disparities pertaining to proficiency in mathematics display diverse patterns across educational levels. At the level of grades 2 or 3 of primary education, boys outperformed girls in 33 out of 66 countries with data, while in 31 countries girls did better. At the end of primary education, 29 out of 41 countries with data showed gender gaps in favour of boys, and in 11 countries, the gender disparity favoured girls. At the end of lower secondary education, only 43 out of 95 countries with data displayed gender disparities favouring boys; in 51 of the remaining countries girls slightly outperformed boys. Girls appear to be narrowing the gap in achievement in mathematics, an area where boys have historically held an advantage.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609674534", "type": "navigate", "index": -1}], "creaDate": 1602773362362, "pubDate": 1602773362362, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/nd2-fig4", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px\">&nbsp;</span>", "content": "<p><strong>Learning disparities change over young adulthood</strong></p>\n\n<p>Some studies<span class=\"footnote-index\">2</span> show that the gender disparity in student learning changes over young adulthood. Young people\u2019s literacy and numeracy skills continue to develop after primary and secondary education, reaching a peak at around age 30. The ways in which skills develop are influenced by the formative education and employment choices and paths young people pursue. In a comparison survey of students at age&nbsp;15 carried out under the Programme for International Student Assessment, coordinated by the Organization for Economic and Cooperation and Development (OECD), followed by a Programme for the International Assessment of Adult Competencies survey 12 years later, significant changes in disparities were reported: wide literacy gaps between girls and boys narrowed or disappeared in young adulthood. At age 15, girls in OECD countries outperformed boys in reading, but by age 27, the gender gap had almost completely closed.<span class=\"footnote-index\">3</span></p>\n", "contentActions": [{"id": "MJ-ACTION-1598609744028", "type": "navigate", "index": -1}], "creaDate": 1602773412310, "pubDate": 1602773412310, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/nd2-fig5", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px\">&nbsp;</span>", "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"definition\">This indicator measures the proportion of children and adolescents in grades 2 or 3 of primary education, at the end of primary education, and at the end of lower secondary education achieving at least a minimum proficiency level in reading and mathematics. The indicator is calculated as the percentage of children and young people at the relevant stage of education achieving or exceeding a predefined minimum proficiency level in a given subject. The minimum proficiency level is defined as the benchmark of basic knowledge in a given domain (reading and mathematics) measured through learning assessments. Currently, there are no common standards for a global benchmark. Since each learning assessment sets its own objectives and standards, the performance levels defined in these assessments may not be consistent.</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Girls and boys: (a) in grades 2 or 3 of primary education; (b) at the end of primary education; and (c) at the end of lower secondary education.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Data for grades 2 or 3 of primary education are available for 73 countries for reading and 66 for mathematics. Data at the end of primary education are available for 35 countries for reading and for 41 for mathematics. Data at the end of lower secondary education are available for 86 countries for reading and for 95 for mathematics. Data correspond to the latest available year during the period 2010\u20142019.<span class=\"footnote-index\">4</span> Countries are organized according to regional groupings under the Sustainable Development Goals indicators framework.<span class=\"footnote-index\">5</span></p>\n</div>\n</div>\n", "contentActions": [], "creaDate": 1602773674634, "pubDate": 1602773674634, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/cba28346e8c745ca84446dd894760e67/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602773673569__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1602773673569__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/cba28346e8c745ca84446dd894760e67/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602773673569__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px\">&nbsp;</span>", "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://unstats.un.org/sdgs/report/2019/\" target=\"_blank\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, Sustainable Development Report 2019, New York, 2019</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://unesdoc.unesco.org/ark:/48223/pf0000261593\" target=\"_blank\">UNESCO, Global education monitoring report 2018: Gender Review: Meeting our commitments to gender equality in education, Paris, 2018</a>. (\u21e1 back to text)</li>\n\t<li>Ibid. (\u21e1 back to text)</li>\n\t<li><a href=\"http://data.uis.unesco.org/Index.aspx?DataSetCode=EDULIT_DS&amp;popupcustomise=true&amp;lang=en\" target=\"_blank\">Data source is the United Nations Educational, Scientific and Cultural Organization (UNESCO), UNESCO Institute for Statistics education database (accessed in February 2020)</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\" target=\"_blank\">Regional groupings under the Sustainable Development Goals (SDGs) indicators framework</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n", "contentActions": [{"id": "MJ-ACTION-1598609809974", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609814847", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609820099", "type": "navigate", "index": -1}], "creaDate": 1602773686275, "pubDate": 1602773686275, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/cba28346e8c745ca84446dd894760e67/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602773685239__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602773685239__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/cba28346e8c745ca84446dd894760e67/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602773685239__w1200.jpg", "width": 1200}], "display": "fill"}}}]}, "template": {"name": "Map Journal", "createdWith": "1.24.1", "editedWith": "1.25.0"}, "doNotWarnTitle": true}, "_ssl": null}
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Education\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Education</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Children and adolescents with minimum proficiency in reading and mathematics</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602773597767,
+                    "pubDate": 1602773597767,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/cba28346e8c745ca84446dd894760e67/resources/santi-vedri-O5EMzfdxedg-unsplash__1602773595598__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "santi-vedri-O5EMzfdxedg-unsplash__1602773595598__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/cba28346e8c745ca84446dd894760e67/resources/santi-vedri-O5EMzfdxedg-unsplash__1602773595598__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>Girls outperform boys in reading proficiency in every region of the world and across all three levels of education (early and late primary education and at the end of lower secondary education).</li>\n\t<li>Girls performed better than boys in reading in all but one country (85 out of 86 countries) at the end of lower secondary education. Girls' overperformance in reading skills is more pronounced at the end of lower secondary education than at lower levels of education.</li>\n\t<li>Large regional differences exist in minimum proficiency in reading skills; extremely low proficiency levels in reading were observed in the majority of countries in sub-Saharan Africa (proficiency level of less than 30% in grades 2 or 3 of primary education).</li>\n\t<li>Overall gender disparities in proficiency in mathematics is not significant as opposed to gender differences in reading skills; however, boys slightly outperform girls in mathematics at the end of primary education and girls outperform boys at the end of lower secondary education.</li>\n\t<li>Gender disparity in student learning changes over young adulthood, and the gender gap in reading, at the advantage of girls, is almost completely closed at around age 30.</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602773651102,
+                    "pubDate": 1602773651102,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/cba28346e8c745ca84446dd894760e67/resources/814419-Mozambique%20Recovers%20after%20Cyclones%20Idai%20and%20Kenneth__1602773649195__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "814419-Mozambique Recovers after Cyclones Idai and Kenneth__1602773649195__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/cba28346e8c745ca84446dd894760e67/resources/814419-Mozambique%20Recovers%20after%20Cyclones%20Idai%20and%20Kenneth__1602773649195__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px;\">Background</span>",
+                    "content": "<p>The main purpose of education is to impart skills to young people so that they can effectively participate in social, economic and political life. Ensuring that children are <a class=\"narrative-ref\" href=\"#NE11\" target=\"_blank\">in school</a> is not an end in itself. Reading and mathematics are considered to be the most important, most basic, skills as they serve as the foundation for all other skills and are needed to obtain further education and training. People who cannot read, write and do basic arithmetic have fewer opportunities for gainful employment, entrepreneurial activity or civic participation.</p>\n\n<p>Foundation skills are also essential for active citizenship and safe choices about personal health. A lack of basic knowledge in those two subject areas not only threatens an individual\u2019s ability to climb out of poverty, it also jeopardizes the economic future of entire nations if they are obliged to compete in a global marketplace with less-than-skilled human resources.<span class=\"footnote-index\">1</span> Sustainable Development Goal (SDG) 4, indicator 4.1.1, measures the quality of student learning outcomes in two subject areas (mathematics and reading) in early and late primary education and at the end of lower secondary education.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609558915",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1601858801993,
+                    "pubDate": 1601858760000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/nd2-fig1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;Current situation</span>",
+                    "content": "<p><strong>Girls outperformed boys in reading skills in the vast majority of countries; this gap is more pronounced at the end of lower secondary than at lower levels of education</strong></p>\n\n<p>Girls\u2019 advantage in reading is well documented. Girls outperformed boys in reading proficiency in every region of the world and across all three levels of education\u2014early and late primary education and at the end of lower secondary education (see figures I, II and III). This was the case in 64 out of 73 countries with data at the level of grades 2 or 3 of primary education, and this was also the case in 31 out of 35 countries at the end of primary education. Girls performed better than boys in reading in all but one country (85 out of 86 countries) at the end of lower <a class=\"narrative-ref\" href=\"#NE9\" target=\"_blank\">secondary education</a>. These gaps underscore the importance of a gender-sensitive approach in teaching.</p>\n\n<p>Gender gaps in reading proficiency, which generally favour girls, tend to be more pronounced at the end of lower secondary than at the other two lower levels of education. This is the case in both developing and developed countries.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1601859245824,
+                    "pubDate": 1601859245824,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/nd2-fig2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px;\">&nbsp;</span>",
+                    "content": "<p><strong>Proficiency in reading was extremely low in countries in sub-Saharan Africa</strong></p>\n\n<p>Large regional differences exist in minimum proficiency in reading. Extremely low proficiency levels in reading were observed in the majority of countries in <span class=\"label-ref\">sub-Saharan Africa</span>, where more than 7 out of 10 countries with data show a proficiency level of less than 30% at grades 2 or 3 of primary education. Proficiency in reading for both girls and boys at that level of education was similarly low in many countries in Central and Southern Asia. Despite years of steady growth in enrolment rates, proficiency rates in these regions remain extremely low. In contrast, proficiency in reading for both girls and boys was high (above 90%) in Europe and Northern America and Australia and New Zealand, as well as in some countries in Eastern and South-Eastern Asia. Proficiency in reading was moderate in the majority of the countries in Northern Africa and Western Asia and Latin America and the Caribbean.</p>\n\n<p>The regional patterns of reading skills were similar for the other two levels of education (end of primary education and end of lower secondary education), although proficiency levels were more modest in comparison to those at grades 2 or 3 of primary education.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609631920",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609642799",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609651540",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1601858920690,
+                    "pubDate": 1601858880000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/nd2-fig3",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<p><strong>Boys outperform girls in mathematics at the end of primary education, but girls outperform boys at the end of lower secondary education</strong></p>\n\n<p>Proficiency in mathematics presents a mixed picture than reading, though it&nbsp;is also characterized by gender differences. However, in contrast to what was observed for reading skills, with few exceptions, the gender gaps were not significant across educational levels and regions (see figures I, II and III).</p>\n\n<p>Gender disparities pertaining to proficiency in mathematics display diverse patterns across educational levels. At the level of grades 2 or 3 of primary education, boys outperformed girls in 33 out of 66 countries with data, while in 31 countries girls did better. At the end of primary education, 29 out of 41 countries with data showed gender gaps in favour of boys, and in 11 countries, the gender disparity favoured girls. At the end of lower secondary education, only 43 out of 95 countries with data displayed gender disparities favouring boys; in 51 of the remaining countries girls slightly outperformed boys. Girls appear to be narrowing the gap in achievement in mathematics, an area where boys have historically held an advantage.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609674534",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602773362362,
+                    "pubDate": 1602773362362,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/nd2-fig4",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<p><strong>Learning disparities change over young adulthood</strong></p>\n\n<p>Some studies<span class=\"footnote-index\">2</span> show that the gender disparity in student learning changes over young adulthood. Young people\u2019s literacy and numeracy skills continue to develop after primary and secondary education, reaching a peak at around age 30. The ways in which skills develop are influenced by the formative education and employment choices and paths young people pursue. In a comparison survey of students at age&nbsp;15 carried out under the Programme for International Student Assessment, coordinated by the Organization for Economic and Cooperation and Development (OECD), followed by a Programme for the International Assessment of Adult Competencies survey 12 years later, significant changes in disparities were reported: wide literacy gaps between girls and boys narrowed or disappeared in young adulthood. At age 15, girls in OECD countries outperformed boys in reading, but by age 27, the gender gap had almost completely closed.<span class=\"footnote-index\">3</span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609744028",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602773412310,
+                    "pubDate": 1602773412310,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/nd2-fig5",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"definition\">This indicator measures the proportion of children and adolescents in grades 2 or 3 of primary education, at the end of primary education, and at the end of lower secondary education achieving at least a minimum proficiency level in reading and mathematics. The indicator is calculated as the percentage of children and young people at the relevant stage of education achieving or exceeding a predefined minimum proficiency level in a given subject. The minimum proficiency level is defined as the benchmark of basic knowledge in a given domain (reading and mathematics) measured through learning assessments. Currently, there are no common standards for a global benchmark. Since each learning assessment sets its own objectives and standards, the performance levels defined in these assessments may not be consistent.</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Girls and boys: (a) in grades 2 or 3 of primary education; (b) at the end of primary education; and (c) at the end of lower secondary education.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Data for grades 2 or 3 of primary education are available for 73 countries for reading and 66 for mathematics. Data at the end of primary education are available for 35 countries for reading and for 41 for mathematics. Data at the end of lower secondary education are available for 86 countries for reading and for 95 for mathematics. Data correspond to the latest available year during the period 2010\u20142019.<span class=\"footnote-index\">4</span> Countries are organized according to regional groupings under the Sustainable Development Goals indicators framework.<span class=\"footnote-index\">5</span></p>\n</div>\n</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602773674634,
+                    "pubDate": 1602773674634,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/cba28346e8c745ca84446dd894760e67/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602773673569__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1602773673569__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/cba28346e8c745ca84446dd894760e67/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602773673569__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://unstats.un.org/sdgs/report/2019/\" target=\"_blank\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, Sustainable Development Report 2019, New York, 2019</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://unesdoc.unesco.org/ark:/48223/pf0000261593\" target=\"_blank\">UNESCO, Global education monitoring report 2018: Gender Review: Meeting our commitments to gender equality in education, Paris, 2018</a>. (\u21e1 back to text)</li>\n\t<li>Ibid. (\u21e1 back to text)</li>\n\t<li><a href=\"http://data.uis.unesco.org/Index.aspx?DataSetCode=EDULIT_DS&amp;popupcustomise=true&amp;lang=en\" target=\"_blank\">Data source is the United Nations Educational, Scientific and Cultural Organization (UNESCO), UNESCO Institute for Statistics education database (accessed in February 2020)</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\" target=\"_blank\">Regional groupings under the Sustainable Development Goals (SDGs) indicators framework</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609809974",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609814847",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609820099",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602773686275,
+                    "pubDate": 1602773686275,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/cba28346e8c745ca84446dd894760e67/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602773685239__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602773685239__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/cba28346e8c745ca84446dd894760e67/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602773685239__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NE14"
+    }
+}

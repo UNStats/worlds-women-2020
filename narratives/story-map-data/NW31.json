@@ -1,1 +1,304 @@
-{"values": {"settings": {"header": {"linkText": "World's Women 2020", "linkURL": "https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=894bed8498eb449a983af8b33a7125f3", "logoURL": "https://www.arcgis.com/sharing/rest/content/items/894bed8498eb449a983af8b33a7125f3/resources/sm_mj_logo__1598499409363.jpg", "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/", "social": {"facebook": true, "twitter": true, "bitly": true}}, "appGeocoders": [{"singleLineFieldName": "SingleLine", "name": "ArcGIS World Geocoding Service", "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"}], "layout": {"id": "side"}, "layoutOptions": {"layoutCfg": {"size": "large", "position": "right"}, "socialLinks": false}, "theme": {"colors": {"name": "side-default-5", "themeMajor": "white", "dotNav": "#68AAE1", "panel": "#FFFFFF", "media": "#E8E8DF", "text": "#000000", "textLink": "#555", "softText": "#FFF", "softBtn": "#4D4D4D", "esriLogo": "black"}, "fonts": {"sectionTitle": {"id": "default", "value": "font-family:'open_sansregular', sans-serif;"}, "sectionContent": {"id": "default", "value": "font-family:'open_sansregular', sans-serif;"}}}}, "title": "Economic empowerment\n", "story": {"storage": "WEBAPP", "sections": [{"title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Economic empowerment</strong></span></span></p>\n", "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Switzerland: employment models in couple households</div>\n", "contentActions": [], "creaDate": 1602484642608, "pubDate": 1602484642608, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/2bb9274fcdb84ff781d49734e814f03f/resources/junho-9Zojqxf1RMg-unsplash-couple%20on%20park%20bench__1602484306225__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "junho-9Zojqxf1RMg-unsplash-couple on park bench__1602484306225__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/2bb9274fcdb84ff781d49734e814f03f/resources/junho-9Zojqxf1RMg-unsplash-couple%20on%20park%20bench__1602484306225__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px\">Key points</span>", "content": "<ul class=\"key-points\">\n\t<li>In Switzerland, employment is unequally divided between women and men in couple households with children; it is rare that both parents work part-time or both full-time.<span class=\"footnote-index\">1</span> Most commonly, fathers are employed full-time and mothers are employed part-time. In the next most frequent situation, fathers work full time and mothers are economically inactive.</li>\n\t<li>In 2019, the highest proportion of couples in which both parents work part-time (10.5%) was recorded in couple households with youngest children under age 4. As children grow older, there is a decline in the number of households with mothers who are economically inactive.</li>\n\t<li>The proportion of couple households with youngest children between ages 4\u201412 in which both parents work full-time increased from 8.9% in 2010 to 12.4% in 2019.</li>\n\t<li>In 2019, the proportion of couples in which men are economically inactive or employed part-time and women are employed full-time (6%) was observed in couple households without children.</li>\n\t<li>In couple households with youngest children aged 0\u20143, the highest proportion of couples with both parents working full-time (19.6%) was recorded (cumulatively) between 2015\u20142017 in the French-speaking part of Switzerland, partly due to the more widespread availability of childcare facilities.</li>\n</ul>\n", "contentActions": [], "creaDate": 1602484684018, "pubDate": 1602484684018, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/2bb9274fcdb84ff781d49734e814f03f/resources/sai-de-silva-YLMs82LF6FY-unsplash__1602484629255__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "sai-de-silva-YLMs82LF6FY-unsplash__1602484629255__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/2bb9274fcdb84ff781d49734e814f03f/resources/sai-de-silva-YLMs82LF6FY-unsplash__1602484629255__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:28px\">Background</span>", "content": "<p>An equal share of paid and unpaid work between women and men contributes to gender equality. In the Sustainable Development Goal 5, target 5.4, of the 2030 Agenda for Sustainable Development promotes \u201cshared responsibility within the household and the family\u201d. The indicator on employment models in couple households contributes to the monitoring of SDG indicator 5.4.1 (proportion of time spent on unpaid domestic and care work, by sex, age and location).</p>\n\n<p>Balancing work and family life is challenging in all countries in the world. In Switzerland, it is increasingly rare that a single salary is sufficient to meet the financial needs of the household, and consequently both parents often need to work to support the family. Furthermore, many women have higher educational qualifications and do not want to abandon their careers. Work-life balance is therefore a very important issue for both women and men.</p>\n\n<p>The fact that women, and mothers in particular, are increasingly engaged in paid employment should not obscure the fact that most work part-time [link to NW4] and that some are in employment with a low work-time percentage (under 50%) when they have children in the home. In a majority of cases, men, particularly fathers, work full-time, and thus the burden of balancing work and family is usually borne by mothers.</p>\n\n<p>Part-time work offers an effective way to balance time spent on household responsibilities and childrearing,<span class=\"footnote-index\">2</span> and it should be an equal opportunity for both women and men. While part-time work is also seen a way to increase employment levels, particularly among women, a part-time job, in particular a job with a work-time percentage of less than 50%, may entail precarious working conditions, insufficient social security coverage (for example, a lack of a pension fund) and fewer opportunities for further education and training and career advancement.</p>\n\n<p>In Switzerland, women living in couple households bear greater responsibility for the domestic and family workload, and this inequality extends also into the work arena, particularly for women with children. It is often the case that women reduce their working hours or give up their jobs, either temporarily or completely, when they have children. Most frequently, fathers are employed full-time and mothers part-time; to a lesser extent, fathers work in full-time employment and mothers are economically inactive.</p>\n\n<p>As children grow older, a decline is seen in the number of households with mothers who are economically inactive and there is an observable increase in the number of households with mothers with a higher work-time percentage, that is, working part-time at 50% to 89% or working full-time. The proportion of couple households in which both partners work part-time is most common in families where the youngest child is under age 4 (10.5% of couple households). In a small share of couple households (3.5%), the man does not work or works part-time (at 1% to 89%) and the woman works full-time. This is more common when there are no children in the household (6%).</p>\n\n<p>Although the share of fathers working part-time has increased slightly over the past 10 years, the proportion of couple households with youngest children aged 4\u201412 in which both partners work part-time is low (3.8 % in 2010, and 6.2% in 2019). Over the same time period, households with both parents working full-time increased from 9.2% to 13.1% (see figure I).</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609558915", "type": "navigate", "index": 6}], "creaDate": 1602483975220, "pubDate": 1602483975220, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw23-graph-1", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<p>In cumulated data collected over three consecutive years for the annual structural survey, regional differences in the employment patterns of couple households with children are evident. The proportion of households with both parents working part-time is more common in the German-speaking part of Switzerland, and the proportion of households with both parents working full-time is more common in the French-speaking part of the country.</p>\n\n<p>Taking only households with youngest children aged 0\u20143 into account, meaning that the youngest child is not of school age, regional differences remain. The highest proportion of households with couples working full time is in the French-speaking part of Switzerland, where, in one fifth (19.6%) of households with youngest children aged 0\u20143, both partners are employed full-time (see figure II). This is possible because of the greater availability of childcare facilities in the French-speaking part of Switzerland. In the German-speaking part of Switzerland, both parents are engaged in full-time work in only 9.7% of households with children ages 0\u20143.</p>\n\n<p>In Switzerland, working parents often seek assistance from grandparents and neighbours, and use the services provided by institutional childcare centres and out-of-school facilities to ease the burden on the household and to provide them with ways to achieve a better sharing of paid and unpaid work, as well as a better work-life balance. Childcare services in Switzerland are not always affordable, available in sufficient numbers or compatible with parents' work schedules.</p>\n", "contentActions": [], "creaDate": 1602358137562, "pubDate": 1602358080000, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw23-graph-2", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px\">&nbsp;</span>", "content": "<div class=\"references\">\n<h1>Sources</h1>\n\n<ul>\n\t<li><a class=\"narrative-ref\" href=\"https://www.bfs.admin.ch/bfs/en/home/statistics/economic-social-situation-population/gender-equality.assetdetail.8288362.html\" target=\"_blank\">Government of Switzerland, Federal Statistical Office, \u201cOn the way to gender equality - Current situation and developments\u201d, 2019</a></li>\n\t<li><a class=\"narrative-ref\" href=\"https://www.bfs.admin.ch/bfs/en/home/statistics/economic-social-situation-population/gender-equality/balancing-work-family/employment-couple-housholds.html\" target=\"_blank\">Government of Switzerland, Federal Statistical Office, \u201cEmployment models in couple households\u201d</a></li>\n\t<li><a class=\"narrative-ref\" href=\"https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__98-GE_LifeBalance/00104_en_GELB_Working_Couples_r.px/\" target=\"_blank\">United Nations Economic Commission for Europe, Population and Gender Database, work-life balance, \u201cCouples with both partners aged 25\u201449 by working pattern and age of youngest child\u201d</a></li>\n</ul>\n</div>\n", "contentActions": [], "creaDate": 1602484799835, "pubDate": 1602484799835, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/2bb9274fcdb84ff781d49734e814f03f/resources/clay-banks-GX8KBbVmC6c-unsplash__1602484797946__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "clay-banks-GX8KBbVmC6c-unsplash__1602484797946__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/2bb9274fcdb84ff781d49734e814f03f/resources/clay-banks-GX8KBbVmC6c-unsplash__1602484797946__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Employment models in couple households</span>: <span class=\"definition\">Measure (a) the participation in the labour market and (b) the work-time percentage of both women and men in the household.</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Women and men aged 25\u201454 in couple households at the national and regional level.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Data on employment models have been provided by the Federal Statistical Office of the Government of Switzerland.<span class=\"footnote-index\">3</span></p>\n</div>\n</div>\n", "contentActions": [{"id": "MJ-ACTION-1598609809974", "type": "navigate", "index": 6}, {"id": "MJ-ACTION-1598609814847", "type": "navigate", "index": 6}, {"id": "MJ-ACTION-1598609820099", "type": "navigate", "index": 6}], "creaDate": 1602358262492, "pubDate": 1602358262492, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg", "type": "image", "altText": "", "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li>Full-time employment refers to work-time percentages of 90% to 100%. (\u21e1 back to text)</li>\n\t<li><a href=\"https://unstats.un.org/unsd/gender/worldswomen.html\" target=\"_blank\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, The World\u2019s Women 2015: Trends and Statistics, chap. 4, New York, 2015</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.bfs.admin.ch/bfs/en/home.html\" target=\"_blank\">Government of Switzerland, Federal Statistical Office</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n", "contentActions": [{"id": "MJ-ACTION-1598609848308", "type": "navigate", "index": 2}, {"id": "MJ-ACTION-1598609857337", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609873239", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609883421", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609896997", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609906932", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609914851", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609927078", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609936839", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609958575", "type": "navigate", "index": 5}, {"id": "MJ-ACTION-1598609967973", "type": "navigate", "index": 5}, {"id": "MJ-ACTION-1598609975942", "type": "navigate", "index": 5}, {"id": "MJ-ACTION-1598610194053", "type": "navigate", "index": -1}], "creaDate": 1602358284557, "pubDate": 1602358284557, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg", "type": "image", "altText": "", "display": "fill"}}}]}, "template": {"name": "Map Journal", "createdWith": "1.24.1", "editedWith": "1.25.0"}, "doNotWarnTitle": true}, "_ssl": null}
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Economic empowerment\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Economic empowerment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Switzerland: employment models in couple households</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602484642608,
+                    "pubDate": 1602484642608,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/2bb9274fcdb84ff781d49734e814f03f/resources/junho-9Zojqxf1RMg-unsplash-couple%20on%20park%20bench__1602484306225__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "junho-9Zojqxf1RMg-unsplash-couple on park bench__1602484306225__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/2bb9274fcdb84ff781d49734e814f03f/resources/junho-9Zojqxf1RMg-unsplash-couple%20on%20park%20bench__1602484306225__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>In Switzerland, employment is unequally divided between women and men in couple households with children; it is rare that both parents work part-time or both full-time.<span class=\"footnote-index\">1</span> Most commonly, fathers are employed full-time and mothers are employed part-time. In the next most frequent situation, fathers work full time and mothers are economically inactive.</li>\n\t<li>In 2019, the highest proportion of couples in which both parents work part-time (10.5%) was recorded in couple households with youngest children under age 4. As children grow older, there is a decline in the number of households with mothers who are economically inactive.</li>\n\t<li>The proportion of couple households with youngest children between ages 4\u201412 in which both parents work full-time increased from 8.9% in 2010 to 12.4% in 2019.</li>\n\t<li>In 2019, the proportion of couples in which men are economically inactive or employed part-time and women are employed full-time (6%) was observed in couple households without children.</li>\n\t<li>In couple households with youngest children aged 0\u20143, the highest proportion of couples with both parents working full-time (19.6%) was recorded (cumulatively) between 2015\u20142017 in the French-speaking part of Switzerland, partly due to the more widespread availability of childcare facilities.</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602484684018,
+                    "pubDate": 1602484684018,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/2bb9274fcdb84ff781d49734e814f03f/resources/sai-de-silva-YLMs82LF6FY-unsplash__1602484629255__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "sai-de-silva-YLMs82LF6FY-unsplash__1602484629255__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/2bb9274fcdb84ff781d49734e814f03f/resources/sai-de-silva-YLMs82LF6FY-unsplash__1602484629255__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px\">Background</span>",
+                    "content": "<p>An equal share of paid and unpaid work between women and men contributes to gender equality. In the Sustainable Development Goal 5, target 5.4, of the 2030 Agenda for Sustainable Development promotes \u201cshared responsibility within the household and the family\u201d. The indicator on employment models in couple households contributes to the monitoring of SDG indicator 5.4.1 (proportion of time spent on unpaid domestic and care work, by sex, age and location).</p>\n\n<p>Balancing work and family life is challenging in all countries in the world. In Switzerland, it is increasingly rare that a single salary is sufficient to meet the financial needs of the household, and consequently both parents often need to work to support the family. Furthermore, many women have higher educational qualifications and do not want to abandon their careers. Work-life balance is therefore a very important issue for both women and men.</p>\n\n<p>The fact that women, and mothers in particular, are increasingly engaged in paid employment should not obscure the fact that most work part-time [link to NW4] and that some are in employment with a low work-time percentage (under 50%) when they have children in the home. In a majority of cases, men, particularly fathers, work full-time, and thus the burden of balancing work and family is usually borne by mothers.</p>\n\n<p>Part-time work offers an effective way to balance time spent on household responsibilities and childrearing,<span class=\"footnote-index\">2</span> and it should be an equal opportunity for both women and men. While part-time work is also seen a way to increase employment levels, particularly among women, a part-time job, in particular a job with a work-time percentage of less than 50%, may entail precarious working conditions, insufficient social security coverage (for example, a lack of a pension fund) and fewer opportunities for further education and training and career advancement.</p>\n\n<p>In Switzerland, women living in couple households bear greater responsibility for the domestic and family workload, and this inequality extends also into the work arena, particularly for women with children. It is often the case that women reduce their working hours or give up their jobs, either temporarily or completely, when they have children. Most frequently, fathers are employed full-time and mothers part-time; to a lesser extent, fathers work in full-time employment and mothers are economically inactive.</p>\n\n<p>As children grow older, a decline is seen in the number of households with mothers who are economically inactive and there is an observable increase in the number of households with mothers with a higher work-time percentage, that is, working part-time at 50% to 89% or working full-time. The proportion of couple households in which both partners work part-time is most common in families where the youngest child is under age 4 (10.5% of couple households). In a small share of couple households (3.5%), the man does not work or works part-time (at 1% to 89%) and the woman works full-time. This is more common when there are no children in the household (6%).</p>\n\n<p>Although the share of fathers working part-time has increased slightly over the past 10 years, the proportion of couple households with youngest children aged 4\u201412 in which both partners work part-time is low (3.8 % in 2010, and 6.2% in 2019). Over the same time period, households with both parents working full-time increased from 9.2% to 13.1% (see figure I).</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609558915",
+                            "type": "navigate",
+                            "index": 6
+                        }
+                    ],
+                    "creaDate": 1602483975220,
+                    "pubDate": 1602483975220,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw23-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<p>In cumulated data collected over three consecutive years for the annual structural survey, regional differences in the employment patterns of couple households with children are evident. The proportion of households with both parents working part-time is more common in the German-speaking part of Switzerland, and the proportion of households with both parents working full-time is more common in the French-speaking part of the country.</p>\n\n<p>Taking only households with youngest children aged 0\u20143 into account, meaning that the youngest child is not of school age, regional differences remain. The highest proportion of households with couples working full time is in the French-speaking part of Switzerland, where, in one fifth (19.6%) of households with youngest children aged 0\u20143, both partners are employed full-time (see figure II). This is possible because of the greater availability of childcare facilities in the French-speaking part of Switzerland. In the German-speaking part of Switzerland, both parents are engaged in full-time work in only 9.7% of households with children ages 0\u20143.</p>\n\n<p>In Switzerland, working parents often seek assistance from grandparents and neighbours, and use the services provided by institutional childcare centres and out-of-school facilities to ease the burden on the household and to provide them with ways to achieve a better sharing of paid and unpaid work, as well as a better work-life balance. Childcare services in Switzerland are not always affordable, available in sufficient numbers or compatible with parents' work schedules.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602358137562,
+                    "pubDate": 1602358080000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw23-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"references\">\n<h1>Sources</h1>\n\n<ul>\n\t<li><a class=\"narrative-ref\" href=\"https://www.bfs.admin.ch/bfs/en/home/statistics/economic-social-situation-population/gender-equality.assetdetail.8288362.html\" target=\"_blank\">Government of Switzerland, Federal Statistical Office, \u201cOn the way to gender equality - Current situation and developments\u201d, 2019</a></li>\n\t<li><a class=\"narrative-ref\" href=\"https://www.bfs.admin.ch/bfs/en/home/statistics/economic-social-situation-population/gender-equality/balancing-work-family/employment-couple-housholds.html\" target=\"_blank\">Government of Switzerland, Federal Statistical Office, \u201cEmployment models in couple households\u201d</a></li>\n\t<li><a class=\"narrative-ref\" href=\"https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__98-GE_LifeBalance/00104_en_GELB_Working_Couples_r.px/\" target=\"_blank\">United Nations Economic Commission for Europe, Population and Gender Database, work-life balance, \u201cCouples with both partners aged 25\u201449 by working pattern and age of youngest child\u201d</a></li>\n</ul>\n</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602484799835,
+                    "pubDate": 1602484799835,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/2bb9274fcdb84ff781d49734e814f03f/resources/clay-banks-GX8KBbVmC6c-unsplash__1602484797946__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "clay-banks-GX8KBbVmC6c-unsplash__1602484797946__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/2bb9274fcdb84ff781d49734e814f03f/resources/clay-banks-GX8KBbVmC6c-unsplash__1602484797946__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Employment models in couple households</span>: <span class=\"definition\">Measure (a) the participation in the labour market and (b) the work-time percentage of both women and men in the household.</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Women and men aged 25\u201454 in couple households at the national and regional level.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Data on employment models have been provided by the Federal Statistical Office of the Government of Switzerland.<span class=\"footnote-index\">3</span></p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609809974",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609814847",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609820099",
+                            "type": "navigate",
+                            "index": 6
+                        }
+                    ],
+                    "creaDate": 1602358262492,
+                    "pubDate": 1602358262492,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li>Full-time employment refers to work-time percentages of 90% to 100%. (\u21e1 back to text)</li>\n\t<li><a href=\"https://unstats.un.org/unsd/gender/worldswomen.html\" target=\"_blank\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, The World\u2019s Women 2015: Trends and Statistics, chap. 4, New York, 2015</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.bfs.admin.ch/bfs/en/home.html\" target=\"_blank\">Government of Switzerland, Federal Statistical Office</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609848308",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609857337",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609873239",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609883421",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609896997",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609906932",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609914851",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609927078",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609936839",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609958575",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609967973",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609975942",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1598610194053",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602358284557,
+                    "pubDate": 1602358284557,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NW31"
+    }
+}

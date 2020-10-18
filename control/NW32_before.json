@@ -1,0 +1,355 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=894bed8498eb449a983af8b33a7125f3",
+                "logoURL": "https://www.arcgis.com/sharing/rest/content/items/894bed8498eb449a983af8b33a7125f3/resources/sm_mj_logo__1598499409363.jpg",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Economic empowerment\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Economic empowerment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Canada: gender wage gap</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602482990525,
+                    "pubDate": 1602482990525,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/cdf24c9c28b94260a4917cf5211cb321/resources/sam-manns-p0ZvBVpW3KY-unsplash__1602482987709__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "sam-manns-p0ZvBVpW3KY-unsplash__1602482987709__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/cdf24c9c28b94260a4917cf5211cb321/resources/sam-manns-p0ZvBVpW3KY-unsplash__1602482987709__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>Canada\u2019s gender wage gap was 13.3% in 2018, an improvement of 5.5 percentage points from 1998.<span class=\"footnote-index\">1</span></li>\n\t<li>Between 1998 and 2018, 26.3% of the narrowing in the gender gap came from changes in women's and men's occupations.</li>\n\t<li>In 2018, 39.7% of the gender wage gap was due to the effect of women and men being employed in different industries, with three high-paying, male-dominated sectors driving the gap in wages: construction; manufacturing; and mining, quarrying and oil and gas extraction. In addition, a significant portion of the gap (9.2%) was the result of women\u2019s higher rate of part-time work, which had lower average wages than full-time work.</li>\n\t<li>About two-thirds of the gender wage gap was driven by unexplained factors, including work experience, or unobservable factors, for example, gender-related biases.</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602483409111,
+                    "pubDate": 1602483409111,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/cdf24c9c28b94260a4917cf5211cb321/resources/aditya-das-RNpjzwDBsEY-unsplash__1602483407184__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "aditya-das-RNpjzwDBsEY-unsplash__1602483407184__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/cdf24c9c28b94260a4917cf5211cb321/resources/aditya-das-RNpjzwDBsEY-unsplash__1602483407184__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px\">In 2018, women in Canada earned, on average, 87 cents for every dollar earned by men</span>",
+                    "content": "<p>In Canada, women in the core working ages (ages 25\u201454) earned an average of $26.92 per hour in 2018, while their male counterparts earned $31.05 per hour.<span class=\"footnote-index\">2</span> In other words, women earned $4.13 (or 13.3%) less per hour, on average, than men, or $0.87 for every dollar earned by men. Understanding the impacts of various factors on the gender wage gap, and its change over time, contributes to broader efforts to monitor the gender-based pay disparity in Canada, and could point the way towards relevant policy interventions.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609558915",
+                            "type": "navigate",
+                            "index": 8
+                        }
+                    ],
+                    "creaDate": 1602483341284,
+                    "pubDate": 1602483341284,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/cdf24c9c28b94260a4917cf5211cb321/resources/david-todd-mccarty-VGLImIsgs9A-unsplash__1602483030510__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "david-todd-mccarty-VGLImIsgs9A-unsplash__1602483030510__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/cdf24c9c28b94260a4917cf5211cb321/resources/david-todd-mccarty-VGLImIsgs9A-unsplash__1602483030510__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">The gender wage gap showed a long-term decline between 1998 and 2018</span>",
+                    "content": "<p>As of 2018, the gender gap in hourly wages among employees aged 25\u201454 was 13.3%, down 5.5 percentage points from 1998 (see figure).</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602359290166,
+                    "pubDate": 1602359280000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw23-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Narrowing of the wage gap has been driven by changes in occupational distribution</span>",
+                    "content": "<p>More than half of the narrowing in the wage gap from 1998 to 2018 was attributable to human capital, job attributes, occupation and industry and demographics.<span class=\"footnote-index\">3</span> Changes in men\u2019s and women\u2019s <a class=\"narrative-ref\" href=\"#NW3\" target=\"_blank\">occupations</a> were the largest contributor, explaining 26.3% of the narrowing over the 20 years, as larger shares of women became employed in higher-paying occupations in legal, social, community and government services; education services; and business and finance.</p>\n\n<p>Women\u2019s increased educational attainment relative to men\u2019s (12.7%), and the decline in the share of men in unionized employment (9.3%), also contributed notably to the narrowing of the wage gap.</p>\n\n<p>Gender differences in industry, in particular the underrepresentation of women in the increasingly highly-paid construction sector, worked against the narrowing trend (8%) in the gender wage gap.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602483432779,
+                    "pubDate": 1602483432779,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/cdf24c9c28b94260a4917cf5211cb321/resources/chase-chappell-jpknI186H9w-unsplash__1602483140314__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "chase-chappell-jpknI186H9w-unsplash__1602483140314__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/cdf24c9c28b94260a4917cf5211cb321/resources/chase-chappell-jpknI186H9w-unsplash__1602483140314__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">The 2018 wage gap cannot be fully explained</span>",
+                    "content": "<p>The referenced study by Statistics Canada found that the largest explanatory factor behind the wage gap in 2018 (explaining 39.7% of the gender wage gap) was the fact that women were underrepresented in three high-paying and male-dominated sectors: construction; manufacturing; and mining, quarrying and oil and gas extraction. Differences between the industries in which women and men are employed were also found to have been behind the gap in 1998.</p>\n\n<p>The only other factor explaining the wage gap in 2018 (and in 1998) was women\u2019s higher rate of <a class=\"narrative-ref\" href=\"#NW4\" target=\"_blank\">part-time work</a>, which tended to pay less than full-time work. This factor accounted for 9.2% of the gap in 2018.</p>\n\n<p>While the above-noted factors were important, they were partially offset by a variety of other factors. As a result, about two-thirds of the gender wage gap in 2018 was unexplained by human capital, job attributes, occupation and industry and demographics. This could be due to factors that were beyond the scope of the study (for example, work experience) or unobservable factors (including gender-related biases). This points to a continued need for analysis in this area, in order to better understand the gender-based wage disparity.</p>\n\n<p>The Statistics Canada study focused on the overall wage gap between men and women in Canada, and differences may exist within population groups, including indigenous or immigrant populations. Future research on the wage gap for diverse population groups could prove valuable in understanding and addressing the wage gap.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602483238756,
+                    "pubDate": 1602483238756,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/cdf24c9c28b94260a4917cf5211cb321/resources/cristian-newman-cmgpJ5JcCrA-unsplash__1602483236704__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "cristian-newman-cmgpJ5JcCrA-unsplash__1602483236704__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/cdf24c9c28b94260a4917cf5211cb321/resources/cristian-newman-cmgpJ5JcCrA-unsplash__1602483236704__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">The legal framework: the Pay Equity Act (2018)</span>",
+                    "content": "<p>Pay equity, that is, equal pay for work of equal value to the employer, is a fundamental human right that has been protected under section 11 of the Canadian Human Rights Act since 1977. Under this Act, the burden to file complaints with the Canadian Human Rights Commission about gender-based wage inequality rests with employees.</p>\n\n<p>In December 2018, the Canadian federal Government passed the first proactive pay-equity legislation in the country. Although the Pay Equity Act has not yet come into force, it requires that employers in federally-regulated sectors with an average of 10 employees in a given year develop pay equity plans for their workplaces and take action to address systematic disparities in wages.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602482403006,
+                    "pubDate": 1602482403006,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/cdf24c9c28b94260a4917cf5211cb321/resources/tyler-nix-V3dHmb1MOXM-unsplash__1602482401205__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "tyler-nix-V3dHmb1MOXM-unsplash__1602482401205__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/cdf24c9c28b94260a4917cf5211cb321/resources/tyler-nix-V3dHmb1MOXM-unsplash__1602482401205__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Gender wage gap </span><span class=\"definition\">is the difference between the average hourly wages of men and women, expressed as a percentage of men\u2019s average hourly wages. The difference in gross hourly earnings between sociodemographic groups can be a partial indicator of the degree of inequality in the labour market. Average hourly wages may differ between some groups for a variety of reasons, including the level of educational attainment, work experience, industry of employment or occupation.</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Paid employees aged 25\u201454 at their main job.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>The most recent data on the gender wage gap was made available by&nbsp;Statistics Canada.<span class=\"footnote-index\">4</span></p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609809974",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609814847",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609820099",
+                            "type": "navigate",
+                            "index": 8
+                        }
+                    ],
+                    "creaDate": 1602482126806,
+                    "pubDate": 1602482126806,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li>See <a href=\"https://www150.statcan.gc.ca/n1/pub/75-004-m/75-004-m2019004-eng.htm\" target=\"_blank\">Statistics Canada, Center for Gender, Diversity and Inclusion, The gender wage gap in Canada: 1998 to 2018, October 2019</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410006401\" target=\"_blank\">Statistics Canada, Employee wages by industry, annual, table no. 14-10-0064-01</a>. (\u21e1 back to text)</li>\n\t<li>The study focused on <a href=\"https://www.stata-journal.com/article.html?article=st0151\" target=\"_blank\">Blinder-Oaxaca decomposition</a>, a well-known statistical method used to determine how much of a wage gap between two groups can be explained by various control factors. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www120.statcan.gc.ca/stcsr/en/sr1/srs?fq=stclac%3A2&amp;q=table+14-10-0064&amp;wb-srch-sub=02\" target=\"_blank\">Statistics Canada, Average and median gender wage ratio, annual, table 14-10-0064</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609848308",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609857337",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609873239",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609883421",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609896997",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609906932",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609914851",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609927078",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609936839",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609958575",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609967973",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609975942",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1598610194053",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602359403569,
+                    "pubDate": 1602359403569,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null
+}

@@ -1,1 +1,319 @@
-{"values": {"settings": {"header": {"linkText": "World's Women 2020", "linkURL": "https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=894bed8498eb449a983af8b33a7125f3", "logoURL": "https://www.arcgis.com/sharing/rest/content/items/894bed8498eb449a983af8b33a7125f3/resources/sm_mj_logo__1598499409363.jpg", "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/", "social": {"facebook": true, "twitter": true, "bitly": true}}, "appGeocoders": [{"singleLineFieldName": "SingleLine", "name": "ArcGIS World Geocoding Service", "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"}], "layout": {"id": "side"}, "layoutOptions": {"layoutCfg": {"size": "large", "position": "right"}, "socialLinks": false}, "theme": {"colors": {"name": "side-default-5", "themeMajor": "white", "dotNav": "#68AAE1", "panel": "#FFFFFF", "media": "#E8E8DF", "text": "#000000", "textLink": "#555", "softText": "#FFF", "softBtn": "#4D4D4D", "esriLogo": "black"}, "fonts": {"sectionTitle": {"id": "default", "value": "font-family:'open_sansregular', sans-serif;"}, "sectionContent": {"id": "default", "value": "font-family:'open_sansregular', sans-serif;"}}}}, "title": "Economic empowerment\n", "story": {"storage": "WEBAPP", "sections": [{"title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Economic empowerment</strong></span></span></p>\n", "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Unpaid work and income poverty in countries in the Latin America and the Caribbean region [ECLAC]</div>\n", "contentActions": [], "creaDate": 1602493859256, "pubDate": 1602493859256, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/a96b50d9213f4da4897f149d6ec339be/resources/Orly%20Winer-mujer%20kuna%20comunicada__1602493826380__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "Orly Winer-mujer kuna comunicada__1602493826380__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/a96b50d9213f4da4897f149d6ec339be/resources/Orly%20Winer-mujer%20kuna%20comunicada__1602493826380__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px\">Key points</span>", "content": "<ul class=\"key-points\">\n\t<li>Women in lowest-income households spend more time on unpaid work compared to women in highest-income households (39 hours versus 29 hours per week); in contrast, there is little difference in the amount of time men in both lowest-income and highest-income households spend on unpaid work, on average, less than one hour per day. For this reason, the gender gap in time spent on unpaid work is even wider in lowest-income households.</li>\n\t<li>In 2017, for every 100 men living in poor households in the Latin America, there were 113 women in the same situation, a ratio that remained stable over the period 2012\u20142017.</li>\n</ul>\n", "contentActions": [], "creaDate": 1602493918452, "pubDate": 1602493918452, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/a96b50d9213f4da4897f149d6ec339be/resources/orly%20winer-ninos3__1602493916342__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "orly winer-ninos3__1602493916342__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/a96b50d9213f4da4897f149d6ec339be/resources/orly%20winer-ninos3__1602493916342__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:28px\">Time poverty and income poverty: a vicious circle in countries in Latin America</span>", "content": "<p>Time-use data allow for the evaluation of public policies and programmes from an innovative perspective: an analysis of time-use data, based on household income per capita as a stratification variable in six Latin American countries, shows that women in lowest-income households spend more time on unpaid work than women in highest-income households. This is partly related to the size and dependency ratio of lowest-income households, which tend to have specific family structures.<span class=\"footnote-index\">1</span></p>\n\n<p>The differences in unpaid working time are significant: while women in the <span class=\"label-ref\">poorest</span> households (quantile I, poorest 20% of households) spend an average of 39 hours per week on unpaid work, those in the wealthiest households (quantile V, wealthiest 20% of households) spend around 29 hours per week on unpaid work, an average of 10 hours less. Meanwhile, the differences in the amount of time spent on unpaid work between men in households in the poorest and wealthiest quintiles is not significant, generally less than one hour per day.</p>\n\n<p>Data show that men\u2019s contribution to domestic and care work is generally independent of their socioeconomic stratum, and that the gender gap in time spent on unpaid work is wider and more unequal in lowest-income households.</p>\n\n<p>Monetary poverty and lack of time sustain a vicious circle that is difficult to break without policies focused on strengthening women\u2019s economic autonomy. The burden of unpaid work that has historically been assigned to women hinders their access to the labour market and thus their ability to generate their own income; this situation is even more pronounced in households with children under the age of five.&nbsp;</p>\n\n<p>In addition, women in poor households are unable to acquire goods and services that could save time on domestic and care work and there is a lack of quality public services that provide care for children, older persons and persons with disabilities and with chronic illnesses, a regressive situation that is set to worsen, given the ongoing demographic changes in the region, including a rise in the older population.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609558915", "type": "navigate", "index": 6}], "creaDate": 1602493641467, "pubDate": 1602493641467, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw29-graph-1", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px\">&nbsp;</span>", "content": "<p>Poverty reduction measures in the region have not benefited men and women equally, nor have they advanced at the same pace. In general, <span class=\"label-ref\">poor</span> households contain a higher proportion of women of ages at which productive and reproductive demands are the greatest. In 2017, for every 100 men living in poor households in the region, there were 113 women in the same situation.</p>\n\n<p>Moreover, despite variations in the regional poverty level, the femininity index of poverty (the ratio of women&nbsp;to men living&nbsp;in poverty) remained relatively constant during the period 2012\u20142017, with values between 1.13 and 1.14, equivalent to 113 to 114 women for every 100 men.<span class=\"footnote-index\">2</span></p>\n\n<p>In the case of extreme poverty, the index has been equally stable, with a slight increase between 2014 and 2016, before falling in 2017, returning to a level similar to the 2012 level, that is, 1.16, representing 116 women for every 100 men. The poverty suffered by women in Latin America is closely linked to the barriers they face in carrying out paid work.</p>\n\n<p>The strong link between time and income means that lack of time worsens or reproduces poverty; for this reason, time-use analysis is fundamental to a more comprehensive and multidimensional management of this phenomenon.</p>\n", "contentActions": [], "creaDate": 1602494076967, "pubDate": 1602494076967, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/a96b50d9213f4da4897f149d6ec339be/resources/ives-ives-eEjJphHZgAA-unsplash__1602494075151__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "ives-ives-eEjJphHZgAA-unsplash__1602494075151__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/a96b50d9213f4da4897f149d6ec339be/resources/ives-ives-eEjJphHZgAA-unsplash__1602494075151__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:28px;\">Related stories and further reading</span>", "content": "<ul>\n\t<li><a class=\"narrative-ref\" href=\"#NW25\" target=\"_blank\">Unpaid work and total work burden</a></li>\n\t<li><a class=\"narrative-ref\" href=\"#NW19\" target=\"_blank\">Youth \u201cnot in employment, education or training\u201d (NEET) and unpaid work in Latin America</a></li>\n</ul>\n", "contentActions": [{"id": "MJ-ACTION-1598609631920", "type": "navigate", "index": 6}, {"id": "MJ-ACTION-1598609642799", "type": "navigate", "index": 6}, {"id": "MJ-ACTION-1598609651540", "type": "navigate", "index": 6}], "creaDate": 1602269066274, "pubDate": 1602269066274, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/clay-banks-unsplash.jpg", "type": "image", "altText": "", "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Unpaid work</span>: <span class=\"definition\">in this story refers to work done without payment, which is measured by quantifying the time a person spends on own-use goods production work, unpaid domestic work, unpaid care of household members or unpaid work for other households or for the community and/or volunteer work.<span class=\"footnote-index\">4</span></span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Women living in six selected countries in Latin America.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Data on the six selected countries in Latin America have been provided by the Economic Commission for Latin America and the Caribbean (ECLAC).</p>\n</div>\n</div>\n", "contentActions": [{"id": "MJ-ACTION-1598609809974", "type": "navigate", "index": 6}, {"id": "MJ-ACTION-1598609814847", "type": "navigate", "index": 6}, {"id": "MJ-ACTION-1598609820099", "type": "navigate", "index": 6}], "creaDate": 1602268990648, "pubDate": 1602268990648, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg", "type": "image", "altText": "", "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://www.cepal.org/en/publications/41599-social-panorama-latin-america-2016\" target=\"_blank\">Economic Commission for Latin America and the Caribbean (ECLAC), Social Panorama of Latin America 2016, Santiago, 2017</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://repositorio.cepal.org/bitstream/handle/11362/45037/4/S1900722_en.pdf\" target=\"_blank\">Economic Commission for Latin America and the Caribbean (ECLAC), Women\u2019s autonomy in changing economic scenarios, Santiago, 2019</a>. (\u21e1 back to text)</li>\n\t<li>Ibid. (\u21e1 back to text)</li>\n\t<li><a href=\"https://ilostat.ilo.org/topics/unpaid-work/\" target=\"_blank\">International Labour Organization (ILO), Department of Statistics (ILOSTAT), Unpaid work, subsistence production, unpaid care work and volunteer work</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n", "contentActions": [{"id": "MJ-ACTION-1598609848308", "type": "navigate", "index": 2}, {"id": "MJ-ACTION-1598609857337", "type": "navigate", "index": 4}, {"id": "MJ-ACTION-1598609873239", "type": "navigate", "index": 4}, {"id": "MJ-ACTION-1598609883421", "type": "navigate", "index": 4}, {"id": "MJ-ACTION-1598609896997", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609906932", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609914851", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609927078", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609936839", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609958575", "type": "navigate", "index": 5}, {"id": "MJ-ACTION-1598609967973", "type": "navigate", "index": 5}, {"id": "MJ-ACTION-1598609975942", "type": "navigate", "index": 5}, {"id": "MJ-ACTION-1598610194053", "type": "navigate", "index": -1}], "creaDate": 1602268922145, "pubDate": 1602268922145, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg", "type": "image", "altText": "", "display": "fill"}}}]}, "template": {"name": "Map Journal", "createdWith": "1.24.1", "editedWith": "1.25.0"}, "doNotWarnTitle": true}, "_ssl": null}
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Economic empowerment\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Economic empowerment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Unpaid work and income poverty in countries in the Latin America and the Caribbean region [ECLAC]</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602493859256,
+                    "pubDate": 1602493859256,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/a96b50d9213f4da4897f149d6ec339be/resources/Orly%20Winer-mujer%20kuna%20comunicada__1602493826380__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "Orly Winer-mujer kuna comunicada__1602493826380__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/a96b50d9213f4da4897f149d6ec339be/resources/Orly%20Winer-mujer%20kuna%20comunicada__1602493826380__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>Women in lowest-income households spend more time on unpaid work compared to women in highest-income households (39 hours versus 29 hours per week); in contrast, there is little difference in the amount of time men in both lowest-income and highest-income households spend on unpaid work, on average, less than one hour per day. For this reason, the gender gap in time spent on unpaid work is even wider in lowest-income households.</li>\n\t<li>In 2017, for every 100 men living in poor households in the Latin America, there were 113 women in the same situation, a ratio that remained stable over the period 2012\u20142017.</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602493918452,
+                    "pubDate": 1602493918452,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/a96b50d9213f4da4897f149d6ec339be/resources/orly%20winer-ninos3__1602493916342__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "orly winer-ninos3__1602493916342__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/a96b50d9213f4da4897f149d6ec339be/resources/orly%20winer-ninos3__1602493916342__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px\">Time poverty and income poverty: a vicious circle in countries in Latin America</span>",
+                    "content": "<p>Time-use data allow for the evaluation of public policies and programmes from an innovative perspective: an analysis of time-use data, based on household income per capita as a stratification variable in six Latin American countries, shows that women in lowest-income households spend more time on unpaid work than women in highest-income households. This is partly related to the size and dependency ratio of lowest-income households, which tend to have specific family structures.<span class=\"footnote-index\">1</span></p>\n\n<p>The differences in unpaid working time are significant: while women in the <span class=\"label-ref\">poorest</span> households (quantile I, poorest 20% of households) spend an average of 39 hours per week on unpaid work, those in the wealthiest households (quantile V, wealthiest 20% of households) spend around 29 hours per week on unpaid work, an average of 10 hours less. Meanwhile, the differences in the amount of time spent on unpaid work between men in households in the poorest and wealthiest quintiles is not significant, generally less than one hour per day.</p>\n\n<p>Data show that men\u2019s contribution to domestic and care work is generally independent of their socioeconomic stratum, and that the gender gap in time spent on unpaid work is wider and more unequal in lowest-income households.</p>\n\n<p>Monetary poverty and lack of time sustain a vicious circle that is difficult to break without policies focused on strengthening women\u2019s economic autonomy. The burden of unpaid work that has historically been assigned to women hinders their access to the labour market and thus their ability to generate their own income; this situation is even more pronounced in households with children under the age of five.&nbsp;</p>\n\n<p>In addition, women in poor households are unable to acquire goods and services that could save time on domestic and care work and there is a lack of quality public services that provide care for children, older persons and persons with disabilities and with chronic illnesses, a regressive situation that is set to worsen, given the ongoing demographic changes in the region, including a rise in the older population.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609558915",
+                            "type": "navigate",
+                            "index": 6
+                        }
+                    ],
+                    "creaDate": 1602493641467,
+                    "pubDate": 1602493641467,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw29-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<p>Poverty reduction measures in the region have not benefited men and women equally, nor have they advanced at the same pace. In general, <span class=\"label-ref\">poor</span> households contain a higher proportion of women of ages at which productive and reproductive demands are the greatest. In 2017, for every 100 men living in poor households in the region, there were 113 women in the same situation.</p>\n\n<p>Moreover, despite variations in the regional poverty level, the femininity index of poverty (the ratio of women&nbsp;to men living&nbsp;in poverty) remained relatively constant during the period 2012\u20142017, with values between 1.13 and 1.14, equivalent to 113 to 114 women for every 100 men.<span class=\"footnote-index\">2</span></p>\n\n<p>In the case of extreme poverty, the index has been equally stable, with a slight increase between 2014 and 2016, before falling in 2017, returning to a level similar to the 2012 level, that is, 1.16, representing 116 women for every 100 men. The poverty suffered by women in Latin America is closely linked to the barriers they face in carrying out paid work.</p>\n\n<p>The strong link between time and income means that lack of time worsens or reproduces poverty; for this reason, time-use analysis is fundamental to a more comprehensive and multidimensional management of this phenomenon.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602494076967,
+                    "pubDate": 1602494076967,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/a96b50d9213f4da4897f149d6ec339be/resources/ives-ives-eEjJphHZgAA-unsplash__1602494075151__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ives-ives-eEjJphHZgAA-unsplash__1602494075151__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/a96b50d9213f4da4897f149d6ec339be/resources/ives-ives-eEjJphHZgAA-unsplash__1602494075151__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px;\">Related stories and further reading</span>",
+                    "content": "<ul>\n\t<li><a class=\"narrative-ref\" href=\"#NW25\" target=\"_blank\">Unpaid work and total work burden</a></li>\n\t<li><a class=\"narrative-ref\" href=\"#NW19\" target=\"_blank\">Youth \u201cnot in employment, education or training\u201d (NEET) and unpaid work in Latin America</a></li>\n</ul>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609631920",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609642799",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609651540",
+                            "type": "navigate",
+                            "index": 6
+                        }
+                    ],
+                    "creaDate": 1602269066274,
+                    "pubDate": 1602269066274,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/clay-banks-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Unpaid work</span>: <span class=\"definition\">in this story refers to work done without payment, which is measured by quantifying the time a person spends on own-use goods production work, unpaid domestic work, unpaid care of household members or unpaid work for other households or for the community and/or volunteer work.<span class=\"footnote-index\">4</span></span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Women living in six selected countries in Latin America.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Data on the six selected countries in Latin America have been provided by the Economic Commission for Latin America and the Caribbean (ECLAC).</p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609809974",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609814847",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609820099",
+                            "type": "navigate",
+                            "index": 6
+                        }
+                    ],
+                    "creaDate": 1602268990648,
+                    "pubDate": 1602268990648,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://www.cepal.org/en/publications/41599-social-panorama-latin-america-2016\" target=\"_blank\">Economic Commission for Latin America and the Caribbean (ECLAC), Social Panorama of Latin America 2016, Santiago, 2017</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://repositorio.cepal.org/bitstream/handle/11362/45037/4/S1900722_en.pdf\" target=\"_blank\">Economic Commission for Latin America and the Caribbean (ECLAC), Women\u2019s autonomy in changing economic scenarios, Santiago, 2019</a>. (\u21e1 back to text)</li>\n\t<li>Ibid. (\u21e1 back to text)</li>\n\t<li><a href=\"https://ilostat.ilo.org/topics/unpaid-work/\" target=\"_blank\">International Labour Organization (ILO), Department of Statistics (ILOSTAT), Unpaid work, subsistence production, unpaid care work and volunteer work</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609848308",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609857337",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609873239",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609883421",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609896997",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609906932",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609914851",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609927078",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609936839",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609958575",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609967973",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609975942",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1598610194053",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602268922145,
+                    "pubDate": 1602268922145,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NW29"
+    }
+}

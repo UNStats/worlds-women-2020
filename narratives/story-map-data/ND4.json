@@ -1,1 +1,513 @@
-{"values": {"settings": {"header": {"linkText": "World's Women 2020", "linkURL": "https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=894bed8498eb449a983af8b33a7125f3", "logoURL": "https://raw.githubusercontent.com/UNStats/WorldsWomen/master/assets/logos/UNStats%20Logo-short.png", "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/", "social": {"facebook": true, "twitter": true, "bitly": true}}, "appGeocoders": [{"singleLineFieldName": "SingleLine", "name": "ArcGIS World Geocoding Service", "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"}], "layout": {"id": "side"}, "layoutOptions": {"layoutCfg": {"size": "large", "position": "right"}, "socialLinks": false}, "theme": {"colors": {"name": "side-default-5", "themeMajor": "white", "dotNav": "#68AAE1", "panel": "#FFFFFF", "media": "#E8E8DF", "text": "#000000", "textLink": "#555", "softText": "#FFF", "softBtn": "#4D4D4D", "esriLogo": "black"}, "fonts": {"sectionTitle": {"id": "default", "value": "font-family:'open_sansregular', sans-serif;"}, "sectionContent": {"id": "default", "value": "font-family:'open_sansregular', sans-serif;"}}}}, "title": "Power and decision-making\n", "story": {"storage": "WEBAPP", "sections": [{"title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Power and decision-making</strong></span></span></p>\n", "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Women in the civil service</div>\n", "contentActions": [], "creaDate": 1602503824241, "pubDate": 1602503824241, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/37fa373e01954551a8aaf81a62b3e15c/resources/808454-UNPOL%20Officer%20in%20Fort-Libert%C3%A9%2C%20Haiti__1602503794407__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "808454-UNPOL Officer in Fort-Libert\u00e9, Haiti__1602503794407__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/37fa373e01954551a8aaf81a62b3e15c/resources/808454-UNPOL%20Officer%20in%20Fort-Libert%C3%A9%2C%20Haiti__1602503794407__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<p><span style=\"font-size:26px\">Key Points</span></p>\n", "content": "<ul class=\"key-points\">\n\t<li>Women continue to be underrepresented among senior-level civil servants: they represented less than 50% of senior-level civil servants in 60% of the 27 developed countries with available data for the period 2008\u20132017.</li>\n\t<li>As of June 2020, about a quarter (24%) of national statistical offices worldwide were headed by women, close to the proportion observed in 2015.</li>\n\t<li>Women are underrepresented among senior professionals and managers within the United Nations system. Women occupied 44% of the total number of appointments for a period of one year or more, an improvement compared to 32% of appointments in 1997. However, their representation is higher at the junior professional levels (above 50%) and declines at higher senior professional and management levels (between 30% and 40%).</li>\n</ul>\n", "contentActions": [], "creaDate": 1602814544411, "pubDate": 1602814544411, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/37fa373e01954551a8aaf81a62b3e15c/resources/817225-Community%20Engagement%20to%20Prevent%20Spread%20of%20Ebola%20in%20DRC__1602814542671__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "817225-Community Engagement to Prevent Spread of Ebola in DRC__1602814542671__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/37fa373e01954551a8aaf81a62b3e15c/resources/817225-Community%20Engagement%20to%20Prevent%20Spread%20of%20Ebola%20in%20DRC__1602814542671__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<p><span style=\"font-size:28px;\"><strong>Current situation</strong></span></p>\n", "content": "<p><strong>Women continue to be underrepresented among senior-level civil servants.</strong></p>\n\n<p>Women tend to be underrepresented among senior-level civil servants, including government administrators, administrators at intergovernmental organizations, ambassadors and consuls-general. During the period 2008\u20132017, the representation of women at senior-level civil servant positions was below parity in 60% of the 27 developed countries with available data (see figure I).</p>\n\n<p>As in the past,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598824313367\" data-storymaps-type=\"navigate\">1</a></span> rates of representation varied widely across countries, ranging from 16% to 77%. Among the four countries with the highest proportions of women as senior-level civil servants (above 60%), Hungary (76.6%), the Russian Federation (61.5%), Bulgaria (61.1%) and Latvia (72%), only the latter exceeded 60% of female representation for the first time. Women\u2019s representation among senior-level civil servants is the lowest, below 20%, in Belgium (17.2%) and Luxembourg (16.1%).</p>\n", "contentActions": [{"id": "MJ-ACTION-1598750826261", "type": "navigate", "index": 6}, {"id": "MJ-ACTION-1598821130236", "type": "navigate", "index": 6}, {"id": "MJ-ACTION-1598821136544", "type": "navigate", "index": 6}, {"id": "MJ-ACTION-1598824313367", "type": "navigate", "index": 6}], "creaDate": 1602631949675, "pubDate": 1602631949675, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd4-graph-1", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<p><strong>About a quarter of national statistical offices worldwide are headed by women</strong></p>\n\n<p>Chief statisticians are high-ranking administrators in charge of national statistical offices, which are responsible for producing official statistics in countries worldwide. As at 2 June 2020, 24% of national statistical offices (52 out of 215) had a woman as chief statistician, very close to the proportion observed five years ago. As at 2020, in countries in Eastern and South-Eastern Asia, 39% of national statistical offices were headed by a female chief statistician (see figure II).</p>\n\n<p>Over the past five years, there has been significant progress in Oceania (excluding Australia and New Zealand): in June 2020, national statistical offices in 7 out of 19 countries or areas in the region were headed by a woman, while in 2015 there were none.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598824350586\" data-storymaps-type=\"navigate\">2</a></span> In contrast, there were no female chief statisticians of national statistical offices in Australia and New Zealand.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609631920", "type": "navigate", "index": 6}, {"id": "MJ-ACTION-1598609642799", "type": "navigate", "index": 6}, {"id": "MJ-ACTION-1598609651540", "type": "navigate", "index": 6}, {"id": "MJ-ACTION-1598824350586", "type": "navigate", "index": 6}], "creaDate": 1602632049004, "pubDate": 1602632049004, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd4-graph-2", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<p><strong>Women are underrepresented among senior professionals and managers within the United Nations system.</strong></p>\n\n<p>The goal of achieving gender parity at all levels among the staff of the United Nations is a commitment that is now two decades old. During this time, significant progress has been made towards advancing the representation of women in the organizations and agencies of the United Nations system. As at 31 December 2018, the latest available data from across all entities of the common system showed that, among senior professionals and managers, women occupied 44% (out of 109,589 total staff) of the total number of appointments for a period of one year or more, an improvement compared to 32% of appointments (out of 15,192 total staff) in 1997.</p>\n\n<p>The achievement of the goal of gender parity has remained slow and uneven however. The representation of women continues to be higher at the junior professional levels<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598824403252\" data-storymaps-type=\"navigate\">3</a></span> (above 50%) and declines at higher senior professional and management levels<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598824409355\" data-storymaps-type=\"navigate\">4</a></span> (between 30% and 40%). The most significant progress has been achieved at the highest levels of decision-making and responsibility,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598824414928\" data-storymaps-type=\"navigate\">5</a></span> with a 40% representation of women \u2013 a direct result of the commitment of the Secretary-General to reach parity at the highest levels by 2021. At the very top of the hierarchy, however, no woman has been appointed Secretary-General since the establishment of the United Nations in 1945.</p>\n\n<p>As of December 2018, 34.6% of heads and 48% of deputy heads of United Nations peacekeeping and special political missions were women, a record number. In addition, in 2018, the Secretary-General appointed the first female Under Secretary-General for Political and Peacebuilding Affairs, and three female special envoys.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598824434211\" data-storymaps-type=\"navigate\">6</a></span> Nevertheless, despite these appointments, the proportion of female staff in Field Services, who are generally recruited internationally to serve in a civilian capacity at field missions, was significantly lower (27%). Furthermore, in 2019, out of approximately 95,000 peacekeepers, women comprised only 4.7% of military personnel and 10.8% of police personnel at United Nations peacekeeping missions.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598824442162\" data-storymaps-type=\"navigate\">7</a></span></p>\n", "contentActions": [{"id": "MJ-ACTION-1598609674534", "type": "navigate", "index": 6}, {"id": "MJ-ACTION-1598744303298", "type": "navigate", "index": 6}, {"id": "MJ-ACTION-1598746804023", "type": "navigate", "index": 6}], "creaDate": 1602632322669, "pubDate": 1602632322669, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd4-graph-3", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<div class=\"methodology\">\n<h1>About the data</h1>\n\n<h4>Share of women among senior-level civil servants</h4>\n\n<ul class=\"definitions\">\n\t<li><span class=\"definition\">Definition:</span> Calculated as the total number of female senior-level civil servants divided by the total number of all senior-level civil servants. Senior-level civil servants are defined according to the International Standard Classification of Occupations (ISCO-08, 1120),<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598824521100\" data-storymaps-type=\"navigate\">8</a></span> and include senior government officials (i.e., government administrators, administrators at intergovernmental organizations, ambassadors and consuls-general).</li>\n\t<li><span class=\"definition\">Coverage:</span> Data are available for 27 developed countries.</li>\n\t<li><span class=\"definition\">Source:</span> <a href=\"https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__05-PublicAnddecision\" target=\"_blank\">United Nations Economic Commission for Europe (UNECE) Statistical Database (last accessed on 6 June 2020)</a></li>\n</ul>\n\n<h4>Proportion of countries or areas where the national statistical office is headed by a woman</h4>\n\n<ul class=\"definitions\">\n\t<li><span class=\"definition\">Definition:</span> Calculated as the total number of countries or areas where the head of the national statistical office is a woman divided by the total number of countries or areas where there is a national statistical office.</li>\n\t<li><span class=\"definition\">Coverage:</span> Data cover 215 national statistical offices.</li>\n\t<li><span class=\"definition\">Source:</span> United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, Contacts database.</li>\n</ul>\n</div>\n", "contentActions": [{"id": "MJ-ACTION-1598824521100", "type": "navigate", "index": 6}], "creaDate": 1602679216880, "pubDate": 1602679216880, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/37fa373e01954551a8aaf81a62b3e15c/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602679214597__w1920.jpg", "type": "image", "altText": "", "sizes": [{"name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1602679214597__w1920.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/37fa373e01954551a8aaf81a62b3e15c/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602679214597__w1920.jpg", "width": 1920}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://unstats.un.org/unsd/gender/worldswomen.html\" target=\"_blank\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, The World\u2019s Women 2015: Trends and Statistics, New York, 2015 (United Nations publication, Sales No. E.15.XVII.8)</a>. (<a data-storymaps=\"MJ-ACTION-1598824541027\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li><a href=\"https://unstats.un.org/unsd/gender/worldswomen.html\" target=\"_blank\">UNDESA, Statistics Division, The World\u2019s Women 2015: Trends and Statistics, New York, 2015 (United Nations publication, Sales No. E.15.XVII.8)</a>. (<a data-storymaps=\"MJ-ACTION-1598824548112\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li>Including P-1 and P-2 levels. (<a data-storymaps=\"MJ-ACTION-1598824559155\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li>Including P-5 to D-2 levels. (<a data-storymaps=\"MJ-ACTION-1598824565068\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li>Encompasses all levels above D-2, including Assistant Secretary-General, Director General, Deputy Director-General, Assistant Director-General, Under-Secretary-General and Secretary-General. (<a data-storymaps=\"MJ-ACTION-1598824572400\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li><a href=\"https://undocs.org/en/A/74/220\" target=\"_blank\">Report of the Secretary-General on improvement of the status of women in the United Nations system (A/74/220), para.1</a>. (<a data-storymaps=\"MJ-ACTION-1598824582548\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li><a href=\"https://peacekeeping.un.org/en/women-peacekeeping\" target=\"_blank\">United Nations Department of Peace Operations, Women in Peacekeeping: A Key to Peace</a>. (<a data-storymaps=\"MJ-ACTION-1598824589552\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li><a href=\"https://www.ilo.org/public/english/bureau/stat/isco/isco08/\" target=\"_blank\">International Standard Classification of Occupations (ISCO-08), sub-major group 11, minor group 111, unit group 1120, Managing Directors and Chief Executives</a>. (<a data-storymaps=\"MJ-ACTION-1598824600889\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n</ol>\n</div>\n", "contentActions": [{"id": "MJ-ACTION-1598609848308", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609857337", "type": "navigate", "index": 3}, {"id": "MJ-ACTION-1598609873239", "type": "navigate", "index": 3}, {"id": "MJ-ACTION-1598609883421", "type": "navigate", "index": 3}, {"id": "MJ-ACTION-1598609896997", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609906932", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609914851", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609927078", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609936839", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609958575", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609967973", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609975942", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598610194053", "type": "navigate", "index": 4}, {"id": "MJ-ACTION-1598744279121", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598744320527", "type": "navigate", "index": 4}, {"id": "MJ-ACTION-1598744350619", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598746781284", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598746818574", "type": "navigate", "index": 4}, {"id": "MJ-ACTION-1598746865933", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598746918792", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598750840663", "type": "navigate", "index": 2}, {"id": "MJ-ACTION-1598751044913", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598751054323", "type": "navigate", "index": 2}, {"id": "MJ-ACTION-1598821023388", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598821073496", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598821083369", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598821170512", "type": "navigate", "index": 2}, {"id": "MJ-ACTION-1598821178127", "type": "navigate", "index": 2}, {"id": "MJ-ACTION-1598821241998", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598821288566", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598821315415", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598821423996", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598821494819", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598821546464", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598821622580", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598821783691", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598821789137", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598824541027", "type": "navigate", "index": 2}, {"id": "MJ-ACTION-1598824548112", "type": "navigate", "index": 3}, {"id": "MJ-ACTION-1598824559155", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598824565068", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598824572400", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598824582548", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598824589552", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598824600889", "type": "navigate", "index": 5}], "creaDate": 1602679276618, "pubDate": 1602679276618, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/37fa373e01954551a8aaf81a62b3e15c/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602679274302__w1800.jpg", "type": "image", "altText": "", "sizes": [{"name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602679274302__w1800.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/37fa373e01954551a8aaf81a62b3e15c/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602679274302__w1800.jpg", "width": 1800}], "display": "fill"}}}]}, "template": {"name": "Map Journal", "createdWith": "1.24.1", "editedWith": "1.25.0"}}, "_ssl": null}
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Power and decision-making\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Power and decision-making</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Women in the civil service</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602503824241,
+                    "pubDate": 1602503824241,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/37fa373e01954551a8aaf81a62b3e15c/resources/808454-UNPOL%20Officer%20in%20Fort-Libert%C3%A9%2C%20Haiti__1602503794407__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "808454-UNPOL Officer in Fort-Libert\u00e9, Haiti__1602503794407__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/37fa373e01954551a8aaf81a62b3e15c/resources/808454-UNPOL%20Officer%20in%20Fort-Libert%C3%A9%2C%20Haiti__1602503794407__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<p><span style=\"font-size:26px\">Key Points</span></p>\n",
+                    "content": "<ul class=\"key-points\">\n\t<li>Women continue to be underrepresented among senior-level civil servants: they represented less than 50% of senior-level civil servants in 60% of the 27 developed countries with available data for the period 2008\u20132017.</li>\n\t<li>As of June 2020, about a quarter (24%) of national statistical offices worldwide were headed by women, close to the proportion observed in 2015.</li>\n\t<li>Women are underrepresented among senior professionals and managers within the United Nations system. Women occupied 44% of the total number of appointments for a period of one year or more, an improvement compared to 32% of appointments in 1997. However, their representation is higher at the junior professional levels (above 50%) and declines at higher senior professional and management levels (between 30% and 40%).</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602814544411,
+                    "pubDate": 1602814544411,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/37fa373e01954551a8aaf81a62b3e15c/resources/817225-Community%20Engagement%20to%20Prevent%20Spread%20of%20Ebola%20in%20DRC__1602814542671__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "817225-Community Engagement to Prevent Spread of Ebola in DRC__1602814542671__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/37fa373e01954551a8aaf81a62b3e15c/resources/817225-Community%20Engagement%20to%20Prevent%20Spread%20of%20Ebola%20in%20DRC__1602814542671__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<p><span style=\"font-size:28px;\"><strong>Current situation</strong></span></p>\n",
+                    "content": "<p><strong>Women continue to be underrepresented among senior-level civil servants.</strong></p>\n\n<p>Women tend to be underrepresented among senior-level civil servants, including government administrators, administrators at intergovernmental organizations, ambassadors and consuls-general. During the period 2008\u20132017, the representation of women at senior-level civil servant positions was below parity in 60% of the 27 developed countries with available data (see figure I).</p>\n\n<p>As in the past,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598824313367\" data-storymaps-type=\"navigate\">1</a></span> rates of representation varied widely across countries, ranging from 16% to 77%. Among the four countries with the highest proportions of women as senior-level civil servants (above 60%), Hungary (76.6%), the Russian Federation (61.5%), Bulgaria (61.1%) and Latvia (72%), only the latter exceeded 60% of female representation for the first time. Women\u2019s representation among senior-level civil servants is the lowest, below 20%, in Belgium (17.2%) and Luxembourg (16.1%).</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598750826261",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598821130236",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598821136544",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598824313367",
+                            "type": "navigate",
+                            "index": 6
+                        }
+                    ],
+                    "creaDate": 1602631949675,
+                    "pubDate": 1602631949675,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd4-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<p><strong>About a quarter of national statistical offices worldwide are headed by women</strong></p>\n\n<p>Chief statisticians are high-ranking administrators in charge of national statistical offices, which are responsible for producing official statistics in countries worldwide. As at 2 June 2020, 24% of national statistical offices (52 out of 215) had a woman as chief statistician, very close to the proportion observed five years ago. As at 2020, in countries in Eastern and South-Eastern Asia, 39% of national statistical offices were headed by a female chief statistician (see figure II).</p>\n\n<p>Over the past five years, there has been significant progress in Oceania (excluding Australia and New Zealand): in June 2020, national statistical offices in 7 out of 19 countries or areas in the region were headed by a woman, while in 2015 there were none.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598824350586\" data-storymaps-type=\"navigate\">2</a></span> In contrast, there were no female chief statisticians of national statistical offices in Australia and New Zealand.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609631920",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609642799",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609651540",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598824350586",
+                            "type": "navigate",
+                            "index": 6
+                        }
+                    ],
+                    "creaDate": 1602632049004,
+                    "pubDate": 1602632049004,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd4-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<p><strong>Women are underrepresented among senior professionals and managers within the United Nations system.</strong></p>\n\n<p>The goal of achieving gender parity at all levels among the staff of the United Nations is a commitment that is now two decades old. During this time, significant progress has been made towards advancing the representation of women in the organizations and agencies of the United Nations system. As at 31 December 2018, the latest available data from across all entities of the common system showed that, among senior professionals and managers, women occupied 44% (out of 109,589 total staff) of the total number of appointments for a period of one year or more, an improvement compared to 32% of appointments (out of 15,192 total staff) in 1997.</p>\n\n<p>The achievement of the goal of gender parity has remained slow and uneven however. The representation of women continues to be higher at the junior professional levels<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598824403252\" data-storymaps-type=\"navigate\">3</a></span> (above 50%) and declines at higher senior professional and management levels<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598824409355\" data-storymaps-type=\"navigate\">4</a></span> (between 30% and 40%). The most significant progress has been achieved at the highest levels of decision-making and responsibility,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598824414928\" data-storymaps-type=\"navigate\">5</a></span> with a 40% representation of women \u2013 a direct result of the commitment of the Secretary-General to reach parity at the highest levels by 2021. At the very top of the hierarchy, however, no woman has been appointed Secretary-General since the establishment of the United Nations in 1945.</p>\n\n<p>As of December 2018, 34.6% of heads and 48% of deputy heads of United Nations peacekeeping and special political missions were women, a record number. In addition, in 2018, the Secretary-General appointed the first female Under Secretary-General for Political and Peacebuilding Affairs, and three female special envoys.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598824434211\" data-storymaps-type=\"navigate\">6</a></span> Nevertheless, despite these appointments, the proportion of female staff in Field Services, who are generally recruited internationally to serve in a civilian capacity at field missions, was significantly lower (27%). Furthermore, in 2019, out of approximately 95,000 peacekeepers, women comprised only 4.7% of military personnel and 10.8% of police personnel at United Nations peacekeeping missions.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598824442162\" data-storymaps-type=\"navigate\">7</a></span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609674534",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598744303298",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598746804023",
+                            "type": "navigate",
+                            "index": 6
+                        }
+                    ],
+                    "creaDate": 1602632322669,
+                    "pubDate": 1602632322669,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd4-graph-3",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1>About the data</h1>\n\n<h4>Share of women among senior-level civil servants</h4>\n\n<ul class=\"definitions\">\n\t<li><span class=\"definition\">Definition:</span> Calculated as the total number of female senior-level civil servants divided by the total number of all senior-level civil servants. Senior-level civil servants are defined according to the International Standard Classification of Occupations (ISCO-08, 1120),<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598824521100\" data-storymaps-type=\"navigate\">8</a></span> and include senior government officials (i.e., government administrators, administrators at intergovernmental organizations, ambassadors and consuls-general).</li>\n\t<li><span class=\"definition\">Coverage:</span> Data are available for 27 developed countries.</li>\n\t<li><span class=\"definition\">Source:</span> <a href=\"https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__05-PublicAnddecision\" target=\"_blank\">United Nations Economic Commission for Europe (UNECE) Statistical Database (last accessed on 6 June 2020)</a></li>\n</ul>\n\n<h4>Proportion of countries or areas where the national statistical office is headed by a woman</h4>\n\n<ul class=\"definitions\">\n\t<li><span class=\"definition\">Definition:</span> Calculated as the total number of countries or areas where the head of the national statistical office is a woman divided by the total number of countries or areas where there is a national statistical office.</li>\n\t<li><span class=\"definition\">Coverage:</span> Data cover 215 national statistical offices.</li>\n\t<li><span class=\"definition\">Source:</span> United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, Contacts database.</li>\n</ul>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598824521100",
+                            "type": "navigate",
+                            "index": 6
+                        }
+                    ],
+                    "creaDate": 1602679216880,
+                    "pubDate": 1602679216880,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/37fa373e01954551a8aaf81a62b3e15c/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602679214597__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1602679214597__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/37fa373e01954551a8aaf81a62b3e15c/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602679214597__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://unstats.un.org/unsd/gender/worldswomen.html\" target=\"_blank\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, The World\u2019s Women 2015: Trends and Statistics, New York, 2015 (United Nations publication, Sales No. E.15.XVII.8)</a>. (<a data-storymaps=\"MJ-ACTION-1598824541027\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li><a href=\"https://unstats.un.org/unsd/gender/worldswomen.html\" target=\"_blank\">UNDESA, Statistics Division, The World\u2019s Women 2015: Trends and Statistics, New York, 2015 (United Nations publication, Sales No. E.15.XVII.8)</a>. (<a data-storymaps=\"MJ-ACTION-1598824548112\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li>Including P-1 and P-2 levels. (<a data-storymaps=\"MJ-ACTION-1598824559155\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li>Including P-5 to D-2 levels. (<a data-storymaps=\"MJ-ACTION-1598824565068\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li>Encompasses all levels above D-2, including Assistant Secretary-General, Director General, Deputy Director-General, Assistant Director-General, Under-Secretary-General and Secretary-General. (<a data-storymaps=\"MJ-ACTION-1598824572400\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li><a href=\"https://undocs.org/en/A/74/220\" target=\"_blank\">Report of the Secretary-General on improvement of the status of women in the United Nations system (A/74/220), para.1</a>. (<a data-storymaps=\"MJ-ACTION-1598824582548\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li><a href=\"https://peacekeeping.un.org/en/women-peacekeeping\" target=\"_blank\">United Nations Department of Peace Operations, Women in Peacekeeping: A Key to Peace</a>. (<a data-storymaps=\"MJ-ACTION-1598824589552\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li><a href=\"https://www.ilo.org/public/english/bureau/stat/isco/isco08/\" target=\"_blank\">International Standard Classification of Occupations (ISCO-08), sub-major group 11, minor group 111, unit group 1120, Managing Directors and Chief Executives</a>. (<a data-storymaps=\"MJ-ACTION-1598824600889\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609848308",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609857337",
+                            "type": "navigate",
+                            "index": 3
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609873239",
+                            "type": "navigate",
+                            "index": 3
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609883421",
+                            "type": "navigate",
+                            "index": 3
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609896997",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609906932",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609914851",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609927078",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609936839",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609958575",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609967973",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609975942",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598610194053",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598744279121",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598744320527",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598744350619",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598746781284",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598746818574",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598746865933",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598746918792",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598750840663",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1598751044913",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598751054323",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1598821023388",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598821073496",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598821083369",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598821170512",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1598821178127",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1598821241998",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598821288566",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598821315415",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598821423996",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598821494819",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598821546464",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598821622580",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598821783691",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598821789137",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598824541027",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1598824548112",
+                            "type": "navigate",
+                            "index": 3
+                        },
+                        {
+                            "id": "MJ-ACTION-1598824559155",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598824565068",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598824572400",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598824582548",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598824589552",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598824600889",
+                            "type": "navigate",
+                            "index": 5
+                        }
+                    ],
+                    "creaDate": 1602679276618,
+                    "pubDate": 1602679276618,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/37fa373e01954551a8aaf81a62b3e15c/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602679274302__w1800.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602679274302__w1800.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/37fa373e01954551a8aaf81a62b3e15c/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602679274302__w1800.jpg",
+                                    "width": 1800
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        }
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "ND4"
+    }
+}

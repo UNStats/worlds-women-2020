@@ -29,21 +29,40 @@ for item in user_items:
     if item["id"] in galleries:
         continue
 
+    # if item["id"] != '0d1ff2530f17451bb8437c6ea584282e':
+    #     continue
+
     d = dict()
 
     d['narrative_id'] = item["title"][:item["title"].find(' ')]
-    d['title'] = item["title"]
+    d['title'] = item["title"][item["title"].find('-')+2::]
     d['id'] = item["id"]
     d['url'] = item["url"]
     d['tags'] = item["tags"]
+    d['tags'].append(d['narrative_id'])
     d['description'] = item["description"]
+
+    item.update(item_properties={'tags': d['tags']})
+    item.update(item_properties={'title': d['title']})
 
     narrative_cat.append(d)
 
     json_data = item.get_data()
 
+    with open('control/'+d['narrative_id']+'_before.json', 'w') as fout:
+        json.dump(json_data, fout, indent=4)
+
+    json_data['values']['settings']['header']['linkURL'] = 'https://worlds-women-2020-data-undesa.hub.arcgis.com/'
+    json_data['values']['settings']['header']['logoURL'] = 'https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png'
+
+    json_data["annotations_unsd"] = {"narrative_id": d['narrative_id']}
+
+    item.update(data=json_data)
+
+    json_data = item.get_data()
+
     with open('narratives/story-map-data/'+d['narrative_id']+'.json', 'w') as fout:
-        json.dump(json_data, fout)
+        json.dump(json_data, fout, indent=4)
 
 utils.dictList2tsv(
     narrative_cat, 'narratives/story-map-data/_narrative_cat.txt')

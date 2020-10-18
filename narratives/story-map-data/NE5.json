@@ -1,1 +1,321 @@
-{"values": {"settings": {"header": {"linkText": "World's Women 2020", "linkURL": "https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=894bed8498eb449a983af8b33a7125f3", "logoURL": "https://www.arcgis.com/sharing/rest/content/items/894bed8498eb449a983af8b33a7125f3/resources/sm_mj_logo__1598499409363.jpg", "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/", "social": {"facebook": true, "twitter": true, "bitly": true}}, "appGeocoders": [{"singleLineFieldName": "SingleLine", "name": "ArcGIS World Geocoding Service", "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"}], "layout": {"id": "side"}, "layoutOptions": {"layoutCfg": {"size": "large", "position": "right"}, "socialLinks": false}, "theme": {"colors": {"name": "side-default-5", "themeMajor": "white", "dotNav": "#68AAE1", "panel": "#FFFFFF", "media": "#E8E8DF", "text": "#000000", "textLink": "#555", "softText": "#FFF", "softBtn": "#4D4D4D", "esriLogo": "black"}, "fonts": {"sectionTitle": {"id": "default", "value": "font-family:'open_sansregular', sans-serif;"}, "sectionContent": {"id": "default", "value": "font-family:'open_sansregular', sans-serif;"}}}}, "title": "Education\n", "story": {"storage": "WEBAPP", "sections": [{"title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Education</strong></span></span></p>\n", "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Information and communications technology (ICT) skills</div>\n", "contentActions": [], "creaDate": 1602768332019, "pubDate": 1602768332019, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/john-schnobrich-2FPjlAyMQTA-unsplash__1602768330459__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "john-schnobrich-2FPjlAyMQTA-unsplash__1602768330459__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/john-schnobrich-2FPjlAyMQTA-unsplash__1602768330459__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">Key points</span>", "content": "<ul class=\"key-points\">\n\t<li>Women\u2019s ICT skills lag considerably behind men\u2019s across all nine&nbsp;ICT skills in the majority of countries with data, both developed and developing regions.</li>\n\t<li>Gender disparities against women are moderate for \u201cbasic\u201d ICT skills (such as copying and pasting and sending e-mails with attached files) when compared to those for the more complex \u201cstandard\u201d skills (such as downloading and installing software and connecting and installing devices).</li>\n\t<li>Women in developing regions are more disadvantaged than their counterparts in developed regions when it comes to basic digital skills and some standard skills.</li>\n\t<li>Gender disparities against women are pronounced in the \u201cadvanced\u201d ICT skill of writing computer programs and, with few exceptions, gender inequalities are primarily against women.</li>\n</ul>\n", "contentActions": [], "creaDate": 1602768361387, "pubDate": 1602768361387, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/van-tay-media-pc_HmXZ0e_w-unsplash__1602768359900__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "van-tay-media-pc_HmXZ0e_w-unsplash__1602768359900__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/van-tay-media-pc_HmXZ0e_w-unsplash__1602768359900__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:28px;\">Background</span>", "content": "<p>In an increasingly digital world, ICT skills are fundamental, at the individual level, to higher social and economic well-being and, at the national level, to success in a more dynamic and competitive economy.<span class=\"footnote-index\">1</span> It is widely recognized that a lack of ICT skills act as an impediment to participation in work, school and in society in general \u2014 and for women in particular. ICT skills are critical to the attainment of Sustainable Development Goal (SDG) 4, target 4.4, which encourages countries to substantially increase, by 2030, the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609558915", "type": "navigate", "index": -1}], "creaDate": 1602768399040, "pubDate": 1602768399040, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/michael-demoya-rL1TdmPa5u8-unsplash__1602768397440__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "michael-demoya-rL1TdmPa5u8-unsplash__1602768397440__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/michael-demoya-rL1TdmPa5u8-unsplash__1602768397440__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px\">In the majority of countries worldwide, women lag behind men in all ICT skills</span>", "content": "<p>Data on the gender parity index (GPI)<span class=\"footnote-index\">2</span> in 2018 show that, with few exceptions, women\u2019s ICT skills are considerably behind those of men across all nine&nbsp;ICT skills in the majority of countries, both developed and developing (see figure I). For each ICT activity, GPI values are smaller than 0.97 in the vast majority of countries, underscoring the fact that overall gender disparities favour men over women.</p>\n\n<p>Gender disparities against women are moderate for \u201cbasic\u201d ICT skills (such as copying and pasting and sending e-mails with attached files) in comparison to those for the more complex \u201cstandard\u201d skills (such as downloading and installing software and connecting and installing devices). Gender disparities against women are highest for the \u201cadvanced\u201d skill of writing computer programs. It should be noted that gender parity has been achieved in Lithuania and Slovakia, where women\u2019s ICT skills are equal to those of men across the nine&nbsp;ICT skills. In a handful of countries, including Jamaica, more women than men have ICT skills in both basic and standard ICT categories.</p>\n", "contentActions": [], "creaDate": 1602770715091, "pubDate": 1602770715091, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne5-graph-1", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:28px\">Women in developing regions are more disadvantaged in basic digital skills</span>", "content": "<p>The lack of data on ICT skills in developing regions limits detailed regional comparisons. Nevertheless, available data (see figure I) suggest that women in developing regions are more disadvantaged than their counterparts in developed regions when it comes to basic digital skills and some of the standard skills. Available data on advanced skills (writing computer programs) provide an unclear picture, as some developing countries that reported lower levels of basic skills also reported higher levels of standard and advanced skills.</p>\n\n<p>Research suggests that inequalities in ICT skills at the country level reflect other inequalities, including in education, wealth and gender, and that inequalities in digital skills might lead to increased disparity between developing and developed countries<span class=\"footnote-index\">3</span> and between socioeconomic and sociocultural groups.<span class=\"footnote-index\">4</span> A lack of digital skills is widely understood to be a significant barrier to participation in work and school, and in society in general, as well as in home-based activities and in private life.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609631920", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609642799", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609651540", "type": "navigate", "index": -1}], "creaDate": 1602770875314, "pubDate": 1602770875314, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne5-graph-1", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px\">Significant gender gaps in advanced ICT skills</span>", "content": "<p>Writing a computer program is the only advanced ICT skill measured in connection with the monitoring of SDG target 4.4. Considerable gender gaps in advanced ICT skills, based on the proportion of women and men who can write a computer program, are noticable in the 70 countries for which data were available for 2019 or the latest available year during the period 2014\u20142019 (see figure II).</p>\n\n<p>With few exceptions, gender inequalities are primarily against women, and the gender gap is large in several countries in developed regions. For every 100 men who can write a computer program, there are fewer than 33 women with that ability in a number of developed countries, including: Austria, Belgium, France, Germany, Ireland, Japan, the Netherlands, Poland and Sweden. Only two countries (Brunei Darussalam and Cuba) out of the 70 with available data show gender parity in this advanced ICT skill. However,&nbsp;more women than men in Bahrain, Cambodia, Kuwait and Oman can write computer programs.</p>\n\n<p>In the advanced ICT skill of writing computer programs, developed countries are ahead of developing countries by only a small margin. This is party owing to the fact that, in both developing and developed countries, the proportion of the population with skills at the highest level is very low (less than 15%, with few exceptions). This is in contrast to the situation with basic and standard skills, where developed countries have substantial advantage.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609674534", "type": "navigate", "index": -1}], "creaDate": 1602770897869, "pubDate": 1602770897869, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne5-graph-2", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px;\">Sources</span>", "content": "<ul>\n\t<li><a href=\"https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ITCMEAS-2014-PDF-E.pdf\" target=\"_blank\">International Telecommunication Union (ITU), Manual for Measuring ICT Access and Use by Households and Individuals, 2014 Edition, Geneva, 2014</a></li>\n\t<li><a href=\"https://www.itu.int/pub/D-IND-ICTOI\" target=\"_blank\">ITU, Measuring the Information Society Report (vols. 1 and 2), Geneva, 2014</a></li>\n\t<li><a href=\"https://sustainabledevelopment.un.org/content/documents/19499JamaicaMain_VNR_Report.pdf\" target=\"_blank\">Statistical Institute of Jamaica, JAMAICA Voluntary National Review Report on the Implementation of the 2030 Agenda for Sustainable Development, Kingston, 2018</a></li>\n</ul>\n", "contentActions": [{"id": "MJ-ACTION-1598609698448", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609707111", "type": "navigate", "index": -1}], "creaDate": 1602768259475, "pubDate": 1602768259475, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/clay-banks-GX8KBbVmC6c-unsplash__1602704748227__w600.jpg", "type": "image", "altText": "", "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">The proportion of adults with information and communications technology (ICT) skills</span> is defined as <span class=\"definition\">the percentage of adults (aged 15 and above) who have undertaken certain computer-related activities in a specified time period</span></li>\n\t<li><span class=\"concept\">Computer-related activities</span> to mesure ICT skills include:\n\t<ol>\n\t\t<li>Copying or moving a file or folder.</li>\n\t\t<li>Using copy and paste tools to duplicate or move information within a document.</li>\n\t\t<li>Sending e-mails with attached files (for example, documents, pictures, videos).</li>\n\t\t<li>Transferring files between a computer and other devices.</li>\n\t\t<li>Using basic arithmetic formulae in a spreadsheet.</li>\n\t\t<li>Connecting and installing new devices (for example, a modem, camera, printer).</li>\n\t\t<li>Creating electronic presentations with presentation software (including text, images, sound, videos or charts).</li>\n\t\t<li>Finding, downloading, installing and configuring software.</li>\n\t\t<li>Writing a computer program using a specialized programming language.</li>\n\t</ol>\n\t</li>\n</ul>\n\n<p>ICT skills are often grouped into three categories: \u201cbasic\u201d, \u201cstandard\u201d and \u201cadvanced\u201d skills. \u201cBasic\u201d skills comprise the first four computer-based activities (1 to 4), while \u201cstandard\u201d skills consist of the next four activities (5 to 8). \u201cAdvanced\u201d skills refer to the last activity (9), writing a computer program using a specialized programming language.</p>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Female and male population aged 15 and older.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Data are available for 70 countries for 2019 or latest available data for the period 2014\u20142019.<span class=\"footnote-index\">5</span></p>\n</div>\n</div>\n", "contentActions": [{"id": "MJ-ACTION-1598609744028", "type": "navigate", "index": -1}], "creaDate": 1602704779697, "pubDate": 1602704779697, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602704778089__w600.jpg", "type": "image", "altText": "", "sizes": [{"name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1602704778089__w600.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602704778089__w600.jpg", "width": 600}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://www.itu.int/en/ITU-D/Statistics/Pages/publications/misr2018.aspx\" target=\"_blank\">International Telecommunication Union (ITU), Measuring the Information Society Report 2018, (vols. 1 and 2), Geneva, 2018</a>. (\u21e1 back to text)</li>\n\t<li>The gender parity index (GPI) is calculated by dividing the percentage of women with ICT skills by the percentage of men with the same skills. Gender parity is considered to have been attained when the GPI value lies between 0.97 and 1.03. A GPI value of less than 0.97 indicates disparity in favour of men, whereas a value greater than 1.03 indicates disparity in favour of women. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0747563215302429?via%3Dihub\" target=\"_blank\">Cruz Jesus, F., Vicente, M.R., Bacao, F. and Oliveira, T., \u201cThe education-related digital divide: An analysis for the EU-28\u201d, Computers in Human Behavior, vol. 56, March 2016</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0736585317303192?via%3Dihub\" target=\"_blank\">Scheerder, A., Van Deursen, J. A. M. and Van Dijk, J. A. G. M., \u201cDeterminants of Internet Skills, Uses and Outcomes: A Systematic Review of the Second- and Third-Level Digital Divide\u201d, Telematics and Informatics, vol. 34, Issue 8, December 2017</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://unstats.un.org/sdgs/indicators/database/\" target=\"_blank\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, Global SDG Indicators Database (accessed in February 2020)</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n", "contentActions": [{"id": "MJ-ACTION-1598609766300", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609772459", "type": "navigate", "index": -1}], "creaDate": 1602704822237, "pubDate": 1602704822237, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602704820681__w600.jpg", "type": "image", "altText": "", "sizes": [{"name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602704820681__w600.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602704820681__w600.jpg", "width": 600}], "display": "fill"}}}]}, "template": {"name": "Map Journal", "createdWith": "1.24.1", "editedWith": "1.25.0"}, "doNotWarnTitle": true}, "_ssl": null}
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Education\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Education</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Information and communications technology (ICT) skills</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602768332019,
+                    "pubDate": 1602768332019,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/john-schnobrich-2FPjlAyMQTA-unsplash__1602768330459__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "john-schnobrich-2FPjlAyMQTA-unsplash__1602768330459__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/john-schnobrich-2FPjlAyMQTA-unsplash__1602768330459__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>Women\u2019s ICT skills lag considerably behind men\u2019s across all nine&nbsp;ICT skills in the majority of countries with data, both developed and developing regions.</li>\n\t<li>Gender disparities against women are moderate for \u201cbasic\u201d ICT skills (such as copying and pasting and sending e-mails with attached files) when compared to those for the more complex \u201cstandard\u201d skills (such as downloading and installing software and connecting and installing devices).</li>\n\t<li>Women in developing regions are more disadvantaged than their counterparts in developed regions when it comes to basic digital skills and some standard skills.</li>\n\t<li>Gender disparities against women are pronounced in the \u201cadvanced\u201d ICT skill of writing computer programs and, with few exceptions, gender inequalities are primarily against women.</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602768361387,
+                    "pubDate": 1602768361387,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/van-tay-media-pc_HmXZ0e_w-unsplash__1602768359900__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "van-tay-media-pc_HmXZ0e_w-unsplash__1602768359900__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/van-tay-media-pc_HmXZ0e_w-unsplash__1602768359900__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px;\">Background</span>",
+                    "content": "<p>In an increasingly digital world, ICT skills are fundamental, at the individual level, to higher social and economic well-being and, at the national level, to success in a more dynamic and competitive economy.<span class=\"footnote-index\">1</span> It is widely recognized that a lack of ICT skills act as an impediment to participation in work, school and in society in general \u2014 and for women in particular. ICT skills are critical to the attainment of Sustainable Development Goal (SDG) 4, target 4.4, which encourages countries to substantially increase, by 2030, the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609558915",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602768399040,
+                    "pubDate": 1602768399040,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/michael-demoya-rL1TdmPa5u8-unsplash__1602768397440__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "michael-demoya-rL1TdmPa5u8-unsplash__1602768397440__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/michael-demoya-rL1TdmPa5u8-unsplash__1602768397440__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">In the majority of countries worldwide, women lag behind men in all ICT skills</span>",
+                    "content": "<p>Data on the gender parity index (GPI)<span class=\"footnote-index\">2</span> in 2018 show that, with few exceptions, women\u2019s ICT skills are considerably behind those of men across all nine&nbsp;ICT skills in the majority of countries, both developed and developing (see figure I). For each ICT activity, GPI values are smaller than 0.97 in the vast majority of countries, underscoring the fact that overall gender disparities favour men over women.</p>\n\n<p>Gender disparities against women are moderate for \u201cbasic\u201d ICT skills (such as copying and pasting and sending e-mails with attached files) in comparison to those for the more complex \u201cstandard\u201d skills (such as downloading and installing software and connecting and installing devices). Gender disparities against women are highest for the \u201cadvanced\u201d skill of writing computer programs. It should be noted that gender parity has been achieved in Lithuania and Slovakia, where women\u2019s ICT skills are equal to those of men across the nine&nbsp;ICT skills. In a handful of countries, including Jamaica, more women than men have ICT skills in both basic and standard ICT categories.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602770715091,
+                    "pubDate": 1602770715091,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne5-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px\">Women in developing regions are more disadvantaged in basic digital skills</span>",
+                    "content": "<p>The lack of data on ICT skills in developing regions limits detailed regional comparisons. Nevertheless, available data (see figure I) suggest that women in developing regions are more disadvantaged than their counterparts in developed regions when it comes to basic digital skills and some of the standard skills. Available data on advanced skills (writing computer programs) provide an unclear picture, as some developing countries that reported lower levels of basic skills also reported higher levels of standard and advanced skills.</p>\n\n<p>Research suggests that inequalities in ICT skills at the country level reflect other inequalities, including in education, wealth and gender, and that inequalities in digital skills might lead to increased disparity between developing and developed countries<span class=\"footnote-index\">3</span> and between socioeconomic and sociocultural groups.<span class=\"footnote-index\">4</span> A lack of digital skills is widely understood to be a significant barrier to participation in work and school, and in society in general, as well as in home-based activities and in private life.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609631920",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609642799",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609651540",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602770875314,
+                    "pubDate": 1602770875314,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne5-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Significant gender gaps in advanced ICT skills</span>",
+                    "content": "<p>Writing a computer program is the only advanced ICT skill measured in connection with the monitoring of SDG target 4.4. Considerable gender gaps in advanced ICT skills, based on the proportion of women and men who can write a computer program, are noticable in the 70 countries for which data were available for 2019 or the latest available year during the period 2014\u20142019 (see figure II).</p>\n\n<p>With few exceptions, gender inequalities are primarily against women, and the gender gap is large in several countries in developed regions. For every 100 men who can write a computer program, there are fewer than 33 women with that ability in a number of developed countries, including: Austria, Belgium, France, Germany, Ireland, Japan, the Netherlands, Poland and Sweden. Only two countries (Brunei Darussalam and Cuba) out of the 70 with available data show gender parity in this advanced ICT skill. However,&nbsp;more women than men in Bahrain, Cambodia, Kuwait and Oman can write computer programs.</p>\n\n<p>In the advanced ICT skill of writing computer programs, developed countries are ahead of developing countries by only a small margin. This is party owing to the fact that, in both developing and developed countries, the proportion of the population with skills at the highest level is very low (less than 15%, with few exceptions). This is in contrast to the situation with basic and standard skills, where developed countries have substantial advantage.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609674534",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602770897869,
+                    "pubDate": 1602770897869,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne5-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Sources</span>",
+                    "content": "<ul>\n\t<li><a href=\"https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ITCMEAS-2014-PDF-E.pdf\" target=\"_blank\">International Telecommunication Union (ITU), Manual for Measuring ICT Access and Use by Households and Individuals, 2014 Edition, Geneva, 2014</a></li>\n\t<li><a href=\"https://www.itu.int/pub/D-IND-ICTOI\" target=\"_blank\">ITU, Measuring the Information Society Report (vols. 1 and 2), Geneva, 2014</a></li>\n\t<li><a href=\"https://sustainabledevelopment.un.org/content/documents/19499JamaicaMain_VNR_Report.pdf\" target=\"_blank\">Statistical Institute of Jamaica, JAMAICA Voluntary National Review Report on the Implementation of the 2030 Agenda for Sustainable Development, Kingston, 2018</a></li>\n</ul>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609698448",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609707111",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602768259475,
+                    "pubDate": 1602768259475,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/clay-banks-GX8KBbVmC6c-unsplash__1602704748227__w600.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">The proportion of adults with information and communications technology (ICT) skills</span> is defined as <span class=\"definition\">the percentage of adults (aged 15 and above) who have undertaken certain computer-related activities in a specified time period</span></li>\n\t<li><span class=\"concept\">Computer-related activities</span> to mesure ICT skills include:\n\t<ol>\n\t\t<li>Copying or moving a file or folder.</li>\n\t\t<li>Using copy and paste tools to duplicate or move information within a document.</li>\n\t\t<li>Sending e-mails with attached files (for example, documents, pictures, videos).</li>\n\t\t<li>Transferring files between a computer and other devices.</li>\n\t\t<li>Using basic arithmetic formulae in a spreadsheet.</li>\n\t\t<li>Connecting and installing new devices (for example, a modem, camera, printer).</li>\n\t\t<li>Creating electronic presentations with presentation software (including text, images, sound, videos or charts).</li>\n\t\t<li>Finding, downloading, installing and configuring software.</li>\n\t\t<li>Writing a computer program using a specialized programming language.</li>\n\t</ol>\n\t</li>\n</ul>\n\n<p>ICT skills are often grouped into three categories: \u201cbasic\u201d, \u201cstandard\u201d and \u201cadvanced\u201d skills. \u201cBasic\u201d skills comprise the first four computer-based activities (1 to 4), while \u201cstandard\u201d skills consist of the next four activities (5 to 8). \u201cAdvanced\u201d skills refer to the last activity (9), writing a computer program using a specialized programming language.</p>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Female and male population aged 15 and older.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Data are available for 70 countries for 2019 or latest available data for the period 2014\u20142019.<span class=\"footnote-index\">5</span></p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609744028",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602704779697,
+                    "pubDate": 1602704779697,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602704778089__w600.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1602704778089__w600.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602704778089__w600.jpg",
+                                    "width": 600
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://www.itu.int/en/ITU-D/Statistics/Pages/publications/misr2018.aspx\" target=\"_blank\">International Telecommunication Union (ITU), Measuring the Information Society Report 2018, (vols. 1 and 2), Geneva, 2018</a>. (\u21e1 back to text)</li>\n\t<li>The gender parity index (GPI) is calculated by dividing the percentage of women with ICT skills by the percentage of men with the same skills. Gender parity is considered to have been attained when the GPI value lies between 0.97 and 1.03. A GPI value of less than 0.97 indicates disparity in favour of men, whereas a value greater than 1.03 indicates disparity in favour of women. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0747563215302429?via%3Dihub\" target=\"_blank\">Cruz Jesus, F., Vicente, M.R., Bacao, F. and Oliveira, T., \u201cThe education-related digital divide: An analysis for the EU-28\u201d, Computers in Human Behavior, vol. 56, March 2016</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0736585317303192?via%3Dihub\" target=\"_blank\">Scheerder, A., Van Deursen, J. A. M. and Van Dijk, J. A. G. M., \u201cDeterminants of Internet Skills, Uses and Outcomes: A Systematic Review of the Second- and Third-Level Digital Divide\u201d, Telematics and Informatics, vol. 34, Issue 8, December 2017</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://unstats.un.org/sdgs/indicators/database/\" target=\"_blank\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, Global SDG Indicators Database (accessed in February 2020)</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609766300",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609772459",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602704822237,
+                    "pubDate": 1602704822237,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602704820681__w600.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602704820681__w600.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/86be0ea0f78b46b19e8c5cf3c519e66e/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602704820681__w600.jpg",
+                                    "width": 600
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NE5"
+    }
+}

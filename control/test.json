@@ -1,0 +1,577 @@
+{
+	"values": {
+		"settings": {
+			"header": {
+				"linkText": "World's Women 2020",
+				"linkURL": "https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=894bed8498eb449a983af8b33a7125f3",
+				"logoURL": "https://raw.githubusercontent.com/UNStats/WorldsWomen/master/assets/logos/UNStats%20Logo-short.png",
+				"logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+				"social": {
+					"facebook": true,
+					"twitter": true,
+					"bitly": true
+				}
+			},
+			"appGeocoders": [{
+				"singleLineFieldName": "SingleLine",
+				"name": "ArcGIS World Geocoding Service",
+				"url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+			}],
+			"layout": {
+				"id": "side"
+			},
+			"layoutOptions": {
+				"layoutCfg": {
+					"size": "large",
+					"position": "right"
+				},
+				"socialLinks": false
+			},
+			"theme": {
+				"colors": {
+					"name": "side-default-5",
+					"themeMajor": "white",
+					"dotNav": "#68AAE1",
+					"panel": "#FFFFFF",
+					"media": "#E8E8DF",
+					"text": "#000000",
+					"textLink": "#555",
+					"softText": "#FFF",
+					"softBtn": "#4D4D4D",
+					"esriLogo": "black"
+				},
+				"fonts": {
+					"sectionTitle": {
+						"id": "default",
+						"value": "font-family:'open_sansregular', sans-serif;"
+					},
+					"sectionContent": {
+						"id": "default",
+						"value": "font-family:'open_sansregular', sans-serif;"
+					}
+				}
+			}
+		},
+		"title": "Power and decision-making\n",
+		"story": {
+			"storage": "WEBAPP",
+			"sections": [{
+				"title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Power and decision-making</strong></span></span></p>\n",
+				"content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Women in managerial positions</div>\n",
+				"contentActions": [],
+				"creaDate": 1602488416452,
+				"pubDate": 1602488416452,
+				"status": "PUBLISHED",
+				"media": {
+					"type": "image",
+					"image": {
+						"url": "https://www.arcgis.com/sharing/rest/content/items/0d1ff2530f17451bb8437c6ea584282e/resources/javier-trueba-vFJNeWJAA2g-unsplash-woman%20pointing%20at%20paper__1602488414515__w1200.jpg",
+						"type": "image",
+						"altText": "",
+						"sizes": [{
+							"name": "javier-trueba-vFJNeWJAA2g-unsplash-woman pointing at paper__1602488414515__w1200.jpg",
+							"url": "https://www.arcgis.com/sharing/rest/content/items/0d1ff2530f17451bb8437c6ea584282e/resources/javier-trueba-vFJNeWJAA2g-unsplash-woman%20pointing%20at%20paper__1602488414515__w1200.jpg",
+							"width": 1200
+						}],
+						"display": "fill"
+					}
+				}
+			}, {
+				"title": "<span style=\"font-size:26px\">Key points</span>",
+				"content": "<ul class=\"key-points\">\n\t<li>Although higher proportions of women in decision-making roles in the private sector has a positive correlation to superior corporate profitability, the proportion of women in managerial positions remains low in both the public and private sectors.</li>\n\t<li>Globally, women held only 28% of managerial positions in 2019, with some regional variations, and in countries in Northern Africa and Western Asia and Central and Southern Asia the proportion barely reached 13%, a statistic that has not changed significantly over the past 20 years.</li>\n\t<li>Since 2000, while the proportion of women in managerial positions has increased in most regions, the rate of improvement is slight.</li>\n\t<li>The underrepresentation of women in management positions is even more visible at the higher levels of decision-making: 48% of companies surveyed by the International Labour Organization (ILO) in 2018<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598821000229\" data-storymaps-type=\"navigate\">1</a></span> had at least one woman in senior management, but only 31% had women in top executive positions.</li>\n\t<li>Women CEOs or top managers are even more scarce: only 18% of enterprises surveyed by the World Bank had a woman CEO.</li>\n\t<li>Among Fortune 500 corporations,&nbsp;women accounted for only 7.4%, or 37 out of 500 CEOs. Despite the minor improvement from 1998, when only 1 out of the top 500 corporations had a female CEO, the gender gap at the level of top corporate decision makers remains significant.</li>\n\t<li>The bigger the enterprise, the lower the chances of it having a woman CEO: over 26% of small enterprises&nbsp;surveyed by ILO in 2018 (employing 2 to 100 workers)&nbsp;had female CEOs, compared with 16% of large enterprises&nbsp;(employing more than 250 workers).&nbsp;&nbsp;</li>\n\t<li>Enterprises with more women in their workforce are more likely to have a female CEO. Of the enterprises surveyed by ILO in 2018, enterprises with a&nbsp;gender balanced workforce were 15% more likely to have a female CEO; and enterprises with a predominantly female workforce (between 61% and 100%) were 22% more likely to have a female CEO.</li>\n</ul>\n",
+				"contentActions": [{
+					"id": "MJ-ACTION-1598821000229",
+					"type": "navigate",
+					"index": 13
+				}],
+				"creaDate": 1602783165325,
+				"pubDate": 1602783165325,
+				"status": "PUBLISHED",
+				"media": {
+					"type": "image",
+					"image": {
+						"url": "https://www.arcgis.com/sharing/rest/content/items/0d1ff2530f17451bb8437c6ea584282e/resources/mitchell-luo-BEjoP1BU9nI-unsplash__1602783162898__w1200.jpg",
+						"type": "image",
+						"altText": "",
+						"sizes": [{
+							"name": "mitchell-luo-BEjoP1BU9nI-unsplash__1602783162898__w1200.jpg",
+							"url": "https://www.arcgis.com/sharing/rest/content/items/0d1ff2530f17451bb8437c6ea584282e/resources/mitchell-luo-BEjoP1BU9nI-unsplash__1602783162898__w1200.jpg",
+							"width": 1200
+						}],
+						"display": "fill"
+					}
+				}
+			}, {
+				"title": "<span style=\"font-size:28px\"><strong>Background</strong></span>",
+				"content": "<p>Gender diversity in managerial positions, as evidenced by greater representation of women in senior roles, as CEOs and senior-level managers, is not just about human rights and social equality. A number of studies have shown that a higher proportion of women in decision-making roles in the private sector has had a positive effect, boosting stock market returns and creating superior corporate profitability.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598821044861\" data-storymaps-type=\"navigate\">2</a></span></p>\n\n<p>A global survey of enterprises conducted by ILO in 2018 reaffirmed that company profits increase as a result of gender diversity and equality initiatives.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598821053202\" data-storymaps-type=\"navigate\">3</a></span> Nevertheless, the proportion of women in managerial positions remains low in both the public and private sectors, and the number of women fall as they move up the corporate ladder towards the top executive positions.</p>\n",
+				"contentActions": [{
+					"id": "MJ-ACTION-1598609558915",
+					"type": "navigate",
+					"index": 13
+				}, {
+					"id": "MJ-ACTION-1598744260872",
+					"type": "navigate",
+					"index": 13
+				}, {
+					"id": "MJ-ACTION-1598746765355",
+					"type": "navigate",
+					"index": 13
+				}, {
+					"id": "MJ-ACTION-1598751031365",
+					"type": "navigate",
+					"index": 13
+				}, {
+					"id": "MJ-ACTION-1598821044861",
+					"type": "navigate",
+					"index": 13
+				}, {
+					"id": "MJ-ACTION-1598821053202",
+					"type": "navigate",
+					"index": 13
+				}],
+				"creaDate": 1602783186236,
+				"pubDate": 1602783186236,
+				"status": "PUBLISHED",
+				"media": {
+					"type": "image",
+					"image": {
+						"url": "https://www.arcgis.com/sharing/rest/content/items/0d1ff2530f17451bb8437c6ea584282e/resources/mitchell-luo-BEjoP1BU9nI-unsplash__1602783162898__w1200.jpg",
+						"type": "image",
+						"altText": "",
+						"sizes": [{
+							"name": "mitchell-luo-BEjoP1BU9nI-unsplash__1602783162898__w1200.jpg",
+							"url": "https://www.arcgis.com/sharing/rest/content/items/0d1ff2530f17451bb8437c6ea584282e/resources/mitchell-luo-BEjoP1BU9nI-unsplash__1602783162898__w1200.jpg",
+							"width": 1200
+						}],
+						"display": "fill"
+					}
+				}
+			}, {
+				"title": "<p><font><span style=\"font-size:28px;\"><strong>&nbsp;</strong></span></font></p>\n",
+				"content": "<p><strong>Women are less likely than men to be employed and if employed are less likely to hold managerial positions.</strong></p>\n\n<p>In 2019, on average, women comprised 39% of the <a class=\"narrative-ref\" href=\"#NW1\" target=\"_blank\">workforce worldwide</a>, but held only 28% of managerial positions.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598821130236\" data-storymaps-type=\"navigate\">4</a></span> In the three regions with the highest proportion of women in managerial positions, <span class=\"label-ref\">Latin America and the Caribbean</span>, <span class=\"label-ref\">Australia and New Zealand</span> and <span class=\"label-ref\">Europe and Northern America</span>, women held 38% of managerial positions; in the two regions with the lowest proportion of women in managerial positions, <span class=\"label-ref\">Northern Africa and Western Asia</span> and <span class=\"label-ref\">Central and Southern Asia</span>, women barely reached 13% of such positions \u2013 less than half the global average (see figure I).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598821136544\" data-storymaps-type=\"navigate\">5</a></span></p>\n",
+				"contentActions": [{
+					"id": "MJ-ACTION-1598750826261",
+					"type": "navigate",
+					"index": 13
+				}, {
+					"id": "MJ-ACTION-1598821130236",
+					"type": "navigate",
+					"index": 13
+				}, {
+					"id": "MJ-ACTION-1598821136544",
+					"type": "navigate",
+					"index": 13
+				}],
+				"creaDate": 1602186468173,
+				"pubDate": 1602186420000,
+				"status": "PUBLISHED",
+				"media": {
+					"type": "webpage",
+					"webpage": {
+						"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd1-graph-1",
+						"type": "webpage",
+						"altText": "",
+						"display": "stretch",
+						"unload": true
+					}
+				}
+			}, {
+				"title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+				"content": "<p>Since 2000, the proportion of women in managerial positions has increased in all regions, although their numbers remain disproportionately low and overall there has only been a slight improvement. In particular, female managers in countries in <span class=\"label-ref\">Central and Southern Asia</span> and <span class=\"label-ref\">Northern Africa and Western Asia</span> have remained in the minority over the last 20 years, with the share of all managerial positions held by women at between only 9% and 13% (see figure II).</p>\n",
+				"contentActions": [{
+					"id": "MJ-ACTION-1598609631920",
+					"type": "navigate",
+					"index": 13
+				}, {
+					"id": "MJ-ACTION-1598609642799",
+					"type": "navigate",
+					"index": 13
+				}, {
+					"id": "MJ-ACTION-1598609651540",
+					"type": "navigate",
+					"index": 13
+				}],
+				"creaDate": 1602242544937,
+				"pubDate": 1602242520000,
+				"status": "PUBLISHED",
+				"media": {
+					"type": "webpage",
+					"webpage": {
+						"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd1-graph-2",
+						"type": "webpage",
+						"altText": "",
+						"display": "stretch",
+						"unload": true
+					}
+				}
+			}, {
+				"title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+				"content": "<p><strong>More women are employed in junior management than in senior and middle management positions, and the glass ceiling is more difficult to break through at the top echelons of management</strong></p>\n\n<p>In the majority of countries in the world, more women work in junior managerial positions than at the level of senior and middle management. In countries in Latin America and the Caribbean, however, where the proportion of women managers tends to be the highest, there are some country variations in the proportion of women in top management positions, relative to their overall share in management (see figure III).</p>\n",
+				"contentActions": [{
+					"id": "MJ-ACTION-1598609674534",
+					"type": "navigate",
+					"index": 13
+				}, {
+					"id": "MJ-ACTION-1598744303298",
+					"type": "navigate",
+					"index": 13
+				}, {
+					"id": "MJ-ACTION-1598746804023",
+					"type": "navigate",
+					"index": 13
+				}],
+				"creaDate": 1602242593928,
+				"pubDate": 1602242580000,
+				"status": "PUBLISHED",
+				"media": {
+					"type": "webpage",
+					"webpage": {
+						"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd1-graph-3",
+						"type": "webpage",
+						"altText": "",
+						"display": "stretch",
+						"unload": true
+					}
+				}
+			}, {
+				"title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+				"content": "<p>The finding that fewer women than men are represented at the higher levels of management is also supported by an ILO survey conducted in 2018,<span class=\"footnote-index\">5</span> which collected a sample of almost 13,000 companies in 70 countries across five regions: sub-Saharan Africa; Asia and the Pacific; Europe and Central Asia; Latin America and the Caribbean; and the Middle East and Northern Africa.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598821223025\" data-storymaps-type=\"navigate\">6</a></span></p>\n\n<p>The survey showed that more than 60% of companies had at least one woman in supervisory, junior or administrative management and middle management. However, at the senior echelons, there were very few women: only 48% of companies had at least one woman in senior management, and less than a third had women in top executive positions (see figure IV).</p>\n",
+				"contentActions": [{
+					"id": "MJ-ACTION-1598609698448",
+					"type": "navigate",
+					"index": 13
+				}, {
+					"id": "MJ-ACTION-1598609707111",
+					"type": "navigate",
+					"index": 13
+				}, {
+					"id": "MJ-ACTION-1598744336143",
+					"type": "navigate",
+					"index": 13
+				}, {
+					"id": "MJ-ACTION-1598746850031",
+					"type": "navigate",
+					"index": 13
+				}, {
+					"id": "MJ-ACTION-1598821223025",
+					"type": "navigate",
+					"index": 13
+				}],
+				"creaDate": 1602248716872,
+				"pubDate": 1602248716872,
+				"status": "PUBLISHED",
+				"media": {
+					"type": "webpage",
+					"webpage": {
+						"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd1-graph-4",
+						"type": "webpage",
+						"altText": "",
+						"display": "stretch",
+						"unload": true
+					}
+				}
+			}, {
+				"title": "&nbsp;",
+				"content": "<p><strong>Women are better represented in support management functions than in more strategic managerial posts</strong></p>\n\n<p>The glass ceiling at senior managerial levels has created occupational segregation within management functions. As of 2018, even though 63% of surveyed enterprises had at least one female middle manager and close to 50% of surveyed enterprises had at least one female senior manager, when looking at their functional responsibilities, women were over represented in support management functions, such as human resources, finance and administration, while managerial posts in the areas of research and development and profit-and-loss management, which are considered to be more strategic, were generally occupied by men.</p>\n\n<p>At top managerial positions, among enterprises with a CEO, less than a fifth have a woman in that position.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598821369837\" data-storymaps-type=\"navigate\">8</a></span> Variations exist across regions, however, with countries in <span class=\"label-ref\">Eastern and South-Eastern Asia</span> reporting the highest proportion of enterprises with female top managers, at 35.5%, while countries in <span class=\"label-ref\">Northern Africa and Western Asia</span> reported the lowest share, at 6.4% (see figure V).</p>\n",
+				"contentActions": [{
+					"id": "MJ-ACTION-1598821332259",
+					"type": "navigate",
+					"index": 13
+				}, {
+					"id": "MJ-ACTION-1598821369837",
+					"type": "navigate",
+					"index": 13
+				}],
+				"creaDate": 1602249135507,
+				"pubDate": 1602249135507,
+				"status": "PUBLISHED",
+				"media": {
+					"type": "webpage",
+					"webpage": {
+						"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd1-graph-5",
+						"type": "webpage",
+						"altText": "",
+						"display": "stretch",
+						"unload": true
+					}
+				}
+			}, {
+				"title": "&nbsp;",
+				"content": "<p><strong>Company size and share of female CEOs: it is unclear how the size of a company affects the chances that a woman will be a CEO</strong></p>\n\n<p>The link between the size of a company and the likelihood that it will have a woman as CEO is not straightforward. While large companies have higher profiles, and may thus be less likely to discriminate against women candidates for top managerial positions, they also tend to be more hierarchical, making it more difficult for women to reach those positions as they may fall behind men in terms of networks, training and relevant job experience.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598821452717\" data-storymaps-type=\"navigate\">9</a></span></p>\n\n<p>Furthermore, recent evidence shows that the proportion of enterprises with a female CEO shrinks as the size of an enterprise grows: over 26% of small enterprises (employing 2\u2013100 workers) have female CEOs, compared with 20% of medium-sized enterprises (employing 101\u2013250 workers) and 16% of large enterprises (employing more than 250 workers)<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598821517813\" data-storymaps-type=\"navigate\">10</a></span> (see figure VI).</p>\n",
+				"contentActions": [{
+					"id": "MJ-ACTION-1598821452717",
+					"type": "navigate",
+					"index": 13
+				}],
+				"creaDate": 1602242944780,
+				"pubDate": 1602242940000,
+				"status": "PUBLISHED",
+				"media": {
+					"type": "webpage",
+					"webpage": {
+						"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd1-graph-6",
+						"type": "webpage",
+						"altText": "",
+						"display": "stretch",
+						"unload": true
+					}
+				}
+			}, {
+				"title": "&nbsp;",
+				"content": "<p>This argument is also supported by the historical data on the number of female CEOs on the list of the Fortune 500,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598821607571\" data-storymaps-type=\"navigate\">11</a></span> which shows the largest corporations in the United States of America. While the list from 2020 has more female CEOs than ever before, women only account for 7.4% of the total number: only 37 out of 500 CEOs are women (see figure VII).</p>\n\n<p>While this shows an improvement from 1998, when only 1 out of the top 500 corporations had a female CEO, the gender gap remains significant and is even more pronounced than among large enterprises, where in 2018 the share of women CEOs was reported at 16% (figure VII).</p>\n",
+				"contentActions": [{
+					"id": "MJ-ACTION-1598821607571",
+					"type": "navigate",
+					"index": 13
+				}],
+				"creaDate": 1602242991435,
+				"pubDate": 1602242940000,
+				"status": "PUBLISHED",
+				"media": {
+					"type": "webpage",
+					"webpage": {
+						"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd1-graph-7",
+						"type": "webpage",
+						"altText": "",
+						"display": "stretch",
+						"unload": true
+					}
+				}
+			}, {
+				"title": "&nbsp;",
+				"content": "<p><strong>Enterprises with more women in their workforce are more likely to have a female CEO</strong></p>\n\n<p>In 2018, enterprises where women accounted for 30% to 39% of the workforce had a 6% higher likelihood of having a female CEO than enterprises where women made up less than 30% of the workforce; when the workforce was gender balanced, enterprises were 15% more likely to have a female CEO; and when the workforce was predominantly female (61% to 100% ), enterprises were 22% more likely to have a female CEO.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598821741733\" data-storymaps-type=\"navigate\">13</a></span></p>\n",
+				"contentActions": [{
+					"id": "MJ-ACTION-1598821741733",
+					"type": "navigate",
+					"index": 13
+				}],
+				"creaDate": 1598821747192,
+				"pubDate": 1598821740000,
+				"status": "PUBLISHED",
+				"media": {
+					"type": "image",
+					"image": {
+						"url": "https://raw.githubusercontent.com/UNStats/WorldsWomen/master/assets/photos/kyle-peyton-C0H05P-t3g4-unsplash.jpg",
+						"type": "image",
+						"altText": "",
+						"display": "fill"
+					}
+				}
+			}, {
+				"title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+				"content": "<div class=\"methodology\">\n<h1>About the data</h1>\n\n<h4>Proportion of managerial positions held by women</h4>\n\n<ul class=\"definitions\">\n\t<li><span class=\"definition\">Definition:</span> Percentage of women in management positions as a measure of total employment in management. Managerial positions correspond to major group 1 of the International Standard Classification of Occupations (ISCO-88 or ISCO-08).</li>\n\t<li><span class=\"definition\">Data availability:</span> Data are derived from International Labour Organization (ILO) modelled estimates at the regional level</li>\n</ul>\n\n<h4>Proportion of women in senior and middle management positions</h4>\n\n<ul class=\"definitions\">\n\t<li><span class=\"definition\">Definition:</span> Senior and middle management correspond to sub-major groups 11, 12 and 13 in ISCO-08 and sub-major groups 11 and 12 in ISCO-88. If disaggregated statistics were not available at the sub-major group level (two-digit level of ISCO), major group 1 of ISCO-88 and ISCO-08 was used as a proxy, and in such cases the indicator refers only to total management (including junior management).</li>\n\t<li><span class=\"definition\">Data availability:</span> Available data from 63 countries (with 2018 data) and 50 countries (with 2019 data).</li>\n</ul>\n\n<h4>Percentage of firms with a female Chief Executive Officer/top manager</h4>\n\n<ul class=\"definitions\">\n\t<li><span class=\"definition\">Definition:</span> The Chief Executive Officer (CEO) is the top manager in a company, the person who is ultimately responsible for making managerial decisions. The percentage of firms with a female CEO/top manager is calculated as the weighted average of data obtained from businesses in enterprise surveys, using sampling weights.</li>\n\t<li><span class=\"definition\">Data availability:</span> For the period 2010\u20132020, latest data on the percentage of firms with a female top manager were available for 134 countries from enterprise surveys conducted by the World Bank in 144 countries covering more than 161,000 companies.</li>\n</ul>\n</div>\n",
+				"contentActions": [{
+					"id": "MJ-ACTION-1598609809974",
+					"type": "navigate",
+					"index": 13
+				}, {
+					"id": "MJ-ACTION-1598609814847",
+					"type": "navigate",
+					"index": 13
+				}, {
+					"id": "MJ-ACTION-1598609820099",
+					"type": "navigate",
+					"index": 13
+				}],
+				"creaDate": 1602243052965,
+				"pubDate": 1602243000000,
+				"status": "PUBLISHED",
+				"media": {
+					"type": "image",
+					"image": {
+						"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+						"type": "image",
+						"altText": "",
+						"display": "fill"
+					}
+				}
+			}, {
+				"title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+				"content": "<div class=\"references\">\n<h1>Related stories and further reading</h1>\n\n<ul>\n\t<li><a class=\"narrative-ref\" href=\"#NV2\" target=\"_blank\">Women in power and decision-making positions in the corporate world</a></li>\n</ul>\n</div>\n",
+				"contentActions": [],
+				"creaDate": 1602243110622,
+				"pubDate": 1602243060000,
+				"status": "PUBLISHED",
+				"media": {
+					"type": "image",
+					"image": {
+						"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/clay-banks-unsplash.jpg",
+						"type": "image",
+						"altText": "",
+						"display": "fill"
+					}
+				}
+			}, {
+				"title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+				"content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://www.ilo.org/global/publications/WCMS_702196/lang--en/index.htm\" target=\"_blank\">International Labour Organization (ILO), Women in Business and Management: -A Global Survey of Enterprises, Geneva, 2019</a>. (<a data-storymaps=\"MJ-ACTION-1598821023388\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li>Credit Suisse AG, Research Institute, The CS Gender 3000: The Reward for Change, 2016; ILO, Women in Business and Management: The business case for change, Geneva, 2019; <a href=\"https://hbr.org/2019/02/research-when-gender-diversity-makes-firms-more-productive\" target=\"_blank\">Harvard Business Review, \u201cResearch: When Gender Diversity Makes Firms More Productive\u201d</a>; and McKinsey &amp; Company, \u201cWomen in the Workplace 2019\u201d, October 2019. (<a data-storymaps=\"MJ-ACTION-1598821073496\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li>ILO, Women in Business and Management: The business case for change, Geneva, 2019.. (<a data-storymaps=\"MJ-ACTION-1598821083369\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li>United Nations Department of Economic and Social Affairs (UNDESA), Statistical Division, <a href=\"https://unstats.un.org/sdgs\" target=\"_blank\">Sustainable Development Goals Report 2020</a>. (<a data-storymaps=\"MJ-ACTION-1598821170512\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li>ILO, Women in Business and Management: A global survey of enterprises, Geneva, 2019. (<a data-storymaps=\"MJ-ACTION-1598821178127\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li>The regional groupings shown here are not the same as those used under the Sustainable Development Goals (SDGs). (<a data-storymaps=\"MJ-ACTION-1598821241998\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li>ILO, Women in Business and Management: The business case for change, Geneva, 2019. (<a data-storymaps=\"MJ-ACTION-1598821315415\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li><a href=\"http://www.enterprisesurveys.org\" target=\"_blank\">World Bank, \u201cEnterprises surveys\u201d</a>. (<a data-storymaps=\"MJ-ACTION-1598821423996\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li>The World Bank Group, \u201cFemale Top Managers in Malaysia\u201d, Enterprise Note No.36, 2018. (<a data-storymaps=\"MJ-ACTION-1598821494819\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li>ILO, Women in Business and Management: The business case for change, Geneva, 2019. (<a data-storymaps=\"MJ-ACTION-1598821546464\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li><a href=\"https://fortune.com/fortune500/\" target=\"_blank\">Fortune 500</a> is an annual list compiled and published by Fortune magazine that ranks the 500 largest corporations in the United States of America by total revenue for the respective fiscal year. (<a data-storymaps=\"MJ-ACTION-1598821622580\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li>Fortune (magazine), <a href=\"https://fortune.com/2020/05/18/women-ceos-fortune-500-2020/\" target=\"_blank\">\u201cThe number of female CEOS in the Fortune 500 hits an all-time record\u201d</a>. (<a data-storymaps=\"MJ-ACTION-1598821789137\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n\t<li>ILO, Women in Business and Management: The business case for change, Geneva, 2019. (<a data-storymaps=\"MJ-ACTION-1598821783691\" data-storymaps-type=\"navigate\">\u21e1back to text</a>)</li>\n</ol>\n</div>\n",
+				"contentActions": [{
+					"id": "MJ-ACTION-1598609848308",
+					"type": "navigate",
+					"index": 2
+				}, {
+					"id": "MJ-ACTION-1598609857337",
+					"type": "navigate",
+					"index": 4
+				}, {
+					"id": "MJ-ACTION-1598609873239",
+					"type": "navigate",
+					"index": 4
+				}, {
+					"id": "MJ-ACTION-1598609883421",
+					"type": "navigate",
+					"index": 4
+				}, {
+					"id": "MJ-ACTION-1598609896997",
+					"type": "navigate",
+					"index": 6
+				}, {
+					"id": "MJ-ACTION-1598609906932",
+					"type": "navigate",
+					"index": 6
+				}, {
+					"id": "MJ-ACTION-1598609914851",
+					"type": "navigate",
+					"index": -1
+				}, {
+					"id": "MJ-ACTION-1598609927078",
+					"type": "navigate",
+					"index": -1
+				}, {
+					"id": "MJ-ACTION-1598609936839",
+					"type": "navigate",
+					"index": -1
+				}, {
+					"id": "MJ-ACTION-1598609958575",
+					"type": "navigate",
+					"index": 11
+				}, {
+					"id": "MJ-ACTION-1598609967973",
+					"type": "navigate",
+					"index": 11
+				}, {
+					"id": "MJ-ACTION-1598609975942",
+					"type": "navigate",
+					"index": 11
+				}, {
+					"id": "MJ-ACTION-1598610194053",
+					"type": "navigate",
+					"index": 5
+				}, {
+					"id": "MJ-ACTION-1598744279121",
+					"type": "navigate",
+					"index": 2
+				}, {
+					"id": "MJ-ACTION-1598744320527",
+					"type": "navigate",
+					"index": 5
+				}, {
+					"id": "MJ-ACTION-1598744350619",
+					"type": "navigate",
+					"index": 6
+				}, {
+					"id": "MJ-ACTION-1598746781284",
+					"type": "navigate",
+					"index": 2
+				}, {
+					"id": "MJ-ACTION-1598746818574",
+					"type": "navigate",
+					"index": 5
+				}, {
+					"id": "MJ-ACTION-1598746865933",
+					"type": "navigate",
+					"index": 6
+				}, {
+					"id": "MJ-ACTION-1598746918792",
+					"type": "navigate",
+					"index": -1
+				}, {
+					"id": "MJ-ACTION-1598750840663",
+					"type": "navigate",
+					"index": 3
+				}, {
+					"id": "MJ-ACTION-1598751044913",
+					"type": "navigate",
+					"index": 2
+				}, {
+					"id": "MJ-ACTION-1598751054323",
+					"type": "navigate",
+					"index": 3
+				}, {
+					"id": "MJ-ACTION-1598821023388",
+					"type": "navigate",
+					"index": 1
+				}, {
+					"id": "MJ-ACTION-1598821073496",
+					"type": "navigate",
+					"index": 2
+				}, {
+					"id": "MJ-ACTION-1598821083369",
+					"type": "navigate",
+					"index": 2
+				}, {
+					"id": "MJ-ACTION-1598821170512",
+					"type": "navigate",
+					"index": 3
+				}, {
+					"id": "MJ-ACTION-1598821178127",
+					"type": "navigate",
+					"index": 3
+				}, {
+					"id": "MJ-ACTION-1598821241998",
+					"type": "navigate",
+					"index": 6
+				}, {
+					"id": "MJ-ACTION-1598821288566",
+					"type": "navigate",
+					"index": -1
+				}, {
+					"id": "MJ-ACTION-1598821315415",
+					"type": "navigate",
+					"index": -1
+				}, {
+					"id": "MJ-ACTION-1598821423996",
+					"type": "navigate",
+					"index": 7
+				}, {
+					"id": "MJ-ACTION-1598821494819",
+					"type": "navigate",
+					"index": 8
+				}, {
+					"id": "MJ-ACTION-1598821546464",
+					"type": "navigate",
+					"index": -1
+				}, {
+					"id": "MJ-ACTION-1598821622580",
+					"type": "navigate",
+					"index": 9
+				}, {
+					"id": "MJ-ACTION-1598821783691",
+					"type": "navigate",
+					"index": 10
+				}, {
+					"id": "MJ-ACTION-1598821789137",
+					"type": "navigate",
+					"index": 9
+				}],
+				"creaDate": 1602243083212,
+				"pubDate": 1602243060000,
+				"status": "PUBLISHED",
+				"media": {
+					"type": "image",
+					"image": {
+						"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+						"type": "image",
+						"altText": "",
+						"display": "fill"
+					}
+				}
+			}]
+		},
+		"template": {
+			"name": "Map Journal",
+			"createdWith": "1.24.1",
+			"editedWith": "1.25.0"
+		}
+	},
+	"_ssl": null
+}

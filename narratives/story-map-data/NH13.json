@@ -1,1 +1,409 @@
-{"values": {"settings": {"header": {"linkText": "World's Women 2020", "linkURL": "https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=894bed8498eb449a983af8b33a7125f3", "logoURL": "https://www.arcgis.com/sharing/rest/content/items/894bed8498eb449a983af8b33a7125f3/resources/sm_mj_logo__1598499409363.jpg", "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/", "social": {"facebook": true, "twitter": true, "bitly": true}}, "appGeocoders": [{"singleLineFieldName": "SingleLine", "name": "ArcGIS World Geocoding Service", "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"}], "layout": {"id": "side"}, "layoutOptions": {"layoutCfg": {"size": "large", "position": "right"}, "socialLinks": false}, "theme": {"colors": {"name": "side-default-5", "themeMajor": "white", "dotNav": "#68AAE1", "panel": "#FFFFFF", "media": "#E8E8DF", "text": "#000000", "textLink": "#555", "softText": "#FFF", "softBtn": "#4D4D4D", "esriLogo": "black"}, "fonts": {"sectionTitle": {"id": "default", "value": "font-family:'open_sansregular', sans-serif;"}, "sectionContent": {"id": "default", "value": "font-family:'open_sansregular', sans-serif;"}}}}, "title": "Health\n", "story": {"storage": "WEBAPP", "sections": [{"title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Health</strong></span></span></p>\n", "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Menstrual health and hygiene [UNICEF]</div>\n", "contentActions": [], "creaDate": 1602965452224, "pubDate": 1602965452224, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/tetiana-shyshkina-FUvHJ7p_0gM-unsplash-woman%20looking%20at%20the%20window__1602760098669__w1200.jpg", "type": "image", "altText": "", "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">Key points</span>", "content": "<ul class=\"key-points\">\n\t<li>During the period between 2017\u20132019, in the majority of the 19 countries with data, at least 10% of women and adolescent girls aged 15\u201349 did not participate in work, school or social activities during their menstrual period.</li>\n\t<li>\n\t<p>In the 19 countries with data available for the period between 2017\u20132019, most women and adolescent girls (around 90%) used menstrual hygiene materials and had access to a private place to wash and change during their last menstrual period.</p>\n\t</li>\n\t<li>In 2019, over one in three schools globally (37%) lacked basic sanitation services, affecting an estimated 698 million school-age children.&nbsp;Two out of five schools (43%) lacked handwashing facilities with water and soap, meaning that around 330 million girls went to primary and secondary schools without water and soap for washing their hands when changing sanitary pads or cloths.</li>\n</ul>\n", "contentActions": [], "creaDate": 1602760524505, "pubDate": 1602760500000, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/guille-alvarez-6bVeZWa5VSE-unsplash-four%20women%20smiling__1602760116232__w1200.jpg", "type": "image", "altText": "", "display": "fill"}}}, {"title": "<span style=\"font-size:28px;\">Background</span>", "content": "<p>The ability of women and adolescent girls to safely manage their monthly menstrual cycle in privacy and with dignity is fundamental to their health, psychosocial well-being and mobility. Women and adolescent girls who lack access to adequate menstrual health and hygiene facilities and supplies may experience stigma and social exclusion and may not be able to take advantage of important educational, social and economic opportunities.<span class=\"footnote-index\">1</span></p>\n\n<p>Although there is no dedicated target on menstrual health and hygiene in the 2030 Agenda for Sustainable Development,<span class=\"footnote-index\">2</span> it is closely related to the Sustainable Development Goals (SDGs), especially SDG 5 on the achievement of gender equality and the empowerment of women and girls, as well as to specific global targets. Notably, SDG target 6.2 (on water and sanitation for all) calls for access to adequate and equitable sanitation and hygiene, with special attention to the needs of women and girls, and SDG indicator 4.a (on inclusive and equitable quality education) calls for educational facilities that are&nbsp;gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609558915", "type": "navigate", "index": 9}], "creaDate": 1602760608630, "pubDate": 1602760560000, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/evgeny-nelmin-PwxPUjAGDmw-unsplash-woman%20wearing%20blue%20top__1602760151132__w1200.jpg", "type": "image", "altText": "", "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">Current situation</span>", "content": "<p><strong>Emerging data suggest that many women and adolescent girls do not participate in school, work or social activities during menstruation</strong></p>\n\n<p>In 11 out of the 19&nbsp;countries with data<span class=\"footnote-index\">3</span> for the period 2017\u20132019, at least 10% of women and adolescent girls reported not participating in one or more of the following activities during their last menstrual period, school, work or social activities, with proportions ranging widely from 1% and 3% of women in Turkmenistan and Mongolia up to 20% in the Gambia and Sierra Leone (see figure I).</p>\n\n<p>In most countries, non-participation tends to be higher for adolescent girls and younger women (aged 15\u201324) (for example, 30% for women and adolescent girls under 25 versus 13% for women aged 25\u201349 in the Gambia), but all age groups are affected. There are also large differences within geographic regions in several countries. For example, in the Democratic Republic of the Congo, non-participation rates range from 2% to 31%. There does not appear to be a consistent pattern in participation across wealth quintiles or between urban and rural areas.</p>\n\n<p>While these data demonstrate that a proportion of women and adolescent girls do not participate in activities during their menstrual period, they do not explain why. In Mongolia, an additional question was asked of the 3% of women who reported not participating in activities: they attributed their absence from activities to feeling unwell or in pain (76%) or to heavy bleeding (19%), with a smaller number reporting other reasons (5%). Further investigation is required to understand the main reasons for non-participation in other country contexts, especially in countries such as the Gambia and Sierra Leone, where there were far greater proportions of non-participating women and adolescent girls.</p>\n", "contentActions": [], "creaDate": 1602764958382, "pubDate": 1602764940000, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/health-nh13-graph-1", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:28px;\">&nbsp;</span>", "content": "<p><strong>Most women and adolescent girls used menstrual hygiene materials and had access to a private place to wash and change</strong></p>\n\n<p>In all but three countries with data (Lao People\u2019s Democratic Republic, Mongolia and Iraq), at least 90% of all women and adolescent girls aged 15\u201349 reported having access to a private place to wash and change during their menstrual period (see figure II), and in all countries with data, except the Lao People\u2019s Democratic Republic, over 90% of women and adolescent girls in the same age group reported the availability of menstrual hygiene materials.<span class=\"footnote-index\">4</span></p>\n\n<p>In the Lao People\u2019s Democratic Republic, where 82% of all women and adolescent girls reported using hygiene materials, the share was much lower among the <span class=\"label-ref\">poorest women</span> (47% in the poorest versus 97% in the richest quintile), suggesting that affordability of hygiene materials plays an important role in determining access in some countries.</p>\n\n<p>Overall, across the 19 countries with data, the share of women and adolescent girls aged 15\u201349 with menstrual hygiene materials and a private place to wash and change ranged from 73% (Lao People\u2019s Democratic Republic) to 98% (Costa Rica and Turkmenistan).</p>\n\n<p>The type of materials used during menstruation varied, with implications regarding the extent to which they may meet menstrual health and hygiene needs. In Bangladesh and Zimbabwe additional questions were asked about the type of materials used by women and adolescent girls: in Bangladesh, 72% reported that they used cloth and 26% that they used sanitary napkins; in Zimbabwe the majority reported that they used sanitary pads (65%) and cloth (27%).</p>\n\n<p>Very few women and girls in the two countries reported using tampons or menstrual cups. In addition, in all 19 countries with data, women and girls were asked whether menstrual materials were reused: reported rates varied considerably between countries, from less than 1% in North Macedonia and Turkmenistan to 78% in Madagascar.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609631920", "type": "navigate", "index": 9}, {"id": "MJ-ACTION-1598609642799", "type": "navigate", "index": 9}, {"id": "MJ-ACTION-1598609651540", "type": "navigate", "index": 9}], "creaDate": 1602765303190, "pubDate": 1602765300000, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/health-nh13-graph-2", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px\">Monitoring menstrual health and hygiene in schools and health-care facilities</span>", "content": "<p>The World Health Organization (WHO)/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene has expanded its monitoring of drinking water, sanitation and hygiene to include schools and health-care facilities. Baseline reports for these settings were published&nbsp;in 2018<span class=\"footnote-index\">5</span> and 2019<span class=\"footnote-index\">6</span> and estimates will be updated on a biennial basis. The following are key findings on menstrual health and hygiene from the latest estimates.&nbsp;</p>\n\n<p><strong>Schools:</strong></p>\n\n<p>In&nbsp;2019, over one in three schools globally (37%) lacked basic sanitation services, affecting an estimated 698 million school-age children. One in five schools either had no sanitation facilities at all or lacked useable facilities, whether improved and/or single-sex, and were thus unable to meet the menstrual hygiene needs of adolescent girls. Furthermore, two out of five schools (43%) lacked handwashing facilities with water and soap, meaning that around 330 million girls in primary and secondary schools lacked water and soap for washing their hands when changing sanitary pads or cloths.</p>\n\n<p>The 2018 report of the WHO/UNICEF Joint Programme for Water Supply, Sanitation and Hygiene<span class=\"footnote-index\">7</span> found that few countries had specific data on menstrual hygiene and that definitions varied greatly. The report highlighted the example set by countries such as Zambia, where new questions related to education on menstrual hygiene, the provision of sanitary pads and disposal facilities have been integrated into the national Education Management Information System survey. The 2016 survey found that less than half of schools provided education on menstrual hygiene and only one in four provided sanitary towels and receptacles for their disposal.&nbsp;</p>\n\n<p><strong>Health-care facilities:</strong></p>\n\n<p>In 2019, one in five health-care facilities had no sanitation services: insufficient data were available to estimate the proportion of hospitals or non-hospitals with basic sanitation services. Basic sanitation services in health-care facilities include specific provisions for menstrual hygiene (a receptacle with a lid for disposing of menstrual hygiene materials, and water and soap in a private space for washing). In the 2019 WHO/UNICEF baseline report on water, sanitation and hygiene in health-care facilities,<span class=\"footnote-index\">8</span> just 10 countries were able to report this information. For example, Lebanon collected information on the proportion of health-care facilities that provided water and soap (47% of facilities), privacy (45%) and covered receptacles (35%) in women\u2019s toilets.</p>\n\n<p>Additional criteria related to menstrual health and hygiene in Lebanon included the provision of painkillers (27%), emergency supplies (24%) and training on the disposal of menstrual hygiene materials (17%). The proportion of health-care facilities with improved sanitation facilities that met the menstrual health and hygiene criteria for basic services ranged from 2% (Comoros) to 100% (Azerbaijan, Kuwait and Montenegro).</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609674534", "type": "navigate", "index": 9}], "creaDate": 1602967351954, "pubDate": 1602967320000, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/jhudel-baguio-rsznnAGAbZ0-unsplash__1602967346582__w1920.jpg", "type": "image", "altText": "", "sizes": [{"name": "jhudel-baguio-rsznnAGAbZ0-unsplash__1602967346582__w1920.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/jhudel-baguio-rsznnAGAbZ0-unsplash__1602967346582__w1920.jpg", "width": 1920}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px\">Country in focus: Lao People&rsquo;s Democratic Republic</span>", "content": "<p>In the Lao People\u2019s Democratic Republic, disaggregated data show that women in the richest <span class=\"label-ref\">wealth quintile</span> are over three times more likely to have access to menstrual hygiene materials and a private place to wash and change than women in the poorest quintile.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609698448", "type": "navigate", "index": 9}, {"id": "MJ-ACTION-1598609707111", "type": "navigate", "index": 9}], "creaDate": 1602967822045, "pubDate": 1602967800000, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/nathan-dumlao-x7Lyx8Yyvug-unsplash__1602967818337__w1920.jpg", "type": "image", "altText": "", "sizes": [{"name": "nathan-dumlao-x7Lyx8Yyvug-unsplash__1602967818337__w1920.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/nathan-dumlao-x7Lyx8Yyvug-unsplash__1602967818337__w1920.jpg", "width": 1920}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">Related stories and further reading</span>", "content": "<ul>\n\t<li><a class=\"narrative-ref\" href=\"#NE12\" target=\"_blank\">Schools with access to single-sex basic sanitation</a></li>\n</ul>\n", "contentActions": [{"id": "MJ-ACTION-1598609766300", "type": "navigate", "index": 9}, {"id": "MJ-ACTION-1598609772459", "type": "navigate", "index": 9}], "creaDate": 1602761281313, "pubDate": 1602761280000, "status": "HIDDEN", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/clay-banks-GX8KBbVmC6c-unsplash__1602761279957__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "clay-banks-GX8KBbVmC6c-unsplash__1602761279957__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/clay-banks-GX8KBbVmC6c-unsplash__1602761279957__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px\">&nbsp;</span>", "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Hygienic materials and a private place to wash and change</span>: <span class=\"definition\">Percentage of women and adolescent girls aged 15\u201349 reporting menstruating in the last 12 months and using menstrual hygiene materials and with access to a private place to wash and change during their last menstruation.</span></li>\n\t<li><span class=\"concept\">Non-participation in activities during menstruation</span>: <span class=\"definition\">Percentage of women and adolescent girls aged 15\u201349 reporting menstruating in the last 12 months who did not participate in social activities, school or work due to their last menstruation.</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Women and adolescent girls aged 15\u201349 in 19 countries reporting menstruating in the last 12 months.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Available data from the United Nations Children\u2019s Fund (UNICEF) Multiple Indicator Cluster Surveys for 19&nbsp;countries.<span class=\"footnote-index\">9</span></p>\n\n<p>National monitoring of whether the menstrual needs of women and adolescent girls are being met is challenging, given the breadth of factors that impact menstrual health and hygiene. A range of issues must be addressed, from raising awareness and changing social norms and practices to the provision of facilities and materials.</p>\n\n<p>In the last few years, a number of indicators related to menstrual health and hygiene have been included in nationally representative household surveys, including the UNICEF Multiple Indicator Cluster Surveys<span class=\"footnote-index\">10</span> and the 2020 Performance Monitoring and Accountability Surveys.<span class=\"footnote-index\">11</span> The next round of Demographic and Health Surveys will also include new questions covering access to menstrual hygiene materials and a private place to wash and change.<span class=\"footnote-index\">12</span></p>\n</div>\n</div>\n", "contentActions": [{"id": "MJ-ACTION-1598609809974", "type": "navigate", "index": 9}, {"id": "MJ-ACTION-1598609814847", "type": "navigate", "index": 9}, {"id": "MJ-ACTION-1598609820099", "type": "navigate", "index": 9}], "creaDate": 1602965631082, "pubDate": 1602965580000, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602761296259__w1200.jpg", "type": "image", "altText": "", "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://reproductive-health-journal.biomedcentral.com/articles/10.1186/s12978-015-0009-8\" target=\"_blank\">Sommer, M., Sutherland, C. and Chandra-Mouli. V., \u201cPutting menarche and girls into the global population health agenda\u201d, Reproductive Health, 12, No. 1, March 2015</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://sustainabledevelopment.un.org/post2015/transformingourworld\" target=\"_blank\">United Nations, Transforming our world: the 2030 Agenda for Sustainable Development (General Assembly resolution 70/1), adopted October 2015</a>. (\u21e1 back to text)</li>\n\t<li>Based on emerging data from UNICEF Multiple Indicator Cluster Surveys in 16 countries in Eastern and South-Eastern Asia, Central Asia and Southern Asia, Western Asia, sub-Saharan Africa, Oceania (excluding Australia and New Zealand), the Caribbean, and Southern Europe. Questions focused on access to menstrual hygiene materials and to a private place to wash and change, as well as exclusion from social activities, education and work. (\u21e1 back to text)</li>\n\t<li>Menstrual hygiene materials include sanitary pads, tampons and cloth. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.unicef.org/publications/index_102969.html\" target=\"_blank\">World Health Organization (WHO)/United Nations Children\u2019s Fund (UNICEF) Joint Programme for Water Supply, Sanitation and Hygiene, Drinking Water, Sanitation and Hygiene in Schools: Global Baseline Report 2018, Geneva, 2018</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.unwater.org/publications/wash-in-health-care-facilities-global-baseline-report-2019/\" target=\"_blank\">WHO/UNICEF Joint Programme for Water Supply, Sanitation and Hygiene, WASH in health-care facilities: Global Baseline Report 2019, Geneva, 2019</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.unicef.org/publications/index_102969.html\" target=\"_blank\">World Health Organization (WHO)/United Nations Children\u2019s Fund (UNICEF) Joint Programme for Water Supply, Sanitation and Hygiene, Drinking Water, Sanitation and Hygiene in Schools: Global Baseline Report 2018, Geneva, 2018</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.unwater.org/publications/wash-in-health-care-facilities-global-baseline-report-2019/\" target=\"_blank\">WHO/UNICEF Joint Programme for Water Supply, Sanitation and Hygiene, WASH in health-care facilities: Global Baseline Report 2019, Geneva, 2019</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"\" target=\"_blank\">Data can be downloaded from the United Nations Children\u2019s Fund (UNICEF) Multiple Indicator Cluster Surveys database</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://doi.org/10.1371/journal.pone.0189089\" target=\"_blank\">Khan, S.M. et al., Optimizing household survey methods to monitor the Sustainable Development Goals targets 6.1 and 6.2 on drinking water, sanitation and hygiene: A mixed-methods field-test in Belize, PLOS ONE, December 2017</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.pma2020.org/mhm-briefs\" target=\"_blank\">Menstrual hygiene briefs from Performance Monitoring and Accountability Surveys (by country)</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://dhsprogram.com/publications/publication-dhsq8-dhs-questionnaires-and-manuals.cfm\" target=\"_blank\">Demographic and Health Surveys, Programme 8 , model woman\u2019s questionnaire</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n", "contentActions": [{"id": "MJ-ACTION-1598609848308", "type": "navigate", "index": 2}, {"id": "MJ-ACTION-1598609857337", "type": "navigate", "index": 4}, {"id": "MJ-ACTION-1598609873239", "type": "navigate", "index": 4}, {"id": "MJ-ACTION-1598609883421", "type": "navigate", "index": 4}, {"id": "MJ-ACTION-1598609896997", "type": "navigate", "index": 6}, {"id": "MJ-ACTION-1598609906932", "type": "navigate", "index": 6}, {"id": "MJ-ACTION-1598609914851", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609927078", "type": "navigate", "index": 7, "hiddenSection": true}, {"id": "MJ-ACTION-1598609936839", "type": "navigate", "index": 7, "hiddenSection": true}, {"id": "MJ-ACTION-1598609958575", "type": "navigate", "index": 8}, {"id": "MJ-ACTION-1598609967973", "type": "navigate", "index": 8}, {"id": "MJ-ACTION-1598609975942", "type": "navigate", "index": 8}, {"id": "MJ-ACTION-1598610194053", "type": "navigate", "index": 5}], "creaDate": 1602761310080, "pubDate": 1602761280000, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602761308999__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602761308999__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602761308999__w1200.jpg", "width": 1200}], "display": "fill"}}}], "reversed": false}, "template": {"name": "Map Journal", "createdWith": "1.24.1", "editedWith": "1.25.0"}, "doNotWarnTitle": true}, "_ssl": null}
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Health\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Health</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Menstrual health and hygiene [UNICEF]</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602965452224,
+                    "pubDate": 1602965452224,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/tetiana-shyshkina-FUvHJ7p_0gM-unsplash-woman%20looking%20at%20the%20window__1602760098669__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>During the period between 2017\u20132019, in the majority of the 19 countries with data, at least 10% of women and adolescent girls aged 15\u201349 did not participate in work, school or social activities during their menstrual period.</li>\n\t<li>\n\t<p>In the 19 countries with data available for the period between 2017\u20132019, most women and adolescent girls (around 90%) used menstrual hygiene materials and had access to a private place to wash and change during their last menstrual period.</p>\n\t</li>\n\t<li>In 2019, over one in three schools globally (37%) lacked basic sanitation services, affecting an estimated 698 million school-age children.&nbsp;Two out of five schools (43%) lacked handwashing facilities with water and soap, meaning that around 330 million girls went to primary and secondary schools without water and soap for washing their hands when changing sanitary pads or cloths.</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602760524505,
+                    "pubDate": 1602760500000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/guille-alvarez-6bVeZWa5VSE-unsplash-four%20women%20smiling__1602760116232__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px;\">Background</span>",
+                    "content": "<p>The ability of women and adolescent girls to safely manage their monthly menstrual cycle in privacy and with dignity is fundamental to their health, psychosocial well-being and mobility. Women and adolescent girls who lack access to adequate menstrual health and hygiene facilities and supplies may experience stigma and social exclusion and may not be able to take advantage of important educational, social and economic opportunities.<span class=\"footnote-index\">1</span></p>\n\n<p>Although there is no dedicated target on menstrual health and hygiene in the 2030 Agenda for Sustainable Development,<span class=\"footnote-index\">2</span> it is closely related to the Sustainable Development Goals (SDGs), especially SDG 5 on the achievement of gender equality and the empowerment of women and girls, as well as to specific global targets. Notably, SDG target 6.2 (on water and sanitation for all) calls for access to adequate and equitable sanitation and hygiene, with special attention to the needs of women and girls, and SDG indicator 4.a (on inclusive and equitable quality education) calls for educational facilities that are&nbsp;gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609558915",
+                            "type": "navigate",
+                            "index": 9
+                        }
+                    ],
+                    "creaDate": 1602760608630,
+                    "pubDate": 1602760560000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/evgeny-nelmin-PwxPUjAGDmw-unsplash-woman%20wearing%20blue%20top__1602760151132__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Current situation</span>",
+                    "content": "<p><strong>Emerging data suggest that many women and adolescent girls do not participate in school, work or social activities during menstruation</strong></p>\n\n<p>In 11 out of the 19&nbsp;countries with data<span class=\"footnote-index\">3</span> for the period 2017\u20132019, at least 10% of women and adolescent girls reported not participating in one or more of the following activities during their last menstrual period, school, work or social activities, with proportions ranging widely from 1% and 3% of women in Turkmenistan and Mongolia up to 20% in the Gambia and Sierra Leone (see figure I).</p>\n\n<p>In most countries, non-participation tends to be higher for adolescent girls and younger women (aged 15\u201324) (for example, 30% for women and adolescent girls under 25 versus 13% for women aged 25\u201349 in the Gambia), but all age groups are affected. There are also large differences within geographic regions in several countries. For example, in the Democratic Republic of the Congo, non-participation rates range from 2% to 31%. There does not appear to be a consistent pattern in participation across wealth quintiles or between urban and rural areas.</p>\n\n<p>While these data demonstrate that a proportion of women and adolescent girls do not participate in activities during their menstrual period, they do not explain why. In Mongolia, an additional question was asked of the 3% of women who reported not participating in activities: they attributed their absence from activities to feeling unwell or in pain (76%) or to heavy bleeding (19%), with a smaller number reporting other reasons (5%). Further investigation is required to understand the main reasons for non-participation in other country contexts, especially in countries such as the Gambia and Sierra Leone, where there were far greater proportions of non-participating women and adolescent girls.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602764958382,
+                    "pubDate": 1602764940000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/health-nh13-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px;\">&nbsp;</span>",
+                    "content": "<p><strong>Most women and adolescent girls used menstrual hygiene materials and had access to a private place to wash and change</strong></p>\n\n<p>In all but three countries with data (Lao People\u2019s Democratic Republic, Mongolia and Iraq), at least 90% of all women and adolescent girls aged 15\u201349 reported having access to a private place to wash and change during their menstrual period (see figure II), and in all countries with data, except the Lao People\u2019s Democratic Republic, over 90% of women and adolescent girls in the same age group reported the availability of menstrual hygiene materials.<span class=\"footnote-index\">4</span></p>\n\n<p>In the Lao People\u2019s Democratic Republic, where 82% of all women and adolescent girls reported using hygiene materials, the share was much lower among the <span class=\"label-ref\">poorest women</span> (47% in the poorest versus 97% in the richest quintile), suggesting that affordability of hygiene materials plays an important role in determining access in some countries.</p>\n\n<p>Overall, across the 19 countries with data, the share of women and adolescent girls aged 15\u201349 with menstrual hygiene materials and a private place to wash and change ranged from 73% (Lao People\u2019s Democratic Republic) to 98% (Costa Rica and Turkmenistan).</p>\n\n<p>The type of materials used during menstruation varied, with implications regarding the extent to which they may meet menstrual health and hygiene needs. In Bangladesh and Zimbabwe additional questions were asked about the type of materials used by women and adolescent girls: in Bangladesh, 72% reported that they used cloth and 26% that they used sanitary napkins; in Zimbabwe the majority reported that they used sanitary pads (65%) and cloth (27%).</p>\n\n<p>Very few women and girls in the two countries reported using tampons or menstrual cups. In addition, in all 19 countries with data, women and girls were asked whether menstrual materials were reused: reported rates varied considerably between countries, from less than 1% in North Macedonia and Turkmenistan to 78% in Madagascar.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609631920",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609642799",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609651540",
+                            "type": "navigate",
+                            "index": 9
+                        }
+                    ],
+                    "creaDate": 1602765303190,
+                    "pubDate": 1602765300000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/health-nh13-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Monitoring menstrual health and hygiene in schools and health-care facilities</span>",
+                    "content": "<p>The World Health Organization (WHO)/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene has expanded its monitoring of drinking water, sanitation and hygiene to include schools and health-care facilities. Baseline reports for these settings were published&nbsp;in 2018<span class=\"footnote-index\">5</span> and 2019<span class=\"footnote-index\">6</span> and estimates will be updated on a biennial basis. The following are key findings on menstrual health and hygiene from the latest estimates.&nbsp;</p>\n\n<p><strong>Schools:</strong></p>\n\n<p>In&nbsp;2019, over one in three schools globally (37%) lacked basic sanitation services, affecting an estimated 698 million school-age children. One in five schools either had no sanitation facilities at all or lacked useable facilities, whether improved and/or single-sex, and were thus unable to meet the menstrual hygiene needs of adolescent girls. Furthermore, two out of five schools (43%) lacked handwashing facilities with water and soap, meaning that around 330 million girls in primary and secondary schools lacked water and soap for washing their hands when changing sanitary pads or cloths.</p>\n\n<p>The 2018 report of the WHO/UNICEF Joint Programme for Water Supply, Sanitation and Hygiene<span class=\"footnote-index\">7</span> found that few countries had specific data on menstrual hygiene and that definitions varied greatly. The report highlighted the example set by countries such as Zambia, where new questions related to education on menstrual hygiene, the provision of sanitary pads and disposal facilities have been integrated into the national Education Management Information System survey. The 2016 survey found that less than half of schools provided education on menstrual hygiene and only one in four provided sanitary towels and receptacles for their disposal.&nbsp;</p>\n\n<p><strong>Health-care facilities:</strong></p>\n\n<p>In 2019, one in five health-care facilities had no sanitation services: insufficient data were available to estimate the proportion of hospitals or non-hospitals with basic sanitation services. Basic sanitation services in health-care facilities include specific provisions for menstrual hygiene (a receptacle with a lid for disposing of menstrual hygiene materials, and water and soap in a private space for washing). In the 2019 WHO/UNICEF baseline report on water, sanitation and hygiene in health-care facilities,<span class=\"footnote-index\">8</span> just 10 countries were able to report this information. For example, Lebanon collected information on the proportion of health-care facilities that provided water and soap (47% of facilities), privacy (45%) and covered receptacles (35%) in women\u2019s toilets.</p>\n\n<p>Additional criteria related to menstrual health and hygiene in Lebanon included the provision of painkillers (27%), emergency supplies (24%) and training on the disposal of menstrual hygiene materials (17%). The proportion of health-care facilities with improved sanitation facilities that met the menstrual health and hygiene criteria for basic services ranged from 2% (Comoros) to 100% (Azerbaijan, Kuwait and Montenegro).</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609674534",
+                            "type": "navigate",
+                            "index": 9
+                        }
+                    ],
+                    "creaDate": 1602967351954,
+                    "pubDate": 1602967320000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/jhudel-baguio-rsznnAGAbZ0-unsplash__1602967346582__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "jhudel-baguio-rsznnAGAbZ0-unsplash__1602967346582__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/jhudel-baguio-rsznnAGAbZ0-unsplash__1602967346582__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Country in focus: Lao People&rsquo;s Democratic Republic</span>",
+                    "content": "<p>In the Lao People\u2019s Democratic Republic, disaggregated data show that women in the richest <span class=\"label-ref\">wealth quintile</span> are over three times more likely to have access to menstrual hygiene materials and a private place to wash and change than women in the poorest quintile.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609698448",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609707111",
+                            "type": "navigate",
+                            "index": 9
+                        }
+                    ],
+                    "creaDate": 1602967822045,
+                    "pubDate": 1602967800000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/nathan-dumlao-x7Lyx8Yyvug-unsplash__1602967818337__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "nathan-dumlao-x7Lyx8Yyvug-unsplash__1602967818337__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/nathan-dumlao-x7Lyx8Yyvug-unsplash__1602967818337__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Related stories and further reading</span>",
+                    "content": "<ul>\n\t<li><a class=\"narrative-ref\" href=\"#NE12\" target=\"_blank\">Schools with access to single-sex basic sanitation</a></li>\n</ul>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609766300",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609772459",
+                            "type": "navigate",
+                            "index": 9
+                        }
+                    ],
+                    "creaDate": 1602761281313,
+                    "pubDate": 1602761280000,
+                    "status": "HIDDEN",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/clay-banks-GX8KBbVmC6c-unsplash__1602761279957__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "clay-banks-GX8KBbVmC6c-unsplash__1602761279957__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/clay-banks-GX8KBbVmC6c-unsplash__1602761279957__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Hygienic materials and a private place to wash and change</span>: <span class=\"definition\">Percentage of women and adolescent girls aged 15\u201349 reporting menstruating in the last 12 months and using menstrual hygiene materials and with access to a private place to wash and change during their last menstruation.</span></li>\n\t<li><span class=\"concept\">Non-participation in activities during menstruation</span>: <span class=\"definition\">Percentage of women and adolescent girls aged 15\u201349 reporting menstruating in the last 12 months who did not participate in social activities, school or work due to their last menstruation.</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Women and adolescent girls aged 15\u201349 in 19 countries reporting menstruating in the last 12 months.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Available data from the United Nations Children\u2019s Fund (UNICEF) Multiple Indicator Cluster Surveys for 19&nbsp;countries.<span class=\"footnote-index\">9</span></p>\n\n<p>National monitoring of whether the menstrual needs of women and adolescent girls are being met is challenging, given the breadth of factors that impact menstrual health and hygiene. A range of issues must be addressed, from raising awareness and changing social norms and practices to the provision of facilities and materials.</p>\n\n<p>In the last few years, a number of indicators related to menstrual health and hygiene have been included in nationally representative household surveys, including the UNICEF Multiple Indicator Cluster Surveys<span class=\"footnote-index\">10</span> and the 2020 Performance Monitoring and Accountability Surveys.<span class=\"footnote-index\">11</span> The next round of Demographic and Health Surveys will also include new questions covering access to menstrual hygiene materials and a private place to wash and change.<span class=\"footnote-index\">12</span></p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609809974",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609814847",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609820099",
+                            "type": "navigate",
+                            "index": 9
+                        }
+                    ],
+                    "creaDate": 1602965631082,
+                    "pubDate": 1602965580000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602761296259__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://reproductive-health-journal.biomedcentral.com/articles/10.1186/s12978-015-0009-8\" target=\"_blank\">Sommer, M., Sutherland, C. and Chandra-Mouli. V., \u201cPutting menarche and girls into the global population health agenda\u201d, Reproductive Health, 12, No. 1, March 2015</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://sustainabledevelopment.un.org/post2015/transformingourworld\" target=\"_blank\">United Nations, Transforming our world: the 2030 Agenda for Sustainable Development (General Assembly resolution 70/1), adopted October 2015</a>. (\u21e1 back to text)</li>\n\t<li>Based on emerging data from UNICEF Multiple Indicator Cluster Surveys in 16 countries in Eastern and South-Eastern Asia, Central Asia and Southern Asia, Western Asia, sub-Saharan Africa, Oceania (excluding Australia and New Zealand), the Caribbean, and Southern Europe. Questions focused on access to menstrual hygiene materials and to a private place to wash and change, as well as exclusion from social activities, education and work. (\u21e1 back to text)</li>\n\t<li>Menstrual hygiene materials include sanitary pads, tampons and cloth. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.unicef.org/publications/index_102969.html\" target=\"_blank\">World Health Organization (WHO)/United Nations Children\u2019s Fund (UNICEF) Joint Programme for Water Supply, Sanitation and Hygiene, Drinking Water, Sanitation and Hygiene in Schools: Global Baseline Report 2018, Geneva, 2018</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.unwater.org/publications/wash-in-health-care-facilities-global-baseline-report-2019/\" target=\"_blank\">WHO/UNICEF Joint Programme for Water Supply, Sanitation and Hygiene, WASH in health-care facilities: Global Baseline Report 2019, Geneva, 2019</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.unicef.org/publications/index_102969.html\" target=\"_blank\">World Health Organization (WHO)/United Nations Children\u2019s Fund (UNICEF) Joint Programme for Water Supply, Sanitation and Hygiene, Drinking Water, Sanitation and Hygiene in Schools: Global Baseline Report 2018, Geneva, 2018</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.unwater.org/publications/wash-in-health-care-facilities-global-baseline-report-2019/\" target=\"_blank\">WHO/UNICEF Joint Programme for Water Supply, Sanitation and Hygiene, WASH in health-care facilities: Global Baseline Report 2019, Geneva, 2019</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"\" target=\"_blank\">Data can be downloaded from the United Nations Children\u2019s Fund (UNICEF) Multiple Indicator Cluster Surveys database</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://doi.org/10.1371/journal.pone.0189089\" target=\"_blank\">Khan, S.M. et al., Optimizing household survey methods to monitor the Sustainable Development Goals targets 6.1 and 6.2 on drinking water, sanitation and hygiene: A mixed-methods field-test in Belize, PLOS ONE, December 2017</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.pma2020.org/mhm-briefs\" target=\"_blank\">Menstrual hygiene briefs from Performance Monitoring and Accountability Surveys (by country)</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://dhsprogram.com/publications/publication-dhsq8-dhs-questionnaires-and-manuals.cfm\" target=\"_blank\">Demographic and Health Surveys, Programme 8 , model woman\u2019s questionnaire</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609848308",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609857337",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609873239",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609883421",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609896997",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609906932",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609914851",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609927078",
+                            "type": "navigate",
+                            "index": 7,
+                            "hiddenSection": true
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609936839",
+                            "type": "navigate",
+                            "index": 7,
+                            "hiddenSection": true
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609958575",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609967973",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609975942",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1598610194053",
+                            "type": "navigate",
+                            "index": 5
+                        }
+                    ],
+                    "creaDate": 1602761310080,
+                    "pubDate": 1602761280000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602761308999__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602761308999__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/d89286ad65354bbb8512329412dad320/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602761308999__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ],
+            "reversed": false
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NH13"
+    }
+}

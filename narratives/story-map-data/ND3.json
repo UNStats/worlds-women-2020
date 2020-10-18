@@ -1,1 +1,287 @@
-{"values": {"settings": {"header": {"linkText": "World's Women 2020", "linkURL": "https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=894bed8498eb449a983af8b33a7125f3", "logoURL": "https://www.arcgis.com/sharing/rest/content/items/894bed8498eb449a983af8b33a7125f3/resources/sm_mj_logo__1598499409363.jpg", "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/", "social": {"facebook": true, "twitter": true, "bitly": true}}, "appGeocoders": [{"singleLineFieldName": "SingleLine", "name": "ArcGIS World Geocoding Service", "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"}], "layout": {"id": "side"}, "layoutOptions": {"layoutCfg": {"size": "large", "position": "right"}, "socialLinks": false}, "theme": {"colors": {"name": "side-default-5", "themeMajor": "white", "dotNav": "#68AAE1", "panel": "#FFFFFF", "media": "#E8E8DF", "text": "#000000", "textLink": "#555", "softText": "#FFF", "softBtn": "#4D4D4D", "esriLogo": "black"}, "fonts": {"sectionTitle": {"id": "default", "value": "font-family:'open_sansregular', sans-serif;"}, "sectionContent": {"id": "default", "value": "font-family:'open_sansregular', sans-serif;"}}}}, "title": "Economic empowerment\n", "story": {"storage": "WEBAPP", "sections": [{"title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n", "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Women Heads of State or Government and Government Ministers</div>\n", "contentActions": [], "creaDate": 1602503287116, "pubDate": 1602503287116, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/b028c9ec771e4cb8ae93239e69ea0df5/resources/817220-Community%20Engagement%20to%20Prevent%20Spread%20of%20Ebola%20in%20DRC__1602503276919__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "817220-Community Engagement to Prevent Spread of Ebola in DRC__1602503276919__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/b028c9ec771e4cb8ae93239e69ea0df5/resources/817220-Community%20Engagement%20to%20Prevent%20Spread%20of%20Ebola%20in%20DRC__1602503276919__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px\">Key points</span>", "content": "<ul class=\"key-points\">\n\t<li>Women\u2019s representation among cabinet ministers has increased almost four-fold over the last 25 years, although in 2020, on average, only one in five ministers (22%) is a woman.</li>\n\t<li>Progress in women\u2019s representation among regions over the past 15 years has been uneven, reaching 39% in Western Europe but only 6% to 16% in Northern Africa, Oceania (excluding Australia and New Zealand) and Asia.</li>\n\t<li>While progress in selected countries since 1994 has been significant, and the number of countries with at least 30% of women among ministers increased from 5 to 51, in 2020 gender parity (around 50%) among cabinet ministers has been reached or surpassed in only 14 countries.</li>\n\t<li>In 2020, female ministers continued to be concentrated in ministries related to family and social issues.</li>\n\t<li>Very few women get to the top position of power within government. As of 2020, the total number of countries with a female Head of State or Government was 20, a slight improvement over the 12 countries with female Heads of State in 1995: as of 2020, most countries headed by women were in Europe.</li>\n</ul>\n", "contentActions": [], "creaDate": 1602814304537, "pubDate": 1602814304537, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/b028c9ec771e4cb8ae93239e69ea0df5/resources/marco-oriolesi-wqLGlhjr6Og-unsplash__1602814302790__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "marco-oriolesi-wqLGlhjr6Og-unsplash__1602814302790__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/b028c9ec771e4cb8ae93239e69ea0df5/resources/marco-oriolesi-wqLGlhjr6Og-unsplash__1602814302790__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:28px;\">Women continue to be underrepresented in cabinet appointments in all regions of the world.</span>", "content": "<p>In 2020, the share of women among cabinet ministers was 22%.<span class=\"footnote-index\">1</span> Although this figure is low, it shows important progress since 1994, when the average share was only 6%.<span class=\"footnote-index\">2</span></p>\n\n<p>Progress among regions over the past 15 years has been uneven: by 2020, the highest level of representation of women among ministers, at 39%, was reached in countries in Western Europe. The share of women among ministers remained low, at 16% or less, in <span class=\"label-ref\">Northern Africa</span> and <span class=\"label-ref\">Oceania</span> (excluding Australia and New Zealand) , and only between 6% and 16% of ministers were women in Asia (all regions) (see figure I).</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609558915", "type": "navigate", "index": -1}], "creaDate": 1602630729663, "pubDate": 1602630729663, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd3-graph-1", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px;\">Progress in selected countries since 1994 has been significant</span>", "content": "<p>Between 1994 and 2020, the number of countries with no female minister declined notably, from 59 countries<span class=\"footnote-index\">3</span> to 9.<span class=\"footnote-index\">4</span> Over the same period, the number of countries with 30% or more women ministers increased from 5 to 51.</p>\n\n<p>By 2020, gender parity (around 50%) among cabinet ministers has been reached or surpassed in only 14 countries however: Spain (66.7%), Finland(61.1%), Nicaragua (58.8%), Colombia (57.9%), Austria (57.1%), Peru (55.0%), Sweden (54.5%), Rwanda (53.6%), Albania (53.3%), France (52.9%), Andorra (50%), Costa Rica (50%), Canada (50%) and Guinea-Bissau (50%) (closely followed by South Africa (48.3%), Ethiopia (47.6%) and El Salvador (47.1%)).</p>\n\n<p>Looking at recent progress, the largest increase in the proportion of women among ministers was in Ethiopia, where the share of women in top positions rose from 10% in 2017 to 47.6% in 2020. At the other end of the spectrum, the greatest decrease in the share of female ministers took place in Slovenia during the same time period, where the proportion fell from 50% to 23.5%.</p>\n", "contentActions": [], "creaDate": 1602631465746, "pubDate": 1602631465746, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd3-graph-1", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:28px;\">In 2020, portfolios held by female ministers continued to be those related to family and social issues</span>", "content": "<p>In general, women continue to be assigned to portfolios related to social issues, including those related to the&nbsp;family, children, youth, older persons and persons with disabilities&nbsp;and&nbsp;social affairs.&nbsp;Portfolios related to the&nbsp;environment, national resources and energy,&nbsp;employment and labour and vocational training&nbsp;are among the top four ministries led by women.&nbsp;Women\u2019s affairs, which includes the gender-equality&nbsp;portfolio, occupy the fifth position. In 2020, fewer female ministers held portfolios related to&nbsp;transport;&nbsp;population;&nbsp;information and the media; and&nbsp;parliamentary affairs&nbsp;(see figure II).</p>\n\n<p>More detailed data available for selected countries<span class=\"footnote-index\">5</span> show that, in 2017, the only countries with a 50% representation of women among core ministers of State<span class=\"footnote-index\">6</span> were Canada, Norway and Slovenia; women occupy 40% of cabinet positions in Iceland and Sweden.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609631920", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609642799", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609651540", "type": "navigate", "index": -1}], "creaDate": 1602630907567, "pubDate": 1602630907567, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd3-graph-2", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px;\">Heads of State or Government</span>", "content": "<p>By holding the highest positions in the political sphere, women can also influence social norms and attitudes towards gender equality. However, very few women get to the top position of power within their government.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>As of 1 January 2020, only 10 out of 152 elected Heads of State worldwide were women, and only 12 of 193 Governments were headed by women (see table). The total number of countries with a female Head of State or Government was 20, a slight improvement over the 12 countries with a female Head of State in 1995. In 2020, most countries with female Heads of State were in Europe, which is a change from 2015, when women led Governments in several countries both in Europe and in Latin America and the&nbsp;Caribbean.<span class=\"footnote-index\">7</span></p>\n", "contentActions": [{"id": "MJ-ACTION-1598609674534", "type": "navigate", "index": -1}], "creaDate": 1602772239274, "pubDate": 1602772239274, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd3-table-1", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Share of women among ministers</span>: <span class=\"definition\">Percentage of women in the total number of ministers or cabinet appointments. The cabinet, also called the council of government, government or council of ministers, is a group of senior officials who provide executive advice to the Head of State and/or Government.</span></li>\n\t<li><span class=\"concept\">Heads of State or Government</span>: <span class=\"definition\">Number of Heads of State or Government who are women</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<ul>\n\t<li><span class=\"concept\">Share of women among ministers</span>: 190 countries with data available for 2020 (all 193 United Nations Member States except the Democratic People's Republic of Korea, Haiti and Libya) organized by regional groupings under the Sustainable Development Goals (SDGs) indicator framework.</li>\n\t<li><span class=\"concept\">Heads of State or Government</span>: All countries worldwide.</li>\n</ul>\n</div>\n</div>\n", "contentActions": [{"id": "MJ-ACTION-1598609698448", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609707111", "type": "navigate", "index": -1}], "creaDate": 1602679389166, "pubDate": 1602679389166, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/b028c9ec771e4cb8ae93239e69ea0df5/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602679387449__w600.jpg", "type": "image", "altText": "", "sizes": [{"name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1602679387449__w600.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/b028c9ec771e4cb8ae93239e69ea0df5/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602679387449__w600.jpg", "width": 600}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://www.unwomen.org/en/digital-library/publications/2020/03/women-in-politics-map-2020\" target=\"_blank\">Calculated by the United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, based on information from the Inter-Parliamentary Union (IPU) and the United Nations Entity for Gender Equality and the Empowerment of Women (UN-Women), Women in Politics (2020 online edition)</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/ww1995.pdf\" target=\"_blank\">UNDESA, Statistics Division, The World\u2019s Women 1995: Trends and Statistics, New York, 1995</a>. (\u21e1 back to text)</li>\n\t<li>Ibid. (\u21e1 back to text)</li>\n\t<li>Countries with no female minister in 2020: Brunei Darussalam, Kirbati, Papua New Guinea, Saint Vincent and the Grenadines, Saudi Arabia, Tuvalu, Thailand, Vanuatu and Viet Nam. (\u21e1 back to text)</li>\n\t<li><a href=\"https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__05-PublicAnddecision/\" target=\"_blank\">United Nations Economic Commission for Europe (UNECE) (Statistical Database accessed on 13 June 2020)</a>. (\u21e1 back to text)</li>\n\t<li>Core ministries include: Cabinet of the Prime Minister, Ministry of Home Affairs, Ministry for Foreign Affairs, Ministry of Finance, Ministry of Defence and Ministry of Justice. (\u21e1 back to text)</li>\n\t<li><a href=\"https://unstats.un.org/unsd/gender/worldswomen.html\" target=\"_blank\">UNDESA, Statistics Division, The World\u2019s Women 2015: Trends and Statistics, New York, 2015</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n", "contentActions": [{"id": "MJ-ACTION-1598609744028", "type": "navigate", "index": -1}], "creaDate": 1602679427754, "pubDate": 1602679427754, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/b028c9ec771e4cb8ae93239e69ea0df5/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602679426185__w600.jpg", "type": "image", "altText": "", "sizes": [{"name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602679426185__w600.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/b028c9ec771e4cb8ae93239e69ea0df5/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602679426185__w600.jpg", "width": 600}], "display": "fill"}}}]}, "template": {"name": "Map Journal", "createdWith": "1.24.1", "editedWith": "1.25.0"}, "doNotWarnTitle": true}, "_ssl": null}
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Economic empowerment\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Women Heads of State or Government and Government Ministers</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602503287116,
+                    "pubDate": 1602503287116,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/b028c9ec771e4cb8ae93239e69ea0df5/resources/817220-Community%20Engagement%20to%20Prevent%20Spread%20of%20Ebola%20in%20DRC__1602503276919__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "817220-Community Engagement to Prevent Spread of Ebola in DRC__1602503276919__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/b028c9ec771e4cb8ae93239e69ea0df5/resources/817220-Community%20Engagement%20to%20Prevent%20Spread%20of%20Ebola%20in%20DRC__1602503276919__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>Women\u2019s representation among cabinet ministers has increased almost four-fold over the last 25 years, although in 2020, on average, only one in five ministers (22%) is a woman.</li>\n\t<li>Progress in women\u2019s representation among regions over the past 15 years has been uneven, reaching 39% in Western Europe but only 6% to 16% in Northern Africa, Oceania (excluding Australia and New Zealand) and Asia.</li>\n\t<li>While progress in selected countries since 1994 has been significant, and the number of countries with at least 30% of women among ministers increased from 5 to 51, in 2020 gender parity (around 50%) among cabinet ministers has been reached or surpassed in only 14 countries.</li>\n\t<li>In 2020, female ministers continued to be concentrated in ministries related to family and social issues.</li>\n\t<li>Very few women get to the top position of power within government. As of 2020, the total number of countries with a female Head of State or Government was 20, a slight improvement over the 12 countries with female Heads of State in 1995: as of 2020, most countries headed by women were in Europe.</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602814304537,
+                    "pubDate": 1602814304537,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/b028c9ec771e4cb8ae93239e69ea0df5/resources/marco-oriolesi-wqLGlhjr6Og-unsplash__1602814302790__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "marco-oriolesi-wqLGlhjr6Og-unsplash__1602814302790__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/b028c9ec771e4cb8ae93239e69ea0df5/resources/marco-oriolesi-wqLGlhjr6Og-unsplash__1602814302790__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px;\">Women continue to be underrepresented in cabinet appointments in all regions of the world.</span>",
+                    "content": "<p>In 2020, the share of women among cabinet ministers was 22%.<span class=\"footnote-index\">1</span> Although this figure is low, it shows important progress since 1994, when the average share was only 6%.<span class=\"footnote-index\">2</span></p>\n\n<p>Progress among regions over the past 15 years has been uneven: by 2020, the highest level of representation of women among ministers, at 39%, was reached in countries in Western Europe. The share of women among ministers remained low, at 16% or less, in <span class=\"label-ref\">Northern Africa</span> and <span class=\"label-ref\">Oceania</span> (excluding Australia and New Zealand) , and only between 6% and 16% of ministers were women in Asia (all regions) (see figure I).</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609558915",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602630729663,
+                    "pubDate": 1602630729663,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd3-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Progress in selected countries since 1994 has been significant</span>",
+                    "content": "<p>Between 1994 and 2020, the number of countries with no female minister declined notably, from 59 countries<span class=\"footnote-index\">3</span> to 9.<span class=\"footnote-index\">4</span> Over the same period, the number of countries with 30% or more women ministers increased from 5 to 51.</p>\n\n<p>By 2020, gender parity (around 50%) among cabinet ministers has been reached or surpassed in only 14 countries however: Spain (66.7%), Finland(61.1%), Nicaragua (58.8%), Colombia (57.9%), Austria (57.1%), Peru (55.0%), Sweden (54.5%), Rwanda (53.6%), Albania (53.3%), France (52.9%), Andorra (50%), Costa Rica (50%), Canada (50%) and Guinea-Bissau (50%) (closely followed by South Africa (48.3%), Ethiopia (47.6%) and El Salvador (47.1%)).</p>\n\n<p>Looking at recent progress, the largest increase in the proportion of women among ministers was in Ethiopia, where the share of women in top positions rose from 10% in 2017 to 47.6% in 2020. At the other end of the spectrum, the greatest decrease in the share of female ministers took place in Slovenia during the same time period, where the proportion fell from 50% to 23.5%.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602631465746,
+                    "pubDate": 1602631465746,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd3-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px;\">In 2020, portfolios held by female ministers continued to be those related to family and social issues</span>",
+                    "content": "<p>In general, women continue to be assigned to portfolios related to social issues, including those related to the&nbsp;family, children, youth, older persons and persons with disabilities&nbsp;and&nbsp;social affairs.&nbsp;Portfolios related to the&nbsp;environment, national resources and energy,&nbsp;employment and labour and vocational training&nbsp;are among the top four ministries led by women.&nbsp;Women\u2019s affairs, which includes the gender-equality&nbsp;portfolio, occupy the fifth position. In 2020, fewer female ministers held portfolios related to&nbsp;transport;&nbsp;population;&nbsp;information and the media; and&nbsp;parliamentary affairs&nbsp;(see figure II).</p>\n\n<p>More detailed data available for selected countries<span class=\"footnote-index\">5</span> show that, in 2017, the only countries with a 50% representation of women among core ministers of State<span class=\"footnote-index\">6</span> were Canada, Norway and Slovenia; women occupy 40% of cabinet positions in Iceland and Sweden.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609631920",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609642799",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609651540",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602630907567,
+                    "pubDate": 1602630907567,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd3-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Heads of State or Government</span>",
+                    "content": "<p>By holding the highest positions in the political sphere, women can also influence social norms and attitudes towards gender equality. However, very few women get to the top position of power within their government.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>As of 1 January 2020, only 10 out of 152 elected Heads of State worldwide were women, and only 12 of 193 Governments were headed by women (see table). The total number of countries with a female Head of State or Government was 20, a slight improvement over the 12 countries with a female Head of State in 1995. In 2020, most countries with female Heads of State were in Europe, which is a change from 2015, when women led Governments in several countries both in Europe and in Latin America and the&nbsp;Caribbean.<span class=\"footnote-index\">7</span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609674534",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602772239274,
+                    "pubDate": 1602772239274,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd3-table-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Share of women among ministers</span>: <span class=\"definition\">Percentage of women in the total number of ministers or cabinet appointments. The cabinet, also called the council of government, government or council of ministers, is a group of senior officials who provide executive advice to the Head of State and/or Government.</span></li>\n\t<li><span class=\"concept\">Heads of State or Government</span>: <span class=\"definition\">Number of Heads of State or Government who are women</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<ul>\n\t<li><span class=\"concept\">Share of women among ministers</span>: 190 countries with data available for 2020 (all 193 United Nations Member States except the Democratic People's Republic of Korea, Haiti and Libya) organized by regional groupings under the Sustainable Development Goals (SDGs) indicator framework.</li>\n\t<li><span class=\"concept\">Heads of State or Government</span>: All countries worldwide.</li>\n</ul>\n</div>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609698448",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609707111",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602679389166,
+                    "pubDate": 1602679389166,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/b028c9ec771e4cb8ae93239e69ea0df5/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602679387449__w600.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1602679387449__w600.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/b028c9ec771e4cb8ae93239e69ea0df5/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602679387449__w600.jpg",
+                                    "width": 600
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://www.unwomen.org/en/digital-library/publications/2020/03/women-in-politics-map-2020\" target=\"_blank\">Calculated by the United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, based on information from the Inter-Parliamentary Union (IPU) and the United Nations Entity for Gender Equality and the Empowerment of Women (UN-Women), Women in Politics (2020 online edition)</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/ww1995.pdf\" target=\"_blank\">UNDESA, Statistics Division, The World\u2019s Women 1995: Trends and Statistics, New York, 1995</a>. (\u21e1 back to text)</li>\n\t<li>Ibid. (\u21e1 back to text)</li>\n\t<li>Countries with no female minister in 2020: Brunei Darussalam, Kirbati, Papua New Guinea, Saint Vincent and the Grenadines, Saudi Arabia, Tuvalu, Thailand, Vanuatu and Viet Nam. (\u21e1 back to text)</li>\n\t<li><a href=\"https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__05-PublicAnddecision/\" target=\"_blank\">United Nations Economic Commission for Europe (UNECE) (Statistical Database accessed on 13 June 2020)</a>. (\u21e1 back to text)</li>\n\t<li>Core ministries include: Cabinet of the Prime Minister, Ministry of Home Affairs, Ministry for Foreign Affairs, Ministry of Finance, Ministry of Defence and Ministry of Justice. (\u21e1 back to text)</li>\n\t<li><a href=\"https://unstats.un.org/unsd/gender/worldswomen.html\" target=\"_blank\">UNDESA, Statistics Division, The World\u2019s Women 2015: Trends and Statistics, New York, 2015</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609744028",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602679427754,
+                    "pubDate": 1602679427754,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/b028c9ec771e4cb8ae93239e69ea0df5/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602679426185__w600.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602679426185__w600.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/b028c9ec771e4cb8ae93239e69ea0df5/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602679426185__w600.jpg",
+                                    "width": 600
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "ND3"
+    }
+}

@@ -1,0 +1,343 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=894bed8498eb449a983af8b33a7125f3",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/WorldsWomen/master/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Violence\u00a0against women and the girl child\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"color:#FF8C00\"><span style=\"font-size:18px\"><strong>Violence</strong></span></span><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>&nbsp;against women and the girl child</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">.narrative-ref {\n    background: rgb(179, 248, 122);\n}\n\n.label-ref {\n    background: rgb(248, 248, 122);\n}\n\np,\nh1,\nh2,\nh3,\nh4,\nh5,\nli {\n    margin-bottom: 2em;\n}\n\n.sidePanel .content {\n    font-size: 13px;\n}\n\ntitle {\n    font-size: 40px;\n    line-height: 1.6;\n\n}\n\n.methodology {\n    margin: 10px;\n    padding: 40px 20px 20px 20px;\n    background-color: rgb(255, 206, 151);\n}\n\n.concept{\n    font-weight: 600;\n}\n\n.footnote-index {\n    vertical-align: super;\n    font-size: 0.7em;\n    margin-left: 2px;\n    color: #FF5733;\n}\n\n.section a[data-storymaps] {\n    border-bottom: none !important;\n    text-decoration: none;\n    cursor: pointer;\n    color: #FF5733;\n}\n\n/* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n.footnotes {\n    border-top: 1px solid #555;\n\n    font-size: 0.9em;\n}\n\n.references {\n    font-size: 0.9em;\n}\n</style>\n<div class=\"title\">Intimate partner and family-related homicide</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602960470392,
+                    "pubDate": 1602960470392,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/f59163868d1d48d59723c8686af8a37b/resources/cristian-newman-Zi8-E3qJ_RM-unsplash__1602960467492__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "cristian-newman-Zi8-E3qJ_RM-unsplash__1602960467492__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/f59163868d1d48d59723c8686af8a37b/resources/cristian-newman-Zi8-E3qJ_RM-unsplash__1602960467492__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>Worldwide, 137 women are killed by a member of their own family every day.</li>\n\t<li>In 2017, 87,000 women were intentionally killed. More than half (58%) were killed by intimate partners or family members, an increase over the share (47%) reported in 2012.</li>\n\t<li>Although women and girls account for a far smaller share of total homicides than men (20%),<span class=\"footnote-index\">1</span> they bear by far the greatest burden of both intimate partner/family\u2010related homicides and intimate partner homicides (82% of deaths recorded as intimate partner homicides are women).</li>\n\t<li>Women run the greatest risk of being killed by their intimate partners or by family members in countries in Africa.</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602050304694,
+                    "pubDate": 1602050304694,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/WorldsWomen/master/assets/photos/ian-taylor-xS5FOdki8WM-unsplash-people%20sitting%20on%20train%20seat.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px;\"><strong>Current situation</strong></span>",
+                    "content": "<p>An estimated 87,000 women were intentionally killed in 2017. More than half of them (58%) were killed by intimate partners or family members, meaning that, worldwide, 137 women were killed every day by intimate partners or members of their own family. More than a third (30,000 or 34%) of the women intentionally killed in 2017 were killed by their current or former intimate partners, that is, someone they would usually have trusted.</p>\n\n<p>These figures translate into: a global female homicide rate of 2.1 women killed for every 100,000 women in the population in 2017; a global female intimate partner/family-related homicide rate of 1.3 per 100,000; and a female intimate partner homicide rate of 0.8 per 100,000.</p>\n\n<p>The estimated number of women killed by intimate partners or family members in 2012 was 48,000 (47% of all female homicide victims), compared with 58% in 2017. From these rising percentages, it appears that the annual number of female deaths worldwide resulting from intimate partner/family-related homicide is on the increase.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598603710821",
+                            "type": "navigate",
+                            "index": 9
+                        }
+                    ],
+                    "creaDate": 1602050330139,
+                    "pubDate": 1602050330139,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/WorldsWomen/master/assets/photos/ben-wicks-800KX2y7QD8-unsplash-Woman%20in%20black%20coat%20standing%20on%20road.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Intimate partner/family-related homicide</span>",
+                    "content": "<p>Worldwide, the largest number of women killed by intimate partners or family members in 2017 was in Asia (20,000), followed by Africa (19,000), the Americas (8,000), Europe (3,000) and Oceania (300).</p>\n\n<p>Adjusting for the population size in each region, data show that women run the greatest risk of being killed by their intimate partners or family members in countries in <span class=\"label-ref\">Africa</span> (3.1 per 100,000 female population), while in Europe (0.7 per 100,000 population) women are least at risk.</p>\n\n<p>The intimate partner/family-related homicide rate was also high in the Americas in 2017, at 1.6 per 100,000 female population, as well as in Oceania (1.3 per 100,000) and Asia (0.9 per 100,000).</p>\n\n<p>Further insights into gender based killing in countries in <span class=\"label-ref\">Latin America and the Caribbean</span> can be found in the story on <a class=\"narrative-ref\" href=\"#NV8\" target=\"_blank\">femicide</a> produced by the Economic Commission for Latin America and the Caribbean,<span class=\"footnote-index\">2</span> which highlights that the risk women face varies significantly by country. In El Salvador and Guyana the rate of femicide in 2017 was very high (6.8 and 8.8 per 100,000 women) compared to rates reported in 14 other countries and territories<span class=\"footnote-index\">3</span> in the region (less than 1 per 100,000 women).</p>\n\n<p>In 2017, more than two thirds (69%) of all women killed in <span class=\"label-ref\">Africa</span> and more than a third (38%) of those killed in Europe were killed by intimate partners or family members.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602276907663,
+                    "pubDate": 1602276907663,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/violence-nv7-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Intimate partner homicide</span>",
+                    "content": "<p>When looking solely at the proportion of women killed by intimate partners (not including other family members) in 2017, the regions with the largest shares were Asia and Africa (11,000 each), followed by the Americas (6,000), Europe (2,000) and Oceania (200).</p>\n\n<p>In 2017, <span class=\"label-ref\">Africa</span> was also the region with the highest rate of females killed by intimate partners in 2017 (1.7 per 100,000 female population). The Americas had the second-highest rate per 100,000 female population (1.2), followed by Oceania (0.9), Europe (0.6) and Asia (0.5).</p>\n\n<p><span class=\"label-ref\">Oceania</span> was the region with the highest share of female homicides attributable to a woman\u2019s intimate partner, at 42%, while Europe reported a lower yet still significant share of 29%, compared to a global average of more than a third (34%).</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602050508204,
+                    "pubDate": 1602050508204,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/WorldsWomen/master/assets/photos/ifeoluwadayo-ogunderu-WSuiFaFAmp0-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Total homicides, intimate partner / family-related homicides and intimate partner homicides</span>",
+                    "content": "<p>Only one out of every five victims (20%) of homicide at the global level is a woman, yet women and girls make up the majority of homicides by intimate partners and family members (64%). Women also bear the greatest burden in terms of intimate partner violence. The disparity between male and female victims of homicide perpetrated exclusively by an intimate partner is even larger: roughly 82% female victims versus 18% male victims.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602050536847,
+                    "pubDate": 1602050536847,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/WorldsWomen/master/assets/photos/luis-galvez-I8gQVrDcXzY-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Country in focus / vulnerable groups</span>",
+                    "content": "<p>Data from <span class=\"label-ref\">Canada</span> show that aboriginal and indigenous women and girls experience much higher levels of violence than non-aboriginal women, both in terms of victimization and lethal violence. In 2014, the rate of homicide among <span class=\"label-ref\">indigenous</span> females was six times higher than the rate among non-aboriginal people (3.64 per 100,000 versus 0.65 per 100,000).<span class=\"footnote-index\">5</span></p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602050565501,
+                    "pubDate": 1602050565501,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/WorldsWomen/master/assets/photos/milada-vigerova-kT0tsYZ2YE0-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Related stories</span>",
+                    "content": "<ul>\n\t<li><a class=\"narrative-ref\" href=\"#NV1\" target=\"_blank\">Intimate partner physical and/or sexual violence against women and girls</a></li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602050625380,
+                    "pubDate": 1602050625380,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/WorldsWomen/master/assets/photos/j-w-E8cenvOOpHQ-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Sources</span>",
+                    "content": "<ul>\n\t<li><a href=\"https://www.unodc.org/documents/data-and-analysis/GSH2018/GSH18_Gender-related_killing_of_women_and_girls.pdf\" target=\"_blank\">United Nations Office on Drugs and Crime, Global study on homicide: Gender-related killing of women and girls, Vienna 2018</a></li>\n\t<li><a href=\"https://unstats.un.org/sdgs/indicators/database/\" target=\"_blank\">United Nations Department of Economic and Social Affairs, Statistics Division, Global SDG Indicators Database, indicator 16.1.1 (Number of victims of intentional homicide per 100,000 population, by sex and age)</a></li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602960601970,
+                    "pubDate": 1602960601970,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/f59163868d1d48d59723c8686af8a37b/resources/clay-banks-GX8KBbVmC6c-unsplash__1602960600406__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "clay-banks-GX8KBbVmC6c-unsplash__1602960600406__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/f59163868d1d48d59723c8686af8a37b/resources/clay-banks-GX8KBbVmC6c-unsplash__1602960600406__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Total estimated number and rate of intentional homicides perpetrated by intimate partners/family-members, disaggregated by sex</span>: <span class=\"definition\">Latest statistics on different measures of intentional homicides perpetrated by intimate partners or family members that have been considered in the context of the gender-related killing of women or \u201cfemicide\u201d.</span></li>\n\t<li><span class=\"concept\">Femicide</span>: <span class=\"definition\">The term \u201cfemicide\u201d was coined several decades ago to define the gender-related motivation associated with the killing of women and girls. Although the term has attracted attention to the extent that it is now used by some Governments and a wide range of stakeholders, at the global level there is no commonly agreed definition as to what constitutes \u201cfemicide\u201d. What is observable, however, is a plurality of definitions stemming from different legal and sociological approaches, which indicate the elements that may contribute to labelling a crime \u201cfemicide\u201d.</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Data from 2017 on intentional homicide by sex is available for 93 countries.<span class=\"footnote-index\">6</span> Data availability on male and female rates of intimate partner homicide is very limited across regions; the highest rate of coverage is reported in Europe and Latin America and the Caribbean.<span class=\"footnote-index\">7</span> There are serious limitations in terms of data availability for male and female rates of intimate partner/family-related homicide, and, when reported, such figures may indicate an under recording of victims.<span class=\"footnote-index\">8</span></p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598603509488",
+                            "type": "navigate",
+                            "index": 3
+                        },
+                        {
+                            "id": "MJ-ACTION-1598603644139",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1598604904104",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598604913523",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598604929973",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598605175323",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1598605215890",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598605404914",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598605412003",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598605681508",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602960540562,
+                    "pubDate": 1602960540562,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/f59163868d1d48d59723c8686af8a37b/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602960539179__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1602960539179__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/f59163868d1d48d59723c8686af8a37b/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602960539179__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://www.unodc.org/documents/data-and-analysis/GSH2018/GSH18_Gender-related_killing_of_women_and_girls.pdf\" target=\"_blank\">United Nations Office on Drugs and Crime (UNODC), Global study on homicide: Gender-related killing of women and girls, Vienna, 2019</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.cepal.org/en/pressreleases/eclac-least-2795-women-were-victims-femicide-23-countries-latin-america-and-caribbean\" target=\"_blank\">Economic Commission for Latin America and the Caribbean (ECLAC), \u201cAt Least 2,795 Women Were Victims of Femicide in 23 Countries of Latin America and the Caribbean in 2017\u201d, press release, November 2018</a>. (\u21e1 back to text)</li>\n\t<li>Bahamas, British Virgin Islands, Chile, Colombia, Cuba, Grenada, Jamaica, Montserrat, Nicaragua, Panama, Peru, Saint Kitts and Nevis, Saint Vincent and the Grenadines and Venezuela (Bolivarian Republic of). (\u21e1 back to text)</li>\n\t<li><a href=\"https://unstats.un.org/sdgs/indicators/database/\" target=\"_blank\">In 2017, global rate of female intentional homicide was 2.14 per 100,000 females, compared with the male intentional homicide rate of 9.70 per 100,000 men (Global SDG Indicators Database, indicator 16.1.1)</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www150.statcan.gc.ca/n1/pub/85-002-x/2016001/article/14631-eng.htm\" target=\"_blank\">Statistics Canada, Victimization of Aboriginal people in Canada, 2014, Canadian Centre for Justice Statistics, 2016</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://unstats.un.org/sdgs/indicators/database/\" target=\"_blank\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, Global SDG Indicators Database (indicator 16.1.1)</a> (accessed on 25 August 2020). (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.unodc.org/documents/data-and-analysis/GSH2018/GSH18_Gender-related_killing_of_women_and_girls.pdf\" target=\"_blank\">United Nations Office on Drugs and Crime (UNODC), Global study on homicide: Gender-related killing of women and girls, Vienna, 2019</a>. (\u21e1 back to text)</li>\n\t<li>Ibid. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602960505822,
+                    "pubDate": 1602960505822,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/f59163868d1d48d59723c8686af8a37b/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602960504158__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602960504158__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/f59163868d1d48d59723c8686af8a37b/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602960504158__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        }
+    },
+    "_ssl": null
+}

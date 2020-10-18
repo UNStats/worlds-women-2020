@@ -1,1 +1,408 @@
-{"values": {"settings": {"header": {"linkText": "World's Women 2020", "linkURL": "https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=894bed8498eb449a983af8b33a7125f3", "logoURL": "https://www.arcgis.com/sharing/rest/content/items/894bed8498eb449a983af8b33a7125f3/resources/sm_mj_logo__1598499409363.jpg", "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/", "social": {"facebook": true, "twitter": true, "bitly": true}}, "appGeocoders": [{"singleLineFieldName": "SingleLine", "name": "ArcGIS World Geocoding Service", "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"}], "layout": {"id": "side"}, "layoutOptions": {"layoutCfg": {"size": "large", "position": "right"}, "socialLinks": false}, "theme": {"colors": {"name": "side-default-5", "themeMajor": "white", "dotNav": "#68AAE1", "panel": "#FFFFFF", "media": "#E8E8DF", "text": "#000000", "textLink": "#555", "softText": "#FFF", "softBtn": "#4D4D4D", "esriLogo": "black"}, "fonts": {"sectionTitle": {"id": "default", "value": "font-family:'open_sansregular', sans-serif;"}, "sectionContent": {"id": "default", "value": "font-family:'open_sansregular', sans-serif;"}}}}, "title": "Economic empowerment\n", "story": {"storage": "WEBAPP", "sections": [{"title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n", "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Italy: behaviour and activities during the Coronavirus-19 lockdown: a gender approach</div>\n", "contentActions": [], "creaDate": 1602458801684, "pubDate": 1602458801684, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/1c1d1fac8ddf47e3a0995cce1388b780/resources/nw30-home-unsplash__1602268041679__w1200.jpg", "type": "image", "altText": "", "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">COVID-19 lockdown in Italy: close-knit country and close-knit families</span>", "content": "<p>A feeling of strong cohesion characterized the mood in Italy during the lockdown phase of the COVID-19 epidemic in April 2020.<span class=\"footnote-index\">1</span> People reacted to the restrictions imposed during the lockdown in a consistent manner and no gender differences emerged in the behaviours adopted. The feeling of solidarity was primarily manifested in a strong and widespread trust in the central institutions engaged in the fight against the spread of COVID-19.</p>\n\n<p>In response to the survey, on a scale from 0 (no trust) to 10 (maximum trust), the majority of citizens reported that they totally trusted medical staff (55.4%), paramedics (55.8%) and civil protection officials (50.8%), and over 80% of citizens responded within the scale from 8 to 10 in reply to the same questions.</p>\n", "contentActions": [], "creaDate": 1602268134063, "pubDate": 1602268134063, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw30-graph-1", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:28px;\">&nbsp;</span>", "content": "<p>Overall, the population showed a heightened sense of civic responsibility, as indicated by the data collected on behaviours (see figure II). The use of face masks was widespread (89.1%) throughout the entire country, regardless of local conditions of greater or lesser risk of contagion.</p>\n\n<p>Guidance on social distancing was also respected by most people, regardless of age and gender; 92.4% of people stated that they consistently observed this rule. Importantly, the stay-at-home advisory to avoid the spread of the virus, with a view to protecting oneself and others, was followed by the vast majority of the population.</p>\n\n<p>On an average day, 72% of the adult population did not go out at all, 22.7% went out once and only 5.2% twice or more. In this regard, for purposes of comparison, it must be remembered that, under normal conditions, 90% of the adult population make at least one trip outside the house during the day. People also stayed at home to protect loved ones from contagion: less than one&nbsp;fifth of the adult population visited other people to bring them groceries, medications or to keep them company, and a low percentage of people received visits (23.6%). No significant gender differences were recorded.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609558915", "type": "navigate", "index": 11}], "creaDate": 1602491810072, "pubDate": 1602491810072, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw30-graph-2", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px\">&nbsp;</span>", "content": "<p>The family played a positive role in ensuring that the COVID-19 lockdown period was sustainable: in general, the family environment was described as a peaceful and positive (see figure III).</p>\n\n<p>Among those living in households of two or more, 51% defined family relationships as excellent and 42.4% as good. From the survey data, it is clear that 9 out of 10 citizens were able to spend lockdown in a pleasant family context. Only 6.4% of respondents indicated that they could not define relationships as either good or bad, and almost no one (0.2%) gave a negative rating.</p>\n\n<p>Relationships among household members during the lockdown remained unchanged for 81.3% of the population. For 15.6% of the population, family relationships improved, while only 2.6% reported that they had worsened. Most people reported that they found comfort in their families and devoted more time to relationships, and relationships between couples do not seem to have been negatively affected. In 86.1% of cases, people indicated that their relationships were as good as before the lockdown, while in 2.8% of cases people reported them to be as bad as they had been previously.</p>\n\n<p>Overall, the situation remained stable: 8.6% of people living with a partner reported that their relationships had changed for the better, only 1.9% of people reported having experienced a period with more misunderstandings and 0.2% reported having major quarrels.</p>\n", "contentActions": [], "creaDate": 1602598719576, "pubDate": 1602598719576, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw30-graph-3", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px\">Gender differences in household work</span>", "content": "<p>The need to stay at home during the lockdown had a marked impact on the daily activities of a large part of the population. Many individuals had to change, cancel or reorganize planned activities, focusing their energies on work within the home, devoting time to matters that had been postponed or seizing the opportunity to express creativity and experiment with new activities: the variety of everyday chores and activities that occupied people during lockdown is rich and heterogeneous (see figure IV). Most people found that they had free time to devote to recreational activities, while more than three quarters had household and family-care activities to do; only 28% went out for a walk, went to work or went shopping for food. Work and educational activities engaged 16.7% and 8% of the population, respectively. No significant gender differences were recorded in daily activities, apart from unpaid household work.</p>\n\n<p>While there is a pronounced and continuing gender gap in terms of unpaid household work in Italy (see figure IV), there has been a growing tendency in recent years for men and women to share domestic chores and childcare. During the lockdown, with couples spending longer periods of time together at home and the increased burden of childcare resulting from the closure of schools, domestic chores were shared to a greater degree, although not to such an extent as to obviate the gender gap in household responsibilities.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609674534", "type": "navigate", "index": 11}], "creaDate": 1602598844994, "pubDate": 1602598844994, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw30-graph-4", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<p>Among many domestic chores (see figure V), the preparation of meals involved the largest proportion of the population (63.6%). Overall, there was a strong gender gap in this regard, with women more involved in this activity (82.9%, compared to 42.9% of men). However, in a third of households, meals were prepared by both sexes, without significant gender differences.</p>\n\n<p>In addition, during the lockdown some gastronomic traditions were rediscovered, such as baking pizza, bread or cakes (53% of the population aged 18 and over). While the percentage was higher among women (69.6%), the percentage among men was also sizable (37.3%). The preparation of fruit jams, vegetables or family food packages also increased during the lockdown.</p>\n\n<p>More than half of the population spent time on housecleaning (54.4%) and 40% reported that they spent more time doing housework than usual. The gender gap was also significant in this area (about 27 percentage points), although lower than that the gap seen in traditional time-use surveys (46 percentage points). The smaller gender gap can be explained by the fact that couples spent a significant amount of time together at home, had fewer work commitments and more opportunities to reconcile the responsibilities of work and family.</p>\n\n<p>Among the usual household work activities, shopping during the pandemic involved fewer people (only 1 person out of 10), but it proved, once again, to be an activity more equally distributed between men and women. As was to be expected, about one in two people reported that they had spent more time shopping than they had done before the lockdown, mainly because of the queues.</p>\n\n<p>During the month of April 2020, 85.9% of the population with children between 0\u201314 years (or 7.9% of the population as a whole) reported being involved in childcare activities. The constant presence of children in the home, and the need to monitor and assist them with distance learning, strongly affected the activities of both parents. Indeed, 67.2% of people involved in this activity indicated they spent more time than in the past on care work, with a very similar rate of increase for both sexes.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609698448", "type": "navigate", "index": 11}, {"id": "MJ-ACTION-1598609707111", "type": "navigate", "index": 11}], "creaDate": 1602268344468, "pubDate": 1602268344468, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw30-graph-5", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px;\">Gender differences in free-time activities</span>", "content": "<p>Enforced confinement encouraged a substantial share of population to spend part of their free time on activities such as house maintenance, board games and practicing artistic activities, including painting, singing and writing (see figure VI). Household maintenance activities engaged 41% of the population, and 22.3% carried out such activities on a weekly basis. Almost a third of the population devoted time to gardening or garden care (27% at least weekly); 17.3% of people sewed, embroidered or knitted (10.9% at least weekly); and 12.8% dedicated themselves to the restoration of furniture or household items (5.4% at least weekly).</p>\n\n<p>Men were more active in activities related to do-it-yourself projects, such as the restoration of furniture or objects for the home (15.9% of men versus 10% of women) or in home-maintenance work (49.7% of men versus 33% of women). Women, on the other hand, were mainly involved in tailoring/embroidery/knitting activities (28.7% of women versus 4.9% of men). No gender differences were observed in gardening or in taking care of vegetable gardens. Taking into account the frequency of free-time activities practiced compared to 2015 (on a weekly basis), there was an increase of at least 50% overall, with the exception of sewing and embroidery, where the rate of participation remained stable.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609744028", "type": "navigate", "index": 11}], "creaDate": 1602268408031, "pubDate": 1602268408031, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw30-graph-6", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<p>During the lockdown, a significant proportion of the population devoted time to creative activities related to: music (singing, playing or listening to music); the figurative arts (drawing, painting, sculpture); writing; or the creation of handicrafts or costume jewellery (42.2% of the population aged 18 and over reported being involved in at least one of the above areas of creative activities). Singing was reported to occupy the largest share (24.6%) of creative activities, especially among women (27.9% of women compared to 21.1% among men) (see figure VII).</p>\n\n<p>If we consider the recreational activities performed at least on a weekly basis, a significant increase is observed compared to 2015. For example, the share of those who sang at least weekly was 2.6% in 2015, while it reached 15.9% during the lockdown.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609766300", "type": "navigate", "index": 11}, {"id": "MJ-ACTION-1598609772459", "type": "navigate", "index": 11}], "creaDate": 1602492356272, "pubDate": 1602492356272, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw30-graph-7", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<p>Board games or other types of games were another activity reported to have occupied the time of 45% of the population aged 18 and over during the lockdown (see figure VIII). Card games and video games were the favourite choice. Gender differences were observed, with a higher proportion of men playing video games (25.9% of men versus 13.5% of women) and games with friends on the Internet (18.7% of men versus 11.8% of women), although this was not the case for other types of games.</p>\n", "contentActions": [], "creaDate": 1602268470864, "pubDate": 1602268470864, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw30-graph-8", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<h2>Related stories and further reading</h2>\n\n<ul>\n\t<li><a class=\"narrative-ref\" href=\"#NW25\" target=\"_blank\">Time spent on unpaid work, total work burden and work-life balance</a></li>\n</ul>\n\n<h2>Sources</h2>\n\n<ul>\n\t<li><a href=\"https://www.istat.it/it/archivio/243357\" target=\"_blank\">National Statistical Institute (ISTAT), Reazione dei cittadini al lockdown, Roma, 25 maggio 2020</a>.</li>\n\t<li><a href=\"https://www.istat.it/it/archivio/243829\" target=\"_blank\">Ibid., Fase 1: le giornate in casa durante il lockdown, Roma, 5 giugno 2020</a>.</li>\n\t<li><a href=\"https://www.istat.it/storage/rapporto-annuale/2020/capitolo1.pdf\" target=\"_blank\">Ibid., Rapporto annuale 2020 - La situazione del paese, Roma, 3 luglio 2020</a>.</li>\n</ul>\n", "contentActions": [], "creaDate": 1602268513394, "pubDate": 1602268513394, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/clay-banks-unsplash.jpg", "type": "image", "altText": "", "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definition</h2>\n\n<p>Behaviours and daily activities during the Coronavirus-19 (COVID-19) lockdown in Italy in April 2020</p>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Population aged 18 and over living/resident in households in Italy (April 2020).</p>\n</div>\n\n<div class=\"methodology-source\">\n<h2>Source</h2>\n\n<p>Survey carried out in Italy from 5\u201322 April 2020, providing estimates at the national level and covering three broad geographical areas with different levels of Coronavirus-19 (COVID-19) infection.<span class=\"footnote-index\">2</span></p>\n</div>\n</div>\n", "contentActions": [{"id": "MJ-ACTION-1598609809974", "type": "navigate", "index": 11}, {"id": "MJ-ACTION-1598609814847", "type": "navigate", "index": 11}, {"id": "MJ-ACTION-1598609820099", "type": "navigate", "index": 11}], "creaDate": 1602491837666, "pubDate": 1602491837666, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg", "type": "image", "altText": "", "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://www.istat.it/it/archivio/241013\" target=\"_blank\">More information about the survey is available at the linked website (Italian only)</a>. (\u21e1 back to text)</li>\n\t<li>The survey, entitled \u201cDay-diary and activities during Coronavirus-19\u201d, was aimed at gaining an understanding of how the pandemic changed people\u2019s habits and how they carried out their daily lives during the height of the pandemic in Italy. (\u21e1 back to text)</li>\n</ol>\n</div>\n", "contentActions": [{"id": "MJ-ACTION-1598609848308", "type": "navigate", "index": 2}, {"id": "MJ-ACTION-1598609857337", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609873239", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609883421", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609896997", "type": "navigate", "index": 5}, {"id": "MJ-ACTION-1598609906932", "type": "navigate", "index": 5}, {"id": "MJ-ACTION-1598609914851", "type": "navigate", "index": 6}, {"id": "MJ-ACTION-1598609927078", "type": "navigate", "index": 7}, {"id": "MJ-ACTION-1598609936839", "type": "navigate", "index": 7}, {"id": "MJ-ACTION-1598609958575", "type": "navigate", "index": 10}, {"id": "MJ-ACTION-1598609967973", "type": "navigate", "index": 10}, {"id": "MJ-ACTION-1598609975942", "type": "navigate", "index": 10}, {"id": "MJ-ACTION-1598610194053", "type": "navigate", "index": 4}], "creaDate": 1602268579201, "pubDate": 1602268579201, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg", "type": "image", "altText": "", "display": "fill"}}}]}, "template": {"name": "Map Journal", "createdWith": "1.24.1", "editedWith": "1.25.0"}, "doNotWarnTitle": true}, "_ssl": null}
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Economic empowerment\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Italy: behaviour and activities during the Coronavirus-19 lockdown: a gender approach</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602458801684,
+                    "pubDate": 1602458801684,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/1c1d1fac8ddf47e3a0995cce1388b780/resources/nw30-home-unsplash__1602268041679__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">COVID-19 lockdown in Italy: close-knit country and close-knit families</span>",
+                    "content": "<p>A feeling of strong cohesion characterized the mood in Italy during the lockdown phase of the COVID-19 epidemic in April 2020.<span class=\"footnote-index\">1</span> People reacted to the restrictions imposed during the lockdown in a consistent manner and no gender differences emerged in the behaviours adopted. The feeling of solidarity was primarily manifested in a strong and widespread trust in the central institutions engaged in the fight against the spread of COVID-19.</p>\n\n<p>In response to the survey, on a scale from 0 (no trust) to 10 (maximum trust), the majority of citizens reported that they totally trusted medical staff (55.4%), paramedics (55.8%) and civil protection officials (50.8%), and over 80% of citizens responded within the scale from 8 to 10 in reply to the same questions.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602268134063,
+                    "pubDate": 1602268134063,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw30-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px;\">&nbsp;</span>",
+                    "content": "<p>Overall, the population showed a heightened sense of civic responsibility, as indicated by the data collected on behaviours (see figure II). The use of face masks was widespread (89.1%) throughout the entire country, regardless of local conditions of greater or lesser risk of contagion.</p>\n\n<p>Guidance on social distancing was also respected by most people, regardless of age and gender; 92.4% of people stated that they consistently observed this rule. Importantly, the stay-at-home advisory to avoid the spread of the virus, with a view to protecting oneself and others, was followed by the vast majority of the population.</p>\n\n<p>On an average day, 72% of the adult population did not go out at all, 22.7% went out once and only 5.2% twice or more. In this regard, for purposes of comparison, it must be remembered that, under normal conditions, 90% of the adult population make at least one trip outside the house during the day. People also stayed at home to protect loved ones from contagion: less than one&nbsp;fifth of the adult population visited other people to bring them groceries, medications or to keep them company, and a low percentage of people received visits (23.6%). No significant gender differences were recorded.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609558915",
+                            "type": "navigate",
+                            "index": 11
+                        }
+                    ],
+                    "creaDate": 1602491810072,
+                    "pubDate": 1602491810072,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw30-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<p>The family played a positive role in ensuring that the COVID-19 lockdown period was sustainable: in general, the family environment was described as a peaceful and positive (see figure III).</p>\n\n<p>Among those living in households of two or more, 51% defined family relationships as excellent and 42.4% as good. From the survey data, it is clear that 9 out of 10 citizens were able to spend lockdown in a pleasant family context. Only 6.4% of respondents indicated that they could not define relationships as either good or bad, and almost no one (0.2%) gave a negative rating.</p>\n\n<p>Relationships among household members during the lockdown remained unchanged for 81.3% of the population. For 15.6% of the population, family relationships improved, while only 2.6% reported that they had worsened. Most people reported that they found comfort in their families and devoted more time to relationships, and relationships between couples do not seem to have been negatively affected. In 86.1% of cases, people indicated that their relationships were as good as before the lockdown, while in 2.8% of cases people reported them to be as bad as they had been previously.</p>\n\n<p>Overall, the situation remained stable: 8.6% of people living with a partner reported that their relationships had changed for the better, only 1.9% of people reported having experienced a period with more misunderstandings and 0.2% reported having major quarrels.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602598719576,
+                    "pubDate": 1602598719576,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw30-graph-3",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Gender differences in household work</span>",
+                    "content": "<p>The need to stay at home during the lockdown had a marked impact on the daily activities of a large part of the population. Many individuals had to change, cancel or reorganize planned activities, focusing their energies on work within the home, devoting time to matters that had been postponed or seizing the opportunity to express creativity and experiment with new activities: the variety of everyday chores and activities that occupied people during lockdown is rich and heterogeneous (see figure IV). Most people found that they had free time to devote to recreational activities, while more than three quarters had household and family-care activities to do; only 28% went out for a walk, went to work or went shopping for food. Work and educational activities engaged 16.7% and 8% of the population, respectively. No significant gender differences were recorded in daily activities, apart from unpaid household work.</p>\n\n<p>While there is a pronounced and continuing gender gap in terms of unpaid household work in Italy (see figure IV), there has been a growing tendency in recent years for men and women to share domestic chores and childcare. During the lockdown, with couples spending longer periods of time together at home and the increased burden of childcare resulting from the closure of schools, domestic chores were shared to a greater degree, although not to such an extent as to obviate the gender gap in household responsibilities.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609674534",
+                            "type": "navigate",
+                            "index": 11
+                        }
+                    ],
+                    "creaDate": 1602598844994,
+                    "pubDate": 1602598844994,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw30-graph-4",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<p>Among many domestic chores (see figure V), the preparation of meals involved the largest proportion of the population (63.6%). Overall, there was a strong gender gap in this regard, with women more involved in this activity (82.9%, compared to 42.9% of men). However, in a third of households, meals were prepared by both sexes, without significant gender differences.</p>\n\n<p>In addition, during the lockdown some gastronomic traditions were rediscovered, such as baking pizza, bread or cakes (53% of the population aged 18 and over). While the percentage was higher among women (69.6%), the percentage among men was also sizable (37.3%). The preparation of fruit jams, vegetables or family food packages also increased during the lockdown.</p>\n\n<p>More than half of the population spent time on housecleaning (54.4%) and 40% reported that they spent more time doing housework than usual. The gender gap was also significant in this area (about 27 percentage points), although lower than that the gap seen in traditional time-use surveys (46 percentage points). The smaller gender gap can be explained by the fact that couples spent a significant amount of time together at home, had fewer work commitments and more opportunities to reconcile the responsibilities of work and family.</p>\n\n<p>Among the usual household work activities, shopping during the pandemic involved fewer people (only 1 person out of 10), but it proved, once again, to be an activity more equally distributed between men and women. As was to be expected, about one in two people reported that they had spent more time shopping than they had done before the lockdown, mainly because of the queues.</p>\n\n<p>During the month of April 2020, 85.9% of the population with children between 0\u201314 years (or 7.9% of the population as a whole) reported being involved in childcare activities. The constant presence of children in the home, and the need to monitor and assist them with distance learning, strongly affected the activities of both parents. Indeed, 67.2% of people involved in this activity indicated they spent more time than in the past on care work, with a very similar rate of increase for both sexes.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609698448",
+                            "type": "navigate",
+                            "index": 11
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609707111",
+                            "type": "navigate",
+                            "index": 11
+                        }
+                    ],
+                    "creaDate": 1602268344468,
+                    "pubDate": 1602268344468,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw30-graph-5",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Gender differences in free-time activities</span>",
+                    "content": "<p>Enforced confinement encouraged a substantial share of population to spend part of their free time on activities such as house maintenance, board games and practicing artistic activities, including painting, singing and writing (see figure VI). Household maintenance activities engaged 41% of the population, and 22.3% carried out such activities on a weekly basis. Almost a third of the population devoted time to gardening or garden care (27% at least weekly); 17.3% of people sewed, embroidered or knitted (10.9% at least weekly); and 12.8% dedicated themselves to the restoration of furniture or household items (5.4% at least weekly).</p>\n\n<p>Men were more active in activities related to do-it-yourself projects, such as the restoration of furniture or objects for the home (15.9% of men versus 10% of women) or in home-maintenance work (49.7% of men versus 33% of women). Women, on the other hand, were mainly involved in tailoring/embroidery/knitting activities (28.7% of women versus 4.9% of men). No gender differences were observed in gardening or in taking care of vegetable gardens. Taking into account the frequency of free-time activities practiced compared to 2015 (on a weekly basis), there was an increase of at least 50% overall, with the exception of sewing and embroidery, where the rate of participation remained stable.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609744028",
+                            "type": "navigate",
+                            "index": 11
+                        }
+                    ],
+                    "creaDate": 1602268408031,
+                    "pubDate": 1602268408031,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw30-graph-6",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<p>During the lockdown, a significant proportion of the population devoted time to creative activities related to: music (singing, playing or listening to music); the figurative arts (drawing, painting, sculpture); writing; or the creation of handicrafts or costume jewellery (42.2% of the population aged 18 and over reported being involved in at least one of the above areas of creative activities). Singing was reported to occupy the largest share (24.6%) of creative activities, especially among women (27.9% of women compared to 21.1% among men) (see figure VII).</p>\n\n<p>If we consider the recreational activities performed at least on a weekly basis, a significant increase is observed compared to 2015. For example, the share of those who sang at least weekly was 2.6% in 2015, while it reached 15.9% during the lockdown.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609766300",
+                            "type": "navigate",
+                            "index": 11
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609772459",
+                            "type": "navigate",
+                            "index": 11
+                        }
+                    ],
+                    "creaDate": 1602492356272,
+                    "pubDate": 1602492356272,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw30-graph-7",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<p>Board games or other types of games were another activity reported to have occupied the time of 45% of the population aged 18 and over during the lockdown (see figure VIII). Card games and video games were the favourite choice. Gender differences were observed, with a higher proportion of men playing video games (25.9% of men versus 13.5% of women) and games with friends on the Internet (18.7% of men versus 11.8% of women), although this was not the case for other types of games.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602268470864,
+                    "pubDate": 1602268470864,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw30-graph-8",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<h2>Related stories and further reading</h2>\n\n<ul>\n\t<li><a class=\"narrative-ref\" href=\"#NW25\" target=\"_blank\">Time spent on unpaid work, total work burden and work-life balance</a></li>\n</ul>\n\n<h2>Sources</h2>\n\n<ul>\n\t<li><a href=\"https://www.istat.it/it/archivio/243357\" target=\"_blank\">National Statistical Institute (ISTAT), Reazione dei cittadini al lockdown, Roma, 25 maggio 2020</a>.</li>\n\t<li><a href=\"https://www.istat.it/it/archivio/243829\" target=\"_blank\">Ibid., Fase 1: le giornate in casa durante il lockdown, Roma, 5 giugno 2020</a>.</li>\n\t<li><a href=\"https://www.istat.it/storage/rapporto-annuale/2020/capitolo1.pdf\" target=\"_blank\">Ibid., Rapporto annuale 2020 - La situazione del paese, Roma, 3 luglio 2020</a>.</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602268513394,
+                    "pubDate": 1602268513394,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/clay-banks-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definition</h2>\n\n<p>Behaviours and daily activities during the Coronavirus-19 (COVID-19) lockdown in Italy in April 2020</p>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Population aged 18 and over living/resident in households in Italy (April 2020).</p>\n</div>\n\n<div class=\"methodology-source\">\n<h2>Source</h2>\n\n<p>Survey carried out in Italy from 5\u201322 April 2020, providing estimates at the national level and covering three broad geographical areas with different levels of Coronavirus-19 (COVID-19) infection.<span class=\"footnote-index\">2</span></p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609809974",
+                            "type": "navigate",
+                            "index": 11
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609814847",
+                            "type": "navigate",
+                            "index": 11
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609820099",
+                            "type": "navigate",
+                            "index": 11
+                        }
+                    ],
+                    "creaDate": 1602491837666,
+                    "pubDate": 1602491837666,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://www.istat.it/it/archivio/241013\" target=\"_blank\">More information about the survey is available at the linked website (Italian only)</a>. (\u21e1 back to text)</li>\n\t<li>The survey, entitled \u201cDay-diary and activities during Coronavirus-19\u201d, was aimed at gaining an understanding of how the pandemic changed people\u2019s habits and how they carried out their daily lives during the height of the pandemic in Italy. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609848308",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609857337",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609873239",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609883421",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609896997",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609906932",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609914851",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609927078",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609936839",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609958575",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609967973",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609975942",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598610194053",
+                            "type": "navigate",
+                            "index": 4
+                        }
+                    ],
+                    "creaDate": 1602268579201,
+                    "pubDate": 1602268579201,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NW30"
+    }
+}

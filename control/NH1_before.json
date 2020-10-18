@@ -1,0 +1,351 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=894bed8498eb449a983af8b33a7125f3",
+                "logoURL": "https://github.com/UNStats/WorldsWomen/raw/master/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/index.cshtml",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Health\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Health</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Ghana: skilled health-care assistance in childbirth</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602501526999,
+                    "pubDate": 1602501526999,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/b230e6e6cb2c4aafa07ab2c598eceb09/resources/ashwini-duce-SHL3V_tm9zc-unsplash__1602501525488__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ashwini-duce-SHL3V_tm9zc-unsplash__1602501525488__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/b230e6e6cb2c4aafa07ab2c598eceb09/resources/ashwini-duce-SHL3V_tm9zc-unsplash__1602501525488__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<strong><span style=\"font-size:26px\">Key points</span></strong>",
+                    "content": "<p>During the period from 1998 to 2014, there was a 30 percentage point increase in the proportion of deliveries at health facilities.</p>\n\n<p>In 1998, <span class=\"label-ref\">younger mothers</span> were more likely than older mothers to deliver their babies with the assistance of skilled health personnel, while by 2014 little difference was recorded by age.</p>\n\n<p>Overall, wealthier and more educated women and women living in urban areas are more likely to access the services of skilled personnel while giving birth.<br>\n&nbsp;</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602980186408,
+                    "pubDate": 1602980186408,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/b230e6e6cb2c4aafa07ab2c598eceb09/resources/francisco-venancio-M4Xloxsg0Gw-unsplash__1602980184651__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "francisco-venancio-M4Xloxsg0Gw-unsplash__1602980184651__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/b230e6e6cb2c4aafa07ab2c598eceb09/resources/francisco-venancio-M4Xloxsg0Gw-unsplash__1602980184651__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px;\"><strong>Background</strong></span>",
+                    "content": "<p>Women\u2019s access to skilled medical care, especially during childbirth, is a key strategy for the reduction of the maternal mortality ratio (MMR), which,&nbsp;in Ghana, still reaches 310 deaths per 100,000 live births.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598642064733\" data-storymaps-type=\"navigate\">1</a></span></p>\n\n<p>The most dangerous time in a woman\u2019s pregnancy is during labour and delivery when the majority of maternal deaths occur. The presence of skilled medical attendants is essential for the timely management of complications that may arise during and after delivery: by providing important lifesaving intervention for both mothers and babies, skilled health personnel reduce the risk of maternal morbidity and long-lasting disability.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598642064733",
+                            "type": "navigate",
+                            "index": 12
+                        }
+                    ],
+                    "creaDate": 1602501737423,
+                    "pubDate": 1602501720000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/WorldsWomen/master/assets/photos/etty-fidele-nF8eo2nX374-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Current situation</span>",
+                    "content": "<p>Skilled medical assistance is essential to safe delivery. In Ghana, the proportion of pregnant women giving birth with the assistance of a skilled professional has increased, from 44% in 1998 to 74% in 2014 (see figure). Nevertheless, in 2014, 26% of women in the country delivered without such assistance.</p>\n\n<p><strong>During the period from 1998 to 2014, there was a 30 percentage point increase in the proportion of deliveries at health facilities</strong> as a result of improvements in the health sector brought about through the efforts of the Government and the Ghana Health Service.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602156988803,
+                    "pubDate": 1602156960000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/health-nh1-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "&nbsp;",
+                    "content": "<p>Despite the introduction of policies to address problems resulting from lack of access to skilled health personnel, some women are falling through the safety net; women who deliver their children at home are less likely to be able to obtain access to skilled care if complications occur <a class=\"narrative-ref\" href=\"#NV7\" target=\"_blank\">during childbirth</a>.</p>\n\n<p><strong>Delivering at health facilities ensures skilled care during childbirth.</strong> According to the most recent survey, nearly 3 in 4 births occur at health facilities, primarily public sector health facilities: facility-based births are more common in urban settings (90%) than in rural areas (60%).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598642147708\" data-storymaps-type=\"navigate\">3</a></span> In Ghana, more than a quarter of births occur at home: overall, almost 3 in 4 births are attended by a skilled professional.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598642152931\" data-storymaps-type=\"navigate\">4</a></span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598642147708",
+                            "type": "navigate",
+                            "index": 12
+                        },
+                        {
+                            "id": "MJ-ACTION-1598642152931",
+                            "type": "navigate",
+                            "index": 12
+                        }
+                    ],
+                    "creaDate": 1602953788021,
+                    "pubDate": 1602953760000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/WorldsWomen/master/assets/photos/annie-spratt-ZyWN6N41JUc-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<p><strong>In 1998, <span class=\"label-ref\">younger mothers</span> were more likely than older mothers to deliver their babies with the assistance of skilled health personnel, while by 2014 little difference was recorded by age.</strong> Data collected in 1998 show a marked difference in the proportion of births attended by skilled health personnel according to a woman\u2019s age, a difference that has decreased over time as more women have gained access to professional health care. By 2014, among women aged 15\u201349, the proportion of women giving birth with skilled medical assistance was above 70%, and the difference among age groups was negligible compared to previous years (see table 1).</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602720357583,
+                    "pubDate": 1602720300000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/health-nh1-table-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<p><strong>Skilled assistance at birth is most common among highly <span class=\"label-ref\">educated</span> women.</strong> Women with higher levels of education are consistently more likely to seek skilled assistance at childbirth (see table 2). The trend during the period 1998\u20132014 reveals that a large and growing majority of women with secondary education and higher give birth with the assistance of skilled health-care providers (from 86% in 1998 to 96% in 2014) and that women with middle school education are increasingly following suit (from 60% in 1998 to 83% in 2014). Data also show that double the proportion of women with no formal education, although less likely to use skilled health personnel, gave birth with skilled assistance (from 25% in 1998 to 52% in 2014).</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602720418421,
+                    "pubDate": 1602720360000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/health-nh1-table-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<p><strong>Overall, wealthier and more educated women and women living in urban areas are more likely to access the services of skilled personnel while giving birth.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>In 2014, a large majority of pregnant women giving birth in urban areas (90%) received skilled care, as compared to women in <span class=\"label-ref\">rural</span> areas (60%) (see table 3), an increase from 84% in urban areas and 43% in rural areas as reported in 2008. The difference&nbsp;between rural and urban rates is largely because of the greater concentration of health-care facilities in&nbsp;urban areas and because pregnant women in rural areas must travel long distances to access health facilities with skilled medical personnel.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602955687577,
+                    "pubDate": 1602955680000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/health-nh1-table-3",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<p>According to available data, pregnant women in the highest <span class=\"label-ref\">wealth</span> quintile, who can most easily pay hospital charges, are also the most likely to seek the assistance of skilled health personnel at the time of delivery. In terms of access to health care, differences according to levels of wealth are marked and persistent over time (see table 4). In 2003, only 2 in 10 women in the lowest wealth quintile had access to skilled health personnel at the time of delivery, compared to 9 in 10 women in the highest quintile. By 2014, the proportion of women in the lowest quintile with access to skilled assistance had more than doubled (47%), although it was still far from equal. Overall, by 2014, more than 90% of women in the two highest wealth quintiles had access to skilled health personnel during childbirth.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602955662948,
+                    "pubDate": 1602955620000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/health-nh1-table-4",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "&nbsp;",
+                    "content": "<p>Based on available data, Ghana has made a significant improvement in the lives of women: the majority of women visit health-care facilities for childbirth and have access to the assistance of skilled personnel at the time of delivery.</p>\n\n<p>In 2003, Ghana introduced a delivery fee exemption policy for women giving birth (rolled out to all regions in April 2005), and in 2008 the Government introduced free national health insurance for pregnant women. Furthermore, free maternal health care services have been provided in Ghana since 2008 and community health-based planning services have been established at the district level all over the country. Additional evidence is needed, however, to confirm that free maternal health care has increased the overall use of skilled delivery providers by pregnant women.</p>\n\n<p>More needs to be done to improve awareness of the availability of free maternal health care, so that every pregnant woman, irrespective of wealth, education, place of residence or traditional norms and beliefs, will be aware of her ability to visit the hospital or health-care facility for antenatal care and to receive skilled medical assistance there at the time of her delivery.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602502203883,
+                    "pubDate": 1602502200000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/b230e6e6cb2c4aafa07ab2c598eceb09/resources/814453-Mozambique%20Recovers%20after%20Cyclones%20Idai%20and%20Kenneth__1602502202080__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "814453-Mozambique Recovers after Cyclones Idai and Kenneth__1602502202080__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/b230e6e6cb2c4aafa07ab2c598eceb09/resources/814453-Mozambique%20Recovers%20after%20Cyclones%20Idai%20and%20Kenneth__1602502202080__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1>About the data</h1>\n\n<h2>Coverage</h2>\n\n<p>Women aged 15\u201449.</p>\n\n<h2>Definitions</h2>\n\n<ul class=\"definitions\">\n\t<li><span class=\"definition\">Percentage of live births attended by skilled health personnel during a specified time period:</span> Number of births attended by skilled health personnel divided by the number of live births in the five-year period preceding a given survey. Skilled health personnel comprise doctors, nurses and midwives trained in providing lifesaving obstetric care, including: supervision, care and advice to women during pregnancy, labour and the post-partum period, the independent conduct of deliveries and the care of newborns. Traditional birth attendants, even if they receive a short training course, are not included in this category of personnel.</li>\n\t<li><span class=\"definition\">Percentage of live births delivered in a health facility:</span> Calculated as the number of births at a health facility (public or private) divided by the number of live births in the five-year period preceding a given survey.</li>\n</ul>\n</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602501723683,
+                    "pubDate": 1602501720000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">References</span>",
+                    "content": "<div class=\"references\">\n<ul>\n\t<li><a href=\"https://www.dhsprogram.com/pubs/pdf/FR106/FR106.pdf\" target=\"_blank\">Ghana Statistical Service, Ghana Demographic and Health Survey 1998, Accra, 1999</a>.</li>\n\t<li><a href=\"https://www.dhsprogram.com/pubs/pdf/FR152/FR152.pdf\" target=\"_blank\">Ghana Statistical Service, Ghana Demographic and Health Survey 2003, Accra, 2004</a>.</li>\n\t<li><a href=\"https://dhsprogram.com/pubs/pdf/FR227/FR227.pdf\" target=\"_blank\">Ghana Statistical Service, Ghana Health Service, Ghana Maternal Health Survey 2007, Accra, 2009</a>.</li>\n\t<li><a href=\"https://www.dhsprogram.com/pubs/pdf/FR221/FR221%5B13Aug2012%5D.pdf\" target=\"_blank\">Ghana Statistical Service, Ghana Health Service and International Community Foundation, Ghana Demographic and Health Survey 2008. Accra, 2009</a>.</li>\n\t<li><a href=\"https://dhsprogram.com/pubs/pdf/FR307/FR307.pdf\" target=\"_blank\">Ghana Statistical Service, Ghana Health Service and International Community Foundation, Ghana Demographic and Health Survey 2014, Accra, 2015</a>.</li>\n\t<li><a href=\"https://www.dhsprogram.com/pubs/pdf/FR340/FR340.pdf\" target=\"_blank\">Ghana Statistical Service, Ghana Health Service and International Community Foundation, Ghana Maternal Health Survey 2017, Accra, 2017</a>.</li>\n</ul>\n</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602267699884,
+                    "pubDate": 1602267660000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/clay-banks-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://www.dhsprogram.com/pubs/pdf/FR340/FR340.pdf\" target=\"_blank\">Ghana Statistical Service, Ghana Health Service and International Community Foundation, Ghana Maternal Health Survey 2017, Accra, 2017</a>. (<a data-storymaps=\"MJ-ACTION-1598642085233\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>The Ghana Demographic and Health Survey, which is conducted every five years by the Ghana Statistical Service, collects data on a range of maternal health issues, including antenatal care, type of assistance received during delivery of live births and postnatal care. (\u21e1 back to text)</li>\n\t<li>Skilled assistance at birth is most common in greater Accra (92%), the capital of Ghana. (<a data-storymaps=\"MJ-ACTION-1598642176691\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>For the seven-year period before the issuance of the Ghana Maternal Health Survey 2017, data are from the <a href=\"https://dhsprogram.com/pubs/pdf/SR224/SR224.pdf\" target=\"_blank\">2014 Ghana Demographic and Health Survey: Key Findings</a>. (<a data-storymaps=\"MJ-ACTION-1598642185321\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598642085233",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1598642176691",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598642185321",
+                            "type": "navigate",
+                            "index": 4
+                        }
+                    ],
+                    "creaDate": 1602156694353,
+                    "pubDate": 1602156660000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null
+}

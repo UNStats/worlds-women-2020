@@ -1,0 +1,419 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=894bed8498eb449a983af8b33a7125f3",
+                "logoURL": "https://www.arcgis.com/sharing/rest/content/items/894bed8498eb449a983af8b33a7125f3/resources/sm_mj_logo__1598499409363.jpg",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Economic empowerment\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Economic empowerment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Youth not in education, employment or training (NEET)</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602761831080,
+                    "pubDate": 1602761831080,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/a0e8cdf5770e41bca0f4b94df37131b2/resources/tobias-nii-kwatei-quartey-i67u6BsmglM-unsplash__1602761828182__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "tobias-nii-kwatei-quartey-i67u6BsmglM-unsplash__1602761828182__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/a0e8cdf5770e41bca0f4b94df37131b2/resources/tobias-nii-kwatei-quartey-i67u6BsmglM-unsplash__1602761828182__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>In 2019, among youth aged 15\u201324 worldwide, 31.1% of young women and 13.9% of young men were not in education, employment or training. The gender gap in youth NEET rates has remained constant, at around 17 percentage points, since 2005.</li>\n\t<li>Across regions in 2019, while NEET rates among young men remained relatively constant, among young women the rates varied greatly, reaching above 40% in Western Asia and in Southern Asia. The gender gap in the NEET rate was relatively small in developed regions.</li>\n\t<li>The higher prevalence in the proportion of young women (more than three times higher than among young men) in Southern Asia who are not in education, employment or training accompanied with a relatively low youth unemployment may indicate a level of discouragement about entering into and participating in the labour market.</li>\n\t<li>Higher NEET rates among young women may prevent them from increasing their chances of future employability by gaining experience through employment or honing their skills through education or training.</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602762680736,
+                    "pubDate": 1602762680736,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/a0e8cdf5770e41bca0f4b94df37131b2/resources/steven-aguilar-wuvH2CowIRk-unsplash__1602762679465__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "steven-aguilar-wuvH2CowIRk-unsplash__1602762679465__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/a0e8cdf5770e41bca0f4b94df37131b2/resources/steven-aguilar-wuvH2CowIRk-unsplash__1602762679465__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px\">Background</span>",
+                    "content": "<p>The <span class=\"label-ref\">youth</span> NEET rate is a useful complement to the youth <a class=\"narrative-ref\" href=\"#NW26\" target=\"_blank\">unemployment rate</a> in gaining a better understanding of the labour market dynamics affecting young women and men, including their potential contribution to sustainable development through employment. The NEET rate includes young persons who are outside the labour force and not engaged in education or training. For example, a low youth unemployment rate and a high proportion of NEET may indicate that young people are discouraged about entering the labour market. In the case of young women, a high relative NEET rate may also be linked to their disproportionate engagement in <a class=\"narrative-ref\" href=\"#NW25\" target=\"_blank\">unpaid domestic and care work</a><span class=\"footnote-index\">1</span> and a lack of available social services to balance family life and other activities.<span class=\"footnote-index\">2</span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609558915",
+                            "type": "navigate",
+                            "index": 9
+                        }
+                    ],
+                    "creaDate": 1602762615636,
+                    "pubDate": 1602762615636,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/a0e8cdf5770e41bca0f4b94df37131b2/resources/tyler-nix-V3dHmb1MOXM-unsplash__1602762613735__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "tyler-nix-V3dHmb1MOXM-unsplash__1602762613735__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/a0e8cdf5770e41bca0f4b94df37131b2/resources/tyler-nix-V3dHmb1MOXM-unsplash__1602762613735__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Current situation</span>",
+                    "content": "<p><strong>The gender gap between the proportion of young women and young men not in education, employment or training has narrowed only slightly over the last 15 years, with the proportion of young women being more than twice that of young men&nbsp;</strong></p>\n\n<p>In 2019, the proportion of youth aged 15\u201324 not in education, employment or training constituted 31.1% of the young female and 13.9% of the young male population, resulting in a gender gap of 17.2 percentage points. Since 2005, the NEET rate among young women has slightly decreased in all regions, with the exception of Oceania (excluding Australia and New Zealand), while it has remained relatively stable among young men. Over the same period, the gender gap in the youth NEET rate has narrowed only slightly, by 3 percentage points (see figure I).&nbsp;</p>\n\n<p>Among 111 countries and territories with latest available data between 2015 and 2019, the proportion of young women not in education, employment or training was the highest in Afghanistan (65.9%), Pakistan (54.9%) and Zambia (49.5%) and the lowest in Japan (3.5%), the Netherlands (4.2%) and Norway (4.6%). The proportion of young men not in education, employment or training was the highest in Kiribati (46.2%), Zambia (36.4%) and Armenia (35.7%) and the lowest in Japan (2.2%), Singapore (3.1%) and Czechia (3.6%). The gender gap in the youth NEET rate was the highest in Afghanistan (47.6 percentage points), Bangladesh (34.8 percentage points) and Guatemala (39.6 percentage points).</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602762199498,
+                    "pubDate": 1602762199498,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw18-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<p><strong>The gender gap in the proportion of youth not in education, employment or training is significant in developing regions</strong></p>\n",
+                    "content": "<p>Across regions, while NEET rates remained relatively constant among young men, ranging between 9% and 18%, except in Oceania (excluding Australia in New Zealand), those rates among young women varied greatly, reaching above 45% in Southern Asia (more than three times the rate among young men) and above 40% in Western Asia in 2019.</p>\n\n<p>Overall, the proportion was higher among young women than among young men in all regions except Australia and New Zealand (no gender difference) (see figure II). NEET rates among young women were at least 10 percentage points higher than those among young men in South-Eastern Asia (10.5 percentage points), Latin America and the Caribbean (14.6 percentage points) and Northern Africa (18 percentage points), and the NEET gender gap reached 35 percentage points in Southern Asia and 26 percentage points in Western Asia. The gender gap was relatively small in Northern America (0.7 percentage points) and Europe (1.7 percentage points).</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609631920",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609642799",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609651540",
+                            "type": "navigate",
+                            "index": 9
+                        }
+                    ],
+                    "creaDate": 1602762277323,
+                    "pubDate": 1602762277323,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw18-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<p>In 2019, the highest proportion of young women not in education, employment or training was in countries in <span class=\"label-ref\">Southern Asia</span> (48.7%), where the unemployment rate for women aged 15\u201324 stood at 18.4%, similar to the overall youth unemployment rate of 18.8%. The relatively much higher prevalence of NEET than unemployment among young women in Southern Asia may indicate a level of discouragement about entering into and participating in the labour market.</p>\n\n<p>Discriminatory <a class=\"narrative-ref\" href=\"#NW8\" target=\"_blank\">social norms</a> and <a class=\"narrative-ref\" href=\"#NW11\" target=\"_blank\">legal barriers</a> are likely to contribute to the youth NEET rate, preventing young women, in particular, from increasing their future employability by gaining experience through employment or honing their skills through education or training.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609674534",
+                            "type": "navigate",
+                            "index": 9
+                        }
+                    ],
+                    "creaDate": 1602762407963,
+                    "pubDate": 1602762407963,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/a0e8cdf5770e41bca0f4b94df37131b2/resources/alexis-brown--Xv7k95vOFA-unsplash__1601403583827__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "Country in focus: Armenia",
+                    "content": "<p>In Armenia in 2017, while 3% of young women aged 17 were married, the share was 28% among young women not in education, employment or training of the same age. Among young men, however, the starting age for family formation did not seem to vary by NEET status: overall marriage rates among young men, whether in NEET status or not, were similar across the 15\u201324 age category.<span class=\"footnote-index\">4</span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609698448",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609707111",
+                            "type": "navigate",
+                            "index": 9
+                        }
+                    ],
+                    "creaDate": 1602762776349,
+                    "pubDate": 1602762776349,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/a0e8cdf5770e41bca0f4b94df37131b2/resources/waldemar-brandt-ojqhfppxLSw-unsplash__1602762774884__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "waldemar-brandt-ojqhfppxLSw-unsplash__1602762774884__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/a0e8cdf5770e41bca0f4b94df37131b2/resources/waldemar-brandt-ojqhfppxLSw-unsplash__1602762774884__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Country in focus: Brazil</span>",
+                    "content": "<p>Youth NEET rates are different for young women and young men in <span class=\"label-ref\"><a class=\"narrative-ref\" href=\"#NW20\" target=\"_blank\">Brazil</a></span>, and further analysis reveals higher relative NEET rates among young women and young men who face distinct disadvantages owing to their <span class=\"label-ref\">geographic location</span> or <span class=\"label-ref\">colour/race</span>.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609744028",
+                            "type": "navigate",
+                            "index": 9
+                        }
+                    ],
+                    "creaDate": 1601607310299,
+                    "pubDate": 1601607310299,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/a0e8cdf5770e41bca0f4b94df37131b2/resources/alexis-brown--Xv7k95vOFA-unsplash__1601403583827__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "alexis-brown--Xv7k95vOFA-unsplash__1601403583827__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/a0e8cdf5770e41bca0f4b94df37131b2/resources/alexis-brown--Xv7k95vOFA-unsplash__1601403583827__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Proportion of youth (aged 15\u201324) not in education, employment or training (NEET)</span>: <span class=\"definition\">Proportion of youth (aged 15\u201324) who are not engaged in education, employment or training (NEET rate) among the total youth population. People are considered to be involved in education if they are enrolled in formal or non-formal education (with the exception of informal learning), as described by the International Standard Classification of Education (ISCED).<span class=\"footnote-index\">5</span> People in a non-academic learning activity, through which they acquire specific skills intended for vocational or technical jobs, are excluded as they are considered to be in training for the purposes of this indicator.</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Young women and young men aged 15-24 in 149 United Nations Member States and territories.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Data limitations</h2>\n\n<p>In the SDG framework,<span class=\"footnote-index\">6</span> youth comprises persons aged 15-24, although, as reported by ILO, many young women and men complete their education after the age of 24.<span class=\"footnote-index\">7</span> The gender narrative of the Economic Commission for Latin America and the Caribbean [Link to NW19] on the youth NEET rate includes individuals aged 25-29 in that region.<span class=\"footnote-index\">8</span></p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609809974",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609814847",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609820099",
+                            "type": "navigate",
+                            "index": 9
+                        }
+                    ],
+                    "creaDate": 1602761947177,
+                    "pubDate": 1602761947177,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/a0e8cdf5770e41bca0f4b94df37131b2/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602761946118__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1602761946118__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/a0e8cdf5770e41bca0f4b94df37131b2/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602761946118__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://www.ilo.org/global/publications/books/WCMS_674831/lang--en/index.htm\" target=\"_blank\">International Labour Organization (ILO), A quantum leap for gender equality: for a better future of work for all, Geneva, 2019</a>. (\u21e1 back to text)</li>\n\t<li>A link between the educational attainment of women and men aged 15-24 and their respective NEET rates could not be made due to lack of disaggregated data on educational attainment for this specific age category. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.ilo.org/ilostat-files/Documents/description_NEET_EN.pdf\" target=\"_blank\">ILO, Department of Statistics (ILOSTAT), \u201cShare of youth not in employment, education or training (youth NEET rate)\u201d (last accessed on 26 April 2020)</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://elibrary.worldbank.org/doi/abs/10.1596/31833\" target=\"_blank\">World Bank, Exploring the Diversity of Young People Not in Employment, Education or Training: The Gender Profile of NEETs in Georgia and Armenia, Washington, D.C., 2019</a>. Owing to the lack of information on NEET rates for young women in Armenia aged 15 and 16 regarding their marital status, age figures for these data points were omitted. (\u21e1 back to text)</li>\n\t<li><a href=\"http://uis.unesco.org/sites/default/files/documents/international-standard-classification-of-education-isced-2011-en.pdf\" target=\"_blank\">United Nations Educational, Scientific and Cultural Organization (UNESCO), Institute for Statistics, International Standard Classification of Education: ISCED 2011, Montreal, 2012</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://unstats.un.org/sdgs/indicators/indicators-list/\" target=\"_blank\">Global indicator framework for the Sustainable Development Goals, General Assembly resolution 71/313, annex</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.ilo.org/global/statistics-and-databases/WCMS_423665/lang--en/index.htm\" target=\"_blank\">ILO, Key Indicators of the Labour Market, ninth edition, Geneva, 2016</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"https://www.cepal.org/en/pressreleases/alicia-barcena-proposes-cooperation-narrative-inclusive-middle-income-countries\" target=\"_blank\">Statement by the Executive Secretary of the Economic Commission for Latin America and the Caribbean (ECLAC), Brussels, June 2019</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609848308",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609857337",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609873239",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609883421",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609896997",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609906932",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609914851",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609927078",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609936839",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609958575",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609967973",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609975942",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1598610194053",
+                            "type": "navigate",
+                            "index": 5
+                        }
+                    ],
+                    "creaDate": 1602761961125,
+                    "pubDate": 1602761961125,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/a0e8cdf5770e41bca0f4b94df37131b2/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602761959776__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602761959776__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/a0e8cdf5770e41bca0f4b94df37131b2/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602761959776__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null
+}

@@ -1,0 +1,321 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=894bed8498eb449a983af8b33a7125f3",
+                "logoURL": "https://www.arcgis.com/sharing/rest/content/items/894bed8498eb449a983af8b33a7125f3/resources/sm_mj_logo__1598499409363.jpg",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Education\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Education</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Enrolment in technical and vocational programmes</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602772623546,
+                    "pubDate": 1602772623546,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/145fff1d87b04bd5a777f6b1b6f702aa/resources/837206-Secretary-Generals%20Envoy%20on%20Youth%20Visits%20Youth%20in%20PoC%20Site%20in%20Juba__1602772622117__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "837206-Secretary-Generals Envoy on Youth Visits Youth in PoC Site in Juba__1602772622117__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/145fff1d87b04bd5a777f6b1b6f702aa/resources/837206-Secretary-Generals%20Envoy%20on%20Youth%20Visits%20Youth%20in%20PoC%20Site%20in%20Juba__1602772622117__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>In 2018, the global participation rate in technical and vocational programmes was 4.4% for girls and 5.0% for boys.</li>\n\t<li>The average enrolment of girls and boys in technical and vocational programmes varies greatly across regions.</li>\n\t<li>More boys than girls enrol in technical and vocational programmes in most regions of the world, with the exception of Eastern Asia, Northern America and Latin America and the Caribbean.</li>\n\t<li>Gender disparities show an underrepresentation of girls in technical and vocational programmes in 110 of 141 countries (78%) with data.&nbsp;</li>\n\t<li>Despite persistent gender disparities, girls\u2019 enrolment in technical and vocational programmes nearly doubled over the past three decades.</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602772662538,
+                    "pubDate": 1602772662538,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/145fff1d87b04bd5a777f6b1b6f702aa/resources/jeswin-thomas-XQfh5DHuhmE-unsplash__1602772660727__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "jeswin-thomas-XQfh5DHuhmE-unsplash__1602772660727__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/145fff1d87b04bd5a777f6b1b6f702aa/resources/jeswin-thomas-XQfh5DHuhmE-unsplash__1602772660727__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px;\">Background</span>",
+                    "content": "<p>Technical and vocational education and training programmes develop skills and competencies valued by employers and/or are useful for self-employment. Such programmes equip young women and men with skills and capabilities that can broaden their opportunities in life and prepare them for the transition from school to work.</p>\n\n<p>Technical and vocational programmes encompass a wide range of subject matters, from teacher training programmes to commercial studies, including various technical fields in industry and engineering. The participation rate of young people aged 15\u201324 in technical and vocational programmes is monitored under SDG target 4.3: \u201cBy 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university\u201d.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609558915",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602700727358,
+                    "pubDate": 1602700727358,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/145fff1d87b04bd5a777f6b1b6f702aa/resources/837206-Secretary-Generals%20Envoy%20on%20Youth%20Visits%20Youth%20in%20PoC%20Site%20in%20Juba__1602700704267__w600.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "837206-Secretary-Generals Envoy on Youth Visits Youth in PoC Site in Juba__1602700704267__w600.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/145fff1d87b04bd5a777f6b1b6f702aa/resources/837206-Secretary-Generals%20Envoy%20on%20Youth%20Visits%20Youth%20in%20PoC%20Site%20in%20Juba__1602700704267__w600.jpg",
+                                    "width": 600
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Current situation</span>",
+                    "content": "<p><strong>Enrolment of girls and boys in technical and vocational programmes varies greatly across regions</strong></p>\n\n<p>In 2018, the global participation rate in technical and vocational programmes was 4.4% for girls and 5.0% for boys (see figure I). Data show that the average participation of girls and boys in technical and vocational programmes varies greatly across regions: rates were lower than the global average in sub-Saharan Africa, Southern Asia, Northern America and Oceania (excluding Australia and New Zealand); rates were higher than global average, but lower than 10%, in Northern Africa, Eastern Asia, South-Eastern Asia and Latin America and the Caribbean; and rates were high (between 10% and 20%) in Central Asia, Europe and Australia/New Zealand.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602700754105,
+                    "pubDate": 1602700754105,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne13-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px\">&nbsp;</span>",
+                    "content": "<p><strong>More boys than girls participate in technical and vocational programmes in most regions of the world</strong></p>\n\n<p>More boys participate in technical and vocational programmes in all regions worldwide except&nbsp;<span class=\"label-ref\">Eastern Asia</span>, <span class=\"label-ref\">Northern America</span> and <span class=\"label-ref\">Latin America and the Caribbean</span>. Girls were severely underrepresented in: Northern Africa (36 girls for every 100 boys), Southern Asia (46 girls for every 100 boys) and Oceania (excluding Australia and New Zealand) (72 girls for every 100 boys).</p>\n\n<p>Of the 141 countries for which data were available for the period 2010\u20132018 (see figure II), in 110 countries (78%) there was an underrepresentation of girls. Significantly fewer girls than boys (less than 75 girls for every 100 boys) were enrolled in technical and vocational programmes in about half of the 110 countries. Girls were significantly underrepresented in technical and vocational programmes, accounting for less than 50 girls for every 100 boys, in several countries in Southern Asia (Afghanistan, Bangladesh, Iran (Islamic Republic of) and Pakistan) and sub-Saharan Africa (Angola, Benin, Cameroon, the Central African Republic, Eswatini, Ghana, Madagascar, Mauritania, Mauritius, Mozambique and the United Republic of Tanzania).</p>\n\n<p>Gender parity was attained in only 10 countries with data, half of which were in Latin America and the Caribbean (Chile, El Salvador, Mexico, Paraguay and Venezuela (Bolivarian Republic of)). In contrast, more girls were enrolled than boys in 21 countries with data. Several countries and one territory in Latin America and the Caribbean were represented in the latter group:&nbsp;technical and vocational programmes, including Brazil, the British Virgin Islands, Colombia, Costa Rica, the Dominican Republic, Guatemala, Honduras, Nicaragua and Peru.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609631920",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609642799",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609651540",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602978755077,
+                    "pubDate": 1602978755077,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webmap",
+                        "webmap": {
+                            "id": "83227ebe8112472eb09bbf07484a9987",
+                            "extent": null,
+                            "layers": null,
+                            "popup": null,
+                            "overview": {
+                                "enable": false,
+                                "openByDefault": true
+                            },
+                            "legend": {
+                                "enable": true,
+                                "openByDefault": false
+                            },
+                            "geocoder": {
+                                "enable": false
+                            },
+                            "altText": ""
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<p><strong>Enrolment of girls in technical and vocational programmes nearly doubled over the past three decades</strong></p>\n\n<p>Between 1990 and 2018, notable progress was made in participation in technical and vocational programmes by young people aged 15\u201324. Over that period, the global participation rate in technical and vocational programmes rose from 2.4% to 4.4% for girls and from 3.0% to 5.0% for boys (see figure I). In terms of progress of girls, countries in sub-Saharan Africa, Southern Asia and Oceania (excluding Australia and New Zealand) saw miniscule growth (less than half of one percentage point) over the same period. Northern Africa, Europe and Northern America displayed modest growth (between one and one and a half percentage points). Girls\u2019 participation increased by three percentage points or more, however, in Central Asia (8.5 percentage points), Eastern Asia (6.0 percentage points), South-Eastern Asia (3.3 percentage points), Western Asia (5.8 percentage points) and Latin America and the Caribbean (3.0 percentage points). Participation substantially declined for both girls and boys in Australia and New Zealand, the only region to see a decline over the period 1990\u20132018.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609674534",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602701405263,
+                    "pubDate": 1602701405263,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne13-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<p><strong>Understanding the relationship between gender and technical and vocational programmes</strong></p>\n\n<p>Investigating overall enrolment rates alone is not sufficient to obtain a comprehensive understanding of the relationship between gender and participation in technical and vocational programmes, it is also necessary to assess the enrolment of girls and boys by different fields of study in order to have a fuller understanding of gender disparities in participation in such programmes, including in understanding the extent to which the traditional differentiation between \u201cmasculine\u201d and \u201cfeminine\u201d subjects remains.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609698448",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609707111",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1601855726440,
+                    "pubDate": 1601855700000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/894bed8498eb449a983af8b33a7125f3/resources/loren-joseph-GVeJ-TXWJ1g-unsplash-closeup%20smiling%20woman__1598471087028__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Participation rate in technical and vocational programmes</span>: <span class=\"definition\">Number of young people aged 15\u201324 enroled in technical and vocational education at the secondary, post-secondary or tertiary levels of education expressed as a percentage of the population of the same age group. The purpose of the indicator is to show the level of participation of youth in technical and vocational education and training. A high value indicates that a large share of people aged 15\u201324 are participating in education and training specifically designed to lead to a particular line of work. Technical and vocational education and training can be offered in a variety of settings, including schools, universities and workplace environments. Participation rates do not capture the intensity or quality of the provision nor the outcomes of such education and training.</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Youth aged 15\u201324.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Data are available for 141 countries and for all regional groupings under the Sustainable Development Goals (SDGs) indicators framework<span class=\"footnote-index\">1</span> (latest available data for the period 2010\u20132018).<span class=\"footnote-index\">2</span></p>\n</div>\n</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602772053299,
+                    "pubDate": 1602772053299,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/145fff1d87b04bd5a777f6b1b6f702aa/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602701306785__w600.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\" target=\"_blank\">Regional groupings under the Sustainable Development Goals (SDGs)</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"http://uis.unesco.org/\" target=\"_blank\">Data from United Nations Educational, Scientific and Cultural Organization (UNESCO), UNESCO Institute for Statistics, Data for the Sustainable Development Goals (accessed May 2020)</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609809974",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609814847",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609820099",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602701341086,
+                    "pubDate": 1602701341086,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/145fff1d87b04bd5a777f6b1b6f702aa/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602701339856__w600.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602701339856__w600.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/145fff1d87b04bd5a777f6b1b6f702aa/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602701339856__w600.jpg",
+                                    "width": 600
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null
+}

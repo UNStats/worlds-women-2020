@@ -1,1 +1,397 @@
-{"values": {"settings": {"header": {"linkText": "World's Women 2020", "linkURL": "https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=894bed8498eb449a983af8b33a7125f3", "logoURL": "https://www.arcgis.com/sharing/rest/content/items/894bed8498eb449a983af8b33a7125f3/resources/sm_mj_logo__1598499409363.jpg", "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/", "social": {"facebook": true, "twitter": true, "bitly": true}}, "appGeocoders": [{"singleLineFieldName": "SingleLine", "name": "ArcGIS World Geocoding Service", "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"}], "layout": {"id": "side"}, "layoutOptions": {"layoutCfg": {"size": "large", "position": "right"}, "socialLinks": false}, "theme": {"colors": {"name": "side-default-5", "themeMajor": "white", "dotNav": "#68AAE1", "panel": "#FFFFFF", "media": "#E8E8DF", "text": "#000000", "textLink": "#555", "softText": "#FFF", "softBtn": "#4D4D4D", "esriLogo": "black"}, "fonts": {"sectionTitle": {"id": "default", "value": "font-family:'open_sansregular', sans-serif;"}, "sectionContent": {"id": "default", "value": "font-family:'open_sansregular', sans-serif;"}}}}, "title": "Education\n", "story": {"storage": "WEBAPP", "sections": [{"title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Education</strong></span></span></p>\n", "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Gross enrolment ratio in tertiary education</div>\n", "contentActions": [], "creaDate": 1602500789822, "pubDate": 1602500789822, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/vasily-koloda-8CqDvPuo_kI-unsplash__1602500788016__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "vasily-koloda-8CqDvPuo_kI-unsplash__1602500788016__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/vasily-koloda-8CqDvPuo_kI-unsplash__1602500788016__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">Key points</span>", "content": "<ul class=\"key-points\">\n\t<li>Globally, tertiary education has expanded substantially over the past three decades for both women and men: from 13% to 41% for women and from 14% to 36% for men.</li>\n\t<li>Progress in tertiary education shows large regional disparities; progress has been fastest in Eastern Asia and Australia and New Zealand and slowest in sub-Saharan Africa; Central Asia was the only region in the world to experience stagnation.</li>\n\t<li>Gender disparities in tertiary education have shifted in favour of females worldwide, and in most regions, over the past three decades.</li>\n\t<li>As of 2018, gender disparities continued to favour men in sub-Saharan Africa, the region hosting the majority of countries reporting a rate of female enrolment in tertiary education at below 10%.</li>\n</ul>\n", "contentActions": [], "creaDate": 1602815813337, "pubDate": 1602815813337, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/naassom-azevedo-Q_Sei-TqSlc-unsplash__1602815811071__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "naassom-azevedo-Q_Sei-TqSlc-unsplash__1602815811071__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/naassom-azevedo-Q_Sei-TqSlc-unsplash__1602815811071__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:28px;\">Background</span>", "content": "<p>Tertiary education builds on secondary education and imparts knowledge and skills as well as qualifications in specialized fields. It also brings extensive social and private benefits. At the individual level, the outcomes for people pursuing and completing a tertiary education are linked to better employment opportunities and higher levels of earning. At the societal level, tertiary education graduates contribute to human capital, which is essential for economic development, productivity growth, innovation and the healthy functioning of government and civil society.<span class=\"footnote-index\">1</span></p>\n", "contentActions": [{"id": "MJ-ACTION-1598609558915", "type": "navigate", "index": -1}], "creaDate": 1602815883313, "pubDate": 1602815883313, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/javier-trueba-vFJNeWJAA2g-unsplash-woman%20pointing%20at%20paper__1602815881222__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "javier-trueba-vFJNeWJAA2g-unsplash-woman pointing at paper__1602815881222__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/javier-trueba-vFJNeWJAA2g-unsplash-woman%20pointing%20at%20paper__1602815881222__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">Current situation</span>", "content": "<p><strong>Enrolment in tertiary education throughout the world has expanded substantially over the past three decades both for women and men; there has been a three-fold increase in the participation of women in tertiary education, and the participation has doubled for men</strong></p>\n\n<p>Participation in tertiary education expanded significantly during the period 1990\u20132018. As measured by the tertiary gross enrolment ratio (GER), participation rose from 13% to 41% for women and from 14% to 36% for men (see figure I). The substantial progress achieved reflects the steady expansion of education systems across the world, as well as the increasing demand for a highly skilled labour force.</p>\n", "contentActions": [], "creaDate": 1602677743072, "pubDate": 1602677743072, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne10-graph-1", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:28px;\">Participation in tertiary education shows large regional disparities</span>", "content": "<p>Progress has been fastest in Eastern Asia and Australia and New Zealand and slowest in sub-Saharan Africa; Central Asia was the only region in the world to experience stagnation.</p>\n\n<p>Enrolment in tertiary education, as measured by gross enrolment ratios, shows large regional disparities. Ratios are high for both women and men in regions where participation has historically been at high levels: Northern America and Europe, Australia and New Zealand, Latin America and the Caribbean, Eastern Asia and Western Asia are the global leaders in terms of enrolment in tertiary education.</p>\n\n<p>During the period 1990\u20132018, enrolment in tertiary education in Northern America expanded from 65% to 73% for men and from 82% to 100% for women. In Europe, over the same time period, men\u2019s enrolment expanded from 34% to 65% and women\u2019s enrolment from 36% to 79%. In <span class=\"label-ref\">Latin America and the Caribbean</span>, gross enrolment ratios more than doubled for men and more than tripled for women. In terms of progress since 1990, in countries in <span class=\"label-ref\">Eastern Asia</span> there was a six-fold increase in enrolment in tertiary education for men and a thirteen-fold gain for women: growth in tertiary enrolment in this region has been particularly remarkable since 2000. Similarly, in <span class=\"label-ref\">Western Asia</span> enrolment ratios nearly tripled for men and increased almost five times for women.</p>\n\n<p>Despite this significant expansion of enrolment in tertiary education in a number of regions, it has remained low in others. In <span class=\"label-ref\">sub-Saharan Africa</span>, participation rose only slightly, from 4% to 10% for men and from 2% to 8% for women over the period 1990\u20132018. Similarly, in countries in Southern Asia, gross enrolment ratios for 2018 were lower than global averages (26% for both men and women). Countries in Northern Africa and South-Eastern Asia also recorded enrolment in tertiary education below the global averages for both women and men. Over the period 1990\u20132018, <span class=\"label-ref\">Central Asia</span>, where gross enrolment ratios have remained in the mid 20% range, for both women and men, was the only region in the world to experience stagnation in participation in tertiary education.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609631920", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609642799", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609651540", "type": "navigate", "index": -1}], "creaDate": 1602678126488, "pubDate": 1602678126488, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne10-graph-1", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px;\">Gender disparities at the tertiary level favour women over men in most regions</span>", "content": "<p>Gender disparities in tertiary education shifted from a male to a female advantage throughout the world, and in most regions, during the period 1990\u20132018 (see figure I). In 1990, men\u2019s participation was slightly higher than that of women\u2019s (at 14% for men and 13% for women). Since then, the enrolment of women has been increasing worldwide at a faster rate than that for men, and by the late1990s the enrolment ratios of men and women reached <a class=\"narrative-ref\" href=\"#NE11\" target=\"_blank\">parity</a>, remaining equal until the early 2000s. The global participation of women has since exceeded that of men, shifting gender disparity from a male to a female advantage. By 2018, the gross enrolment ratios for women and men stood at 41% and 36%, respectively, reflecting a gender disparity in favour of women.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609674534", "type": "navigate", "index": -1}], "creaDate": 1602678172889, "pubDate": 1602678172889, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne10-graph-1", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px\">Women in sub-Saharan Africa and Western Asia remain at a disadvantage</span>", "content": "<p>While women are more represented than men in tertiary education in most regions of the world, the situation is the opposite in <span class=\"label-ref\">sub-Saharan Africa</span> (where the gross enrolment ratio in 2018 was 8% for women and 10% for men). National level data show that the majority of countries with female enrolment ratios of less than 10% are located in sub-Saharan Africa (see figure II), and a few in Western Asia (Afghanistan, Turkmenistan, Uzbekistan and Yemen). While enrolment in tertiary education has historically been low in these regions for both women and men, gender disparities continue to favour men in most countries in sub-Saharan Africa and Western Asia.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609698448", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609707111", "type": "navigate", "index": -1}], "creaDate": 1602974664283, "pubDate": 1602974664283, "status": "PUBLISHED", "media": {"type": "webmap", "webmap": {"id": "c7f9b7058da34aa988d91c9bed1675ac", "extent": null, "layers": null, "popup": null, "overview": {"enable": false, "openByDefault": true}, "legend": {"enable": true, "openByDefault": false}, "geocoder": {"enable": false}, "altText": ""}}}, {"title": "<span style=\"font-size:26px;\">Methodological challenges: measuring participation in tertiary education</span>", "content": "<p>Unlike primary and secondary education, where the target age groups consist of the official school-age populations, the notion of a target population is not easily applied to tertiary education as there are usually no official ages for attendance. Most tertiary education systems offer a wide range of programmes and pathways, allowing students to achieve a degree in two years or to complete an advanced research degree in seven or eight years. In the light of this variation, the gross enrolment ratio for tertiary education is calculated based on a standard age range of five years, which begins at the end of secondary education.</p>\n\n<p>The ratio is computed as the total enrolment in tertiary education, regardless of age, expressed as a percentage of the target population made up of the five-year age group following graduation from secondary school. While the gross enrolment ratio in tertiary education is useful for computing the volume of participation in tertiary programmes, it is important to note that there are limitations when comparing the actual population coverage across countries owing to: differences in the duration of tertiary education programmes; the enrolment of large numbers of women and men outside the target age group; and high drop-out rates and frequent re-enrolments.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609744028", "type": "navigate", "index": -1}], "creaDate": 1602678384288, "pubDate": 1602678384288, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602500674804__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1602500674804__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602500674804__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">Source</span>", "content": "<ul>\n\t<li><a href=\"http://uis.unesco.org/en/search/site/global%20education%20digest?f%5B0%5D=type%3Adocument\" target=\"_blank\">United Nations Educational, Scientific and Cultural Organization (UNESCO), UNESCO Institute for Statistics, Global Education Digest 2009: Comparing Education Statistics Across the World, Montreal, 2009.</a></li>\n</ul>\n", "contentActions": [{"id": "MJ-ACTION-1598609766300", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609772459", "type": "navigate", "index": -1}], "creaDate": 1602500645985, "pubDate": 1602500645985, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/clay-banks-GX8KBbVmC6c-unsplash__1602500644390__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "clay-banks-GX8KBbVmC6c-unsplash__1602500644390__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/clay-banks-GX8KBbVmC6c-unsplash__1602500644390__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Gross enrolment ratio (GER) in tertiary education</span>: <span class=\"definition\">Number of students enrolled in tertiary education, regardless of age, expressed as a percentage of the population in the five-year age group starting from the official secondary school graduation age. There are limitations when comparing the actual population coverage across countries due to: the diversity in the duration of tertiary programmes; the enrolment of large numbers of women and men outside the target age group; and high drop-out rates and frequent re-enrolments.</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Women and men in tertiary education.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Data are available for all regional groupings for under the Sustainable Development Goals (SDG)<span class=\"footnote-index\">2</span> and for 189 countries for the period 1990\u20132018 (latest available).<span class=\"footnote-index\">3</span></p>\n</div>\n</div>\n", "contentActions": [], "creaDate": 1602500676437, "pubDate": 1602500676437, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602500674804__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1602500674804__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602500674804__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">&nbsp;</span>", "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"http://uis.unesco.org/en/search/site/global%20education%20digest?f%5B0%5D=type%3Adocument\" target=\"_blank\">United Nations Educational, Scientific and Cultural Organization (UNESCO), UNESCO Institute for Statistics, Global Education Digest 2009: Comparing Education Statistics Across the World, Montreal, 2004</a>. (2009) (\u21e1 back to text)</li>\n\t<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\" target=\"_blank\">Regional groupings under the Sustainable Development Goals (SDGs)</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"http://uis.unesco.org/\" target=\"_blank\">Data source: United Nations Educational, Scientific and Cultural Organization (UNESCO) Institute for Statistics database</a>. (accessed April 2020). (\u21e1 back to text)</li>\n</ol>\n</div>\n", "contentActions": [{"id": "MJ-ACTION-1598609809974", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609814847", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609820099", "type": "navigate", "index": -1}], "creaDate": 1602500702977, "pubDate": 1602500702977, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602500701493__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602500701493__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602500701493__w1200.jpg", "width": 1200}], "display": "fill"}}}]}, "template": {"name": "Map Journal", "createdWith": "1.24.1", "editedWith": "1.25.0"}, "doNotWarnTitle": true}, "_ssl": null}
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Education\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Education</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Gross enrolment ratio in tertiary education</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602500789822,
+                    "pubDate": 1602500789822,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/vasily-koloda-8CqDvPuo_kI-unsplash__1602500788016__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "vasily-koloda-8CqDvPuo_kI-unsplash__1602500788016__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/vasily-koloda-8CqDvPuo_kI-unsplash__1602500788016__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>Globally, tertiary education has expanded substantially over the past three decades for both women and men: from 13% to 41% for women and from 14% to 36% for men.</li>\n\t<li>Progress in tertiary education shows large regional disparities; progress has been fastest in Eastern Asia and Australia and New Zealand and slowest in sub-Saharan Africa; Central Asia was the only region in the world to experience stagnation.</li>\n\t<li>Gender disparities in tertiary education have shifted in favour of females worldwide, and in most regions, over the past three decades.</li>\n\t<li>As of 2018, gender disparities continued to favour men in sub-Saharan Africa, the region hosting the majority of countries reporting a rate of female enrolment in tertiary education at below 10%.</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602815813337,
+                    "pubDate": 1602815813337,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/naassom-azevedo-Q_Sei-TqSlc-unsplash__1602815811071__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "naassom-azevedo-Q_Sei-TqSlc-unsplash__1602815811071__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/naassom-azevedo-Q_Sei-TqSlc-unsplash__1602815811071__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px;\">Background</span>",
+                    "content": "<p>Tertiary education builds on secondary education and imparts knowledge and skills as well as qualifications in specialized fields. It also brings extensive social and private benefits. At the individual level, the outcomes for people pursuing and completing a tertiary education are linked to better employment opportunities and higher levels of earning. At the societal level, tertiary education graduates contribute to human capital, which is essential for economic development, productivity growth, innovation and the healthy functioning of government and civil society.<span class=\"footnote-index\">1</span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609558915",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602815883313,
+                    "pubDate": 1602815883313,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/javier-trueba-vFJNeWJAA2g-unsplash-woman%20pointing%20at%20paper__1602815881222__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "javier-trueba-vFJNeWJAA2g-unsplash-woman pointing at paper__1602815881222__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/javier-trueba-vFJNeWJAA2g-unsplash-woman%20pointing%20at%20paper__1602815881222__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Current situation</span>",
+                    "content": "<p><strong>Enrolment in tertiary education throughout the world has expanded substantially over the past three decades both for women and men; there has been a three-fold increase in the participation of women in tertiary education, and the participation has doubled for men</strong></p>\n\n<p>Participation in tertiary education expanded significantly during the period 1990\u20132018. As measured by the tertiary gross enrolment ratio (GER), participation rose from 13% to 41% for women and from 14% to 36% for men (see figure I). The substantial progress achieved reflects the steady expansion of education systems across the world, as well as the increasing demand for a highly skilled labour force.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602677743072,
+                    "pubDate": 1602677743072,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne10-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px;\">Participation in tertiary education shows large regional disparities</span>",
+                    "content": "<p>Progress has been fastest in Eastern Asia and Australia and New Zealand and slowest in sub-Saharan Africa; Central Asia was the only region in the world to experience stagnation.</p>\n\n<p>Enrolment in tertiary education, as measured by gross enrolment ratios, shows large regional disparities. Ratios are high for both women and men in regions where participation has historically been at high levels: Northern America and Europe, Australia and New Zealand, Latin America and the Caribbean, Eastern Asia and Western Asia are the global leaders in terms of enrolment in tertiary education.</p>\n\n<p>During the period 1990\u20132018, enrolment in tertiary education in Northern America expanded from 65% to 73% for men and from 82% to 100% for women. In Europe, over the same time period, men\u2019s enrolment expanded from 34% to 65% and women\u2019s enrolment from 36% to 79%. In <span class=\"label-ref\">Latin America and the Caribbean</span>, gross enrolment ratios more than doubled for men and more than tripled for women. In terms of progress since 1990, in countries in <span class=\"label-ref\">Eastern Asia</span> there was a six-fold increase in enrolment in tertiary education for men and a thirteen-fold gain for women: growth in tertiary enrolment in this region has been particularly remarkable since 2000. Similarly, in <span class=\"label-ref\">Western Asia</span> enrolment ratios nearly tripled for men and increased almost five times for women.</p>\n\n<p>Despite this significant expansion of enrolment in tertiary education in a number of regions, it has remained low in others. In <span class=\"label-ref\">sub-Saharan Africa</span>, participation rose only slightly, from 4% to 10% for men and from 2% to 8% for women over the period 1990\u20132018. Similarly, in countries in Southern Asia, gross enrolment ratios for 2018 were lower than global averages (26% for both men and women). Countries in Northern Africa and South-Eastern Asia also recorded enrolment in tertiary education below the global averages for both women and men. Over the period 1990\u20132018, <span class=\"label-ref\">Central Asia</span>, where gross enrolment ratios have remained in the mid 20% range, for both women and men, was the only region in the world to experience stagnation in participation in tertiary education.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609631920",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609642799",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609651540",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602678126488,
+                    "pubDate": 1602678126488,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne10-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Gender disparities at the tertiary level favour women over men in most regions</span>",
+                    "content": "<p>Gender disparities in tertiary education shifted from a male to a female advantage throughout the world, and in most regions, during the period 1990\u20132018 (see figure I). In 1990, men\u2019s participation was slightly higher than that of women\u2019s (at 14% for men and 13% for women). Since then, the enrolment of women has been increasing worldwide at a faster rate than that for men, and by the late1990s the enrolment ratios of men and women reached <a class=\"narrative-ref\" href=\"#NE11\" target=\"_blank\">parity</a>, remaining equal until the early 2000s. The global participation of women has since exceeded that of men, shifting gender disparity from a male to a female advantage. By 2018, the gross enrolment ratios for women and men stood at 41% and 36%, respectively, reflecting a gender disparity in favour of women.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609674534",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602678172889,
+                    "pubDate": 1602678172889,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne10-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Women in sub-Saharan Africa and Western Asia remain at a disadvantage</span>",
+                    "content": "<p>While women are more represented than men in tertiary education in most regions of the world, the situation is the opposite in <span class=\"label-ref\">sub-Saharan Africa</span> (where the gross enrolment ratio in 2018 was 8% for women and 10% for men). National level data show that the majority of countries with female enrolment ratios of less than 10% are located in sub-Saharan Africa (see figure II), and a few in Western Asia (Afghanistan, Turkmenistan, Uzbekistan and Yemen). While enrolment in tertiary education has historically been low in these regions for both women and men, gender disparities continue to favour men in most countries in sub-Saharan Africa and Western Asia.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609698448",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609707111",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602974664283,
+                    "pubDate": 1602974664283,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webmap",
+                        "webmap": {
+                            "id": "c7f9b7058da34aa988d91c9bed1675ac",
+                            "extent": null,
+                            "layers": null,
+                            "popup": null,
+                            "overview": {
+                                "enable": false,
+                                "openByDefault": true
+                            },
+                            "legend": {
+                                "enable": true,
+                                "openByDefault": false
+                            },
+                            "geocoder": {
+                                "enable": false
+                            },
+                            "altText": ""
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Methodological challenges: measuring participation in tertiary education</span>",
+                    "content": "<p>Unlike primary and secondary education, where the target age groups consist of the official school-age populations, the notion of a target population is not easily applied to tertiary education as there are usually no official ages for attendance. Most tertiary education systems offer a wide range of programmes and pathways, allowing students to achieve a degree in two years or to complete an advanced research degree in seven or eight years. In the light of this variation, the gross enrolment ratio for tertiary education is calculated based on a standard age range of five years, which begins at the end of secondary education.</p>\n\n<p>The ratio is computed as the total enrolment in tertiary education, regardless of age, expressed as a percentage of the target population made up of the five-year age group following graduation from secondary school. While the gross enrolment ratio in tertiary education is useful for computing the volume of participation in tertiary programmes, it is important to note that there are limitations when comparing the actual population coverage across countries owing to: differences in the duration of tertiary education programmes; the enrolment of large numbers of women and men outside the target age group; and high drop-out rates and frequent re-enrolments.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609744028",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602678384288,
+                    "pubDate": 1602678384288,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602500674804__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1602500674804__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602500674804__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Source</span>",
+                    "content": "<ul>\n\t<li><a href=\"http://uis.unesco.org/en/search/site/global%20education%20digest?f%5B0%5D=type%3Adocument\" target=\"_blank\">United Nations Educational, Scientific and Cultural Organization (UNESCO), UNESCO Institute for Statistics, Global Education Digest 2009: Comparing Education Statistics Across the World, Montreal, 2009.</a></li>\n</ul>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609766300",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609772459",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602500645985,
+                    "pubDate": 1602500645985,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/clay-banks-GX8KBbVmC6c-unsplash__1602500644390__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "clay-banks-GX8KBbVmC6c-unsplash__1602500644390__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/clay-banks-GX8KBbVmC6c-unsplash__1602500644390__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Gross enrolment ratio (GER) in tertiary education</span>: <span class=\"definition\">Number of students enrolled in tertiary education, regardless of age, expressed as a percentage of the population in the five-year age group starting from the official secondary school graduation age. There are limitations when comparing the actual population coverage across countries due to: the diversity in the duration of tertiary programmes; the enrolment of large numbers of women and men outside the target age group; and high drop-out rates and frequent re-enrolments.</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Women and men in tertiary education.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Data are available for all regional groupings for under the Sustainable Development Goals (SDG)<span class=\"footnote-index\">2</span> and for 189 countries for the period 1990\u20132018 (latest available).<span class=\"footnote-index\">3</span></p>\n</div>\n</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602500676437,
+                    "pubDate": 1602500676437,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602500674804__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1602500674804__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602500674804__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"http://uis.unesco.org/en/search/site/global%20education%20digest?f%5B0%5D=type%3Adocument\" target=\"_blank\">United Nations Educational, Scientific and Cultural Organization (UNESCO), UNESCO Institute for Statistics, Global Education Digest 2009: Comparing Education Statistics Across the World, Montreal, 2004</a>. (2009) (\u21e1 back to text)</li>\n\t<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\" target=\"_blank\">Regional groupings under the Sustainable Development Goals (SDGs)</a>. (\u21e1 back to text)</li>\n\t<li><a href=\"http://uis.unesco.org/\" target=\"_blank\">Data source: United Nations Educational, Scientific and Cultural Organization (UNESCO) Institute for Statistics database</a>. (accessed April 2020). (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609809974",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609814847",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609820099",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602500702977,
+                    "pubDate": 1602500702977,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602500701493__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602500701493__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602500701493__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NE10"
+    }
+}

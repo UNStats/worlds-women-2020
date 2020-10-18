@@ -1,1 +1,420 @@
-{"values": {"settings": {"header": {"linkText": "World's Women 2020", "linkURL": "https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=894bed8498eb449a983af8b33a7125f3", "logoURL": "https://www.arcgis.com/sharing/rest/content/items/894bed8498eb449a983af8b33a7125f3/resources/sm_mj_logo__1598499409363.jpg", "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/", "social": {"facebook": true, "twitter": true, "bitly": true}}, "appGeocoders": [{"singleLineFieldName": "SingleLine", "name": "ArcGIS World Geocoding Service", "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"}], "layout": {"id": "side"}, "layoutOptions": {"layoutCfg": {"size": "large", "position": "right"}, "socialLinks": false}, "theme": {"colors": {"name": "side-default-5", "themeMajor": "white", "dotNav": "#68AAE1", "panel": "#FFFFFF", "media": "#E8E8DF", "text": "#000000", "textLink": "#555", "softText": "#FFF", "softBtn": "#4D4D4D", "esriLogo": "black"}, "fonts": {"sectionTitle": {"id": "default", "value": "font-family:'open_sansregular', sans-serif;"}, "sectionContent": {"id": "default", "value": "font-family:'open_sansregular', sans-serif;"}}}}, "title": "Economic empowerment\n", "story": {"storage": "WEBAPP", "sections": [{"title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n", "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Women and men in the labour force</div>\n", "contentActions": [], "creaDate": 1602252022960, "pubDate": 1602252022960, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/27c1c1ad540347aabc70434238223919/resources/nw1-home__1602252014208__w1200.jpg", "type": "image", "altText": "", "sizes": [{"name": "nw1-home__1602252014208__w1200.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/27c1c1ad540347aabc70434238223919/resources/nw1-home__1602252014208__w1200.jpg", "width": 1200}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">Key points</span>", "content": "<ul class=\"key-points\">\n\t<li>In 2020, worldwide, more men (74%) than women (47%) participated in the labour force. The global gender gap in labour force participation, which has narrowed only marginally over the past 25 years, is reported at 27 percentage points as of 2020.</li>\n\t<li>Across regions in 2019, the gender gap in labour force participation was the largest in Southern Asia (54 percentage points), Northern Africa (47 percentage points) and Western Asia (47 percentage points), where women\u2019s labour participation rates were below 30%.</li>\n\t<li>The gender gap in labour force participation was relatively narrow in sub-Saharan Africa and in developed regions, although for different reasons: in sub-Saharan Africa, economic necessity, brought about by poverty, pressures many women into seeking employment, whereas women in the labour force in developed countries enjoy educational levels equal to those of men and social norms that encourage their participation in paid work.</li>\n\t<li>Across all stages of the life cycle, men\u2019s labour force participation rates were higher than women\u2019s in all working-age groups, including youth and older persons. The largest gender gap in labour force participation is observed in the prime working age (25\u201354). That gap, which has remained relatively stable since 1995, is reported at 32 percentage points as of 2020.</li>\n\t<li>Depending on household type, the proportion of women actively engaged in the labour market varied greatly while that of men remained unchanged: 82% of women in prime working age in one-person households participated in the labour force, compared to 64% of women in couple-only households and 48% of women in couple households with children.</li>\n</ul>\n", "contentActions": [], "creaDate": 1602475470575, "pubDate": 1602475440000, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/27c1c1ad540347aabc70434238223919/resources/tymur-kuchumov-NyzsFCLA7hI-unsplash__1602475468504__w600.jpg", "type": "image", "altText": "", "sizes": [{"name": "tymur-kuchumov-NyzsFCLA7hI-unsplash__1602475468504__w600.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/27c1c1ad540347aabc70434238223919/resources/tymur-kuchumov-NyzsFCLA7hI-unsplash__1602475468504__w600.jpg", "width": 600}], "display": "fill"}}}, {"title": "<span style=\"font-size:28px;\">Globally, the gender gap in labour force participation remains very large</span>", "content": "<p>Women and men in the&nbsp;labour&nbsp;force furnish, or are available to furnish, the supply of&nbsp;labour&nbsp;for the production of goods and services in exchange for pay or profit,&nbsp;thus&nbsp;achieving economic empowerment and earning an independent source of income.&nbsp;However,&nbsp;labour&nbsp;market&nbsp;behaviours&nbsp;relative to&nbsp;women and men&nbsp;continue to vary&nbsp;due to legal,&nbsp;systemic and/or attitudinal&nbsp;restrictions.</p>\n\n<p>In 2020, men were much more likely (74%) than women (47%) to participate in the labour force in countries worldwide. Between 1995 and 2005, the labour force participation rate for women remained slightly over 50% and declined gradually to 47% in 2018, where it is projected to remain in 2020. Men\u2019s labour force participation rate declined from 79% in 1995 to 74% in 2018 and is projected to remain at that level in 2020 (see figure I).</p>\n\n<p>The gender gap in labour force participation has narrowed only marginally, to 27 percentage points, over the past 25 years due to a slightly larger decline in the labour force participation rate of men compared with that of women.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609558915", "type": "navigate", "index": 10}], "creaDate": 1602517797553, "pubDate": 1602517740000, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw1-graph-1", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px\">Women&rsquo;s participation in the labour force varies greatly across regions</span>", "content": "<p>Large variations are found in women\u2019s access to the labour market, as well as in the gender gap, across regions at various stages of economic development (see figure II). In 2019, the gender gap in labour force participation was the largest in <span class=\"label-ref\">Southern Asia</span> (54 percentage points), <span class=\"label-ref\">Northern Africa</span> (47 percentage points) and <span class=\"label-ref\">Western Asia</span> (47 percentage points), where women\u2019s labour force participation rates were below 30% (see figure II).</p>\n\n<p>Nine out of ten countries where <a class=\"narrative-ref\" href=\"#NW8\" target=\"_blank\">discriminatory social norms</a> towards women in paid employment were reported to be the most prevalent were located in those three regions. Limits on <a class=\"narrative-ref\" href=\"#NW11\" target=\"_blank\">equal rights</a> for women and men and their freedom to work, namely legal frameworks requiring permission or additional documentation for women to work, existed in 8 out of 18 countries in Western Asia with available data.<span class=\"footnote-index\">1</span> Moreover, only 14% of countries in Southern Asia with available data made a 14-weeks minimum statutory <a class=\"narrative-ref\" href=\"#NW24\" target=\"_blank\">paid leave</a> period available to expecting mothers.</p>\n\n<p>The gender gap in labour force participation may be relatively narrow in countries in both developing and developed regions, although for different reasons. In countries in developing regions, such as sub-Saharan Africa,<span class=\"footnote-index\">2</span> women\u2019s relatively high labour force participation rate compared with men\u2019s may be attributed to elevated levels of poverty and thus the economic necessity to work; in developed regions, such as Australia or New Zealand, women\u2019s high participation rate in the labour force compared with men\u2019s is a result of their near equal levels of <a class=\"narrative-ref\" href=\"#NE11\" target=\"_blank\">educational participation</a> and less restrictive social norms regarding the right of women to take part in paid work.<span class=\"footnote-index\">3</span></p>\n\n<p>Between 2000 and 2019, across all regions, the steepest decline in women\u2019s labour force participation was in <span class=\"label-ref\">Oceania</span> (excluding Australia and New Zealand), where the rate fell by 17 percentage points, to 48%, and the highest increase was in Australia and New Zealand, where the rate rose by six percentage points, to 61%. During the same period, the Eastern Asia region, which had the largest regional share of the global labour force in 2019, registered an 8 percentage point decline, to 60% in the rate of women\u2019s labour force participation. An increase in women\u2019s labour force participation rates was also recorded in Latin America and the Caribbean (52%) and in Europe (52%).</p>\n", "contentActions": [], "creaDate": 1602876037427, "pubDate": 1602876000000, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw1-graph-2", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:28px;\">Labour force participation is lower for women than for men across all working-age groups</span>", "content": "<p>Across all stages in the life cycle, men\u2019s rates of participation in the labour force are higher than those of women, including among <span class=\"label-ref\">youth</span> and <span class=\"label-ref\">older persons</span>.</p>\n\n<p>In 2020, worldwide, labour force participation among young women and men aged 15\u201324 was generally low, reflecting increased access to education and the lack of capacity of the labour market to absorb new cohorts of graduates. Labour force participation among older women and men aged 55\u201364 and above 65 was relatively low as well, reflecting retirement choices, access to social safety nets in later years, as well as retirement policies (see figure III).</p>\n\n<p>While both women and men reached their peak levels of participation in the labour force during their prime working ages (25\u201354), data reveal that the largest gender gap in labour force participation&nbsp;is in this age group. The gender gap for this cohort has remained relatively stable, at 32 percentage points in 2020, compared with 31 percentage points in 1995.</p>\n\n<p>Between ages 25\u201354, women\u2019s access to the labour market maybe restricted owing to changes in household composition and the unequal distribution of <a class=\"narrative-ref\" href=\"#NW25\" target=\"_blank\">unpaid care work</a> in the household between women and men; women\u2019s participation rate shows a gradual recovery as mothers enter or re-enter the labour force as their children grow older and family responsibilities are reduced.<span class=\"footnote-index\">4</span></p>\n", "contentActions": [{"id": "MJ-ACTION-1598609631920", "type": "navigate", "index": 10}, {"id": "MJ-ACTION-1598609642799", "type": "navigate", "index": 10}, {"id": "MJ-ACTION-1598609651540", "type": "navigate", "index": 10}], "creaDate": 1602474973910, "pubDate": 1602474960000, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw1-graph-3", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px;\">The rate of women&#39;s participation in the labour force during prime working ages varies greatly across household types while men&#39;s remains unchanged</span>", "content": "<p>Depending on the household type, the proportion of women actively engaged in the labour market varies greatly. In 2020, worldwide, women aged 25\u201354 in one person households had the highest labour force participation rate (82%) compared with women in other household types. When they marry and have children, however, women are more likely than men to exit the labour market (see figure IV).</p>\n\n<p><a class=\"narrative-ref\" href=\"#NP18\" target=\"_blank\">Lone mothers with children</a> under the age of six are more likely than women in couple or extended family households to participate in the labour force, possibly due to greater financial responsibilities. In couple-only households<span class=\"footnote-index\">5</span> and couple households with children,<span class=\"footnote-index\">6</span> women were considerably less economically active, participating in the labour force at rates of 64% and 48%, respectively, due to the different roles and responsibilities of women and men in unpaid domestic and care work, including domestic chores, as well as childbearing, child-rearing and childcare. In households with extended families,<span class=\"footnote-index\">7</span> the presence of additional adults might contribute to the burden of women\u2019s unpaid domestic and care work, further decreasing their rates of participation in the labour force.</p>\n\n<p>For men, on the other hand, labour force participation rates remain high irrespective of household types. In 2020, worldwide, men aged 25\u201354 in one-person households had a lower labour force participation rate (90%) than men living in other household types. However, men who marry and have children are more likely to be in the labour force. In couple households with children, men\u2019s labour force participation rate was the highest (97%), denoting a supply of labour almost at full capacity.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609674534", "type": "navigate", "index": 10}], "creaDate": 1602475135866, "pubDate": 1602475080000, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw1-graph-4", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px;\">The likelihood of women being in the labour force during prime working ages tends to decrease in most regions with each additional child aged under six while the rate of men&rsquo;s participation remains unchanged</span>", "content": "<p>The presence of children under age six contributes greatly to the gender gap in labour force participation in prime working ages. In 2020, across regions, the participation in the labour force of women aged 25\u201354 was more likely to decrease with each additional child under the age of six in both extended family and couple households (see table).</p>\n\n<p>Across all regions, men aged 25\u201354, in contrast to women in the same age group, were almost equally or more likely to participate in the labour force given the presence of additional children aged under six.</p>\n\n<p>In <span class=\"label-ref\">South-Eastern Asia</span>, women in couple households left the labour force at dramatic&nbsp;&nbsp;rates with the birth of each additional child under the age of six: the labour force participation rate of women with three or more children aged under six in this household type stood at 32%, 40 percentage points lower than that of women living with no children aged under six.</p>\n\n<p>However, in extended family households, the impact of the presence of additional children on the rate of women\u2019s labour force participation was less drastic, probably indicating the availability of help with childcare from other adults in the household. A similar pattern was observed in <span class=\"label-ref\">Latin America and the Caribbean</span>, where the presence of additional children reduced women\u2019s labour force participation to a lesser extent in extended family households compared with couple households.</p>\n\n<p>In <span class=\"label-ref\">Europe and Northern America</span>, on the other hand, women in extended family households were less likely to participate in the labour force than women in couple households. It is possible that, in extended households, the presence of additional adults may represent an increase in the share of women\u2019s unpaid care work.</p>\n", "contentActions": [{"id": "MJ-ACTION-1598609698448", "type": "navigate", "index": 10}, {"id": "MJ-ACTION-1598609707111", "type": "navigate", "index": 10}], "creaDate": 1602475299152, "pubDate": 1602475260000, "status": "PUBLISHED", "media": {"type": "webpage", "webpage": {"url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/NW1_table.htm", "type": "webpage", "altText": "", "display": "stretch", "unload": true}}}, {"title": "<span style=\"font-size:26px;\">Country in focus: Iraq</span>", "content": "<p>In <span class=\"label-ref\">Iraq</span>, where no regular labour force surveys are being held, the rate of women\u2019s participation in the labour force was 11% in 2017 according to national estimates, the lowest rate in the world after Yemen. The Government of Iraq has set an ambitious target of increasing women\u2019s participation in the labour force by five percentage points by 2025. If this target is met and continued for an additional decade, annual economic growth in Iraq is estimated to be boosted by 1.6 percentage points through 2035.<span class=\"footnote-index\">8</span></p>\n", "contentActions": [{"id": "MJ-ACTION-1598609766300", "type": "navigate", "index": 10}, {"id": "MJ-ACTION-1598609772459", "type": "navigate", "index": 10}], "creaDate": 1602475630950, "pubDate": 1602475620000, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/27c1c1ad540347aabc70434238223919/resources/ckturistando-bcaMuQ3BmK8-unsplash__1602475626936__w600.jpg", "type": "image", "altText": "", "sizes": [{"name": "ckturistando-bcaMuQ3BmK8-unsplash__1602475626936__w600.jpg", "url": "https://www.arcgis.com/sharing/rest/content/items/27c1c1ad540347aabc70434238223919/resources/ckturistando-bcaMuQ3BmK8-unsplash__1602475626936__w600.jpg", "width": 600}], "display": "fill"}}}, {"title": "<span style=\"font-size:26px;\">COVID-19</span>", "content": "<p>The gender gap in the labour force participation rate, which had narrowed slightly in the past 25 years, was still considerable and persistent prior to the onset of the <span class=\"label-ref\">Covid-19</span> pandemic. The pandemic may exacerbate gender disparities in labour market outcomes, as well as the unequal distribution of <a class=\"narrative-ref\" href=\"#NW25\" target=\"_blank\">unpaid domestic and care work</a> among women and men.</p>\n\n<p>The youth labour force participation rate fell significantly in countries around the world from February to April 2020 owing to the lockdown resulting from the <span class=\"label-ref\">Covid-19</span> pandemic: by 7.5 percentage points in the United States of America and 7.1 percentage points in Australia. The decline in the rate was less marked among adults aged 25 and above.</p>\n\n<p>In <span class=\"label-ref\">Canada</span>, the rate of women\u2019s participation in the labour force fell to 59% in June 2020 (from 61.2% in June 2019). Men\u2019s labour force participation rate also fell, to 68.8% in June 2020 (from 70.2% in June 2019). During the same period, the decline in labour force participation was much higher among young women aged 15\u201324 (5.3 percentage points) than among young men in&nbsp;the same age group (0.2 percentage points).<span class=\"footnote-index\">10</span></p>\n", "contentActions": [], "creaDate": 1602473891644, "pubDate": 1602473880000, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/27c1c1ad540347aabc70434238223919/resources/817248-Ring%20Vaccination%20at%20Kivika%20Health%20Centre%20in%20North%20Kivu__1601388046975__w1920.jpg", "type": "image", "altText": "", "display": "fill"}}}, {"title": "<span style=\"font-size:26px\">&nbsp;</span>", "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Labour force participation rate by sex</span>: This indicator provides information on the proportion of the working-age population that is actively engaged in the labour market either as employed or unemployed persons. Employed persons include working-age individuals who were engaged in any activity to produce goods or provide services for pay or profit during a specific period of time. Unemployed persons include working-age individuals who were not in employment, available for work and actively seeking work during the reference period. The working-age population covers persons aged 15 years and older in order to facilitate international reporting and cross-country comparability<span class=\"definition\">.<br>\n\t<br>\n\tLabour force participation (LFP) rate (%) = (employed persons + unemployed persons) / working - age population x 100 <span class=\"footnote-index\">11</span> </span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Working-age women and men in 188 United Nations Member States and territories.</p>\n</div>\n\n<div class=\"limitations\">\n<h2>Limitations</h2>\n\n<p>Women\u2019s participation in the labour force does not necessarily mean that they have access to income through decent work: women\u2019s work may include unemployment, underemployment, informal employment, part-time employment and unpaid employment (for example, contributing family workers), as well as fewer hours, lower wages, vulnerable employment conditions and limited access to leadership positions.</p>\n\n<p>Women in the labour force are more likely than men to go uncounted unless specific probing questions, capturing the number of women who work irregularly, for a few hours, at home and/or in unpaid employment, are integrated into surveys to measure their participation.</p>\n</div>\n</div>\n", "contentActions": [{"id": "MJ-ACTION-1598609809974", "type": "navigate", "index": 10}, {"id": "MJ-ACTION-1598609814847", "type": "navigate", "index": 10}, {"id": "MJ-ACTION-1598609820099", "type": "navigate", "index": 10}], "creaDate": 1602876173209, "pubDate": 1602876120000, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/27c1c1ad540347aabc70434238223919/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602154342208__w1200.jpg", "type": "image", "altText": "", "display": "fill"}}}, {"title": "<span style=\"font-size:26px\">&nbsp;</span>", "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li id=\"fn1\"><a href=\"https://wbl.worldbank.org/\" target=\"_blank\">World Bank, Women, Business and the Law 2020, Washington, D.C., 2020</a>. (\u21e1 back to text)</li>\n\t<li id=\"fn2\"><a href=\"https://www.ilo.org/global/research/global-reports/weso/trends-for-women2018/WCMS_619577/lang--en/index.htm\" target=\"_blank\">ILO, World Employment and Social Outlook: Trends for Women 2018, Geneva, 2018</a>. (\u21e1 back to text)</li>\n\t<li id=\"fn3\"><a href=\"https://www.ilo.org/global/research/global-reports/weso/trends-for-women2017/lang--en/index.htm\" target=\"_blank\">ILO, World Employment and Social Outlook: Trends for Women 2017, Geneva, 2017</a>. (\u21e1 back to text)</li>\n\t<li id=\"fn4\"><a href=\"https://www.unwomen.org/en/digital-library/publications/2020/05/the-impact-of-marriage-and-children-on-labour-market-participation\" target=\"_blank\">ILO and the United Nations Entity for Gender Equality and the Empowerment of Women (UN Women), The Impact of Marriage and Children on Labour Market Participation, Geneva 2020</a>. (\u21e1 back to text)</li>\n\t<li id=\"fn5\">Couple-only households consist of a household head and spouse (or partner). (\u21e1 back to text)</li>\n\t<li id=\"fn6\">Couple households with children consist of a household head, a spouse (or partner) and children. (\u21e1 back to text)</li>\n\t<li id=\"fn7\">Extended family household consist of a household head, spouse (or partner), children and other familial relative(s). (\u21e1 back to text)</li>\n\t<li id=\"fn8\">Source:<a href=\"https://www.worldbank.org/en/country/lebanon/publication/state-of-the-mashreq-women\" target=\"_blank\">World Bank, open data, (last accessed on 17 July 2020); World Bank, Women\u2019s Economic Participation in Iraq, Jordan and Lebanon, Washington, D.C., 2020</a>. (\u21e1 back to text)</li>\n\t<li id=\"fn9\">Sources: <a href=\"https://www.unwomen.org/en/digital-library/publications/2020/04/policy-brief-the-impact-of-covid-19-on-women\" target=\"_blank\">United Nations, Secretary-General\u2019s Policy Brief: The Impact of Covid-19 on Women, 9 April 2020</a>; <a href=\"https://www.ilo.org/global/topics/coronavirus/lang--en/index.htm\" target=\"_blank\">ILO, Covid-19 and the world of work, 2020</a>; <a href=\"https://www.ilo.org/global/topics/coronavirus/impacts-and-responses/WCMS_745963/lang--en/index.htm\" target=\"_blank\">ILO, ILO Monitor: Covid-19 and the world of work; updated estimates and analysis, 4th edition, 27 May 2020</a>(\u21e1 back to text)</li>\n\t<li id=\"fn10\">Source: <a href=\"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028701\" target=\"_blank\">Statistics Canada, Labour force characteristics: monthly, seasonally adjusted and trend-cycle</a> (last accessed on 10 August 2020). (\u21e1 back to text)</li>\n\t<li id=\"fn11\"><a href=\"https://www.ilo.org/global/publications/books/WCMS_409035/lang--en/index.htm\" target=\"_blank\">International Labour Organization (ILO), Key Indicators of the Labour Market, ninth edition, Geneva, 2016</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n", "contentActions": [{"id": "MJ-ACTION-1598609848308", "type": "navigate", "index": 2}, {"id": "MJ-ACTION-1598609857337", "type": "navigate", "index": 4}, {"id": "MJ-ACTION-1598609873239", "type": "navigate", "index": 4}, {"id": "MJ-ACTION-1598609883421", "type": "navigate", "index": 4}, {"id": "MJ-ACTION-1598609896997", "type": "navigate", "index": 6}, {"id": "MJ-ACTION-1598609906932", "type": "navigate", "index": 6}, {"id": "MJ-ACTION-1598609914851", "type": "navigate", "index": -1}, {"id": "MJ-ACTION-1598609927078", "type": "navigate", "index": 7}, {"id": "MJ-ACTION-1598609936839", "type": "navigate", "index": 7}, {"id": "MJ-ACTION-1598609958575", "type": "navigate", "index": 9}, {"id": "MJ-ACTION-1598609967973", "type": "navigate", "index": 9}, {"id": "MJ-ACTION-1598609975942", "type": "navigate", "index": 9}, {"id": "MJ-ACTION-1598610194053", "type": "navigate", "index": 5}], "creaDate": 1602875942453, "pubDate": 1602875940000, "status": "PUBLISHED", "media": {"type": "image", "image": {"url": "https://www.arcgis.com/sharing/rest/content/items/27c1c1ad540347aabc70434238223919/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602154371439__w1200.jpg", "type": "image", "altText": "", "display": "fill"}}}], "reversed": false}, "template": {"name": "Map Journal", "createdWith": "1.24.1", "editedWith": "1.25.0"}, "doNotWarnTitle": true}, "_ssl": null}
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Economic empowerment\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Women and men in the labour force</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602252022960,
+                    "pubDate": 1602252022960,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/27c1c1ad540347aabc70434238223919/resources/nw1-home__1602252014208__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "nw1-home__1602252014208__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/27c1c1ad540347aabc70434238223919/resources/nw1-home__1602252014208__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>In 2020, worldwide, more men (74%) than women (47%) participated in the labour force. The global gender gap in labour force participation, which has narrowed only marginally over the past 25 years, is reported at 27 percentage points as of 2020.</li>\n\t<li>Across regions in 2019, the gender gap in labour force participation was the largest in Southern Asia (54 percentage points), Northern Africa (47 percentage points) and Western Asia (47 percentage points), where women\u2019s labour participation rates were below 30%.</li>\n\t<li>The gender gap in labour force participation was relatively narrow in sub-Saharan Africa and in developed regions, although for different reasons: in sub-Saharan Africa, economic necessity, brought about by poverty, pressures many women into seeking employment, whereas women in the labour force in developed countries enjoy educational levels equal to those of men and social norms that encourage their participation in paid work.</li>\n\t<li>Across all stages of the life cycle, men\u2019s labour force participation rates were higher than women\u2019s in all working-age groups, including youth and older persons. The largest gender gap in labour force participation is observed in the prime working age (25\u201354). That gap, which has remained relatively stable since 1995, is reported at 32 percentage points as of 2020.</li>\n\t<li>Depending on household type, the proportion of women actively engaged in the labour market varied greatly while that of men remained unchanged: 82% of women in prime working age in one-person households participated in the labour force, compared to 64% of women in couple-only households and 48% of women in couple households with children.</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602475470575,
+                    "pubDate": 1602475440000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/27c1c1ad540347aabc70434238223919/resources/tymur-kuchumov-NyzsFCLA7hI-unsplash__1602475468504__w600.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "tymur-kuchumov-NyzsFCLA7hI-unsplash__1602475468504__w600.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/27c1c1ad540347aabc70434238223919/resources/tymur-kuchumov-NyzsFCLA7hI-unsplash__1602475468504__w600.jpg",
+                                    "width": 600
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px;\">Globally, the gender gap in labour force participation remains very large</span>",
+                    "content": "<p>Women and men in the&nbsp;labour&nbsp;force furnish, or are available to furnish, the supply of&nbsp;labour&nbsp;for the production of goods and services in exchange for pay or profit,&nbsp;thus&nbsp;achieving economic empowerment and earning an independent source of income.&nbsp;However,&nbsp;labour&nbsp;market&nbsp;behaviours&nbsp;relative to&nbsp;women and men&nbsp;continue to vary&nbsp;due to legal,&nbsp;systemic and/or attitudinal&nbsp;restrictions.</p>\n\n<p>In 2020, men were much more likely (74%) than women (47%) to participate in the labour force in countries worldwide. Between 1995 and 2005, the labour force participation rate for women remained slightly over 50% and declined gradually to 47% in 2018, where it is projected to remain in 2020. Men\u2019s labour force participation rate declined from 79% in 1995 to 74% in 2018 and is projected to remain at that level in 2020 (see figure I).</p>\n\n<p>The gender gap in labour force participation has narrowed only marginally, to 27 percentage points, over the past 25 years due to a slightly larger decline in the labour force participation rate of men compared with that of women.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609558915",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1602517797553,
+                    "pubDate": 1602517740000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw1-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Women&rsquo;s participation in the labour force varies greatly across regions</span>",
+                    "content": "<p>Large variations are found in women\u2019s access to the labour market, as well as in the gender gap, across regions at various stages of economic development (see figure II). In 2019, the gender gap in labour force participation was the largest in <span class=\"label-ref\">Southern Asia</span> (54 percentage points), <span class=\"label-ref\">Northern Africa</span> (47 percentage points) and <span class=\"label-ref\">Western Asia</span> (47 percentage points), where women\u2019s labour force participation rates were below 30% (see figure II).</p>\n\n<p>Nine out of ten countries where <a class=\"narrative-ref\" href=\"#NW8\" target=\"_blank\">discriminatory social norms</a> towards women in paid employment were reported to be the most prevalent were located in those three regions. Limits on <a class=\"narrative-ref\" href=\"#NW11\" target=\"_blank\">equal rights</a> for women and men and their freedom to work, namely legal frameworks requiring permission or additional documentation for women to work, existed in 8 out of 18 countries in Western Asia with available data.<span class=\"footnote-index\">1</span> Moreover, only 14% of countries in Southern Asia with available data made a 14-weeks minimum statutory <a class=\"narrative-ref\" href=\"#NW24\" target=\"_blank\">paid leave</a> period available to expecting mothers.</p>\n\n<p>The gender gap in labour force participation may be relatively narrow in countries in both developing and developed regions, although for different reasons. In countries in developing regions, such as sub-Saharan Africa,<span class=\"footnote-index\">2</span> women\u2019s relatively high labour force participation rate compared with men\u2019s may be attributed to elevated levels of poverty and thus the economic necessity to work; in developed regions, such as Australia or New Zealand, women\u2019s high participation rate in the labour force compared with men\u2019s is a result of their near equal levels of <a class=\"narrative-ref\" href=\"#NE11\" target=\"_blank\">educational participation</a> and less restrictive social norms regarding the right of women to take part in paid work.<span class=\"footnote-index\">3</span></p>\n\n<p>Between 2000 and 2019, across all regions, the steepest decline in women\u2019s labour force participation was in <span class=\"label-ref\">Oceania</span> (excluding Australia and New Zealand), where the rate fell by 17 percentage points, to 48%, and the highest increase was in Australia and New Zealand, where the rate rose by six percentage points, to 61%. During the same period, the Eastern Asia region, which had the largest regional share of the global labour force in 2019, registered an 8 percentage point decline, to 60% in the rate of women\u2019s labour force participation. An increase in women\u2019s labour force participation rates was also recorded in Latin America and the Caribbean (52%) and in Europe (52%).</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602876037427,
+                    "pubDate": 1602876000000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw1-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px;\">Labour force participation is lower for women than for men across all working-age groups</span>",
+                    "content": "<p>Across all stages in the life cycle, men\u2019s rates of participation in the labour force are higher than those of women, including among <span class=\"label-ref\">youth</span> and <span class=\"label-ref\">older persons</span>.</p>\n\n<p>In 2020, worldwide, labour force participation among young women and men aged 15\u201324 was generally low, reflecting increased access to education and the lack of capacity of the labour market to absorb new cohorts of graduates. Labour force participation among older women and men aged 55\u201364 and above 65 was relatively low as well, reflecting retirement choices, access to social safety nets in later years, as well as retirement policies (see figure III).</p>\n\n<p>While both women and men reached their peak levels of participation in the labour force during their prime working ages (25\u201354), data reveal that the largest gender gap in labour force participation&nbsp;is in this age group. The gender gap for this cohort has remained relatively stable, at 32 percentage points in 2020, compared with 31 percentage points in 1995.</p>\n\n<p>Between ages 25\u201354, women\u2019s access to the labour market maybe restricted owing to changes in household composition and the unequal distribution of <a class=\"narrative-ref\" href=\"#NW25\" target=\"_blank\">unpaid care work</a> in the household between women and men; women\u2019s participation rate shows a gradual recovery as mothers enter or re-enter the labour force as their children grow older and family responsibilities are reduced.<span class=\"footnote-index\">4</span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609631920",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609642799",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609651540",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1602474973910,
+                    "pubDate": 1602474960000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw1-graph-3",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">The rate of women&#39;s participation in the labour force during prime working ages varies greatly across household types while men&#39;s remains unchanged</span>",
+                    "content": "<p>Depending on the household type, the proportion of women actively engaged in the labour market varies greatly. In 2020, worldwide, women aged 25\u201354 in one person households had the highest labour force participation rate (82%) compared with women in other household types. When they marry and have children, however, women are more likely than men to exit the labour market (see figure IV).</p>\n\n<p><a class=\"narrative-ref\" href=\"#NP18\" target=\"_blank\">Lone mothers with children</a> under the age of six are more likely than women in couple or extended family households to participate in the labour force, possibly due to greater financial responsibilities. In couple-only households<span class=\"footnote-index\">5</span> and couple households with children,<span class=\"footnote-index\">6</span> women were considerably less economically active, participating in the labour force at rates of 64% and 48%, respectively, due to the different roles and responsibilities of women and men in unpaid domestic and care work, including domestic chores, as well as childbearing, child-rearing and childcare. In households with extended families,<span class=\"footnote-index\">7</span> the presence of additional adults might contribute to the burden of women\u2019s unpaid domestic and care work, further decreasing their rates of participation in the labour force.</p>\n\n<p>For men, on the other hand, labour force participation rates remain high irrespective of household types. In 2020, worldwide, men aged 25\u201354 in one-person households had a lower labour force participation rate (90%) than men living in other household types. However, men who marry and have children are more likely to be in the labour force. In couple households with children, men\u2019s labour force participation rate was the highest (97%), denoting a supply of labour almost at full capacity.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609674534",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1602475135866,
+                    "pubDate": 1602475080000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw1-graph-4",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">The likelihood of women being in the labour force during prime working ages tends to decrease in most regions with each additional child aged under six while the rate of men&rsquo;s participation remains unchanged</span>",
+                    "content": "<p>The presence of children under age six contributes greatly to the gender gap in labour force participation in prime working ages. In 2020, across regions, the participation in the labour force of women aged 25\u201354 was more likely to decrease with each additional child under the age of six in both extended family and couple households (see table).</p>\n\n<p>Across all regions, men aged 25\u201354, in contrast to women in the same age group, were almost equally or more likely to participate in the labour force given the presence of additional children aged under six.</p>\n\n<p>In <span class=\"label-ref\">South-Eastern Asia</span>, women in couple households left the labour force at dramatic&nbsp;&nbsp;rates with the birth of each additional child under the age of six: the labour force participation rate of women with three or more children aged under six in this household type stood at 32%, 40 percentage points lower than that of women living with no children aged under six.</p>\n\n<p>However, in extended family households, the impact of the presence of additional children on the rate of women\u2019s labour force participation was less drastic, probably indicating the availability of help with childcare from other adults in the household. A similar pattern was observed in <span class=\"label-ref\">Latin America and the Caribbean</span>, where the presence of additional children reduced women\u2019s labour force participation to a lesser extent in extended family households compared with couple households.</p>\n\n<p>In <span class=\"label-ref\">Europe and Northern America</span>, on the other hand, women in extended family households were less likely to participate in the labour force than women in couple households. It is possible that, in extended households, the presence of additional adults may represent an increase in the share of women\u2019s unpaid care work.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609698448",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609707111",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1602475299152,
+                    "pubDate": 1602475260000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/NW1_table.htm",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Country in focus: Iraq</span>",
+                    "content": "<p>In <span class=\"label-ref\">Iraq</span>, where no regular labour force surveys are being held, the rate of women\u2019s participation in the labour force was 11% in 2017 according to national estimates, the lowest rate in the world after Yemen. The Government of Iraq has set an ambitious target of increasing women\u2019s participation in the labour force by five percentage points by 2025. If this target is met and continued for an additional decade, annual economic growth in Iraq is estimated to be boosted by 1.6 percentage points through 2035.<span class=\"footnote-index\">8</span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609766300",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609772459",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1602475630950,
+                    "pubDate": 1602475620000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/27c1c1ad540347aabc70434238223919/resources/ckturistando-bcaMuQ3BmK8-unsplash__1602475626936__w600.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ckturistando-bcaMuQ3BmK8-unsplash__1602475626936__w600.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/27c1c1ad540347aabc70434238223919/resources/ckturistando-bcaMuQ3BmK8-unsplash__1602475626936__w600.jpg",
+                                    "width": 600
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">COVID-19</span>",
+                    "content": "<p>The gender gap in the labour force participation rate, which had narrowed slightly in the past 25 years, was still considerable and persistent prior to the onset of the <span class=\"label-ref\">Covid-19</span> pandemic. The pandemic may exacerbate gender disparities in labour market outcomes, as well as the unequal distribution of <a class=\"narrative-ref\" href=\"#NW25\" target=\"_blank\">unpaid domestic and care work</a> among women and men.</p>\n\n<p>The youth labour force participation rate fell significantly in countries around the world from February to April 2020 owing to the lockdown resulting from the <span class=\"label-ref\">Covid-19</span> pandemic: by 7.5 percentage points in the United States of America and 7.1 percentage points in Australia. The decline in the rate was less marked among adults aged 25 and above.</p>\n\n<p>In <span class=\"label-ref\">Canada</span>, the rate of women\u2019s participation in the labour force fell to 59% in June 2020 (from 61.2% in June 2019). Men\u2019s labour force participation rate also fell, to 68.8% in June 2020 (from 70.2% in June 2019). During the same period, the decline in labour force participation was much higher among young women aged 15\u201324 (5.3 percentage points) than among young men in&nbsp;the same age group (0.2 percentage points).<span class=\"footnote-index\">10</span></p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602473891644,
+                    "pubDate": 1602473880000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/27c1c1ad540347aabc70434238223919/resources/817248-Ring%20Vaccination%20at%20Kivika%20Health%20Centre%20in%20North%20Kivu__1601388046975__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Labour force participation rate by sex</span>: This indicator provides information on the proportion of the working-age population that is actively engaged in the labour market either as employed or unemployed persons. Employed persons include working-age individuals who were engaged in any activity to produce goods or provide services for pay or profit during a specific period of time. Unemployed persons include working-age individuals who were not in employment, available for work and actively seeking work during the reference period. The working-age population covers persons aged 15 years and older in order to facilitate international reporting and cross-country comparability<span class=\"definition\">.<br>\n\t<br>\n\tLabour force participation (LFP) rate (%) = (employed persons + unemployed persons) / working - age population x 100 <span class=\"footnote-index\">11</span> </span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Working-age women and men in 188 United Nations Member States and territories.</p>\n</div>\n\n<div class=\"limitations\">\n<h2>Limitations</h2>\n\n<p>Women\u2019s participation in the labour force does not necessarily mean that they have access to income through decent work: women\u2019s work may include unemployment, underemployment, informal employment, part-time employment and unpaid employment (for example, contributing family workers), as well as fewer hours, lower wages, vulnerable employment conditions and limited access to leadership positions.</p>\n\n<p>Women in the labour force are more likely than men to go uncounted unless specific probing questions, capturing the number of women who work irregularly, for a few hours, at home and/or in unpaid employment, are integrated into surveys to measure their participation.</p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609809974",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609814847",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609820099",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1602876173209,
+                    "pubDate": 1602876120000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/27c1c1ad540347aabc70434238223919/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602154342208__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li id=\"fn1\"><a href=\"https://wbl.worldbank.org/\" target=\"_blank\">World Bank, Women, Business and the Law 2020, Washington, D.C., 2020</a>. (\u21e1 back to text)</li>\n\t<li id=\"fn2\"><a href=\"https://www.ilo.org/global/research/global-reports/weso/trends-for-women2018/WCMS_619577/lang--en/index.htm\" target=\"_blank\">ILO, World Employment and Social Outlook: Trends for Women 2018, Geneva, 2018</a>. (\u21e1 back to text)</li>\n\t<li id=\"fn3\"><a href=\"https://www.ilo.org/global/research/global-reports/weso/trends-for-women2017/lang--en/index.htm\" target=\"_blank\">ILO, World Employment and Social Outlook: Trends for Women 2017, Geneva, 2017</a>. (\u21e1 back to text)</li>\n\t<li id=\"fn4\"><a href=\"https://www.unwomen.org/en/digital-library/publications/2020/05/the-impact-of-marriage-and-children-on-labour-market-participation\" target=\"_blank\">ILO and the United Nations Entity for Gender Equality and the Empowerment of Women (UN Women), The Impact of Marriage and Children on Labour Market Participation, Geneva 2020</a>. (\u21e1 back to text)</li>\n\t<li id=\"fn5\">Couple-only households consist of a household head and spouse (or partner). (\u21e1 back to text)</li>\n\t<li id=\"fn6\">Couple households with children consist of a household head, a spouse (or partner) and children. (\u21e1 back to text)</li>\n\t<li id=\"fn7\">Extended family household consist of a household head, spouse (or partner), children and other familial relative(s). (\u21e1 back to text)</li>\n\t<li id=\"fn8\">Source:<a href=\"https://www.worldbank.org/en/country/lebanon/publication/state-of-the-mashreq-women\" target=\"_blank\">World Bank, open data, (last accessed on 17 July 2020); World Bank, Women\u2019s Economic Participation in Iraq, Jordan and Lebanon, Washington, D.C., 2020</a>. (\u21e1 back to text)</li>\n\t<li id=\"fn9\">Sources: <a href=\"https://www.unwomen.org/en/digital-library/publications/2020/04/policy-brief-the-impact-of-covid-19-on-women\" target=\"_blank\">United Nations, Secretary-General\u2019s Policy Brief: The Impact of Covid-19 on Women, 9 April 2020</a>; <a href=\"https://www.ilo.org/global/topics/coronavirus/lang--en/index.htm\" target=\"_blank\">ILO, Covid-19 and the world of work, 2020</a>; <a href=\"https://www.ilo.org/global/topics/coronavirus/impacts-and-responses/WCMS_745963/lang--en/index.htm\" target=\"_blank\">ILO, ILO Monitor: Covid-19 and the world of work; updated estimates and analysis, 4th edition, 27 May 2020</a>(\u21e1 back to text)</li>\n\t<li id=\"fn10\">Source: <a href=\"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028701\" target=\"_blank\">Statistics Canada, Labour force characteristics: monthly, seasonally adjusted and trend-cycle</a> (last accessed on 10 August 2020). (\u21e1 back to text)</li>\n\t<li id=\"fn11\"><a href=\"https://www.ilo.org/global/publications/books/WCMS_409035/lang--en/index.htm\" target=\"_blank\">International Labour Organization (ILO), Key Indicators of the Labour Market, ninth edition, Geneva, 2016</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609848308",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609857337",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609873239",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609883421",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609896997",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609906932",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609914851",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609927078",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609936839",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609958575",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609967973",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609975942",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1598610194053",
+                            "type": "navigate",
+                            "index": 5
+                        }
+                    ],
+                    "creaDate": 1602875942453,
+                    "pubDate": 1602875940000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/27c1c1ad540347aabc70434238223919/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602154371439__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                }
+            ],
+            "reversed": false
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NW1"
+    }
+}
