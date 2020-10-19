@@ -60,7 +60,7 @@
             "sections": [
                 {
                     "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Power and decision-making</strong></span></span></p>\n",
-                    "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Women in managerial positions</div>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Women in managerial positions</div>\n",
                     "contentActions": [],
                     "creaDate": 1602488416452,
                     "pubDate": 1602488416452,
@@ -84,7 +84,7 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">Key points</span>",
-                    "content": "<ul class=\"key-points\">\n<li>Although higher proportions of women in decision-making roles in the private sector has a positive correlation to superior corporate profitability, the proportion of women in managerial positions remains low in both the public and private sectors.</li>\n<li>Globally, women held only 28% of managerial positions in 2019, with some regional variations, and in countries in Northern Africa and Western Asia and Central and Southern Asia the proportion barely reached 13%, a statistic that has not changed significantly over the past 20 years.</li>\n<li>Since 2000, while the proportion of women in managerial positions has increased in most regions, the rate of improvement is slight.</li>\n<li>The underrepresentation of women in management positions is even more visible at the higher levels of decision-making: 48% of companies surveyed by the International Labour Organization (ILO) in 2018<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598821000229\" data-storymaps-type=\"navigate\">1</a></span> had at least one woman in senior management, but only 31% had women in top executive positions.</li>\n<li>Women CEOs or top managers are even more scarce: only 18% of enterprises surveyed by the World Bank had a woman CEO.</li>\n<li>Among Fortune 500 corporations,\u00a0women accounted for only 7.4%, or 37 out of 500 CEOs. Despite the minor improvement from 1998, when only 1 out of the top 500 corporations had a female CEO, the gender gap at the level of top corporate decision makers remains significant.</li>\n<li>The bigger the enterprise, the lower the chances of it having a woman CEO: over 26% of small enterprises\u00a0surveyed by ILO in 2018 (employing 2 to 100 workers)\u00a0had female CEOs, compared with 16% of large enterprises\u00a0(employing more than 250 workers).\u00a0\u00a0</li>\n<li>Enterprises with more women in their workforce are more likely to have a female CEO. Of the enterprises surveyed by ILO in 2018, enterprises with a\u00a0gender balanced workforce were 15% more likely to have a female CEO; and enterprises with a predominantly female workforce (between 61% and 100%) were 22% more likely to have a female CEO.</li>\n</ul>\n",
+                    "content": "<ul class=\"key-points\">\n<li>Although higher proportions of women in decision-making roles in the private sector has a positive correlation to superior corporate profitability, the proportion of women in managerial positions remains low in both the public and private sectors.</li>\n<li>Globally, women held only 28% of managerial positions in 2019, with some regional variations, and in countries in Northern Africa and Western Asia and Central and Southern Asia the proportion barely reached 13%, a statistic that has not changed significantly over the past 20 years.</li>\n<li>Since 2000, while the proportion of women in managerial positions has increased in most regions, the rate of improvement is slight.</li>\n<li>The underrepresentation of women in management positions is even more visible at the higher levels of decision-making: 48% of companies surveyed by the International Labour Organization (ILO) in 2018<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598821000229\" data-storymaps-type=\"navigate\">1</a></span> had at least one woman in senior management, but only 31% had women in top executive positions.</li>\n<li>Women CEOs or top managers are even more scarce: only 18% of enterprises surveyed by the World Bank had a woman CEO.</li>\n<li>Among Fortune 500 corporations,&nbsp;women accounted for only 7.4%, or 37 out of 500 CEOs. Despite the minor improvement from 1998, when only 1 out of the top 500 corporations had a female CEO, the gender gap at the level of top corporate decision makers remains significant.</li>\n<li>The bigger the enterprise, the lower the chances of it having a woman CEO: over 26% of small enterprises&nbsp;surveyed by ILO in 2018 (employing 2 to 100 workers)&nbsp;had female CEOs, compared with 16% of large enterprises&nbsp;(employing more than 250 workers).&nbsp;&nbsp;</li>\n<li>Enterprises with more women in their workforce are more likely to have a female CEO. Of the enterprises surveyed by ILO in 2018, enterprises with a&nbsp;gender balanced workforce were 15% more likely to have a female CEO; and enterprises with a predominantly female workforce (between 61% and 100%) were 22% more likely to have a female CEO.</li>\n</ul>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598821000229",
@@ -392,7 +392,7 @@
                 },
                 {
                     "title": "&nbsp;",
-                    "content": "<p><strong>Enterprises with more women in their workforce are more likely to have a female CEO</strong></p>\n<p>In 2018, enterprises where women accounted for 30% to 39% of the workforce had a 6% higher likelihood of having a female CEO than enterprises where women made up less than 30% of the workforce; when the workforce was gender balanced, enterprises were 15% more likely to have a female CEO; and when the workforce was predominantly female (61% to 100% ), enterprises were 22% more likely to have a female CEO.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598821741733\" data-storymaps-type=\"navigate\">13</a></span></p>\n",
+                    "content": "<p><strong>Enterprises with more women in their workforce are more likely to have a female CEO</strong></p>\n\n<p>In 2018, enterprises where women accounted for 30% to 39% of the workforce had a 6% higher likelihood of having a female CEO than enterprises where women made up less than 30% of the workforce; when the workforce was gender balanced, enterprises were 15% more likely to have a female CEO; and when the workforce was predominantly female (61% to 100% ), enterprises were 22% more likely to have a female CEO.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598821741733\" data-storymaps-type=\"navigate\">13</a></span></p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598821741733",
@@ -400,15 +400,22 @@
                             "index": 13
                         }
                     ],
-                    "creaDate": 1598821747192,
-                    "pubDate": 1598821740000,
+                    "creaDate": 1603061575493,
+                    "pubDate": 1603061575493,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
                         "image": {
-                            "url": "https://raw.githubusercontent.com/UNStats/WorldsWomen/master/assets/photos/kyle-peyton-C0H05P-t3g4-unsplash.jpg",
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/0d1ff2530f17451bb8437c6ea584282e/resources/jeswin-thomas-XQfh5DHuhmE-unsplash__1603061571273__w1920.jpg",
                             "type": "image",
                             "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "jeswin-thomas-XQfh5DHuhmE-unsplash__1603061571273__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/0d1ff2530f17451bb8437c6ea584282e/resources/jeswin-thomas-XQfh5DHuhmE-unsplash__1603061571273__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
                             "display": "fill"
                         }
                     }
@@ -447,7 +454,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
                     "content": "<div class=\"references\">\n<h1>Related stories and further reading</h1>\n<ul>\n<li><a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/894bed8498eb449a983af8b33a7125f3#ND2\" target=\"_blank\">Women in power and decision-making positions in the corporate world</a></li>\n</ul>\n</div>\n",
                     "contentActions": [],
                     "creaDate": 1603045108006,

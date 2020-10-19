@@ -59,8 +59,8 @@
             "storage": "WEBAPP",
             "sections": [
                 {
-                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Economic empowerment</strong></span></span></p>\n",
-                    "content": "<style type=\"text/css\">.narrative-ref {\n        background: rgb(179, 248, 122);\n    }\n\n    .label-ref {\n        background: rgb(248, 248, 122);\n    }\n\n    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Republic of Moldova: social protections and old age pensions</div>\n",
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Republic of Moldova: social protections and old age pensions</div>\n",
                     "contentActions": [],
                     "creaDate": 1602481275347,
                     "pubDate": 1602481275347,
@@ -83,7 +83,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Key points</span>",
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
                     "content": "<ul class=\"key-points\">\n<li>In the Republic of Moldova, women live longer than men (8.8 years more in 2018), oftentimes alone in financial deprivation and insecurity.</li>\n<li>In 2018, the proportion of women among the total population receiving any pension and receiving an old-age pension accounted for 64.5% and 70.6%, respectively.</li>\n<li>In 2018, old-age pension replacement rates for women (26.2%) and men (28.6%) were less than the minimum level required by the International Labour Organization (ILO) Social Security (Minimum Standards) Convention (Convention No. 102) (at least 40%). The gender gap in the old-age pension replacement rate was more prominent among women and men aged 60\u201464 (2.6 percentage points) and the largest in districts in the southern part of the country.</li>\n<li>Seniors aged 75 and over rely significantly more on pensions as a main income source (96.6% for women and 97.6% for men) than the \u201cyounger\u201d old, aged 60\u201465 (79.8% for women and 46.9% for men).</li>\n<li>The proportion of women receiving the \u201cminimum amount\u201d of old age pension decreased from 72.1% in 2017 to 52.4% in 2018 after a Government decision to adjust the minimum amount of the pension to the same level as the minimum income level guaranteed by the State.</li>\n<li>In 2018, women represented around half (50.3%) of pensioners with disabilities receiving disability pensions and slightly more than half (52.7%) of those receiving the minimum amount of disability pensions. Men represented 73% of those receiving the minimum amount of severe disability pensions.</li>\n<li>The rapid aging of Moldova\u2019s population and the high migration rates among its working-age population have put pressure on the pension system. In 2017, emigration rates reached a peak of 121 per 1,000 for men aged 25\u201429 and 87 per 1,000 for women aged 20\u201424.</li>\n</ul>\n",
                     "contentActions": [],
                     "creaDate": 1602481357735,
@@ -107,7 +107,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:28px\">Background</span>",
+                    "title": "<span style=\"font-size:28px;\">Background</span>",
                     "content": "<p>The main purpose of State social protection systems is to offer social guarantees to the national population, both individuals and groups. Social protections provide non-discriminatory treatment and equal opportunities for all members of society, reducing the risk of poverty and social exclusion.<span class=\"footnote-index\">1</span> From the human rights perspective, social protection systems help to ensure an adequate standard of living, as well as necessary services and goods, providing dignity, autonomy, equality and non-discrimination, including gender equality.<span class=\"footnote-index\">2</span> For most older people, not all of whom are able to supplement their income through paid work, social protections are often the main means of ensuring economic security, helping them to meet essential needs.<span class=\"footnote-index\">3</span></p>\n",
                     "contentActions": [
                         {
@@ -137,7 +137,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Women live longer and are more exposed to the risks of poverty and social exclusion than men at older ages</span>",
+                    "title": "<span style=\"font-size:26px;\">Women live longer and are more exposed to the risks of poverty and social exclusion than men at older ages</span>",
                     "content": "<p>Women in the Republic of Moldova live 8.8 years longer than men,<span class=\"footnote-index\">4</span> on average (2018). From both economic and social dimensions, women aged 60 and over are recognized as one of the most vulnerable groups because of their exposure, over a longer time span than men, to the risk of poverty and social exclusion.<span class=\"footnote-index\">5</span> The larger share of women among the elderly population, owing to their higher life expectancy, means that they are likely to live more years in financial deprivation and insecurity.</p>\n<p>The gender gap in the standard retirement age in the Republic of Moldova was about 5 years until 1 July 2017 (age 57 for women and age 62 for men). Retirement ages are being raised annually and the age gap will be closed by 2028 , after which time the retirement age will be 63 for both women and men.<span class=\"footnote-index\">6</span></p>\n",
                     "contentActions": [],
                     "creaDate": 1602481743690,
@@ -161,7 +161,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">More women than men are beneficiaries of old-age social benefits</span>",
+                    "title": "<span style=\"font-size:26px;\">More women than men are beneficiaries of old-age social benefits</span>",
                     "content": "<p>In 2018, the share of women receiving \u201cany\u201d pension<span class=\"footnote-index\">7</span> among total pensioners was 64.5% and their share among those reciving \u201cold-age\u201d pensions<span class=\"footnote-index\">8</span> was 70.6% (see figure VII b). While women were less likely than men to fulfil the eligibility requirements to obtain a State social assurance pension, they represented 65.1% of those benefiting from an elderly social allowance<span class=\"footnote-index\">9</span> in 2018.</p>\n",
                     "contentActions": [],
                     "creaDate": 1602481503912,
@@ -185,143 +185,151 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Women have a lower gross old-age pension replacement rate than men</span>",
-                    "content": "<p>The public pension system does not fully substitute for lost salary as people get older, and the low level of pensions exposes them to a higher risk of poverty; furthermore, there is a weak link between the level of income from the active period of individuals\u2019 lives with that in their post-retirement period.</p>\n<p>The gross old-age pension replacement rate<span class=\"footnote-index\">10</span> (26.2% for women and 28.6% for men) is less than the minimum level required under the ILO Social Security (Minimum Standards) Convention (Convention No. 102) (at least 40% for both men and women).<span class=\"footnote-index\">11</span> Older women often have shorter careers and lower wages than men, resulting in lower benefit entitlements. The difference in old-age pension replacement rates of men and women increased in the last 5 years, from 1.6 percentage points in 2014 to 2.4 percentage points in 2018, in favour of men, and this gap is more evident among men and women aged 60\u201464 (see figure I).</p>\n",
+                    "title": "<span style=\"font-size:26px\">Women have a lower gross old-age pension replacement rate than men</span>",
+                    "content": "<p>The public pension system does not fully substitute for lost salary as people get older, and the low level of pensions exposes them to a higher risk of poverty; furthermore, there is a weak link between the level of income from the active period of individuals\u2019 lives with that in their post-retirement period.</p>\n\n<p>The gross old-age pension replacement rate<span class=\"footnote-index\">10</span> (26.2% for women and 28.6% for men) is less than the minimum level required under the ILO Social Security (Minimum Standards) Convention (Convention No. 102) (at least 40% for both men and women).<span class=\"footnote-index\">11</span> Older women often have shorter careers and lower wages than men, resulting in lower benefit entitlements. The difference in old-age pension replacement rates of men and women increased in the last 5 years, from 1.6 percentage points in 2014 to 2.4 percentage points in 2018, in favour of men, and this gap is more evident among men and women aged 60\u201464 (see figure I).</p>\n",
                     "contentActions": [],
-                    "creaDate": 1602367687575,
-                    "pubDate": 1602367680000,
+                    "creaDate": 1603049574005,
+                    "pubDate": 1603049574005,
                     "status": "PUBLISHED",
                     "media": {
-                        "type": "image",
-                        "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/7e1b3840e78a4546b8a42f908466d742/resources/emmanuel-gido-IaWUnb-y4OQ-unsplash__1602052322590__w1920.jpg",
-                            "type": "image",
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw15-graph-1",
+                            "type": "webpage",
                             "altText": "",
-                            "display": "fill"
-                        }
-                    }
-                },
-                {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<p>Across regions in the country, the biggest gender gap in the old-age pension replacement rate is registered in the southern part of the country (Basarabeasca, Autonomous Territorial Unit Gagauzia), as well as in the two most developed municipalities of the country (B\u0103l\u021bi and Chi\u0219in\u0103u) and districts in the central region (Ialoveni and C\u0103l\u0103ra\u0219i) (see figure II).</p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602367719360,
-                    "pubDate": 1602367680000,
-                    "status": "PUBLISHED",
-                    "media": {
-                        "type": "image",
-                        "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/3cbb3176f1434be9998a51378715e290/resources/Orly%20Winer-elderly__1602351673277__w1200.jpg",
-                            "type": "image",
-                            "altText": "",
-                            "display": "fill"
-                        }
-                    }
-                },
-                {
-                    "title": "<span style=\"font-size:26px\">People aged 75 and over have a significantly lower income than the &ldquo;younger&rdquo; old, ages 60&mdash;65</span>",
-                    "content": "<p>Level of income represents an important factor that determines, inter alia, quality of life, including the ability of individuals to pursue or take part in a range of activities. Income inequality is pronounced among older persons, correlated with age, sex, health conditions, living conditions and area of residence (whether urban or rural).<span class=\"footnote-index\">12</span></p>\n<p>Pensions are the main income source for people aged 60 and over, representing 89.1% of the total income of women and 72.4% of men, which resulted, in 2018, in a gender difference of 16.7 percentage points. However, further disaggregation by age shows that pensions represent a lower share of main income for the \u201cyounger\u201d old population, ages 60\u201465: 79.8% for women and 46.9% for men. Furthermore, in this age group, 15.1% of women have salary earnings compared to 32.2% of men. The most disadvantaged group in terms of income are people over the age of 75 who are solely reliant on a pension as their main source of income (96.6% of women compared to 97.6% of men) (see figure III). In the \u201cyounger\u201d old age group, men generally have a larger number of income sources than women, who have fewer options in terms of income streams (pensions, wages or remittances), while \u201csenior\u201d old people, both women and men, mostly rely on their own resources and State support.</p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602480876047,
-                    "pubDate": 1602480876047,
-                    "status": "PUBLISHED",
-                    "media": {
-                        "type": "image",
-                        "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/3cbb3176f1434be9998a51378715e290/resources/Orly%20Winer-elderly__1602351673277__w1200.jpg",
-                            "type": "image",
-                            "altText": "",
-                            "display": "fill"
-                        }
-                    }
-                },
-                {
-                    "title": "<span style=\"font-size:26px;\">Women&rsquo;s old-age pensions do not cover their minimum subsistence levels</span>",
-                    "content": "<p>The ability of older persons to live self-sufficient lives on their own resources can be measured by the ratio of the average monthly old-age pension to the minimum subsistence level<span class=\"footnote-index\">13</span> for pensioners (which is the same for women and men). While the amount of the old age pension has doubled for both women and men since 2008, the average amount of the old age pension for women is still not sufficient (96.6%) to cover basic needs relative to the minimum subsistence level for old-age pensioners; the average amount of the old-age pension for men exceeds the minimum subsistence level by 23.2%.</p>\n<p>The most vulnerable pensioners are those receiving the \u201cminimum\u201d amount<span class=\"footnote-index\">14</span> of old-age pension, which covers 65% of the minimum subsistence level. During the period 2014\u20142017, women were more likely to receive the minimum amount of old-age pension than men (they represented over 70% of beneficiaries). Nevertheless, in 2018, in line with a Government decision, the minimum amount of the pension was adjusted to the same level as the minimum subsistence level guaranteed by the State, and the proportion of women among those receiving the minimum amount of old age pension decreased to 52.4%, compared to 47.6% for men (see figure IV).</p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602367766952,
-                    "pubDate": 1602367740000,
-                    "status": "PUBLISHED",
-                    "media": {
-                        "type": "image",
-                        "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/3cbb3176f1434be9998a51378715e290/resources/Orly%20Winer-elderly__1602351673277__w1200.jpg",
-                            "type": "image",
-                            "altText": "",
-                            "display": "fill"
-                        }
-                    }
-                },
-                {
-                    "title": "<span style=\"font-size:26px;\">Women with disabilities receive lower pensions and are more exposed to risks</span>",
-                    "content": "<p>Women represented around half (50.3%) of pensioners receiving <span class=\"label-ref\">disability</span> pensions in 2018, and 52.7% of all those receiving the minimum amount of disability pension (see figure V). The average amount of women\u2019s disability pension covered 77.9% of the minimum subsistence level for old-age pensioners in 2018; for men, that percentage was 84.7%.</p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602367788063,
-                    "pubDate": 1602367740000,
-                    "status": "PUBLISHED",
-                    "media": {
-                        "type": "image",
-                        "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/3cbb3176f1434be9998a51378715e290/resources/Orly%20Winer-elderly__1602351673277__w1200.jpg",
-                            "type": "image",
-                            "altText": "",
-                            "display": "fill"
-                        }
-                    }
-                },
-                {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<p>Women were more likely than men to receive the minimum amount of accentuated (52.8%) and mild <span class=\"label-ref\">disability</span> (57.5%) pensions, while men were more likely (73%) than women (27%) to receive the minimum amount of the severe disability pension (see figure VI).</p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602367895883,
-                    "pubDate": 1602367860000,
-                    "status": "PUBLISHED",
-                    "media": {
-                        "type": "image",
-                        "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/6f1628a0cf0b4af8988002a22a1dc9d3/resources/821228-SDGs%20Showcased%20on%20Billboards%20in%20Times%20Square%2C%20New%20York%20City__1602367834045__w1200.jpg",
-                            "type": "image",
-                            "altText": "",
-                            "display": "fill"
-                        }
-                    }
-                },
-                {
-                    "title": "<span style=\"font-size:26px\">The livelihoods of older persons is insecure because of the low efficiency of the pension system</span>",
-                    "content": "<p>In 2019, social protection expenditures accounted for 11.1% of gross domestic product (GDP) and 33.6% of national public budget expenditures. Around 64% of social protection expenditures were spent on social protections for older people.</p>\n<p>The Republic of Moldova is facing a weakness in terms of the sustainability of the social protection system, as evidenced in the continuous increase in the number of beneficiaries of pensions (an increase of 8.8% from 2010 to 2018), with a slight parallel increase in the number of contributors to the system (an increase of 5.4% from 2010 to 2018 ). Overall, the reduced financial capacity of the national social protection system has become more serious with the lowering of the ratio of its contributors to the number of pensioners (any type) benefitting from it (dropping from 1.34 in 2010 to 1.29 in 2018). The minimum required ratio, according to international practices, is 4 contributors per 1 pensioner.</p>\n<p>Since 2006, women have become more dependent than men on the sustainability of the social protection system. While their contributions represent just over half of total contributions (50.5% for women and 49.5% for men), women comprise the majority of beneficiaries of old-age pensions (70.6% of women compared to 29.4% of men) (see figure\u00a0VII).</p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602480960118,
-                    "pubDate": 1602480960118,
-                    "status": "PUBLISHED",
-                    "media": {
-                        "type": "image",
-                        "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/6f1628a0cf0b4af8988002a22a1dc9d3/resources/821228-SDGs%20Showcased%20on%20Billboards%20in%20Times%20Square%2C%20New%20York%20City__1602367834045__w1200.jpg",
-                            "type": "image",
-                            "altText": "",
-                            "display": "fill"
-                        }
-                    }
-                },
-                {
-                    "title": "<span style=\"font-size:26px\">High levels of migration weaken the actual and potential capacity of the social protection system</span>",
-                    "content": "<p>The high migration rate among the working-age population is an additional factor having a negative impact on the actual and potential capacity of the national social protection system, affecting people left behind and making it more difficult for migrants to access social security protections when returning home.</p>\n<p>In the Republic of Moldova, <span class=\"label-ref\">migration</span>, in general, and international migration in particular, have a distinctive age pattern. There are high migration rates among young-adults along with young children. During the period 2014\u20142017, migration rates (in both directions, immigration and emigration) increased: from 43 to 58 per 1,000, while there was a lower rate of increase in immigration, from 35 to 40 per 1,000, resulting in a yearly net negative migration balance, which increased from minus 9 per 1,000 in 2014 to minus 18 per 1,000 in 2017. In 2017, emigration rates reached a peak of 121 per 1,000 for men aged 25\u201429 and 87 per 1,000 for women aged 20\u201424.<span class=\"footnote-index\">15</span></p>\n<p>These high <span class=\"label-ref\">migration</span> rates were also significant among young adults: in 2017, men aged 20\u201424 showed a negative migratory balance of minus 60 per 1,000 and women minus 45 per 1,000, meaning that the country lost about 6% of the male and 4.5% of the female population aged 20\u201424 in a single year (see figure VIII).</p>\n<p>As a consequence, the financial stability of the public pension system has continued to erode, affecting confidence in the system.</p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602481020983,
-                    "pubDate": 1602481020983,
-                    "status": "PUBLISHED",
-                    "media": {
-                        "type": "image",
-                        "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/6f1628a0cf0b4af8988002a22a1dc9d3/resources/821228-SDGs%20Showcased%20on%20Billboards%20in%20Times%20Square%2C%20New%20York%20City__1602367834045__w1200.jpg",
-                            "type": "image",
-                            "altText": "",
-                            "display": "fill"
+                            "display": "stretch",
+                            "unload": true
                         }
                     }
                 },
                 {
                     "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<p>Across regions in the country, the biggest gender gap in the old-age pension replacement rate is registered in the southern part of the country (Basarabeasca, Autonomous Territorial Unit Gagauzia), as well as in the two most developed municipalities of the country (B\u0103l\u021bi and Chi\u0219in\u0103u) and districts in the central region (Ialoveni and C\u0103l\u0103ra\u0219i) (see figure II).</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1603049604457,
+                    "pubDate": 1603049604457,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw15-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">People aged 75 and over have a significantly lower income than the &ldquo;younger&rdquo; old, ages 60&mdash;65</span>",
+                    "content": "<p>Level of income represents an important factor that determines, inter alia, quality of life, including the ability of individuals to pursue or take part in a range of activities. Income inequality is pronounced among older persons, correlated with age, sex, health conditions, living conditions and area of residence (whether urban or rural).<span class=\"footnote-index\">12</span></p>\n\n<p>Pensions are the main income source for people aged 60 and over, representing 89.1% of the total income of women and 72.4% of men, which resulted, in 2018, in a gender difference of 16.7 percentage points. However, further disaggregation by age shows that pensions represent a lower share of main income for the \u201cyounger\u201d old population, ages 60\u201465: 79.8% for women and 46.9% for men. Furthermore, in this age group, 15.1% of women have salary earnings compared to 32.2% of men. The most disadvantaged group in terms of income are people over the age of 75 who are solely reliant on a pension as their main source of income (96.6% of women compared to 97.6% of men) (see figure III). In the \u201cyounger\u201d old age group, men generally have a larger number of income sources than women, who have fewer options in terms of income streams (pensions, wages or remittances), while \u201csenior\u201d old people, both women and men, mostly rely on their own resources and State support.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1603049631138,
+                    "pubDate": 1603049631138,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw15-graph-3",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Women&rsquo;s old-age pensions do not cover their minimum subsistence levels</span>",
+                    "content": "<p>The ability of older persons to live self-sufficient lives on their own resources can be measured by the ratio of the average monthly old-age pension to the minimum subsistence level<span class=\"footnote-index\">13</span> for pensioners (which is the same for women and men). While the amount of the old age pension has doubled for both women and men since 2008, the average amount of the old age pension for women is still not sufficient (96.6%) to cover basic needs relative to the minimum subsistence level for old-age pensioners; the average amount of the old-age pension for men exceeds the minimum subsistence level by 23.2%.</p>\n\n<p>The most vulnerable pensioners are those receiving the \u201cminimum\u201d amount<span class=\"footnote-index\">14</span> of old-age pension, which covers 65% of the minimum subsistence level. During the period 2014\u20142017, women were more likely to receive the minimum amount of old-age pension than men (they represented over 70% of beneficiaries). Nevertheless, in 2018, in line with a Government decision, the minimum amount of the pension was adjusted to the same level as the minimum subsistence level guaranteed by the State, and the proportion of women among those receiving the minimum amount of old age pension decreased to 52.4%, compared to 47.6% for men (see figure IV).</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1603049652355,
+                    "pubDate": 1603049652355,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw15-graph-4",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Women with disabilities receive lower pensions and are more exposed to risks</span>",
+                    "content": "<p>Women represented around half (50.3%) of pensioners receiving <span class=\"label-ref\">disability</span> pensions in 2018, and 52.7% of all those receiving the minimum amount of disability pension (see figure V). The average amount of women\u2019s disability pension covered 77.9% of the minimum subsistence level for old-age pensioners in 2018; for men, that percentage was 84.7%.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1603049666901,
+                    "pubDate": 1603049666901,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw15-graph-5",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<p>Women were more likely than men to receive the minimum amount of accentuated (52.8%) and mild <span class=\"label-ref\">disability</span> (57.5%) pensions, while men were more likely (73%) than women (27%) to receive the minimum amount of the severe disability pension (see figure VI).</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1603049681718,
+                    "pubDate": 1603049681718,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw15-graph-6",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">The livelihoods of older persons is insecure because of the low efficiency of the pension system</span>",
+                    "content": "<p>In 2019, social protection expenditures accounted for 11.1% of gross domestic product (GDP) and 33.6% of national public budget expenditures. Around 64% of social protection expenditures were spent on social protections for older people.</p>\n\n<p>The Republic of Moldova is facing a weakness in terms of the sustainability of the social protection system, as evidenced in the continuous increase in the number of beneficiaries of pensions (an increase of 8.8% from 2010 to 2018), with a slight parallel increase in the number of contributors to the system (an increase of 5.4% from 2010 to 2018 ). Overall, the reduced financial capacity of the national social protection system has become more serious with the lowering of the ratio of its contributors to the number of pensioners (any type) benefitting from it (dropping from 1.34 in 2010 to 1.29 in 2018). The minimum required ratio, according to international practices, is 4 contributors per 1 pensioner.</p>\n\n<p>Since 2006, women have become more dependent than men on the sustainability of the social protection system. While their contributions represent just over half of total contributions (50.5% for women and 49.5% for men), women comprise the majority of beneficiaries of old-age pensions (70.6% of women compared to 29.4% of men) (see figure&nbsp;VII).</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1603049696137,
+                    "pubDate": 1603049696137,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw15-graph-7",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">High levels of migration weaken the actual and potential capacity of the social protection system</span>",
+                    "content": "<p>The high migration rate among the working-age population is an additional factor having a negative impact on the actual and potential capacity of the national social protection system, affecting people left behind and making it more difficult for migrants to access social security protections when returning home.</p>\n\n<p>In the Republic of Moldova, <span class=\"label-ref\">migration</span>, in general, and international migration in particular, have a distinctive age pattern. There are high migration rates among young-adults along with young children. During the period 2014\u20142017, migration rates (in both directions, immigration and emigration) increased: from 43 to 58 per 1,000, while there was a lower rate of increase in immigration, from 35 to 40 per 1,000, resulting in a yearly net negative migration balance, which increased from minus 9 per 1,000 in 2014 to minus 18 per 1,000 in 2017. In 2017, emigration rates reached a peak of 121 per 1,000 for men aged 25\u201429 and 87 per 1,000 for women aged 20\u201424.<span class=\"footnote-index\">15</span></p>\n\n<p>These high <span class=\"label-ref\">migration</span> rates were also significant among young adults: in 2017, men aged 20\u201424 showed a negative migratory balance of minus 60 per 1,000 and women minus 45 per 1,000, meaning that the country lost about 6% of the male and 4.5% of the female population aged 20\u201424 in a single year (see figure VIII).</p>\n\n<p>As a consequence, the financial stability of the public pension system has continued to erode, affecting confidence in the system.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1603049708847,
+                    "pubDate": 1603049708847,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw15-graph-8",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
                     "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li><span class=\"concept\">Gross old-age pension replacement rate, c</span><span class=\"definition\">alculated as the gross pension entitlement divided by gross salary earnings, measures how effectively a pension system provides a retirement income to replace earnings, the main source of income before retirement. The rate refers to the percentage of an individual's monthly salary that is replaced by retirement income when they retire.<span class=\"footnote-index\">16</span></span></li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage and availability</h2>\n<p>Women and men, in particular older persons and people with disabilities, living in the Republic of Moldova (excluding districts from the east side of the Nistru river and Bender municipality).<span class=\"footnote-index\">17</span></p>\n</div>\n</div>\n",
                     "contentActions": [
                         {
