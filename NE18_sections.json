@@ -1,0 +1,242 @@
+[
+    {
+        "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>\"+ n_theme +\"</strong></span></span></p>\n",
+        "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">\"+ n_title +\"</div>\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n\nLife skills-based HIV and sexuality education is provided at the three levels of education in schools worldwide: it is provided in all schools at the upper secondary level in 60% of countries with data, at the lower secondary level in 66% of countries and at the primary education level in 62% of countries with data.\nThere is no appreciable difference in the provision of life skills-based HIV and sexuality education programmes at the upper secondary school level in public and private schools.\nProgrammes are needed outside schools to reach youth the most at risk \u2014 young people who are no longer participating in education \u2014 as well as to reach youth in places where teaching about sexuality and HIV and AIDS in school is highly sensitive or forbidden.  \n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nBackground\nThe provision of life skills-based HIV and sexuality education in schools equips children and young people with the knowledge and information that lead to responsible and healthy sexual behaviour. Comprehensive sexuality education promotes improved sexual and reproductive health-related outcomes, including reduction in HIV infection and teenage pregnancy rates, thus expanding educational opportunities for young women.1 This kind of education also helps students to develop critical thinking, communication and decision-making skills, empowering them to take responsibility and control their actions and to become healthy, responsible, productive citizens. Successful programmes adopt interactive, responsive and participatory methods that challenge young people to find new ways of relating to one another. Such programmes should have a planned and sequenced curriculum across primary and secondary schools, incrementally adjusted to the age, stage and situation of the learner.2\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nCurrent situatoin\nAvailability of life skills-based HIV and sexuality education\nAt the upper secondary level, 60% of countries with data (26 out of 43 countries and territories) provided life skills-based HIV and sexuality education at all schools, both public and private during the period 2015\u20142019 (see figure). These countries and territories represent different regional groupings: sub-Saharan Africa (Burundi, Cabo Verde, Eswatini, the Niger, Rwanda and Sao Tome and Principe); Europe and Northern America (Andorra, Bermuda, Finland, Gibraltar, Monaco and the Republic of Moldova); the Caribbean (Antigua and Barbuda, Cayman Islands, Cuba, Dominica and Jamaica); and Western Asia (Bahrain, Oman, Qatar and Saudi Arabia). \nAt the lower secondary level, out of 42 countries with data, two out of three provided life skills-based HIV and sexuality education at all schools (see figure). \nData availability on the provision of life skills-based HIV and sexuality education at the primary education level is limited, reflecting the fact that relatively few countries provide such programmes at that level, as opposed to the lower and upper secondary levels. Data available for 34 countries show that in 21 countries (62%) all schools provided age-appropriate sexuality education programmes at the primary education level. \n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nLife skills-based HIV and sexuality education is provided in both public and private schools\nWhile more data are available for public schools than for private schools at the upper secondary level, with data available for both in the same country, there is no appreciable difference in the provision of life skills-based HIV and sexuality education. In 22 countries among the 36 with data for both public and private schools, all schools, regardless of whether they were private or public, taught life skills-based HIV and sexuality education.\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nProgrammes providing life skills education are also needed outside schools to reach youth no longer in school\nSchool-based programmes do not reach youth most at risk: those no longer in school. Furthermore, programmes outside school may be the only means of imparting knowledge and life skills education to young people in places where teaching about sexuality and HIV and AIDS in school is highly sensitive or forbidden. Life skills education outside school is likely to be most effective when it complements other services targeting young people. Voluntary and anonymous participation offered by youth drop-in centres can enhance the reach and effectiveness of such programmes. \nMoreover, whether life skills-based HIV and sexuality education is offered inside or outside a formal educational setting, it needs to reflect the fact that girls and boys have different needs and vulnerabilities. Single gender groups, with a teacher or facilitator of the same gender, can foster more open communication on sensitive issues. For example, as part of the \u201cSister 2 Sister\u201d initiative in Malawi, \u201cbig sisters\u201d (older young women) share their knowledge and life-skills experiences with young women aged 15\u201419. Overall, the programme has led to increased knowledge in the areas of sexuality, HIV, condom use, multiple and concurrent partners, age-disparate relationships and health-seeking behaviours, and there is evidence that such knowledge is sustained over time.x\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n\nAbout the data\n\nDefinitions\n\n\nPercentage of schools that provide life skills-based HIV and sexuality education : Number of schools at a given level of education (primary, lower secondary and upper secondary education) providing such skills and education expressed as a percentage of all schools at that level of education.  The indicator measures key life skills necessary to ensure a safe and effective learning environment for all students.\n                                \n\n\n\n\nCoverage\nSchools at the primary, lower secondary and upper secondary education levels.\n\n\nAvailability\nData are available for 34 countries at the primary level, 42 countries at the lower secondary level and 43 countries at the upper secondary levels.4 Countries are organized by regional groupings under the Sustainable Development Goals (SDGs) indicator framework.5 \n\n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n\nFootnotes\n\nUNESCO, Global education monitoring report 2019 \u2013 Gender report: Building bridges for gender equality, Paris, 2019 . (\u21e1 back to text)\nIbid. (\u21e1 back to text)\nBakaroudis, M., \u201cSister 2 Sister Initiative: Life Skills PLUS Extracurricular Peer Educator Training Package for Young Women 15\u201319 Years Old in Malawi\u201d, Lilongwe, 2011 (debrief presentation of consultancy mission and\n                    summary of proof of concept validation study, (unpublished.)   (\u21e1 back to text)\nData are from United Nations Educational, Scientific and Cultural Organization (UNESCO), UNESCO Institute for Statistics database (accessed in May 2020). (\u21e1 back to text)\n\n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    }
+]

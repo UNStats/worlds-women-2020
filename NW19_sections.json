@@ -1,0 +1,392 @@
+[
+    {
+        "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>\"+ n_theme +\"</strong></span></span></p>\n",
+        "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">\"+ n_title +\"</div>\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n\nIn Latin America and the Caribbean, 25.7% of young people aged 15\u201429 do not benefit from the main pillars of social inclusion, the education system and the labour market, and the majority are women (67.9%).\n In the region, 57.8% of women aged 15\u201429 who are not in employment, education or training (categorized as NEET) are engaged in unpaid care and domestic work (as are 66.1% of women aged 25\u201429), while most men aged 15\u201429 in the NEET category are unemployed (61.8%). Less than 25% of people aged 15\u201429 are studying or in training.\n Most young people in the region work: in general men are engaged in paid work while women in unpaid work, revealing a trend of early and unequal division of work by sex.\n In households with children under age 15, 39.9% of young women are in the NEET category, while 61.83% of young men are classified as unemployed.\n Time-use data for the 15\u201429 age group in countries in Latin America and the Caribbean show that women who are out of school and not in the labour market spend, on average, at least 23 hours per week on unpaid domestic work. These data contradict the notion that young people are inactive or unproductive members of society: young people spend a significant amount of time providing services but receive no payment and do not benefit from any form of social coverage.\n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nYoung women not in employment, education or training are engaged in unpaid care and domestic work1\nYoung people aged 15\u201429 are in a critical period of transition from youth to the beginning of adulthood, an opportune time for the elimination of gender inequalities. Countries in Latin America and the Caribbean have not yet succeeded, however, in ensuring that both young women and men have the same rights and opportunities in education, vocational training and labour market integration.\nIt is estimated that 25.7% of young people in the region between the ages of 15\u201429 do not benefit from the main pillars of social inclusion, the education system and labour market, and that most are women (67.9%). Target 8.6 of Sustainable Development Goal 8 of the 2030 Agenda for Sustainable Development2 is aimed at the reducing the number of young people not in employment, education or training [link to NW18]. With this in mind, there is an urgent need for information that explains the barriers to the integration of young women into the education system and their participation in the labour market.\nThe fact that girls and young women are expected to undertake heavy domestic work, resulting in long-lasting consequences for all aspects of their lives, was recognized in the Beijing Platform for Action, adopted in 1995.3 In Latin America and the Caribbean, more than half of young women who are not in school or in employment (57.8%) spend their time on unpaid care and domestic work, while most young men in this situation (61.8%) are unemployed. Furthermore, less than one fourth of young people aged 15\u201429 in the region are studying or in training (see figure I).\nA similar scenario is evident, and more prominent, among the subgroup aged 25\u201429, where 36.8% of women are outside the labour market and not in education or training and 12.4% of men are in the same situation. In this subgroup, a larger proportion of young women (66.1%) are engaged in unpaid domestic and care work, with a smaller proportion of women (3.7%) and men (3%) studying or in training. Regardless of the age group, a trend is clear: most of young people work and are either paid (mainly the case for men) or unpaid (primarily the case for women), showing a trend of early and unequal division of labour by sex.\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nGovernments in Latin America and the Caribbean have identified the division of labour by sex and unfair social organization of care as one of the four structural challenges to the achievement of gender equality by 2030.4 The social distribution of the burden of care continues to be unfair and unbalanced, with heavy implications in terms of the equality gap between men and women. According to the information gathered from time-use surveys, adolescent girls (aged 15\u201419) spend more hours per week on work, both paid and unpaid, than adolescent boys, which reflects the limited time available to adolescent girls for educational activities, leisure and recreational activities or sports and community participation. At the same time, pregnancy and motherhood in adolescent girls (around 13% of women ages 15\u201419 were mothers according to the last available census information) is another major obstacle to women\u2019s autonomy during their teen years and into early adulthood. This problem is rooted, inter alia, in cultural patterns that associate women with motherhood and the resulting search for social approval or inclusion by having children; the lack of national policies on sexual and reproductive health education; the scarcity of specialized health services adapted to the needs of adolescent girls; and difficulties in addressing the power relationships in couples and making informed decisions about contraception.5\nData on the activity status of young people aged 15\u201429 show differences between men and women in households with children under age 15. Most young women living with children in their households are not engaged in employment, education or training (39.9%) while men living in households with children tend to be employed (61.3%) (see figure II).\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nThe time-use data for young people aged 15\u201429  show that in Latin America and the Caribbean, on average, women who are out of school and not participating in the labour market spend at least 23 hours per week on unpaid domestic work, confirming that they are not in school and not being paid for their work (see figure III). In Argentina, Chile and Mexico, for example, young women who are not engaged in employment, education or training spend more than 50 hours per week on domestic and care work. \n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nThe burden of household and care work limits the opportunities of young women to participate in educational activities, find income-generating work and take part in public life and decision-making. Furthermore, they are unable to devote time to build the skills that might help them to find good-quality jobs, making them even more vulnerable to poverty and a lack of access to assistance available through social protection mechanisms.6\nTime-use data for this population contradicts the perception that young people are inactive or unproductive members of society. To the contrary, young people spend a significant amount of time providing services that are indispensable to the well-being of their families and the economy of their countries, although they receive no payment and generally do not benefit from any form of social assistance. This information is relevant to the formulation of policies with a gender perspective to ensure that young people, in particular young women ages 15\u201429, may take advantage of academic and professional opportunities that promote social and economic inclusion without being restricted by the demands of unpaid domestic and care work. \n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n\nAbout the data\n\nDefinitions\n\n\nUnpaid work: Work done without payment, which is measured by quantifying the time a person spends on own-use goods production work, unpaid domestic work, unpaid care of household members or unpaid work for other households or for the community and/or volunteer work.\n\n\nPaid work: Work for which a person receives a payment (work for pay or profit).\n\n\nPeople in training : People who are primarily pursuing training, educational activities and vocational schooling.\n\n\nNEET: People who are not engaged in employment, education or training\n\n\n\n\nCoverage\nPopulation aged 15\u201429 in the Latin America and Caribbean region.7\n\n\nAvailability\nSex-disaggregated data is available on activity status and on unpaid work for 18 United Nations Member States for the period 2014\u20142018 (latest available year) and for 13 United Nations Member States for the period 2011\u20142017 (latest available year) in the Latin America and Caribbean region.\n\n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n\nFootnotes\n\nBased on the  Economic Commission for Latin America and the Caribbean (ECLAC), Social Panorama of Latin America 2016, Santiago, 2017 . (\u21e1 back to text)\n\u201cTransforming our world: the 2030 Agenda for Sustainable Development\u201d, General Assembly resolution 70/1, adopted on 25 September 2015 . (\u21e1 back to text)\nBeijing Declaration and Platform for Action, Report of the Fourth World Conference on Women, Beijing, 4\u201315 September 1995 (United Nations publication, Sales No. E.96.IV.13), annex II, para. 71 . (\u21e1 back to text)\nECLAC, Montevideo Strategy for Implementation of the Regional Gender Agenda within the Sustainable Development Framework by 2030, Santiago, 2017 . (\u21e1 back to text)\nECLAC, Women\u2019s autonomy in changing economic scenarios, Santiago, 2019. (\u21e1 back to text)\nECLAC, Montevideo Strategy for Implementation of the Regional Gender Agenda within the Sustainable Development Framework by 2030, Santiago, 2017 . (\u21e1 back to text)\nUnder the Sustainable Development Goals (SDGs) indicators framework, a young person is defined as being aged 15\u201324; however, for the purpose of measuring any possible mismatch in overeducation or undereducation, and in recognition of the fact that some young people remain in education after age 24, the upper age has been extended to 29 years for the present indicator. For more information, see the International Labour Organization (ILO) school-to-work transition survey, a household survey of young people aged 15\u201329, which describes this population group and the challenges it faces . (\u21e1 back to text)\n\n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    }
+]

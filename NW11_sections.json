@@ -1,0 +1,212 @@
+[
+    {
+        "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>\"+ n_theme +\"</strong></span></span></p>\n",
+        "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">\"+ n_title +\"</div>\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n\nGlobally, as of 2020, 180 out of 188 (96%) Member States and territories have at least one legal barrier restricting women\u2019s opportunities in economic structures, participation in productive activities and access to resources.\nIn only eight countries in Europe and Northern America are women and men on an equal legal footing with respect to the full set of key topics assessed, which are structured around women\u2019s and men\u2019s interactions with formal laws and regulations during their economic life cycle.\nIn countries in developed regions, legal gender gaps impeding women\u2019s rights are not significant, but in some countries in developing regions women have a fraction of the economic rights of men as a result of discriminatory laws and regulations that obstruct their economic empowerment.\nWhile countries in Latin America and the Caribbean have made tremendous progress in terms of women\u2019s legal rights over the last 25 years, women\u2019s legal rights are still far from being fully guaranteed in countries in Western Asia and Northern Africa.\nAlthough far from universality, significant gains (almost 30 percentage points) have been achieved in the adoption of protective legislation ensuring equal pay for work of equal value: in 1995, eight (6%) countries in developing regions legally required employers to pay women and men the same remuneration, by 2020, 48 (34%) countries had adopted such protective laws.\nPaid parental leave, available to both mothers and fathers, while unknown in national legislation in 1995, had been mandated by law in only seven countries (5%) by 2020.\n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nAs of 2020, 180 out of 188 (96%) Member States and territories with available data have at least one legal barrier restricting women\u2019s opportunities in economic structures, participation in productive activities and access to resources.1 In only eight countries in Europe and Northern America, Belgium, Canada, Denmark, France, Iceland, Latvia, Luxembourg and Sweden, are women and men on an equal legal footing with respect to the full set of key topics2 assessed, which are structured around women\u2019s and men\u2019s interactions with formal laws and regulations during their economic life cycle. Research shows that while international conventions such as the Convention on the Elimination of All Forms of Discrimination against Women3 and women\u2019s political representation at the national level have played a role in closing legal gaps in women\u2019s economic rights, legal barriers have remained in a number of countries owing to conflict situations and weak rule of law.4 \n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nGender equality in national laws and regulations remains uneven among countries in developed and developing regions\nWhile legal gender gaps are relatively small in developed regions, women in developing regions have a fraction of the economic rights of men due to discriminatory laws and regulations that impede their economic empowerment. However, in some Member States and territories in developing regions there have been positive changes in women\u2019s legal rights over the past 25 years, signifying an improved regulatory environment for women\u2019s economic independence (see figure). \n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nIt appears that the number of Member States and territories in developing regions with equal legal rights for women and men on selected key issues has reached a plateau, at around 130 States, over the past 25 years. In countries in Western Asia and Northern Africa, the achievement of equal legal rights for women is significantly behind what has been realized in other regions. Countries in Latin America and the Caribbean have made tremendous progress, catching up with developed regions in terms of women\u2019s legal rights.5\nThough still far from reaching universality, significant gains have been achieved in terms of legislation to address the gender pay gap: by 2020, employers were legally required to pay equal remuneration for women and men who performed work of equal value in 48 (34%) Member States and territories in developing regions, compared with just eight (6%) in 1995. However, as of 2020, paid parental leave, available to both mothers and fathers, which, along with maternity and paternity leave, contributes to women\u2019s ability to return to work, has been mandated by law in only seven (5%) countries, Azerbaijan, Chile, Kazakhstan, the Republic of Korea, Singapore, Tajikistan and Uzbekistan. In light of the fact that in 1995 not one country in the world provided paid parental leave for both mothers and fathers, this increase shows minimal progress towards ensuring women\u2019s right to work. \n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n\nAbout the data\n\nDefinitions\nThese indicators provide information on the number of United Nations Member States and territories with equal legal rights for women and men on selected issues and on the number of Member States and territories with legal barriers restricting women\u2019s opportunities in economic structures, participation in productive activities and access to resources. Only formal laws and regulations are taken into account; religious and customary laws are not considered unless they are codified. The implementation of laws is not measured by these indicators.\n\n\nCoverage\n188 United Nations Member States and territories (140 in developing regions).6\n\n\nAvailability\nData have been provided through the dataset of the Women, Business and the Law project of the World Bank.7\n\n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n\nFootnotes\n\nThe World Bank, Women, Business and the Law project, Data Catalog, Washington, D.C., 2020 . (\u21e1 back to text)\nThe eight indicators covered by the Women, Business and the Law project are Mobility, Workplace, Pay, Marriage, Parenthood, Entrepreneurship, Assets and Pension. (\u21e1 back to text)\nUnited Nations, Treaty Series, vol. 1249, No. 20378 . (\u21e1 back to text)\nHallward-Driemeier, M., Tazeen, H., and Bogdana Rusu, A., \u201cWomen\u2019s legal rights over 50 years: Progress, stagnation or regression?\u201d, World Bank, Policy Research Working Paper 6616, Washington, D.C., September 2013 . (\u21e1 back to text)\nIbid. (\u21e1 back to text)\nMember States and territories have been organized by regional groupings under the Sustainable Development Goals (SDGs) indicator framework . (\u21e1 back to text)\nThe World Bank, Women, Business and the Law project, Data Catalog, Washington, D.C., 2020 . (\u21e1 back to text)\n\n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    }
+]

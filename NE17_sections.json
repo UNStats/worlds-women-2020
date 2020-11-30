@@ -1,0 +1,302 @@
+[
+    {
+        "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>\"+ n_theme +\"</strong></span></span></p>\n",
+        "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">\"+ n_title +\"</div>\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n\nSchool-related bullying is a pervasive issue in the majority of countries, affecting both girls and boys, although in different ways.\nBoys are more likely than girls to report having been bullied, both in developing and developed regions.\nStudents with an immigrant background are more likely to experience bullying than students with a non-immigrant background.\nChildren from households with lower socioeconomic status are more likely to be exposed to bullying than their counterparts from households with higher socioeconomic status.\n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nBackground\nBullying is an intentional, aggressive and repeatedly occurring behaviour. It occurs in school, on school grounds, on the way to school and, increasingly, in cyberspace. Bullying is often perpetrated as a result of gender norms and stereotypes. For instance, girls may experience sexist verbal abuse about their weight, appearance and marriage prospects. School is where children cultivate friendships and form peer groups \u2013 pivotal steps towards adult socialization.1  Relentless and inescapable, bullying affects children and youth in terms of their school attendance, well-being and learning abilities, and can also have a significant impact on their emotional and behavioural development. Children who are bullied are often marginalized by their peers and exhibit risk factors, such as loneliness.2  Providing a safe and inclusive learning environment is critical for the achievement of Sustainable Development Goal (SDG) target 4. a, which aims to \u201cBuild and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all\u201d.\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nCurrent situation\nBoys are more likely than girls to report having been bullied, both in developing and developed regions\nSchool-related bullying is a pervasive problem in countries worldwide, affecting both girls and boys, but in different ways. Globally, based on data for the period 2013\u20142017, slightly more than one in four girls (28%) and one in three boys (32%) reported having been bullied at school or in the school environment in the previous 12 months (see figure). In countries in developed (high-income) regions, 27% of girls and 30% of boys reported having been bullied. The corresponding proportions for developing (low-income and middle-income) countries were slightly larger \u2014 29% for girls and 34% for boys.\nAnalysis of data from 81 countries shows that, between 7% to 54% of girls and 11% to 56% of boys reported having been bullied by other students at least once in the past 12 months. In 41 countries (about half of the countries with data), the average prevalence rate was less than 30% for both girls and boys; in five countries (Latvia, Lithuania, Myanmar, Nepal and the Philippines), the average prevalence rate for both sexes was 50% or more. In most of the 81 countries, boys were more likely than girls to experience bullying. \n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nLow socioeconomic status can expose students to more bullying\nChildren from certain population groups, such as ethnic minorities and children with disabilities, are more likely to be singled out for bullying,3 as are children from households with lower socioeconomic status. Analysis of data from 37 countries shows that, in almost all cases, students with low socioeconomic status experienced more bullying than their counterparts with higher socioeconomic status. The difference was substantial in 29 countries, with students with lower socioeconomic status reporting bullying at a higher rate, by 10 percentage points or more, and by 20 percentage points or more in Austria, Canada, Croatia, Lithuania, Norway and Slovakia.\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nStudents with an immigrant background are more likely to experience bullying\nThe situation of students with an immigrant background is similar, and worse in some cases, to that of students with low socioeconomic status. According to available data, they are more likely than students with a non-immigrant background to experience bullying. Data from 28 countries, all from developed regions, indicate that students with an immigrant background reported bullying at a higher proportion than their counterparts. This was the case in all but five countries: in 18 countries, the difference was greater than 5 percentage points, and in Bulgaria, Czechia, Estonia, Finland, Ireland and Italy the difference was reported at 10 percentage points or more.\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nRecent studies suggest that bullying leads to lower levels of educational achievement\nRecent studies show that bullying leads to lower levels of educational achievement. In Recife, Brazil, grade 6 students who had been bullied achieved significantly lower scores in mathematics.4  In Ghana, where bullied grade 8 students also achieved lower scores in mathematics, the effects were worse for female students, although their situation was mitigated when the teacher was a woman.5 \nPreventing and addressing acts of bullying require that governments develop comprehensive, coordinated responses, including appropriate regulations, policy and leadership initiatives, reporting mechanisms, community and student partnerships, evaluations of incidents and staff and teacher involvement.6 Prevention-oriented education programmes that teach students acceptable strategies for interacting with their peers, including skills for understanding interpersonal differences, managing peer pressure and rejecting gender norms have been shown to be effective in preventing acts of bullying.7 Teaching communication and decision-making skills will help students, both victims and perpetrators, to address and ultimately eliminate bullying behaviour.\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nSource\n\nUnited Nations Children\u2019s Fund (UNICEF), An Everyday Lesson: #ENDviolence in Schools, New York, 2018.\n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n\nAbout the data\n\nDefinitions\n\n\nPercentage of girls and boys who experienced bullying during a school year (or in the past 12 months): This indicator provides information based on the self-reporting by students of violence and bullying in schools. A high value indicates that a large number of students are experiencing bullying in or near school, indicating that the school is not a safe environment in which to promote learning. Because the indicator is based on self-reporting of violence and bullying in or near school, it is possible that a proportion of students may be afraid of disclosing such information, resulting in an overestimation of the safety of the school environment.\n\n\n\n\nCoverage\nGirls and boys aged 13\u201417 if the data source for this indicator is the Global school-based student health survey;8 or girls and boys aged 11, 13 and 15 if data source is the Health Behaviour in School-aged Children study.9 \n\n\nAvailability\nData by sex are available for 81 countries for the period 2013\u20142017 (latest available) from the United Nations Educational, Scientific and Cultural Organization (UNESCO) Institute for Statistics database.10 \n\n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n\nFootnotes\n\nUnited Nations Children\u2019s Fund (UNICEF), An Everyday Lesson: #ENDviolence in Schools, New York, 2018 . (\u21e1 back to text)\nIbid. (\u21e1 back to text)\nUnited Nations Children\u2019s Fund (UNICEF), An Everyday Lesson: #ENDviolence in Schools, New York, 2018 . (\u21e1 back to text)\nOliveira, F.R. et al., \u201cBullying effect on student\u2019s performance\u201d, EconomiA, vol.19, Issue 1, 2017 . (\u21e1 back to text)\nKibriya, S. et al., \u201cThe negative consequences of school bullying on academic performance and mitigation through female teacher participation: evidence from Ghana\u201d, Journal of Applied Economics, vol. 49, Issue 25, 2017 . (\u21e1 back to text)\nUnited Nations Educational, Scientific and Cultural Organization (UNESCO), School Violence and Bullying: Global Status Report, Paris, 2017 . (\u21e1 back to text)\nIbid. (\u21e1 back to text)\nWorld Health Organization (WHO) and Centers for Disease Control and Prevention, Global school-based student health survey . (\u21e1 back to text)\nWHO, Health Behaviour in School-aged Children study . (\u21e1 back to text)\nUnited Nations Educational, Scientific and Cultural Organization (UNESCO), UNESCO Institute of Statistics database (accessed in May 2020) . (\u21e1 back to text)\n\n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    }
+]

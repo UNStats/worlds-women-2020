@@ -1,0 +1,242 @@
+[
+    {
+        "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>\"+ n_theme +\"</strong></span></span></p>\n",
+        "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">\"+ n_title +\"</div>\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n\nGlobal enrolment ratios in secondary education for both girls and boys are lower than the corresponding ratios in primary education.\nParticipation in secondary education has expanded steadily in all regions of the world over the past three decades.\nDespite this remarkable improvement, globally, only 75% of girls and 76% of boys in the official school-age population attended secondary school in 2018.\nGender disparities in secondary education have been significantly reduced worldwide, shrinking to 1 percentage point in 2018.\nThere are variations in secondary enrolment ratios among regions, with ratios close to universal in Northern America and Europe and Latin America and the Caribbean, above 90% in Central Asia and lagging behind significantly in sub-Saharan Africa and Oceania (excluding Australia and New Zealand).\n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nBackground\nSecondary education is key to more complex skills and knowledge, which offer individuals more opportunities in life and prepare them for tertiary level education. The foundational skills obtained in secondary school are considered essential for career advancement, active citizenship and safe choices about personal health. These are important reasons for the enactment by many countries of policies or laws making both primary education and lower secondary education free and compulsory.1\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nParticipation in secondary education has increased steadily for both girls and boys\nParticipation in secondary education has expanded steadily in all regions of the world (see figure I). Over the period 1990\u20142018, global gross enrolment ratios in secondary education have improved by 28 percentage points for girls and 20 percentage points for boys. Despite this remarkable improvement, only 75% of girls and 76% of boys attended secondary school in 2018. Global enrolment ratios in secondary education for both girls and boys were lower than the corresponding ratios in primary education.\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nSecondary gross enrolment ratios show significant variation among regions\nGross enrolment ratios in secondary education show significant variation among regions (see figure I). In 2018, the ratio was close to 100% for both girls and boys in Northern America and Europe and Latin America and the Caribbean, and above 90% in Central Asia. However, despite the steady expansion of post-primary education, secondary enrolment was low in many developing countries. In countries in sub-Saharan Africa, the secondary enrolment ratio was 41% for girls and 46% for boys. In Oceania (excluding Australia and New Zealand), the ratio was 48% for girls and 59% for boys. Secondary enrolment ratios were close to or over 80% for both girls and boys in all the other regions, and in both Australia and New Zealand ratios were far above 100% for both girls and boys, indicating a significant enrolment of over-age students and students repeating grades.\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nGlobally, gender disparities in secondary education have been significantly reduced\nBetween 1990 and 2005, the global gender gap in gross enrolment ratios for girls and boys declined from 9 to 3 percentage points (see figure I). The decline has continued steadily, shrinking to 1 percentage point in 2018.\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nGirls still face significant disadvantages in enrolment in secondary education in several regions worldwide\nDespite the gains made over the past three decades, girls are still less likely than boys to be enrolled in secondary school in Oceania, sub-Saharan Africa and Western Asia\u2014all regions with low overall enrolment rates for both girls and boys. National level data (see figure II) show that, in the majority of cases, gross enrolment ratios of under 50% of girls in secondary education are reported in sub-Saharan Africa, and to a lesser extent in Asia and Oceania (Afghanistan, Cambodia, Iraq, Pakistan, Papua New Guinea, Solomon Islands and Yemen). In regions with higher overall secondary enrolment ratios, such as Eastern and South-Eastern Asia and Latin America and the Caribbean, disparities favour girls. Countries in Northern America and Europe and in Central Asia achieved and maintained equal access to secondary education for both girls and boys throughout the period 1990\u20142018, while Northern Africa and Southern Asia eliminated gender disparities over the same period.\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n\nAbout the data\n\nDefinitions\n\n\nGross enrolment ratio (GER) in secondary education: Number of students enrolled in secondary education, regardless of age, expressed as a percentage of the official school-age population corresponding to the same level of education. The gross enrolment ratio in secondary education makes no distinction between lower and upper secondary levels, treating enrolment and participation in secondary education as a whole by combining both lower and upper secondary levels into a single educational cycle. Because the gross enrolment ratio includes all students in secondary education regardless of their age, its values can exceed 100% in countries where children enter school late or repeat grades. \n\n\n\n\nCoverage\nGirls and boys enrolled in secondary education.\n\n\nAvailability\nData are available for 210 countries for the period 1990\u20142018 (latest available)2 in all regional groupings under the Sustainable Development Goals (SDGs) indicator framework.3 \n\n\nMethodological note\nIn some instances, owing to the inclusion of over-aged and under-aged students because of early or late entrants and/or grade repetition, gross enrolment ratios can exceed 100%. In such cases, a rigorous interpretation of the ratio requires additional information to assess the extent of the effect of those factors. A high gross enrolment ratio generally indicates a high degree of participation, whether pupils belong to the official age group or not. A value approaching or exceeding 100% indicates that a country is, in principle, able to accommodate all of its school-age population, but does not indicate the proportion already enrolled. The achievement of a ratio of 100% is therefore a necessary but not sufficient condition for enrolling all eligible children in school. A gross enrolment ratio exceeding 90% for a particular level of education means that the aggregate number of places for students is approaching the number required for universal access of the official age group. However, this is a meaningful interpretation only if it is expected that the under-aged and over-aged enrolment will decline in the future to free up places for pupils from the expected age group. Lower gross enrolment ratios may reflect a shortage of supply, as well as the impact of other factors, such as the indirect and direct costs of attending school, which may limit enrolment. Furthermore, an upward or downward trend in the school-age population can have an impact on the gross enrolment ratio.\n\n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    }
+]

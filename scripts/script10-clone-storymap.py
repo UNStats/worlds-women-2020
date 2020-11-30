@@ -17,7 +17,7 @@ print(storymap_template)
 
 # Get data from StoryMap template
 storymap_data = storymap_template.get_data()
-#print(storymap_data)
+print(storymap_data)
 
 with open('test_original.json', 'w') as json_file:
     json.dump(storymap_data, json_file, indent=4)

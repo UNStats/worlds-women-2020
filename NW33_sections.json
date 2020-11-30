@@ -1,0 +1,212 @@
+[
+    {
+        "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>\"+ n_theme +\"</strong></span></span></p>\n",
+        "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">\"+ n_title +\"</div>\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n\nGender inequalities in trade, particularly in multinational enterprises and foreign trading enterprises, can be analysed by linking microdata from multiple statistical sources available in many countries, based on individual and enterprise characteristics such as employment, education, jobs, businesses and trade.\nBased on results of a case study in Finland, women participate in trade less often than men, especially in higher paying occupations.\nIn exporting and importing enterprises (two-way trading enterprises) in Finland, the share of women is significantly lower in high-paying occupations, such as managers (19%) and professionals (26%), leaving women less likely than men to be able to fully benefit from economic globalization.\nThe gender pay gap in Finland tends to be larger in high-paying jobs provided by foreign multinationals and enterprises that trade internationally and the highest in multinational firms situated in knowledge intensive services.\n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nBackground\nThis narrative provides a blueprint for linking business and social statistics in order to enable an analysis of gender inequalities in trade, particularly in multinational enterprises and foreign trading enterprises. The variables presented are drawn from statistical sources available for many countries, including statistical business registers, foreign affiliate statistics, international trade statistics, structural business statistics and combined employer-employee datasets (see figure I).\nMerging data from official statistical datasets and registers enables the enrichment of gender analyses with economic aspects. Assessing gender equality, such as the gender pay gap, in the business sector is facilitated by the availability of indicators disaggregated by firm type and trading status. While most governments are committed to developing a gender-responsive trade policy, effective measures require country-specific indicators3 in order to obtain a full understanding of gender inequalities in trade.\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nMicrodata linking can improve analyses of trade and gender in Europe\nRecent work on microdata linking2 and trade in goods by enterprise characteristics3 provide a good starting point for operationalizing trade and gender indicators using the UNCTAD conceptual framework4 and indicators illustrated in a related Finnish case study.5 The findings are in line with research showing that heterogeneous firms have an impact on gendered labour market outcomes,6 specifically on the gender pay gap, especially if they are international trading7 or multinational enterprises.8\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nCase study from Finland\nThe share of women in high-paying occupations in exporting and importing (two-way trading) enterprises are significantly lower than in non-trading enterprises\nIn Finland, the shares of women in different occupations in two-way trading and non-trading enterprises reveal that women participate in trade less often than men, especially in higher paying occupations (see figure II). Thus, women in Finland are less likely to be able to fully benefit from economic globalization. Overall, only some 30% of the workforce in two-way trading enterprises are women, compared to 40% in non-trading enterprises. \nWhen merged, data also show that the gender pay gap in Finland tends to be larger in high-paying jobs provided by foreign multinationals and enterprises that trade internationally. Independent firms and those belonging to domestic groups provide more equal pay.9\nMore specifically, the largest gender pay gaps are found in multinational firms situated in knowledge intensive services compared to independent firms, domestic groups, domestic multinationals and foreign multinationals in three industries: manufacturing, knowledge intensive services and other activities. Data on the wages of women in these industries can help to direct policy attention and measures to address the largest gender pay gaps.\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n\nAbout the data\n\nDefinitions\nGender equality in trade indicators measure the preconditions, outcomes and impacts of trade participation for women and men, taking into account their different roles as workers and entrepreneurs, producers and consumers. The indicators require microdata linking of employer and employee datasets to the trading status of enterprises and to various enterprise and individual characteristics to enable in-depth analysis.\n\n\nCoverage\nFemale and male employees and employers in domestic, foreign and multinational businesses and enterprises operating in Finland.\n\n\nAvailability\nData provided by the United Nations Conference on Trade and Development (UNCTAD) and by Statistics Finland10 for Finland only. \n\n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n\nFootnotes\n\nWorld Trade Organization (WTO), Joint Declaration on Trade and Women\u2019s Economic Empowerment, Buenos Aires, 2017 . (\u21e1 back to text)\nEurostat, Micro data Linking \u2014 2019 Edition, 16 December 2019 . (\u21e1 back to text)\nOrganization for Economic Cooperation and Development (OECD), Trade by enterprise characteristics data . (\u21e1 back to text)\nUnited Nations Conference on Trade and Development (UNCTAD), Better data and statistics for gender-responsive trade policy, Policy brief No. 70, October 2018 . (\u21e1 back to text)\nLuomaranta H. et al., \u201dThe impact of multinational and trading enterprises on gender equality - case Finland\u201d, UNCTAD Research Paper No. 45 (UNCTAD/SER.RP/2020/4), May 2020 . (\u21e1 back to text)\nCard, D., Cardoso, A.R. and Kline, P., \u201cBargaining, Sorting, and the Gender Wage Gap: Quantifying the Impact of Firms on the Relative Pay of Women\u201d, The Quarterly Journal of Economics, vol. 131, Issue. 2, May 2016 ; Cardoso, A. R., Guimaraes, P. and Portugal, P., \u201cWhat drives the gender wage gap? A look at the role of firm and job-title heterogeneity\u201d, Oxford Economic Papers, vol. 68, Issue 2, 2016 ; Gallen, Y., Lesner, R. V. and Vejlin, R., \u201cThe labor market gender gap in Denmark: Sorting out the past 30 years\u201d, Labour Economics, 56, 2019 . (\u21e1 back to text)\nB\u00f8ler, E. A., Javorcik, B. and Ulltveit-Moe, K.H., \u201cWorking across time zones: Exporters and the gender wage gap\u201d, Journal of International Economics, vol. 111, Issue C, 2018 . (\u21e1 back to text)\nVahter P. and Masso, J., \u201cThe contribution of multinationals to wage inequality: Foreign ownership and the gender pay gap\u201d, Review of World Economics, vol. 155, Issue 1, February 2019 . (\u21e1 back to text)\nWhile similar findings have been made in Estonia (Vahter P. and Masso, J., \u201cThe contribution of multinationals to wage inequality: Foreign ownership and the gender pay gap\u201d, Review of World Economics, vol. 155, Issue 1, February 2019 ), opposite observations have been made in Japan (Kodama N., Javorcik B.S. and Abe, Y., \u201cTransplanting Corporate Culture across International Borders; FDI and female employment in Japan\u201d, Research Institute of Economy, Trade and Industry (RIETI), Discussion Papers 16015, 2016), underlining the importance of compiling country-specific indicators of gender equality in trade. (\u21e1 back to text)\nStatistics Finland : data could be calculated to different degrees in other countries depending on available statistical data. (\u21e1 back to text)\n\n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    }
+]

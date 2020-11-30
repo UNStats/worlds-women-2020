@@ -1,0 +1,272 @@
+[
+    {
+        "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>\"+ n_theme +\"</strong></span></span></p>\n",
+        "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">\"+ n_title +\"</div>\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n\nUntil the present time, very few differences between girls and boys have been recorded in the measurement of child poverty.\nThe way to address gender differences in child poverty between girls and boys is to measure specific material shortcomings that are important for girls (for example, in menstrual hygiene management).\nIn all six countries with latest available data for the period 2017\u20142019, estimated poverty among adolescent girls was higher than that among adolescent boys.\n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nBackground\nChildren, in particular girls, are invisible and missing in household poverty estimates\nWhile it is well known that gender disparities go well beyond quantifiable issues,1 it might be expected that estimates of child poverty would show a difference between girls and boys. However, during the last two decades of research and analysis of child poverty, no significant differences have been found. One explanation may be that some of the indicators traditionally used (for example, access to water and sanitation or overcrowding) apply to all children in a household, while individual-level material deprivation indicators may be selected without attention to which ones best capture gender disparities.2 Finding appropriate indicators to differentiate the experience of poverty between girls and boys that both reflect the rights constitutive of poverty (material shortcomings) and are widely available across household surveys is challenging. Nevertheless, collecting this information is a priority, given its importance for policy design and focused interventions within households.\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nCurrent situation\nFew differences between girls and boys have been recorded in child poverty measurement\nTraditionally,3 child poverty is measured at the level of the individual child (that is, it is not simply a disaggregation of a household-level estimate of poverty).4 While the dimensions of poverty are matched to child rights, not all rights violations constitute child poverty.5 Moreover, since all rights are equally important, all dimensions ought to be weighted equally. According to the United Nations Children\u2019s Fund (UNICEF),6 the child rights constitutive of poverty (that is, requiring directly and predominantly material resources to be fulfilled) are:7 clothes, education, health, housing, information, nutrition, play, sanitation and water.\nHowever, because clothes, information and play are usually not captured in household surveys and/or there are no internationally agreed criteria to establish thresholds of moderate and severe deprivation, they are not included in these estimates (nor in global reporting).\nSome indicators, such as housing and water, are captured at the household level and then assigned to the individual child or children in the household. For these indicators, there is no gender difference as the number of girls and boys are fairly equal across all types of households.\nIt is a challenge that even among individual-based indicators (for example, health and education) there is no pronounced gender difference.8\nThere are at least four ways to address this challenge. One is to measure girls and boys separately. However, this raises comparability and aggregation issues. Another approach is to assign different thresholds or ladders for girls and boys for some indicators under the rationale that girls are differentially affected. For example, for purposes of safety, dignity and privacy, lower thresholds for overcrowding and sanitation could be used for girls. However, there are no internationally agreed criteria to establish these differentiated thresholds. A third alternative is to include additional indicators that are \u201cgender-informed\u201d, that is, indicators that apply to both girls and boys but that are more likely to capture differences between them.\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nOne way to address gender differences in child poverty is to measure specific material shortcomings that are important for girls (for example, menstrual hygiene management)\nIncluding girl-specific indicators represents the fourth approach. If there are elements that girls (as girls) need to satisfy their rights, they should be measured \u2014 even if there are no equivalent (no \u201ccompensatory\u201d) indicators to measure for boys. Menstrual hygiene management9 is such an indicator, as it is specific to girls and cannot be measured for boys because they do not need it \u2013 and therefore cannot be deprived of it. However, not measuring it for girls would underestimate their material deprivation (and a violation of their right to sanitation)10 for no good reason.\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nEstimated poverty is higher among adolescent girls than adolescent boys in six countries with available data\nUsing the latest household surveys from the sixth round of the Multiple Indicator Cluster Surveys, an effort was made to implement the UNICEF recommendation that girl-specific indicators be included within the child poverty estimation. Menstrual hygiene management was measured, for the first time, and it has now been incorporated in UNICEF guidance on how to measure child poverty.11\nMenstrual hygiene management has been included by adding a separate indicator in the sanitation dimension. The indicator comprises two elements, one is the availability of menstrual hygiene products and the other one is the availability of a secure and clean place to change.12\nAvailable data for six countries show that the ratio of poverty among girls relative to boys (for children age 15 and older) is higher in all countries analysed (see figure). For example, in Suriname, the prevalence of poverty is 80% higher among girls than among boys, while in both Kiribati and Sierra Leone, child poverty is 20% higher among girls than boys.\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\nSources\n\nEconomic Commission for Latin America and the Caribbean (ECLAC) and United Nations Children\u2019s Fund (UNICEF), Pobreza infantil en Am\u00e9rica Latina y el Caribe, December 2010 \nFajth, G., Kurukulasuriya, S. and Engilbertsd\u00f3ttir, S., \u201cA multidimensional response to tackling child poverty and disparities: Reflections from the Global Study on Child Poverty and Disparities\u201d in Minujin, A. and Nandy, S. (eds.), Global Child Poverty and Well-Being: Measurement, Concepts, Policy and Action, Policy Press, United Kingdom, 2012 \nGordon, D., Nandy, S., Pantazis, C., Pemberton, S. and Townsend P., \u201cChild Poverty in the Developing World\u201d, International Journal of Epidemiology, vol. 33, Issue 2, April 2004\nOffice of the United Nations High Commissioner for Human Rights (OHCHR), Draft Guidelines: A Human Rights Approach to Poverty Reduction Strategies, Geneva, 2002 \nOHCHR, Human Rights Indicators: A Guide to Measurement and Implementation, United Nations, Geneva, 2012 \n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n\nAbout the data\n\nDefinitions\nThe indictor measures child poverty, specifically material shortcomings across a range of dimensions (each dimension is a right constitutive of poverty)\n\n\nCoverage\nThe indicator covers girls and boys under age 18.\n\n\nAvailability\nData are available for six United Nations Member States and territories with latest available data for the period 2017\u20142019.\n\n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    },
+    {
+        "title": "<span style=\"font-size:26px;\">SECTION_TITLE</span>",
+        "content": "\n\nFootnotes\n\nFor example, the net enrolment rate at school can be at gender parity, but gender stereotypes may still be reproduced in that setting. (\u21e1 back to text)\nFor example, immunization and stunting, which do not present significant differences between girls and boys in most countries.  (\u21e1 back to text)\nAt least since the United Nations Children\u2019s Fund (UNICEF) commissioned the first estimate of child poverty across developing countries. (\u21e1 back to text)\nSustainable Development Goal 1, indicator 1.2.2: \u201cProportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions\u201d; conspicuously, the indicator is worded differently from other indicators in the SDG indicators framework. It does not call for disaggregation by \u201cage and sex;\u201d instead, it mentions specifically multidimensional poverty of \u201cmen, women, and children\u201d. Moreover, a household-level estimate may omit children suffering material deprivations in families that are not counted as poor due to indicators related to adults. In some countries, this omission could be as high as 20%\u201430% of all children (or about half of all poor children). (\u21e1 back to text)\nOffice of the United Nations High Commissioner for Human Rights (OHCHR), Draft Guidelines: A Human Rights Approach to Poverty Reduction Strategies, Geneva, 2002 ; Office of the United Nations High Commissioner for Human Rights (OHCHR), Human Rights Indicators: A Guide to Measurement and Implementation, United Nations, Geneva, 2012 . (\u21e1 back to text)\nUNICEF, Measuring and monitoring child poverty, Position paper, March 2020. (\u21e1 back to text)\nMonetary income/consumption is not included, although there is a right to a minimum standard of living because: (a) it would introduce an indirect metric of poverty while all the other indicators measure deprivations directly; (b) children are not supposed to earn a living; and (c) depending on how the household surpasses the monetary poverty line, it may be harmful for children (with implications for child labour). (\u21e1 back to text)\nFor instance: immunization under health; or school attendance under education. In the case of education, the majority of countries in the world have reached gender parity in primary school attendance, and parity is also close in secondary school in many countries. Thus, the observed differences in the education dimension are not strong enough to drive a wedge between girls and boys for overall child poverty estimates.  (\u21e1 back to text)\nManagement of hygiene associated with the menstrual process, including menstrual hygiene materials such as pads, cloths, tampons or cups, as well as having access to safe and convenient places to change in privacy. (\u21e1 back to text)\nMenstrual hygiene management could also be measured under health. However, there should not be a separate dimension labelled \u201cgirls\u201d or \u201cgender\u201d as it would not be comparable to the other dimensions, all of which match a right. (\u21e1 back to text)\nUNICEF, Measuring and monitoring child poverty, Position paper, March 2020 . (\u21e1 back to text)\nWhile these questions are asked of all adolescent girls and women aged 15\u201449, only the data for girls under age 18 are used for child poverty estimates. The two specific questions that are asked of respondents are: \u201cDid you use any materials such as sanitary pads, tampons or cloth?\u201d and \u201cDuring your last menstrual period were you able to wash and change in privacy while at home?\u201d. Both are answered either yes or no. No deprivation occurs when both answers are \u201cyes\u201d while severe deprivations is established if both answers are \u201cno\u201d. In the two intermediate situations there is moderate deprivation. (\u21e1 back to text)\n\n\n",
+        "contentActions": [
+            []
+        ],
+        "creaDate": [
+            1602805607319
+        ],
+        "pubDate": [
+            1602805607319
+        ],
+        "status": "PUBLISHED",
+        "media": {
+            "type": "image",
+            "image": {
+                "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                "type": "image",
+                "altText": "",
+                "sizes": [
+                    {
+                        "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                        "width": 1200
+                    }
+                ],
+                "display": "fill"
+            }
+        }
+    }
+]
