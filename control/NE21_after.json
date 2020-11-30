@@ -74,13 +74,13 @@
                     "media": {
                         "type": "image",
                         "image": {
-                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/annie-spratt-UAiR-qzRFzQ-unsplash",
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/annie-spratt-UAiR-qzRFzQ-unsplash.jpg",
                             "type": "image",
                             "altText": "",
                             "sizes": [
                                 {
-                                    "name": "annie-spratt-UAiR-qzRFzQ-unsplash",
-                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/annie-spratt-UAiR-qzRFzQ-unsplash",
+                                    "name": "annie-spratt-UAiR-qzRFzQ-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/annie-spratt-UAiR-qzRFzQ-unsplash.jpg",
                                     "width": 1200
                                 }
                             ],

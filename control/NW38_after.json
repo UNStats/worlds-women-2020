@@ -74,13 +74,13 @@
                     "media": {
                         "type": "image",
                         "image": {
-                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/tim-gouw-bwki71ap-y8-unsplash",
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/tim-gouw-bwki71ap-y8-unsplash.jpg",
                             "type": "image",
                             "altText": "",
                             "sizes": [
                                 {
-                                    "name": "tim-gouw-bwki71ap-y8-unsplash",
-                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/tim-gouw-bwki71ap-y8-unsplash",
+                                    "name": "tim-gouw-bwki71ap-y8-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/tim-gouw-bwki71ap-y8-unsplash.jpg",
                                     "width": 1200
                                 }
                             ],
