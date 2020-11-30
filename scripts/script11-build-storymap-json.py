@@ -13,23 +13,27 @@ import utils_arcgis
 from datetime import datetime, timezone
 
 
+
+
 #------------------------------
 # Conect to ArcGIS online
 #------------------------------
 
 user, gis = utils_arcgis.connect_to_arcGIS()
 
+user2 = gis.users.get('gonzalezmorales_undesa')
+
 print(user)
 print(gis)
 
-# Enter the Item ID for the StoryMap to be cloned:
-template_id  = 'df45ccd1dc1246b08c466b892abaa355'
+user_items = user2.items(folder='ww2020_narratives3', max_items=800)
 
-# Get StoryMap template:
-storymap_template = gis.content.get(template_id)
+narrative_cat = []
 
-# Get data from StoryMap template
-storymap_data = storymap_template.get_data()
+for item in user_items:
+
+    narrative_cat.append(item["id"])
+
 
 
 #---------------------------------
@@ -75,11 +79,23 @@ narrative_ids = os.listdir('narratives3/')
 print(f'narrative_ids = {narrative_ids}')
 print('------------')
 
-for n in narrative_ids:
-    
-    path = 'narratives3/'+ n +'/index.html'
+#for n in narrative_ids:
+for n in range(len(narrative_ids)):
 
-    theme_id = n[0:2]
+    
+    # Enter the Item ID for the StoryMap to be cloned:
+    template_id  =  narrative_cat[n]
+
+    # Get StoryMap template:
+    storymap_template = gis.content.get(template_id)
+
+    # Get data from StoryMap template
+    storymap_data = storymap_template.get_data()
+
+    print(f'Processing narrative {narrative_ids[n]}.....')
+    path = 'narratives3/'+ narrative_ids[n] +'/index.html'
+
+    theme_id = narrative_ids[n][0:2]
 
     n_theme = next((t['theme_desc'] for t in themes if t['theme_id'] == theme_id), None)
 
@@ -91,7 +107,7 @@ for n in narrative_ids:
 
     n_title = soup.find('div', attrs={'class': 'title'}).string
 
-    n_description = '<div><ul><li><b>Narrative ID</b>: '+ n +'</li><li><b>Narrative Title</b>: '+ n_title +'</li><li><b>Theme</b>: '+ n_theme +'</li><li><b>SDG indicators</b>: </li><li><b>Beijing objectives</b>: </li><li><b>Related-narratives</b>: </li><li><b>Labels</b>: </li></ul><b>App ID</b>: [ITEM_ID]<br /></div><div><br /></div>'
+    n_description = '<div><ul><li><b>Narrative ID</b>: '+ narrative_ids[n] +'</li><li><b>Narrative Title</b>: '+ n_title +'</li><li><b>Theme</b>: '+ n_theme +'</li><li><b>SDG indicators</b>: </li><li><b>Beijing objectives</b>: </li><li><b>Related-narratives</b>: </li><li><b>Labels</b>: </li></ul><b>App ID</b>: [ITEM_ID]<br /></div><div><br /></div>'
     
     n_sections = soup.findAll('section')
 
@@ -101,6 +117,7 @@ for n in narrative_ids:
 
     for i in range(len(n_sections)):
 
+        print(f"-- section: {i}")
 
         # Get section title from <h2> element if it exists:
         if i > 1 and i < len(n_sections)-2:
@@ -112,6 +129,9 @@ for n in narrative_ids:
                 section_title = '<span style=\"font-size:26px;\"> </span>'
         else:
             section_title = '<span style=\"font-size:26px;\"> </span>'
+
+        
+        print(f"   title: {section_title}")
         
         # Remove <section> tag:
         section_content = str(n_sections[i])
@@ -152,24 +172,14 @@ for n in narrative_ids:
     new_storymap_data['values']['title'] = n_theme
     new_storymap_data['values']['story']['sections'] = sections
 
-    # file_sections = n + '_sections.json'
-    # with open(file_sections, 'w') as json_file:
-    #     json.dump(sections, json_file, indent=4)
 
-    # Clone template into a new storymap:
-    storymap_new = gis.content.clone_items(items=[storymap_template],
-                                        folder = "World\'s Women 2020 Narratives - Staging")
-
-    #print(n)
-    #print(storymap_new)
-
-    storymap_new[0].update(data=new_storymap_data,
-                           item_properties={'tags': n,
-                                            'title': n + ' - ' + n_title,
-                                            'description': n_theme,
+    storymap_template.update(data=new_storymap_data,
+                           item_properties={'tags': narrative_ids[n],
+                                            'title': narrative_ids[n] + ' - ' + n_title,
+                                            'description': n_description,
                                             'snippet': '..'})
 
 
-
+    print(f'Finished processing narrative {narrative_ids[n]}')
 
     
