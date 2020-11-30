@@ -74,13 +74,13 @@
                     "media": {
                         "type": "image",
                         "image": {
-                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/jose-aljovin-S0VmPtuTzVc-unsplash",
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/jose-aljovin-S0VmPtuTzVc-unsplash.jpg",
                             "type": "image",
                             "altText": "",
                             "sizes": [
                                 {
-                                    "name": "jose-aljovin-S0VmPtuTzVc-unsplash",
-                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/jose-aljovin-S0VmPtuTzVc-unsplash",
+                                    "name": "jose-aljovin-S0VmPtuTzVc-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/jose-aljovin-S0VmPtuTzVc-unsplash.jpg",
                                     "width": 1200
                                 }
                             ],

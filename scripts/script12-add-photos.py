@@ -101,6 +101,13 @@ for item in user_items:
     print('******************************')
 
     item.update(data=json_data)
+    
+
+    # updating thumbnail
+    thumbnail_photo = r'https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Thumbnails/' + photo_name
+    item.update(thumbnail=thumbnail_photo.replace(" ", "%20"))
+
+
 
     json_data = item.get_data()
 
