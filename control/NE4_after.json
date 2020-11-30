@@ -1,0 +1,314 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Education",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Education</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">The impact of birth registration on educational outcomes in Pakistan (United Nations Economic and Social Commission for Asia and the Pacific (ESCAP))</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ashkan-forouzani-tcNNJNtTdW4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ashkan-forouzani-tcNNJNtTdW4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ashkan-forouzani-tcNNJNtTdW4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "\n<ul class=\"key-points\">\n<li>Birth registration is associated with positive educational outcomes for all children, but the impact is even greater for girls.</li>\n<li>The gender gap to the disadvantage of girls is higher than 20 percentage points for unregistered children across all three education levels, (a) any education, (b) completed primary education, and (c) secondary education; the gap falls to around 8 percentage points for registered children and is under 3 percentage points for those who have a birth certificate.</li>\n<li>Birth registration is a way to narrow the gender gap in access to education.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Background</span>",
+                    "content": "\n\n<p>As set forth in the Universal Declaration of Human Rights, the foundational document of the United Nations, birth registration is the first step to acquiring a legal identity, which is the key enabler of the \u201cright to recognition everywhere as a person before the law\u201d,<span class=\"footnote-index\">1</span>  a fundamental human right often referred to as the \u201cright to have other rights\u201d.<span class=\"footnote-index\">2</span>  In many countries, including Pakistan, birth registration provides direct access to a range of essential services, including schooling, banking and obtaining a passport. It is evident that ensuring birth registration constitutes a powerful tool to leverage equality and a pathway to opportunities otherwise unattainable. Its role is even more essential for those at higher risk of exclusion from those opportunities: women and girls, migrants, minorities, stateless and displaced persons or persons with disabilities. Birth registration also facilitates access to social security and is a critical resource for those who lack other forms of protection.</p>\n<p>The issue of lack of birth registration is of paramount importance in countries in the Asia-Pacific region, which is home to 65 million still unregistered children under age five<span class=\"footnote-index\">3</span>\u2014and particularly in South Asia, where 50 million unregistered children live. This story focuses on the impact of birth registration on education in Pakistan, in particular on oldest children (aged 14\u201417), in order to better understand how birth registration affects educational outcomes. In Pakistan, as in many low-income and middle-income countries,<span class=\"footnote-index\">4</span>  girls and boys have an equal chance of being registered: 42.5% of boys and 41.9% of girls are registered under age five.<span class=\"footnote-index\">5</span>  Looking at the data through a gender lens helps to ensure evidence-informed and gender-oriented social action.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Birth registration is associated with positive educational outcomes for all children, but the impact of registration is even greater for girls</span>",
+                    "content": "\n\n<p>Although a causal relationship cannot be ascertained, educational outcomes in Pakistan are far higher for children who have their births registered than those who do not, and even more so for those with a birth certificate (see figure). The gender gap in school completion [Link to NE6] at each of the three education levels, (a) any education, (b) completed primary education and (c) secondary education, is higher than 20 percentage points for unregistered children. It falls to around 8 percentage points for registered children and is under 3 percentage points for those who have a birth certificate. Although a birth certificate is not required to attend school in Pakistan, some local or provincial school requirements (for example, to produce a birth certificate before registration) probably affect outcomes. What stands out is the specific importance of registration for girls. Boys without registration have far greater access to all levels of education than girls in the same situation; this gap narrows for registered children, both girls and boys. </p>\n<p>Even after controlling for other socioeconomic factors such as wealth, type of residence or mothers\u2019 highest educational attainment, the positive effect of birth registration remains statistically significant. With all other factors being equal, unregistered boys have better access to education than unregistered girls, but this effect is significantly reduced for those who are registered. While all children benefit from registration, the link is especially strong for girls, effectively reducing, if not eliminating, the gender gap in educational outcomes for those who have been registered.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Birth registration is a way to narrow the gender gap in access to education</span>",
+                    "content": "\n\n<p>Although some other factors such as girls\u2019 mobility<span class=\"footnote-index\">6</span>  or the \u201cmissing girls\u201d effect<span class=\"footnote-index\">7</span>  could partially explain the gender differences in the link between educational attainment and birth registration, data for Pakistan show the potential of birth registration in ensuring that everyone has an equal opportunity to access essential services, most importantly education. Strengthening and developing existing civil registration systems further could yield significant results, even in the short term, and could contribute to reducing the gender gap in educational outcomes. </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Regional cooperation </span>",
+                    "content": "\n\n<p>In 2014, the first ever Ministerial Conference on Civil Registration and Vital Statistics in Asia and the Pacific issued a ministerial declaration entitled \u201cGet everyone in the picture\u201d, accompanied by a regional action framework detailing steps and objectives to achieve universal birth registration and facilitating regional collaboration over the course of the Asian and Pacific Civil Registration and Vital Statistics Decade 2015\u20142024.<span class=\"footnote-index\">8</span> </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<p>Civil registration is the continuous, permanent, compulsory and universal recording of the occurrence and characteristics of vital events pertaining to the population. Birth registration is especially important as the issuance of birth certificates provides individuals with their legal identity and ensures their access to rights and services. The importance of birth registration is reflected in Sustainable Development Goal (SDG) 16, target 16.9, as measured by indicator 16.9.1: \u201cProportion of children under 5 years of age whose births have been registered with a civil authority, by age\u201d. Disaggregation by sex is recommended to ensure that girls are not excluded from registration procedures and to compare the differential impact of birth registration, which can help track progress towards achieving SDG target 4.5, aimed at equal access to education for the most vulnerable and the elimination of gender disparities.</p>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Girls and boys aged 14\u201417. </p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>Data from the Pakistan Demographic and Health Survey 2017-18  by sex, educational outcome and birth registration status.</p>\n</div>\n<div class=\"methodology-limitations\">\n<h2>Limitations</h2>\n<p>Demographic and Health Surveys have two major limitations regarding the computation of registration completeness: they include only those living in households, potentially not counting the most disadvantaged; and the registration variable is solely declarative. Registration estimations are therefore likely to be overestimations.</p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"footnotes\">\n<h5 id=\"footnote-label\">Footnotes</h5>\n<ol>\n<li id=\"fn1\"><a href=\"https://www.un.org/en/universal-declaration-human-rights/\">United Nations, General Assembly, resolution 217 A, December 1948 </a>. (\u21e1 back to text)</li>\n<li id=\"fn2\"><a href=\"https://www.baliprocess.net/UserFiles/baliprocess/File/Bali%20Process%20Civil%20Registration%20Assessment%20Toolkit%20FINAL.pdf\">Bali Process Civil Registration Assessment Toolkit, Bangkok, 2018 </a>. (\u21e1 back to text)</li>\n<li id=\"fn3\"><a href=\"https://data.unicef.org/resources/birth-registration-for-every-child-by-2030/\">United Nations Children\u2019s Fund (UNICEF), Birth Registration for Every Child by 2030: Are we on track?, New York, 2019 </a>. (\u21e1 back to text)</li>\n<li id=\"fn4\"><a href=\"https://gh.bmj.com/content/4/6/e001926\">Bhatia, A., Krieger, N., Beckfield, J., Barros, A.J.D., and Victoria, C., \u201cAre inequities decreasing? Birth registration for children under five in low-income and middle-income countries, 1999\u20132016\u201d, BMJ Journals: BMJ Global Health, vol. 4, Issue 6 </a>. (\u21e1 back to text)</li>\n<li id=\"fn5\"><a href=\"https://dhsprogram.com/pubs/pdf/FR354/FR354.pdf\">National Institute of Population Studies, Pakistan, and ICF, Pakistan Demographic and Health Survey 2017-18, Islamabad and Rockville, Maryland, 2019 </a>. (\u21e1 back to text)</li>\n<li id=\"fn6\"><a href=\"https://www.tandfonline.com/doi/pdf/10.1080/17441730.2012.646805?casa_token=NMLPTMFn6agAAAAA:tLD5yeyf26o9Pcx_b3dPZ80cHnQeaYR8suNmc4YKLFo6lvRBqV21a0U1fF1ysv7ptGXZH8QsXjc\">Callum, C., Sathar, Z., and Ul Haque, M., \u00ab Is Mobility the Missing Link in Improving Girls\u2019 Schooling in Pakistan ? \u00bb, Asian Population Studies, vol. 8, Issue 1, February 2012 </a>. (\u21e1 back to text)</li>\n<li id=\"fn7\"><a href=\"https://www.unfpa.org/sites/default/files/resource-pdf/Guilmoto_Revised_presentation_Hanoi_Oct2011.pdf\">Guilmoto, C. Z., \u201cSex imbalances at birth: Trends consequences and policy implications\u201d, United Nations Population Fund (UNFPA), 2012 </a>. (\u21e1 back to text)</li>\n<li id=\"fn8\"><a href=\"https://www.unescap.org/sites/default/files/Asian_and_Pacific_Civil_Registration_and_Vital_Statistics_Decade2015-2024_Booklet.pdf\">United Nations, Economic and Social Commission for Asia and the Pacific (ESCAP), Ministerial Conference on Civil Registration and Vital Statistics in Asia and the Pacific, Bangkok, November 2014 </a>. (\u21e1 back to text)</li>\n<li id=\"fn9\"><a href=\"https://dhsprogram.com/pubs/pdf/FR354/FR354.pdf\">National Institute of Population Studies, Pakistan, and ICF, Pakistan Demographic and Health Survey 2017-18, Islamabad and Rockville, Maryland, 2019 </a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NE4"
+    }
+}

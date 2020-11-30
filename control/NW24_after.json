@@ -1,0 +1,374 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Economic empowerment",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Maternity and paternity leave and related benefits</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/kelly-sikkema-DPmevL6jcHo-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "kelly-sikkema-DPmevL6jcHo-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/kelly-sikkema-DPmevL6jcHo-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "\n<ul class=\"key-points\">\n<li>As of 2020, 38 States Members of the United Nations had ratified the Maternity Protection Convention (Convention No. 183) adopted by the International Labour Organization (ILO) in 2000.<span class=\"footnote-index\">1</span></li>\n<li>In 2020, of the 185 countries and territories with available data, 53% offer at least 14 weeks of maternity leave, an increase from 38% in 1994.</li>\n<li>As of 2020, 77% of the 185 countries and territories with available data had granted two thirds of women\u2019s previous earnings as maternity leave benefits.</li>\n<li>Of the 188 countries and territories with available data reviewed by the World Bank in 2020, 103 countries (55%) have provisions for paternity leave, an increase over the 30 countries (16%) that offered such leave in 1995. As reported by the World Bank, globally, the median length of paid paternity leave is five days, a low number when compared with the 56 days of paternity leave granted in some high-income States members of the Organization for Economic Cooperation and Development (OECD).</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Background</span>",
+                    "content": "\n\n<p>Maternity protection, which is a fundamental human right and a critical element of policies balancing the participation of women and men in family and work life, covers, inter alia: the prevention of exposure to health and safety hazards during and after pregnancy; entitlement to paid maternity leave and breastfeeding breaks; maternal and child health care; protection against discrimination in employment and occupations, including with respect to recruitment and dismissal; and the guaranteed right to return to the same position or an equivalent position after maternity leave.<span class=\"footnote-index\">2</span></p>\n<p>  Maternity protection not only contributes to the health and well-being of mothers and their children, it also promotes gender equality in the workplace. Three conventions on maternity protection have been adopted by ILO, in 1919, 1952 and 2000: the most recent, the Maternity Protection Convention (Convention No. 183), stipulates that women should be entitled to no less than 14 weeks of maternity leave, with paid cash benefits amounting to at least two thirds of their normal earnings.<span class=\"footnote-index\">3</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Current situation</span>",
+                    "content": "\n\n<p><strong>Worldwide in 2020 over 50% of countries offer at least 14 weeks of maternity leave, a marked increase over the last 25 years</strong></p>\n<p>As of 2020, 38 States Members of the United Nations in regions throughout the world had ratified the Maternity Leave Convention (Convention No. 183), 24 of them in developed regions: more than half (53%) of the 185 countries with available data offer 14 weeks minimum statutory maternity leave, specifying such leave in national laws and regulations, as recommended in Convention No. 183.</p>\n<p>As of 2020, Australia and New Zealand and all countries in <span class=\"label-ref\" tag=\"Central Asia\">Central Asia</span> offer at least 14 weeks of maternity leave. Almost all countries in <span class=\"label-ref\" tag=\"developed regions\">developed regions</span> have also followed the recommendation in Convention No. 183, with the exception of Iceland (13 weeks) and the United States of America (12 weeks). Entitlement to maternity leave has been increased up to 52 weeks in five countries in Europe,<span class=\"footnote-index\">4</span> and up to 59 weeks in Croatia, since the adoption of the Maternity Protection Convention in 2000. It should be noted that in these countries, women\u2019s labour force participation has grown in recent years, contrary to the global trend. In contrast, less than a quarter of countries with available data in Latin America and the Caribbean (24%), South-Eastern Asia (20%), <span class=\"label-ref\" tag=\"Southern Asia\">Southern Asia</span> (14%) and <span class=\"label-ref\" tag=\"Oceania\">Oceania</span> (excluding Australia and New Zealand) (0%) offer 14 weeks or more of maternity leave (see figure I). Globally, the proportion of countries with available data offering a minimum of 14 weeks of maternity leave increased from 38% to 53% during the period from 1994 to 2020.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Four out of five countries grant at least two thirds of women\u2019s previous earnings as maternity leave payments as recommended by ILO Convention No. 183 </span>",
+                    "content": "\n\n<p>According to ILO Convention No. 183, women should be granted paid cash benefits of at least two thirds of their previous earnings during maternity leave. In 2020, out of 185 countries with available information on maternity leave, 143 (77%) meet this criterion, including all countries in Eastern Asia and Southern Asia.<span class=\"footnote-index\">5</span> The proportion that meet the criterion is slightly lower in Western Asia (94%), South-Eastern Asia (80%), Latin America and the Caribbean (79%), sub-Saharan Africa (76%) and Northern America and Europe (74%). Some countries have other pay schemes with conditional benefits constituting a higher or a lower proportion of maternity leave payments than two thirds of women\u2019s previous income (see figure II).</p>\n<p>Three countries, <span class=\"label-ref\" tag=\"Lesotho\">Lesotho</span>, <span class=\"label-ref\" tag=\"Papua New Guinea\">Papua New Guinea</span> and the <span class=\"label-ref\" tag=\"United States\">United States</span> (except the State of California), did not have legal provisions to provide cash benefits for women on maternity leave. In <span class=\"label-ref\" tag=\"Tunisia\">Tunisia</span>, cash benefits during maternity leave for employed women varied based on institutional and <a class=\"narrative-ref\" href=\"#NW2\">economic sectors</a>: while women employed in the agriculture sector received 50% of their flat-rate daily wage during maternity leave, payments amounted to the full salary for women working as civil servants.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Paternity leave is becoming more common</span>",
+                    "content": "\n\n<p>Many countries have adopted maternity and paternity benefits through legislation, benefitting both mothers and fathers. Paternity leave is a short period of leave for the father following the arrival of his child(ren), with the objective of encouraging fathers to assist in childcare and to attend to other family-related responsibilities. Paternity leave has become more common: in 2020, among 188 United Nations Member States and territories with available data worldwide, 103 countries (55%) had provisions on paternity leave, up from the 30 countries (16%) that provided such leave in 1995 (see figure III).</p>\n<p>In 2020 in developed regions, new fathers are not entitled to paid paternity leave in Austria, Belarus, Switzerland, Israel, Montenegro, New Zealand, the Russian Federation, San Marino, Slovakia and Ukraine. Twenty-six countries in <span class=\"label-ref\" tag=\"sub-Saharan Africa\">sub-Saharan Africa</span> and 17 countries and territories in <span class=\"label-ref\" tag=\"Latin America and the Caribbean\">Latin America and the Caribbean</span> do not mandate paid time off for new fathers. In 2020, the median length of paid paternity leave worldwide was five days, similar to the corresponding figures observed in countries in sub-Saharan Africa (3 days) and Latin America and the Caribbean (5 days), a low number when compared with the 56 days of paternity leave provided in some high income States members of OECD.<span class=\"footnote-index\">6</span> The European Union work-life balance directive, which entered into force as of 1 August 2019, extends the length of paternity leave in EU member states to at least 10 working days.<span class=\"footnote-index\">7</span></p>\n<p>Paternity leave also has significant positive effects on women\u2019s <a class=\"narrative-ref\" href=\"#NW1\">employment</a>, with an estimated increase of almost 7% in the proportion of women employed in private firms in developing regions when paternity leave is mandated.<span class=\"footnote-index\">8</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Institution in focus: United Nations</span>",
+                    "content": "\n\n<p>In 2019, the Chair of the International Civil Service Commission (ICSC) communicated his commitment to reviewing parental leave entitlements to balance participation of all <span class=\"label-ref\" tag=\"United Nations\">United Nations</span> staff, irrespective of gender, in family and work life. If endorsed by ICSC, the proposed gender responsive and family-friendly policies, such as paid parental leave for all parents, including those who adopt, foster or have children through surrogacy or assisted reproductive technology, would set the standards of inclusive participation, respect for diversity and work-life balance called for in the 2030 Agenda for Sustainable Development in order to promote a gender-equal world.<span class=\"footnote-index\">9</span> <span class=\"footnote-index\">10</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Social protection</span>",
+                    "content": "\n\n<p>In 2016, the proportion of mothers giving birth who were covered by maternity <span class=\"label-ref\" tag=\"poverty\">cash benefits </span>stood at 41% worldwide. The proportion was above 90% in developed regions (94% in Europe and almost 100% in Australia and New Zealand and Northern America) but varied greatly among developing regions, ranging from 69% in Northern Africa to 2% in sub-Saharan Africa.<span class=\"footnote-index\">11</span> <span class=\"footnote-index\">12</span>\n</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li>\n<span class=\"concept\">Length of maternity leave; Percentage of wages paid during maternity leave; Number of countries with paid paternity leave provisions</span>: <span class=\"definition\">These indicators provide information on maternity and paternity leave and related benefits.</span>\n</li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage and availability</h2>\n<p>185 United Nations Member States and territories with available data under the relevant indicators of the United Nations Minimum Set of Gender Indicators;<span class=\"footnote-index\">13</span> and the paternity leave policies of 188 United Nations Member States and territories reviewed by the World Bank.<span class=\"footnote-index\">14</span> </p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"footnotes\">\n<h5 id=\"footnote-label\">Footnotes</h5>\n<ol>\n<li id=\"fn1\"><a href=\"https:www.ilo.org/dyn/normlex/en/f?p=1000:12100:0::NO::P12100_ILO_CODE:C183\">International Labour Organization (ILO) </a>. (\u21e1 back to text)</li>\n<li id=\"fn2\">United Nations Department of Economic and Social Development (UNDESA), Statistics Division, The World\u2019s Women 2015: Trends and Statistics, New York, 2015 (United Nations publication, Sales No. E.15.XVII.8). (\u21e1 back to text)</li>\n<li id=\"fn3\">International Labour Organization (ILO), Maternity Protection Convention, No. 183, Geneva, 2000. (\u21e1 back to text)</li>\n<li id=\"fn4\">Albania, Bosnia and Herzegovina, Montenegro, Serbia and the United Kingdom of Great Britain and Northern Ireland.  (\u21e1 back to text)</li>\n<li id=\"fn5\">Not all of the countries that meet this criterion provided the minimum statutory maternity leave of 14 weeks. (\u21e1 back to text)</li>\n<li id=\"fn6\">World Bank, Women, Business and the Law, Washington, D.C., 2020. (\u21e1 back to text)</li>\n<li id=\"fn7\"><a href=\"https://ec.europa.eu/social/main.jsp?catId=89&amp;furtherNews=yes&amp;langId=en&amp;newsId=9438\">European Commission, \u201cEU Work-life Balance Directive enters into force\u201d, 2019 </a>. (\u21e1 back to text)</li>\n<li id=\"fn8\">World Bank, \u201cDoes Paternity Leave Matter for Female Employment in Developing Economies?\u201d, Policy Research Working Papers, Washington, D.C., 2016. (\u21e1 back to text)</li>\n<li id=\"fn9\">Source: <a href=\"https://icsc.un.org/home/news/74\">Letter to staff from the Chair of the International Civil Service Commission (ICSC) dated 20 December 2019 </a>. (Last accessed on 27 July 2020).  (\u21e1 back to text)</li>\n<li id=\"fn10\">Parental leave is a relatively long-term leave available to parents, allowing them to take care of children over a period of time usually following the maternity or paternity leave period (ILO, Maternity at work: A review of national legislation, second edition, Geneva, 2010). As of 2017, paternity leave for United Nations staff was provided for a total period of up to 20 working days, or up to 40 working days for internationally recruited staff members serving at a non-family duty station or in exceptional circumstances (ST/AI/2005/2 and Amendments 1 and 2). (\u21e1 back to text)</li>\n<li id=\"fn11\">Source: <a href=\"https://unstats.un.org/sdgs/indicators/database/\">Global SDG Indicators Database </a>. (last accessed on 27 July 2020).  (\u21e1 back to text)</li>\n<li id=\"fn12\">The proportion of mothers with newborns receiving maternity cash benefits includes all women giving birth: estimates for Northern America, Australia and New Zealand and sub-Saharan Africa regions should be interpreted with caution as they are based on reported data coverage below 40% of the population. (\u21e1 back to text)</li>\n<li id=\"fn13\"><a href=\"https://genderstats.un.org/#/home\">United Nations Department of Economic and Social Development (UNDESA), Statistics Division, United Nations Minimum Set of Gender Indicators </a>. (\u21e1 back to text)</li>\n<li id=\"fn14\">World Bank, Women, Business and the Law, Washington, D.C., 2020. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NW24"
+    }
+}

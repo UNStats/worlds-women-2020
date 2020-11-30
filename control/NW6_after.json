@@ -1,0 +1,464 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Economic empowerment",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Access to formal financial services</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/javad-esmaeili-1E5OpWBq-eU-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "javad-esmaeili-1E5OpWBq-eU-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/javad-esmaeili-1E5OpWBq-eU-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "\n<ul class=\"key-points\">\n<li>Since 2011, while levels of financial inclusion have been increasing at a steady rate for both men and women around the world, women\u2019s level of access was still behind that of men by 7 percentage points in 2017. This gender gap is more pronounced in developing regions, particularly in Western Asia and in Northern Africa, where the gap stands at 21 percentage points.</li>\n<li> Data collected through the Evidence and Data for Gender Equality (EDGE) project reveal that women entrepreneurs are less likely than men to fulfil their productive and innovative potential for a variety of reasons, including, notably, lack of access to formal financial services.</li>\n<li> In 2017, 45% of women 15 years and above worldwide had saved money in the past 12 months, compared with 52% of men in the same age group. Savings patterns of women and men also differed, with men saving formally and women in alternative ways.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Background</span>",
+                    "content": "\n\n<p>An account at a financial institution or through a mobile-money service gives people access to the formal financial systems and thus to an array of banking services and instruments. Addressing the persistent gender gap in account ownership would boost women\u2019s economic empowerment and improve gender parity in other dimensions.<span class=\"footnote-index\">1</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Current situation</span>",
+                    "content": "\n\n<p><strong>The global gender gap in financial or mobile-money-account ownership persists</strong></p>\n<p>Women are lagging behind men in making use of financial services. In 2017, 65% of women worldwide had an individual or joint account at a financial institution, a bank, credit union, microfinance institution, cooperative or post office, or through a mobile-money service, compared to 72% of men. Despite the overall upward trajectory in financial inclusion for both women and men since 2011, a 7 percentage point gender gap has persisted globally (see figure I), with women constituting a disproportionate share of unbanked individuals compared with men in 2017 (56% versus 44%, respectively) (see figure II).</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<p><strong>The gender gap in financial or mobile-money account ownership is larger in developing regions</strong></p>\n<p>In 2017, the proportion of women in developing regions with financial or mobile-money accounts was lower than the proportion of men. Differences in account ownership between women and men were the highest in <span class=\"label-ref\" tag=\"Western Asia\">Western Asia</span> (21 percentage points)<span class=\"footnote-index\">2</span>  and <span class=\"label-ref\" tag=\"\">Northern Africa</span> (21 percentage points),<span class=\"footnote-index\">3</span>  with a wide disparity among countries in those regions. Among countries in developing regions, the highest gender gap was observed in <span class=\"label-ref\" tag=\"Jordan\">Jordan</span>, where 27% of women and 56% of men had banking or mobile-money accounts, a difference of 30 percentage points. In developed regions, there was a less discernable gender gap in account ownership, on average (see figure III).</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<p>A bank account provides a secure avenue to save and borrow money, which opens up formal channels for women to invest in capital for their businesses and entrepreneurial activities, and for themselves, their families and their children. Findings of the Evidence and Data for Gender Equality (EDGE) project<span class=\"footnote-index\">4</span> reveal that women entrepreneurs are less likely than men to fulfil their productive and innovative potential due to a variety of factors, including lack of account ownership (including financial asset accumulation and ownership) and reduced access to external financing through formal channels. In <span class=\"label-ref\" tag=\"Mongolia\">Mongolia</span>, where the proportion of women with financial or mobile-money accounts was four percentage points higher than that of men, data collected in 2016 under the EDGE project revealed that women entrepreneurs were more likely than men to register their businesses in public records (47% versus 32%, respectively)<span class=\"footnote-index\">5</span> and were exposed to less economic vulnerability as a result. </p>\n<p>In addition, having a financial or mobile-money account increases women\u2019s economic freedom and <a class=\"narrative-ref\" href=\"#ND11\">decision-making power in the home</a>, including managing the flow of earnings from employment and/or the stock of owned assets and deciding on major purchases. Furthermore, having a banking account connects women with far more agents in the economy, giving them access to and control over information, networks and payments, such as remittances, installments, wages, taxes and government cash transfers, through reliable and affordable payment systems.\n                </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Saving patterns vary among women and men </span>",
+                    "content": "\n\n<p>Account ownership enables women to safeguard their savings in banks and other financial institutions, increasing their resilience to withstand possible exogenous shocks during different stages of the life cycle and to escape poverty. Globally, it is estimated that 45% of women aged 15 and above saved money in 2017, compared with 52% of men in the same age group. While a relatively higher proportion of men saved formally at financial institutions (29%), women tended to save money in alternative ways, including through semi-formal savings clubs or by entrusting savings to an individual outside the family (see figure IV). </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<p>In addition to the legal barriers that may restrict women\u2019s ability to have a banking account, structural differences can also help explain the gender gap in account ownership. The effect of gender on bank account ownership remains significant in developing regions, even after controlling for income, education, employment status, rural residency and age.<span class=\"footnote-index\">6</span> Furthermore, in 2017, among adults without an account worldwide, women were less likely than men to participate in the labour force [Link to NW1] (41% versus 68%, respectively) (see figure V). In a study conducted in the State of Madhya Pradesh in India, it was found that boosting women\u2019s bargaining power by helping them to open bank accounts and understand the basic principles of banking and by advising them to deposit their public workfare programme wages into their own accounts rather than into those owned by male household heads, increased women\u2019s labour force participation rate in both the public and private sectors, particularly in the case of women who were least involved in the labour force prior to the State intervention and whose husbands were most opposed to them working.<span class=\"footnote-index\">7</span> </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Country in focus: Turkey</span>",
+                    "content": "\n\n<p>Adult women with accounts at a bank or other financial institution may still face a gender bias in the use of financial services and instruments. In 2017, the gender gap in account ownership in @@Turkey@@ remained considerable, at 29 percentage points. In a controlled experiment, fictional women-owned businesses received, ceteris paribus and independent of their credit riskiness, owing to a gender bias on the part of loan officers, 10% less in loan amounts, on average, compared to fictional men-owned businesses.<span class=\"footnote-index\">8</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Legal frameworks</span>",
+                    "content": "\n\n<p>Women in Cameroon, Chad, Gabon, Guinea-Bissau and Niger cannot legally open a bank account in the same way as men do. In addition, women in 16 countries (10 in Western Asia) cannot legally travel outside their homes in the same way as men and may face obstacles to going into banks or other financial institutions.<span class=\"footnote-index\">9</span> </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Definition</span>",
+                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n\n<ul>\n<li>\n<span class=\"concept\">Proportion of women and men aged 15 and above with an account at a bank or other financial institution or with a mobile-money-service provider</span>: <span class=\"definition\">This indicator provides information on access to formal financial services. It measures the percentage of adult women and men aged 15 and above who report having an individual or joint account at a bank or other type of financial institution or using a mobile-money-service provider in the past 12 months. Other types of financial institutions include credit unions, microfinance institutions, cooperatives or post offices.</span>\n</li>\n<li>\n<span class=\"concept\">xxx</span>: <span class=\"definition\">xxx</span>\n</li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Women and men aged 15 and above.</p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"footnotes\">\n<h5 id=\"footnote-label\">Footnotes</h5>\n<ol>\n<li id=\"fn1\"><a href=\"https://www.poverty-action.org/publication/womens-economic-empowerment-through-financial-inclusion\">Holloway, K., Niazi, Z, and Rouse, R., \u201cWomen\u2019s Economic Empowerment through Financial Inclusion\u201d, Policy Brief, Innovations for Poverty Action, New Haven, 2017 </a>. (\u21e1 back to text)</li>\n<li id=\"fn2\">Unweighted average for the region calculated by the United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division. (\u21e1 back to text)</li>\n<li id=\"fn3\">Ibid. (\u21e1 back to text)</li>\n<li id=\"fn4\">Outputs and findings of the <a href=\"https://unstats.un.org/edge/\">Evidence and Data for Gender Equality (EDGE) project</a>, implemented by UNDESA, Statistics Division, in collaboration with the United Nations Entity for Gender Equality and the Empowerment of Women (UN Women)  (\u21e1 back to text)</li>\n<li id=\"fn5\">Results of the EDGE survey piloted in Mongolia in 2015 to measure entrepreneurship from a gender perspective. (\u21e1 back to text)</li>\n<li id=\"fn6\"><a href=\"https://ideas.repec.org/p/wbk/wbrwps/6416.html\">Demirg\u00fc\u00e7-Kunt, A., Klapper, L.F., and Singer,D., \u201cFinancial inclusion and legal discrimination against women: evidence from developing countries\u201d, Policy Research Working Paper, No. 6416, World Bank, 2013 </a>. (\u21e1 back to text)</li>\n<li id=\"fn7\"><a href=\"https://www.hbs.edu/faculty/Pages/item.aspx?num=56998\">Field, E., Pande, R., Rigol, N., Schaner, S. and Troyer, C.,\u201cOn Her Own Account: How Strengthening Women\u2019s Financial Control Impacts Labor Supply and Gender Norms\u201d, Discussion Paper No. 2201, Cowles Foundation for Research in Economics, Yale University Press, 2019 </a>. (\u21e1 back to text)</li>\n<li id=\"fn8\">Source: <a href=\"http://documents.worldbank.org/curated/en/510621527219081674/pdf/Turkey-IncAFP-PAD-05032018.pdf\">World Bank, Project appraisal document on a proposed loan, report No. PAD2768 </a>. (\u21e1 back to text)</li>\n<li id=\"fn9\">Source: <a href=\"https://wbl.worldbank.org/\">World Bank, Women, Business and the Law 2020, Washington, D.C., 2020 </a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NW6"
+    }
+}

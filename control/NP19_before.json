@@ -1,0 +1,374 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Population and families",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Population and families</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Population composition by age and sex</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "\n<ul class=\"key-points\">\n<li>As of 2020, there are fewer women than men in the world; 3.8 billion women (49.6%) and 3.9 billion men (51.4%). The ratio of men to women is of significance because it has implications for the demographic and economic situation of societies.</li>\n<li>The ratio of men to women varies widely by geographical region and subregion, with some regions having a surplus and others a deficit, ranging from 93 men per 100 women in Europe to 110 men per 100 women in Western Asia.</li>\n<li>Globally, men outnumber women until around the age of 50, and thereafter there are more women than men (for example, 92 men for every 100 women aged 65\u201369, and 47 men for every 100 women aged 90\u201394) as a result of the lower mortality rate for women than for men.</li>\n<li>Over the past 30 years, the sex ratio at birth has remained constant worldwide, ranging between 107 and 108 male births to 100 female births, although it is significantly higher in some countries, including Azerbaijan and China (113:100), Viet Nam (112:100), Armenia (111:100) and India (110:100).</li>\n<li> Since 2000, the share of older persons (aged 65 and older) in the total global population by sex has increased from 8% to 10% for women and from 6% to 8% for men, while the share of children (aged below 15) has declined from 31% to 25% for girls and from 32% to 26% for boys: all of these changes have broad social and economic implications.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Background</span>",
+                    "content": "\n\n<p>Information on the distribution of the population by age and sex is critical for describing any population or group within the population and for taking stock of factors of population change, including fertility, mortality and migration. This information is also used to make projections of the age and sex structure of the population.<span class=\"footnote-index\">1</span> <span class=\"footnote-index\">2</span></p>\n<p>One recognized way to determine the relative distribution of the female and male populations is by use of sex ratios. Estimates of the sex ratio of the population provide important information on the relative numbers of men to women in a given population. Sex ratios, which show the surplus or shortage in relative numbers of men compared to women, can be calculated at birth or for selected age segments. In general, the sex ratio at birth tends to be in favour of men but turns in favour of women in later years of life. This is mainly because women tend to live longer than men for a variety of reasons, including the inherent biological advantage of women as well as behavioural differences between the sexes.<span class=\"footnote-index\">3</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Current situation</span>",
+                    "content": "\n\n<p><strong>Substantial differences among regions in relative numbers of men and women</strong></p>\n<p>In 2020, United Nations population projections estimate that there are 3.8 billion women and 3.9 billion men worldwide, in other words, that women constitute slightly less than half of the global population (49.6%). For the world as a whole, there were more men than women of all ages: 101 men for every 100 women in 2000, and an estimated 102 men for every 100 women in 2020,<span class=\"footnote-index\">4</span> meaning that men outnumber women and that the difference between the two is getting slightly wider. The ratio of men to women is significant because of its impact on societies worldwide, including their future demographic and economic situations.</p>\n<p>There are wide variations among regions and subregions in the ratio of men to women: some have a surplus while others a deficit of men in their total population (see figure I). As of 2020, Europe has the largest deficit of men (93 men per 100 women), while the reverse is true in Western Asia (110 men per 100 women). During the period 2000\u20132020, the relative deficit of men was reduced in: Central Asia (from 97 to 98 men per 100 women); sub-Saharan Africa (from 99 to 100 men per 100 women); and Northern America (from 97 to 98 men per 100 women). In contrast, there was a significant increase in the surplus of men compared to women in Western Asia (from 103 to 110 men per 100 women). Within certain regions there are substantial variations by subregion: for example, there were 101 men per 100 women in Northern Africa compared to 110 men per 100 women in Western Asia.\n                </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<p>Globally, men outnumber women until around age 50 (see figure II). After that age, higher <a class=\"narrative-ref\" href=\"#NH11\">mortality rates</a> for men compared to women continue to be observed and the share of women increases rapidly. For example, in 2020, at the global level, the sex ratio was: 92 men per 100 women in the 65\u201369 age group; 70 men per 100 women in the 80\u201384 age group; and 47 men per 100 women in the 90\u201394 age group.</p>\n<p>During the period 2000\u20132020, the age at which women outnumber men has increased in most regions, from ages 15\u201319 to ages 30\u201334 in sub-Saharan Africa and from ages 60\u201364 to ages 65\u201369 in Central and Southern Asia. There was a decline, however, in the age at which women outnumber men in Eastern and South-Eastern Asia (from ages 65\u201369 to ages 60\u201364), while the cross-over age remained unchanged for Europe and Northern America (ages 44\u201345).</p>\n<p>In general, the timing of the cross-over from a male surplus to a female surplus is related to multiple factors, including sex differentials by age in levels and patterns of mortality. On average, women live longer than men, and this is true for every country and plays an important role in how the sex ratio changes with age throughout adulthood. Differences in the ratios of men to women are linked to causes of death (<a class=\"narrative-ref\" href=\"#NH10\">communicable diseases</a>, <a class=\"narrative-ref\" href=\"#NH9\">non-communicable diseases</a> and <a class=\"narrative-ref\" href=\"#NH8\">external factors</a>), which vary depending on age, sex and geographical region. Possible explanations of the differences across regions in the age of the cross-over to a surplus of women over men include societal biases, which lead to inequalities faced by women at all stages of the life cycle, as well as large-scale migration, particularly labour migration of men compared to women in adult working ages. The latter may explain the demographic profile for Northern Africa and Western Asia, which is characterized by a much higher number of men than women in adult working ages, peaking to unusually high levels in the 30\u201334 age group.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Sex ratios at birth in favour of boys have increased in some countries over the years</span>",
+                    "content": "\n\n<p>Globally, the sex ratio at birth has remained mostly unchanged over the past 30 years, ranging between 107 and 108 male births to 100 female births during the periods 1990\u20131995 to 2015\u20132020.<span class=\"footnote-index\">5</span>  The biological level of the sex ratio at birth tends to be close to 105 boys per 100 girls, with a standard sex ratio at birth reported at between 103 to 107 boys per 100 girls, allowing for regional variations. In some populations, the sex ratio in favour of boys at birth exceeds the standard values. Sex-selective abortion, reflective of long-standing cultural preferences for sons, is a major explanatory factor.<span class=\"footnote-index\">6</span></p>\n<p>While the sex ratio at birth has remained unchanged and close to the global average for most regions and countries, there are some significant differences. For example, in the Eastern and South-Eastern Asia region, this ratio increased from 109 boys per 100 girls in 1990\u20131995 to 112 boys per 100 girls in 2005\u20132010 and stands at 110 boys per 100 girls for the period 2015\u20132020. Similarly, in Central and Southern Asia, the sex ratio at birth was 109 male births per 100 female births in 1990\u20131995, peaking at 110 boys per 100 girls between 1995\u20132005, and has remained at 109 boys per 100 girls from 2005 \u20132020. These two regions include countries that currently have the highest ratios of male to female babies during the period 2015\u20132020 (see figure III): <span class=\"label-ref\" tag=\"China\">China</span> (113: 100), <span class=\"label-ref\" tag=\"India\">India</span> (110: 100), <span class=\"label-ref\" tag=\"Viet Nam\">Viet Nam</span> (112: 100) and Pakistan (109: 100). Countries in other regions that have shown a substantial change in the sex ratio at birth over this period include Albania, <span class=\"label-ref\" tag=\"Armenia\">Armenia</span>, <span class=\"label-ref\" tag=\"Azerbaijan\">Azerbaijan</span> and Serbia, where the ratio is reported at ranges from 107 to 113 male babies per 100 female babies, indicating that more parents are selecting the sex of their offspring in favour of sons. </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Substantial progression in population ageing by sex over the years</span>",
+                    "content": "\n\n<p>In recent decades, there have been significant shifts in the share of the population in three major age groupings: children (0\u201314 years); adults (15\u201364 years); and older persons (ages 65 and over). At the global level and for most regions, the population has transitioned to an older age structure, particularly for the female population (see figure IV). The share of the population, both female and male, aged below 15 declined from 32% to 25% between 1995\u20132020, although males still outnumber females.<span class=\"footnote-index\">7</span> During the same period, women aged 65 and older constituted the fastest growing segment of the population, from 8% to 10% for women compared to 6% to 8% for men. The <a class=\"narrative-ref\" href=\"#NP20\">older population</a> is clearly dominated by women in 2020: at the global level, the sex ratio is 92 men per 100 women in the 65\u201369 age group; 70 men per 100 women in the 80\u201384 age group; and 47 men per 100 women in the 90\u201394 age group.</p>\n<p>In all regions, except sub-Saharan Africa, populations show evidence of a shift towards an older age structure for both sexes between 2000\u20132020. The ageing of the world\u2019s population and the attendant differences in proportions between females and males have implications for the <a class=\"narrative-ref\" href=\"#NP20\">living arrangements</a>, healthcare, <a class=\"narrative-ref\" href=\"#NE19\">life-long learning</a>, and the psychological well-being of <a class=\"narrative-ref\" href=\"#NH11\">older persons</a>. </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Differences in selected countries in population distribution by sex and age grouping: 2020</span>",
+                    "content": "\n\n<p>There are noticeable differences in the proportions of women and men by broad age categories in the populations of selected countries in 2020 (see figure V). For example, overall, <span class=\"label-ref\" tag=\"Japan\">Japan</span> has the largest share of older women (31%) and older men (25%) (65 years and older) as well as to the smallest share of girls (12%) and boys (13%) below age 15 among its total population. In contrast, the population in <span class=\"label-ref\" tag=\"Nigeria\">Nigeria</span> has the largest proportion of people aged below 15 (43% for women and 44% for men), and the smallest proportion of people aged 65 and older (3% for both women and men). In all selected countries, however, the share of women among older persons aged 65 and over is larger than that of men.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li>\n<span class=\"concept\">Total population of a country or other defined area</span>: <span class=\"definition\">Estimate of the total count that falls within the scope of a census or survey. In this narrative, estimates correspond to de facto population in a country, area or region as of 1 July of the year indicated</span>\n</li>\n<li>\n<span class=\"concept\">Distribution of the population by age and sex</span>: <span class=\"definition\">Proportionate numbers of persons by sex in selected age categories of the population.</span>\n</li>\n<li>\n<span class=\"concept\">Sex ratio</span>: <span class=\"definition\">Number of male births per one female birth.<span class=\"footnote-index\">8</span></span>\n</li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>The analysis of the total population covers all women and all men divided into three broad categories: children, adults, and older persons. Analysis of the sex ratio covers all women and all men by age.</p>\n<p>The information is presented for countries worldwide and by regional groupings under the Sustainable Development Goals (SDGs) indicators framework.<span class=\"footnote-index\">9</span> </p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"footnotes\">\n<h5 id=\"footnote-label\">Footnotes</h5>\n<ol>\n<li id=\"fn1\"><a href=\"https://unstats.un.org/unsd/demographic-social/products/dyb/documents/techreport/ageandsex.pdf\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, United Nations Demographic Yearbook review: national reporting of age and sex-specific data -implications for international recommendations, April 2004 (ESA/STAT/2004/1) </a>. (\u21e1 back to text)</li>\n<li id=\"fn2\"><a href=\"https://population.un.org/wpp2019/Methodology/\">United Nations Department of Economic and Social Affairs, Population Division, World Population Prospects 2019, Methodology of the United Nations Population Estimates and Projections</a>. Accessed on 22 September 2020. (\u21e1 back to text)</li>\n<li id=\"fn3\"><a href=\"https://www.who.int/gho/women_and_health/mortality/situation_trends_life_expectancy/en/\">World Health Organization (WHO), Global Health Observatory, Female life expectancy: Situation and trends </a>. Accessed on 17 July 2020. (\u21e1 back to text)</li>\n<li id=\"fn4\"><a href=\"https://population.un.org/wpp/Download/Standard/Population/\">UNDESA, Population Division, World Population Prospects 2019 (online edition) </a>. (\u21e1 back to text)</li>\n<li id=\"fn5\"><a href=\"https://population.un.org/wpp/Download/Standard/Population/\">UNDESA, Population Division, World Population Prospects 2019, (online edition) </a>. (\u21e1 back to text)</li>\n<li id=\"fn6\">Attan\u00e9, I. and Guilmoto, C. Z. (eds.), \u201cWatering the Neighbours\u2019 Garden: The Growing Demographic Deficit in Asia\u201d, Committee on International Cooperation in National Research in Demography, Paris, 2007; Bongaarts, J., \u201cThe implementation of preferences for male offspring\u201d, Population and Development Review, vol. 39 (2), 2013; Guilmoto, C.Z., \u201cThe sex ratio transition in Asia\u201d, Population and Development Review, vol. 35 (3), 2009. (\u21e1 back to text)</li>\n<li id=\"fn7\"><a href=\"https://population.un.org/wpp/Download/Standard/Population/\">UNDESA, Population Division, World Population Prospects 2019 (online edition) </a>. (\u21e1 back to text)</li>\n<li id=\"fn8\"><a href=\"https://population.un.org/wpp/GlossaryOfDemographicTerms/\">United Nations Department of Economic and Social Affairs, Population Division, World Population Prospects 2019, Glossary of Demographic Terms </a>. Accessed on 22 September 2020.  (\u21e1 back to text)</li>\n<li id=\"fn9\"><a href=\"https://unstats.un.org/sdgs/indicators/regional-groups/\">Regional groupings under the Sustainable Development Goals (SDGs) </a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NP19"
+    }
+}

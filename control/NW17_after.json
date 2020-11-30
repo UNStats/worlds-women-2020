@@ -1,0 +1,284 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Economic empowerment",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Income and unpaid work in Latin America: intersection of gender and race inequalities (ECLAC)</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/jhon-david-3WgkTDw7XyE-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "jhon-david-3WgkTDw7XyE-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/jhon-david-3WgkTDw7XyE-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "\n<ul class=\"key-points\">\n<li>In 2017\u20142018, indigenous women in countries with available data in the Latin America and the Caribbean region earned less than women and men of other ethnicities and racial groups, regardless of their education level. Income levels of men were higher in the region than those of women.</li>\n<li>Indigenous people tend to be part of larger households, with an average of 4.7 people per household, compared with an average of 3.9 for those who are neither indigenous nor Afrodescendents. The presence of children in the household often increases the hours of unpaid work, particularly for women.</li>\n<li>The gender gap in the amount of time spent on unpaid work is the largest among indigenous populations. Indigenous women are overburdened by unpaid work culturally assigned to them: in Ecuador and Mexico, indigenous women may spend up to six additional hours per week on unpaid work than non-indigenous women.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Background</span>",
+                    "content": "\n\n<p>As stressed in the Beijing Platform for Action, adopted at the Fourth World Conference on Women in 1995, it is crucial to take measures to promote opportunities in the development process for women belonging to ethnic and racial minorities and for indigenous women in order to eradicate dimensions of poverty that affect them.<span class=\"footnote-index\">1</span></p>\n<p>Given that patriarchal cultural patterns and racism are still prevalent in the Latin America and Caribbean region, the intersection of gender, race and indigenous background translates into different levels of income for women and men and people of different races with the same level of education. </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Current situation</span>",
+                    "content": "\n\n<p><strong>Gender inequality intersects and is exacerbated by ethnic-racial inequalities<span class=\"footnote-index\">2</span></strong></p>\n<p>Data for six countries in the Latin America and Caribbean region for the period 2017\u20142018 on hourly labour income, disaggregated by sex, ethnicity and race and years of schooling, show that <span class=\"label-ref\" tag=\"indigenous people\">indigenous women</span> have lower income levels, regardless of their education level (see figure I). Although academic achievement is associated with higher income levels,<span class=\"footnote-index\">3</span> other factors play an influential role, including gender: income levels are statistically higher for men than for women \u2014 a manifestation of gender inequality. The difference between the wages earned by the most highly educated women and those of their male counterparts is more pronounced when <span class=\"label-ref\" tag=\"ethnicity\">ethnicity and race</span> are factored in: with 13 years of schooling or more, men who are neither indigenous nor Afrodescendents earn the highest incomes, followed by Afrodescendent men, non-indigenous and non-Afrodescendent women, Afrodescendent women, indigenous men and, lastly, indigenous women, who are the most disadvantaged. </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<p>In Latin America, the notions of race and ethnicity that are part of the political identity of Afrodescendents and indigenous people have made it possible to create the basis for these populations to self-identify in censuses and surveys, and thus to overcome the statistical invisibility that is another form of discrimination.<span class=\"footnote-index\">4</span> Data disaggregated by ethnicity and race have shown that average <a class=\"narrative-ref\" href=\"#NP23\">fertility rates</a> for Afrodescendents and indigenous populations are statistically higher than national averages and that of the rest of the population.<span class=\"footnote-index\">5</span> Indigenous people tend to be part of larger households, with an average of 4.7 people per household, compared with an average of 3.9 for those who are neither indigenous nor Afrodescendents. The presence of children in the household often increases the hours of unpaid work of women, and also of men, although not by comparable levels.<span class=\"footnote-index\">6</span></p>\n<p>Traditionally, and from early ages, indigenous women, especially in rural areas, are expected to carry out numerous daily tasks that require a large investment of time, such as caring for members of the family and the community, providing households with basic supplies (fetching water or gathering firewood), caring for animals and collaborating on agricultural work. This burden of <a class=\"narrative-ref\" href=\"#NW25\">unpaid work</a> limits women\u2019s ability to fully <a class=\"narrative-ref\" href=\"#NW1\">participate in the labour market</a>. In addition, as has been well documented, indigenous women, in particualar, are overrepresented among the poor and have less access to productive resources and <a class=\"narrative-ref\" href=\"#NW12\">land ownership</a>.<span class=\"footnote-index\">7</span></p>\n<p>Time-use surveys show that the gender gap in terms of time spend on unpaid work is wider within indigenous populations in all countries in Latin America and the Caribbean with available data (see figure II). Indigenous women may spend up to six hours more per week on unpaid work than non-indigenous women, which is the case in Ecuador and Mexico. This underscores the importance of considering the strict gender division of labour in indigenous households, the need for care policies and basic infrastructure to support indigenous families, particularly those living in rural areas, and the barriers to women\u2019s economic autonomy. For further information on the intersection of gender, household type and unpaid work, the report on the <a class=\"narrative-ref\" href=\"#NW7\">impact of unpaid work on the economy of Mexican households</a> provides in-depth analysis.\n                </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li>\n<span class=\"concept\">Hourly income </span>: <span class=\"definition\">Average hourly income of employed persons.</span>\n</li>\n<li>\n<span class=\"concept\">Average time spent on unpaid work</span>: <span class=\"definition\">Work done without payment and is measured by quantifying the time a person spends on own-use goods production work, unpaid domestic work, unpaid care of household members and unpaid work for other households or for the community and volunteering.</span>\n</li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Women and men aged 15 and older in paid and unpaid work in countries in the Latin America and the Caribbean region. </p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<ul>\n<li>\n<span class=\"concept\">Hourly income</span>: <span class=\"availability\">Data analysis of hourly income (latest available), with data disaggregated by ethnicity/race and by years of schooling, from household surveys conducted in six countries: Brazil, Colombia, Ecuador, Panama, Peru and Uruguay (2017\u20142018). </span>\n</li>\n<li>\n<span class=\"concept\">Time spent on unpaid work </span>: <span class=\"availability\">Data analysis of time spent on unpaid work (latest available), with data disaggregated by ethnicity, from time-use surveys conducted in seven countries: Brazil, Colombia, Ecuador, El Salvador, Guatemala, Mexico and Uruguay (2012\u20142017).</span>\n</li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Limitations</h2>\n<p>Although time-use surveys in the Latin America and the Caribbean region include questions that allow the self-identification of Afrodescendents, each question poses difficulties for analysis for various reasons, including: sample size (Uruguay); lack of cultural relevance of the questions and activities included in the questionnaires (Colombia and Ecuador); and the lack of measuring care as a component of unpaid domestic work (Brazil). With a view to ensuring that the information obtained describes time-use in Afrodescendent populations, race should be a focus of analysis from the design stage of measurement tools and methodologies.</p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NW17"
+    }
+}

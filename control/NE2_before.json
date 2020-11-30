@@ -1,0 +1,314 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Education",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Education</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Proportion of children aged 7\u201414 and children in grades 2 and 3 achieving minimum proficiency in reading and mathematics in Zimbabwe</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "\n<ul class=\"key-points\">\n<li>A higher proportion of girls than boys demonstrate foundational skills in reading across the two categories: children aged 7\u201414 and children in grades 2 and 3.</li>\n<li>With regard to foundational numeracy skills, girls aged 7\u201414 slightly outperform boys at the same ages, while boys marginally outperform girls in grades 2 and 3.</li>\n<li>Regional disparities are apparent in the distribution of proficiency levels among children, with children in the predominantly urban provinces of Bulawayo and Harare showing higher levels of proficiency in both reading and numeracy.</li>\n<li>Functional difficulties have an effect on children\u2019s performance; the proportion of children who demonstrated reading and numeracy skills was higher among children without functional difficulties than it was for children who had functional difficulties. While girls\u2019 advantage in reading was also visible among children with difficulties, their advantage over boys in numeracy skills was less significant.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Background</span>",
+                    "content": "\n\n<p>Gender differentials in employment levels, in terms of participation rates and job types, have often been attributed to the education that women and men acquire at secondary and tertiary levels, yet the foundational education received in the early years of life are key determinants of skills obtained later on. In basic economic terms, the education of young children is the most cost-effective way to ensure their success throughout their lifecourse.<span class=\"footnote-index\">1</span>  In Zimbabwe, possession of a pass in English and mathematics in lower secondary schooling is a requirement for enrolment in certain tertiary studies and for employment. </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">A higher proportion of girls than boys demonstrate foundational skills in reading across the two categories: ages 7\u201414 and in grades 2 and 3</span>",
+                    "content": "\n\n<p>In 2019, <a class=\"narrative-ref\" href=\"#NE14\">foundational skills in reading</a> were higher among girls than boys (see figure I) across the two categories, by a measure of 8 percentage points among children aged 7\u201414 and by 3 percentage points among children in grades 2 and 3. With regard to <a class=\"narrative-ref\" href=\"#NE14\">foundational numeracy skills</a>, girls outperformed boys aged 7\u201414 (by 4 percentage points), while boys slightly outperformed girls in grades 2 and 3 (by 1.4 percentage points) (see figure II).</p>\n<p>National examinations administered by the Zimbabwe Schools Examinations Council at the end of primary schooling confirm that girls outperformed boys, with a gender parity index (GPI) of pass rates ranging from 1.10 (110 girls to 100 boys) to 1.13 (113 girls to 100 boys), during the period 2014\u20142018. However, data on learning outcomes (pass rates) at the end of lower secondary schooling show that boys performed better than girls.<span class=\"footnote-index\">2</span> </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Regional disparities are apparent in the distribution of proficiency levels among children</span>",
+                    "content": "\n\n<p>High levels of proficiency in reading and numeracy have been observed in Bulawayo and Harare, the two predominantly urban provinces in Zimbabwe (see figure III). These rates can be attributed to the broader access to early childhood education in Bulawayo and Harare compared to other, predominantly rural, provinces. In 2019, the net attendance rate in primary schooling was 95% in Bulawayo and 94% in Harare. It is noted that the province with the lowest proportion of children with foundational learning skills, Mashonaland Central, is the province with the lowest literacy rates among women and men aged 15\u201449. </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Functional difficulties have an effect on children\u2019s performance</span>",
+                    "content": "\n\n<p>The proportion of children aged 7\u201414 who demonstrated foundational reading and numeracy skills was higher among children without functional difficulties<span class=\"footnote-index\">3</span>  than it was for the children who had functional difficulties (see figure IV). In terms of the gender gap, while girls\u2019 advantage in reading was also visible among children with difficulties (6.9 percentage points compared to 7.7 percentage points among children without difficulties), their advantage over boys in numeracy skills was less significant (1.7 percentage points among children with difficulties compared to 4.5 percentage points among those without).  </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<p>The indicator measures foundational reading and numeracy skills among children aged 7\u201414 and children in grades 2 and 3. The ability to read and understand simple statements is a skill that, when acquired at early ages, shapes learning outcomes in future grades. This also extends to the acquistion of basic numeracy skills, which are crucial for success in the sciences and mathematics. The methodological development of the Foundation Skills Assessment Tool can be accessed in the United Nations Children\u2019s Fund (UNICEF) Multiple Indicator Cluster Surveys (MICS) Methodological Papers, No. 5 <span class=\"footnote-index\">4</span> and No. 9. <span class=\"footnote-index\">5</span></p>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Children aged 7\u201414 years and children in grades 2 and 3.</p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>Data, by national and provincial levels and by functional difficulties, are from the Zimbabwe Multiple Indicator Cluster Survey 2019 carried out by the Zimbabwe National Statistics Agency.<span class=\"footnote-index\">6</span> </p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"footnotes\">\n<h5 id=\"footnote-label\">Footnotes</h5>\n<ol>\n<li id=\"fn1\"><a href=\"https://www.worldcat.org/title/benefits-of-early-child-development-programs-an-economic-analysis/oclc/1063822565?referer=di&amp;ht=edition\">Van der Gaag, J. and Tan, J.P, The Benefits of Early Child Development Program: An Economic Analysis, World Bank, Washington, D.C., 1998 </a> and <a href=\"http://nieer.org/wp-content/uploads/2016/08/BenefitCostAbecedarian.pdf\">Barnett, W. S. and Masse, L. N., \u201cEarly childhood program design and economic returns: Comparative benefit-cost analysis of the Abecedarian program and policy implications\u201d, Economics of Education Review 26, 2007</a>. (\u21e1 back to text)</li>\n<li id=\"fn2\"><a href=\"http://mopse.co.zw/\">Government of Zimbabwe, Ministry of Primary and Secondary Education, Harare, 2018 </a>. (\u21e1 back to text)</li>\n<li id=\"fn3\">Functional domains covered in the questionnaire for children ages 5\u201417 in the Zimbabwe Multiple Indicator Survey 2019 included: seeing, hearing, walking, self-care, communication, learning, remembering, concentrating, accepting change, controlling behaviour, making friends, anxiety and depression. (\u21e1 back to text)</li>\n<li id=\"fn4\"><a href=\"http://mics.unicef.org/files?job=W1siZiIsIjIwMTcvMDYvMTUvMTYvMjcvMDAvNzMxL01JQ1NfTWV0aG9kb2xvZ2ljYWxfUGFwZXJfNS5wZGYiXV0&amp;sha=39f5c31dbb91df26\">Hiroyuki, H., Cardoso, M. and Ledoux, B., \u201cCollecting Data on Foundational Learning Skills and Parental Involvement in Education\u201d, MICS Methodological Papers, No. 5, Data and Analytics Section, Division of Data, Research and Policy, United Nations Children\u2019s Fund (UNICEF) New York, 2017 </a>. (\u21e1 back to text)</li>\n<li id=\"fn5\"><a href=\"http://mics.unicef.org/files?job=W1siZiIsIjIwMTkvMDUvMDcvMTQvNDMvMzgvODQ0L01JQ1NfTWV0aG9kb2xvZ2ljYWxfUGFwZXJfOS5wZGYiXV0&amp;sha=1251233507af5fe2\">Gochyyev, P., Mizunoya, S. and Cardoso, M., \u201cValidity and reliability of the MICS foundational learning module\u201d, MICS Methodological Papers, No. 9, Data and Analytics Section, Division of Data, Research and Policy, United Nations Children\u2019s Fund (UNICEF), New York, 2019 </a>. (\u21e1 back to text)</li>\n<li id=\"fn6\"><a href=\"https://www.unicef.org/zimbabwe/media/2511/file/Zimbabwe%202019%20MICS%20Snapshots%20of%20Key%20Findings%202020.pdf.pdf\">Zimbabwe National Statistics Agency, Zimbabwe Multiple Indicator Cluster Survey 2019, Snapshots of Key Findings, Harare, 2019</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NE2"
+    }
+}

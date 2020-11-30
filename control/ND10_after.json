@@ -1,0 +1,434 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Power and decision making",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Power and decision making</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Women in politics and decision-making positions in Africa (United Nations Economic Commission for Africa-UNECA)</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/814267-Mozambique Recovers after Cyclones Idai and Kenneth.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "814267-Mozambique Recovers after Cyclones Idai and Kenneth.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/814267-Mozambique Recovers after Cyclones Idai and Kenneth.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "\n<ul class=\"key-points\">\n<li>The proportion of seats held by women in parliaments in Africa varies across subregions: Southern Africa (35.5%) and Eastern Africa (30.9%) are the two subregions with representation higher than the 30% minimum target recommended in the Beijing Platform for Action adopted at the Fourth World Conference on Women in 1995.<span class=\"footnote-index\">1</span></li>\n<li>In 2020, in 12 countries in Africa at least 30% of parliamentarians were women in the lower houses of parliament. Namibia, Rwanda, Senegal and South Africa are among the top 10 countries in the world with the highest levels of parliamentary seats held by women.</li>\n<li>Countries in Africa that have surpassed the 30% minimum target in representation of women in parliaments have adopted gender quotas. </li>\n<li>Based on data for 33 African countries, the quota systems used include: legislated candidate quotas (39%); reserved seats (39%); and voluntary political party quotas (24%).</li>\n<li>The proportion of women among government ministers in countries in Africa is on the rise. In Ethiopia, women\u2019s political representation in the executive branch increased from 6% of women ministers in 2005 to 48% in 2018. Ethiopia also elected its first female president in 2018. </li>\n<li>Overall, the level of women\u2019s representation in managerial level positions remains low in Africa. </li>\n<li>Gender stereotypes that view women as having policy expertise in education, gender, health care and social affairs means that women managers are, in general, concentrated in those areas rather than in defence, foreign policy or economics, where men predominate.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Background</span>",
+                    "content": "\n\n<p>Women\u2019s representation in political and public life, especially in high visibility and high-profile positions of power, ensures that a gendered perspective is embraced at the highest levels of decision-making. The enhanced representation of women in positions of authority promotes their rights, voice and agency and is critical for achieving gender equality.</p>\n<p>The main obstacles preventing women from engaging in political life are structural barriers and discriminatory attitudes and practices, which reinforce each other and support patriarchal values and stereotypes that promote a negative view of women\u2019s roles in all areas of decision-making, including female political leadership; such attitudes may also contribute to the spread of violence against women in the political arena.<span class=\"footnote-index\">2</span> Furthermore, in some countries unequal laws and institutions and capacity gaps continue to restrict women\u2019s ability to run for office. Because of these barriers, women are less likely than men to have the requisite education, opportunities, contacts and resources to attain political power and become effective leaders.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Women in national parliaments: gender gaps in national parliaments remain significant worldwide despite reductions observed over the period 2000\u20142020</span>",
+                    "content": "\n\n<p>There has been a steady improvement in women's <a class=\"narrative-ref\" href=\"#ND6\">representation in parliaments worldwide</a>, from 13.3% in 2000 to 24.9% in 2020. Women's representation in parliaments has also increased since 2000 in sub-Saharan Africa (from 11.5% to 23.9%) and in North Africa and Western Asia (from 5.3% to 18.7%). </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">In countries in Africa, women's representation in parliaments varies by subregion</span>",
+                    "content": "\n\n<p>In 2020, levels of women's representation in parliaments in Africa differ widely between subregions (see figure I). Southern Africa has the highest representation, with 35.5% of parliamentary seats held by women, followed by Eastern Africa, with women\u2019s representation at 30.9%. In Central, Western and Northern Africa, women\u2019s representation in parliament is comparatively lower, on average, and is below the 30% minimum threshold recommended in the Beijing Platform for Action.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Women\u2019s representation in parliaments in Africa varies between countries: in 2020, 12 African countries had at least 30% of women parliamentarians in the lower houses of parliament</span>",
+                    "content": "\n\n<p>An African Union report issued in 2019 on the \u201cStatus of Gender and Development in Africa\u201d<span class=\"footnote-index\">3</span>  shows that countries have made considerable progress in implementing commitments towards gender equality and women\u2019s empowerment. Member States of the African Union, including Namibia, Rwanda, Senegal and South Africa, are among the top 10 countries in the world with the highest levels of women\u2019s representation in parliament. As of 2020, Rwanda has the highest number of women in parliament (61%) worldwide, and globally Rwanda has had the highest number of women in its national assembly for more than a decade (with a proportion of 63.8% during the period 2013\u20142016 and 61.3% in 2020). Countries such as Namibia, Senegal and South Africa have also performed well in 2020, with at least 42% of women in their national parliaments (see figure II).</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Gender quotas contribute to a higher proportion of women in national parliaments </span>",
+                    "content": "\n\n<p>Affirmative action measures to ensure gender equality and women\u2019s empowerment, including <a class=\"narrative-ref\" href=\"#ND5\">quotas</a>, have contributed to progress in women\u2019s representation in parliaments in Africa. Countries that have reached or surpassed the 30% minimum target in representation of women in parliament have all adopted gender quotas: Namibia, Rwanda, Senegal, South Africa and Zimbabwe, all countries with more than 30% of parliamentary seats held by women, have quotas and proportional representation as part of their electoral systems.<span class=\"footnote-index\">4</span> </p>\n<p>The quota system differs from one country to another. The main systems used in the continent include legislated candidate quotas, reserved seats and voluntary political party quotas. An assessment made by the International Institute for Democracy and Electoral Assistance (IDEA)<span class=\"footnote-index\">5</span> in 33 African countries shows that approximately 40% adopted legislated candidate quota, about 40% reserved seats and just over 24% adopted voluntary political party quotas.</p>\n<p>Rwanda, for example, has statutory provisions reserving 30% of seats for women in its bicameral legislature, while South Africa\u2019s municipal structures require that political parties ensure \u201cthat 50% of the candidates on the party list are women\u201d and that \u201cwomen must be fairly represented in a constituency committee.\u201d However, having a gender quota is no guarantee of an increase in the representation of women in parliaments. Other conditions are necessary. In the Niger, after the adoption of a quota system to ensure the representation of women in elected offices, the Government and public administration, there was a significant increase in the presence of women in parliament (from 1.2% in 1999 to 17% in the 2016 elections); this was not the case, however, in terms of women\u2019s representation in local governance. Women\u2019s representation in local governing bodies remains below the quotas set by law (25% for the cabinet and senior positions in the public service and 15% for both sexes in parliament for legislative and local elections).<span class=\"footnote-index\">6</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">The proportion of African women among ministers is on the rise</span>",
+                    "content": "\n\n<p>Overall, women\u2019s representation as cabinet ministers has increased in Africa over the period 2005\u20142018. In 2018, the share of <a class=\"narrative-ref\" href=\"#ND3\">women in ministerial positions</a> reached or exceed 30% in the following countries: Rwanda (52%), South Africa (49%), Ethiopia (48%), Seychelles (46%), Angola (34%), Sao Tome and Principe (33%), Uganda (33.3%), Zambia (30%), Mali (34%), Eswatini (32%) and Mauritania (32%) (see figure III). The country with the lowest share of women in ministerial positions is Morocco (6%). Other countries with less than 10% of women cabinet ministers were Equatorial Guinea (7%) and Nigeria (8%). There as a major increase in women\u2019s political representation in the executive branch of Government in Ethiopia, from 6% of women ministers in 2005 to 48% in 2018, and the country elected its first female president in 2018. </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Women\u2019s representation in managerial positions remains low in countries in Africa </span>",
+                    "content": "\n\n<p>The persistence of data gaps on women\u2019s representation in <a class=\"narrative-ref\" href=\"#ND1\">managerial positions</a> in Africa makes it difficult to assess progress under this indicator. A review of the situation in Member States during the period 2014\u20142019 shows that, apart from Togo, where the proportion of women in managerial positions was 70% in 2017, women\u2019s representation remains generally low in most countries across Africa (see figure IV). Increased representation of women has been observed, however, in some countries, including Cameroon (49.3% in 2014), the Niger (49.3% in 2017), Seychelles (47.8% in 2018), Namibia (43.6% in 2018), Cape Verde (43.4% in 2018), Eswatini (43.4% in 2016) and Zambia (40.5 in 2018). The gender gap in women\u2019s representation is affected by cultural and societal factors, including illiteracy, the burden of unpaid care work on women and discriminatory attitudes and practices that reinforce patriarchal notions about the undesirability of having women in leadership roles.<span class=\"footnote-index\">7</span>  Moreover, gender stereotypes that view women as having policy expertise in fields such as education, gender, health care and social affairs means that women managers are, in general, concentrated in those areas and not in defence, foreign policy and economics where men predominate in managerial roles.<span class=\"footnote-index\">8</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"references\">\n<h1 id=\"references-subtitle\">Sources</h1>\n<ul>\n<li><a href=\"https://repository.uneca.org/handle/10855/41806\">Economic Commission for Africa (ECA), Measuring Gender Equality &amp; Women\u2019s Empowerment in Africa: African Gender and Development Index 2018 Regional Synthesis Report III, 2018, Addis Ababa, 2018 </a></li>\n<li><a href=\"https://unstats.un.org/unsd/demographic-social/gender/documents/14Mar2018_Gender_relevant_SDG_indicators_MB-HSS.pdf\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, Global indicator framework for the Sustainable Development Goals and targets of the 2030 Agenda for Sustainable Development </a></li>\n<li><a href=\"https://www.idea.int/data-tools/data/gender-quotas\">International Institute for Democracy and Electoral Assistance (IDEA), Gender Quotas Database </a></li>\n<li><a href=\"https://unstats.un.org/sdgs/indicators/database/\">UNDESA, Statistics Division, Global SDG Indicators Database </a></li>\n<li><a href=\"https://datacatalog.worldbank.org/search?search_api_views_fulltext_op=AND&amp;query=Proportion of women in ministerial level positions (%)&amp;nid=&amp;sort_by=search_api_relevance&amp;sort_order=DESC\">World Bank, Data Catalog, Proportion of Women in Ministerial Level Positions (updated September 2020) </a></li>\n</ul>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li>\n<span class=\"concept\">Proportion of seats held by women in national parliament</span>: <span class=\"definition\">Calculated as the total number of seats occupied by women divided by the total number of seats. (SDG indicator 5.5.1.a).  Seats refer to the number of parliamentary mandates, also known as the number of members of parliament. While seats are usually won by members in general parliamentary elections, they may also be filled by nomination, appointment, indirect election, rotation of members and through by-election. </span>\n</li>\n<li>\n<span class=\"concept\">Proportion of women in managerial positions</span>: <span class=\"definition\">Percentage of women in management positions as a measure of total employment in management. Managerial positions correspond to major group 1 of the International Standard Classification of Occupations (ISCO-88 or ISCO-08).<span class=\"footnote-index\">9</span> (SDG indicator 5.5.2) </span>\n</li>\n</ul>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<ul>\n<li>\n<span class=\"concept\">Proportion of seats held by women in national parliament</span>: <span class=\"availability\">Time-series data are available for all countries in Africa: information is available for all countries where a national legislature exists and therefore does not include parliaments that have been dissolved or suspended for an indefinite period.</span>\n</li>\n<li>\n<span class=\"concept\">Proportion of women in managerial positions</span>: <span class=\"availability\">Data as of 2000 are available in the Global Sustainable Development Goal (SDG) Indicators Database;<span class=\"footnote-index\">10</span>  time-series data going back several decades are available through ILOSTAT, the database of the Department of Statistics of the International Labour Organization (ILO).<span class=\"footnote-index\">11</span> </span>\n</li>\n</ul>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"footnotes\">\n<h5 id=\"footnote-label\">Footnotes</h5>\n<ol>\n<li id=\"fn1\"><a href=\"https://beijing20.unwomen.org/en/about\">Report of the Fourth World Conference on Women, Beijing, 4\u201315 September 1995 (United Nations publication, Sales No. E.96.IV.13), chap. I, resolution 1, annex II </a>. (\u21e1 back to text)</li>\n<li id=\"fn2\"><a href=\"\">xxx</a>. (\u21e1 back to text)</li>\n<li id=\"fn3\"><a href=\"https://au.int/sw/node/38125\">African Union, \u201cStatus of Gender and Development in Africa\u201d: the report was prepared and presented to the African Union Assembly of Heads of State and Government in February 2020, by Nana Akufo-Addo, President of Ghana and the African Union Leader on Gender and Development Issues in Africa </a>. (\u21e1 back to text)</li>\n<li id=\"fn4\"><a href=\"https://repository.uneca.org/handle/10855/41806\">Economic Commission for Africa (ECA), Measuring Gender Equality &amp; Women\u2019s Empowerment in Africa: African Gender and Development Index 2018 Regional Synthesis Report III, 2018, Addis Ababa, 2018 </a>. (\u21e1 back to text)</li>\n<li id=\"fn5\"><a href=\"https://www.idea.int/data-tools/data/gender-quotas\">International Institute for Democracy and Electoral Assistance (IDEA), Gender Quotas Database</a>. (\u21e1 back to text)</li>\n<li id=\"fn6\"><a href=\"https://repository.uneca.org/handle/10855/41806\">Economic Commission for Africa (ECA), Measuring Gender Equality &amp; Women\u2019s Empowerment in Africa: African Gender and Development Index 2018 Regional Synthesis Report III, 2018, Addis Ababa, 2018 </a>. (\u21e1 back to text)</li>\n<li id=\"fn7\">Ibid. (\u21e1 back to text)</li>\n<li id=\"fn8\">Ibid. (\u21e1 back to text)</li>\n<li id=\"fn9\"><a href=\"https://www.ilo.org/public/english/bureau/stat/isco/\">International Labour Organization, International Standard Classification of Occupations </a>. (\u21e1 back to text)</li>\n<li id=\"fn10\"><a href=\"https://unstats.un.org/sdgs/indicators/database/\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, Global Sustainable Development Goal (SDG) Indicators Database </a>. (\u21e1 back to text)</li>\n<li id=\"fn11\"><a href=\"https://ilostat.ilo.org/\">ILO, Department of Statistics (ILOSTAT) database </a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "ND10"
+    }
+}

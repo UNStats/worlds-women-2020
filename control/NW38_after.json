@@ -1,0 +1,434 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Economic empowerment",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Women\u2019s and men\u2019s employment in Latvia, by presence of children in the household </div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/tim-gouw-bwki71ap-y8-unsplash",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "tim-gouw-bwki71ap-y8-unsplash",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/tim-gouw-bwki71ap-y8-unsplash",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "\n<ul class=\"key-points\">\n<li>The most significant gender gap in employment rates in Latvia is recorded in households with small children (under age 6): in 2019, women\u2019s employment rate was 75.3%, compared with 93.4% for men, resulting in a gender gap of 18.1 percentage points (versus 33.1 percentage points in 2005). Regionally, the smallest corresponding gender gaps were recorded in Riga and Vidzeme. </li>\n<li>In significant numbers, more women than men take parental leave in Latvia: in 2019, men made up only 19% of parental benefit recipients, and their share has increased only slightly since 2015.</li>\n<li>In 2019, the gender employment gap in households with small children was 24.1 percentage points among people of other ethnicities (versus 16.1 percentage points among ethnic Latvians). In households with older or no children among people of other ethnicities, however, women were employed at a higher rate than men (6.3 percentage points). </li>\n<li>In 2019, women in Latvia earned 14.1% less than men. The largest pay gap was recorded in the population aged 25\u201434 and 35\u201444 (16.5% and 16.9%, respectively). Employed women with small children had lower monthly net earnings than employed men with small children: one out of four (25.6%) employed women with small children had net monthly earnings amounting to less than 450 euros (\u20ac) compared with 4.9% of employed men.</li>\n<li>Among women with small children, 12.9% were working part-time, compared with only 1.8 % of men. The gender employment gap was also evident in households with older or no children, indicating that women were more intensively engaged in part-time employment regardless of household structure.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Having small children in the household amplifies the gender gap in employment</span>",
+                    "content": "\n\n<p>In 2019, employment rates<span class=\"footnote-index\">1</span> of men and women aged 25\u201349<span class=\"footnote-index\">2</span> were 86.5% and 80.7%, respectively, revealing a gender employment gap of 5.8 percentage points in favour of men. The female employment rate in Lativa was 5.9 percentage points higher than the average among member States of the European Union and was the eighth highest among all member States. The largest gender gap in employment was observed in households with small children: the employment rate among women with children was only 75.3%,<span class=\"footnote-index\">3</span> compared to 93.4% among men, a gap of 18.1 percentage points (see figure I). Women\u2019s involvement in full-time unpaid care of children in the household was greater than that of men, and as a result their opportunites for employment were reduced. Among women working part-time in Latvia, 20% reported that looking after children or older adults was the main reason for choosing a part-time job, and 23.1% of all economically inactive women reported the same reason for not being in paid employment.<span class=\"footnote-index\">4</span> This pattern of employment among women with children is likely to lead to economic dependency upon family or friends, and can also result in income insufficiency in old age.<span class=\"footnote-index\">5</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Women constitute a significantly larger share of people taking parental leave</span>",
+                    "content": "\n\n<p>While both mothers and fathers in Latvia are eligible for <a class=\"narrative-ref\" href=\"#NW24\">parental leave</a>,<span class=\"footnote-index\">6</span>  benefits can reach up to 60% of the recipients\u2019 wages and recipients are insured against <a class=\"narrative-ref\" href=\"#NW26\">unemployment</a>, the majority of parental leave is taken by women. In 2019, the proportion of male parental leave recipients was only 19% (see figure II). Even though the share of men receiving parental benefits has slightly increased since 2015, there is still no available data about primary caregivers or the distribution of household tasks within couples.</p>\n<p>Parental leave, which can be for as long as 1.5 years (78 weeks), is paid from social insurance and can be taken by either parent. Latvian Government policy during the child\u2019s first year of life<span class=\"footnote-index\">7</span> is one of the most supportive in the world.\n                </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<p>In light of the fact that 8 out of 10 men who receive parental leave benefits continue to work, it is possible that the share of families where women are the primary caregivers could be larger than shown from the data on parental benefit recipients (see figure III).</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">The gender gap in employment varies significantly depending on household structure</span>",
+                    "content": "\n\n<p>In 2019, employment rates of women and men in families with children aged 6 or older and in families without children were almost equal, 83.4% for women and 83.6% for men. However, in households with children under age 6, the employment rate of women (75.3%) was significantly lower and that of men (93.4%) significantly higher, resulting in a gender gap of 18.1 percentage points<span class=\"footnote-index\">8</span> (see figure IV). </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Gender employment gap in households with or without small children varies across Latvia\u2019s regions and by ethnicity</span>",
+                    "content": "\n\n<p>Latvia\u2019s gender employment gap in 2019 in all households with youngest children aged 6 or over or no children was only 0.2 percentage points, showing a decrease over recent years. However, some discrepancies emerge at the subnational level. The smallest gender gap in households with small children was recorded in Vidzeme and Riga, the capital of Latvia, while the largest gap was observed in Kurzeme (27.8 percentage points). The gap in households with older or no children remained small in Riga (the employment rate of women was higher than that of men), and the largest gap was registered in Zemgale (10.8 percentage points, with the employment rate of women higher than that of men). However, with respect to households with children under age 6, the Zemgale region showed the second largest gender employment gap in the country, with an employment rate of men 22.8 percentage points higher than women\u2019s (similar to the trend observed since 2010) (see figure VI).</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<p>One third of the total population of Latvia aged 25\u201349 consists of people belonging to ethnicities other than Latvian. Analysis of the employment data by ethnicity shows that <span class=\"label-ref\" tag=\"ethnicity\">other ethnicities</span> had lower employment rates both for women and men in comparison with Latvians, indicating possible inequalities in the labour market (for example, missing language skills; Latvian is a mother tongue only for 60.8% of the resident population of Latvia).<span class=\"footnote-index\">9</span> In 2019, the gender employment gap among ethnic Latvians was 16.1 percentage points in households with youngest children under age 6, compared with a gap of 24.1 percentage points among other ethnicities. In households with youngest children above age 6 or no children, the employment rate among women of other ethnicities was higher than that of men by 6.3 percentage points (see figure VII). </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Employed women with small children have lower monthly net earnings than men</span>",
+                    "content": "\n\n<p>In 2019, the <a class=\"narrative-ref\" href=\"#NW21\">gender pay gap</a> in Latvia was smaller than the average gap within the European Union, with women earning 14.1% less than men in comparison with an average of 14.8% less in the European Union.<span class=\"footnote-index\">10</span> The largest pay gap was recorded among the population aged 25\u201334 and 35\u201344 (16.5% and 16.9%, respectively).</p>\n<p>A significant gender pay gap was also found in households with small children: 25.6% of employed women with youngest children aged under 6 had monthly net earnings amounting to less than \u20ac450, compared with 4.9% of employed men<span class=\"footnote-index\">11</span> (see figure VIII). \n                </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">The gender gap in part-time employment persists regardless of the household structure</span>",
+                    "content": "\n\n<p>Even though part-time jobs offer an opportunity to balance work and family life, a significant gender gap in <a class=\"narrative-ref\" href=\"#NW4\">part-time employment</a> leads to unequal chances for equal pay. Among women with small children, 12.9% were working part-time, compared with only 1.8% of men. The gap remained in households with older or no children, indicating that women were more engaged in part-time employment regardless of household structure (see figure IX). </p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ben-white-EMZxDosijJ4-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li>\n<span class=\"concept\">Employment rate of persons aged 25\u201349 with children under age 6, age 6 or older or no children, by sex in Latvia</span>: <span class=\"definition\">Employed persons are all persons who did any work for cash payment or compensation in goods or services during the reporting period. Persons who are temporarily absent from work on prenatal or maternity leave or on childcare leave are classified as employed if, after the end of such leave, return to their previous employment is guaranteed. Employment rate is the proportion of employed persons to the total population of the same age group, sex and household structure.<span class=\"footnote-index\">12</span></span>\n</li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Employed population in Latvia aged 25\u201449 by sex, household structure, ethnicity and region.</p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>Data from Eurostat database<span class=\"footnote-index\">13</span> and estimates from the Central Statistical Bureau of Latvia.<span class=\"footnote-index\">14</span></p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"footnotes\">\n<h5 id=\"footnote-label\">Footnotes</h5>\n<ol>\n<li id=\"fn1\"><a href=\"https://ec.europa.eu/eurostat/web/microdata/european-union-labour-force-survey\">Employment rates are calculated based on Eurostat household statistics methodology in the European Union Labour Force Survey </a>. (\u21e1 back to text)</li>\n<li id=\"fn2\">Employment rate refers only to people aged 25\u201349. (\u21e1 back to text)</li>\n<li id=\"fn3\">Women who are in temporary absence from work on the prenatal or maternity leave as well as on childcare leave are classified as employed if after the end of such leave return to their previous work is guaranteed.\n                   (\u21e1 back to text)</li>\n<li id=\"fn4\">Eurostat: databses lfsa_igar and lfsa_epgar. (\u21e1 back to text)</li>\n<li id=\"fn5\"><a href=\"https://www.eurofound.europa.eu/publications/policy-brief/2018/social-insecurities-and-resilience\">Dubois, H. and Leon\u010dikas, T., \u201cSocial insecurities and resilience\u201d, Policy Brief, European Foundation for the Improvement of Living and Working Conditions (Eurofound), October 2018 </a>.(accessed 2020)  (\u21e1 back to text)</li>\n<li id=\"fn6\"><a href=\"https://www.vsaa.gov.lv/en/services/for-parents/\">State Social Insurance Agency, Services for parents</a>. (\u21e1 back to text)</li>\n<li id=\"fn7\"><a href=\"https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_242615.pdf\">ILO, 2014, Maternity and paternity at work: Law and practice across the world, Geneva, 2014 </a>. (\u21e1 back to text)</li>\n<li id=\"fn8\">The father\u2019s wage premium, which also exists in other countries, leads to a larger gender gap between parents than that among non-parents: to read more on the fatherhood premium, see  <a href=\"https://eige.europa.eu/resources/wcms_371804.pdf\">xxGrimshaw, D.and Rubery, J., \u201cThe motherhood pay gap: A review of the issues, theory and international evidence\u201d, Working Paper No.1/2015, ILO, Gender, Equaity and Diversity Branch, Geneva, 2015x</a>. (\u21e1 back to text)</li>\n<li id=\"fn9\"><a href=\"https://www.csb.gov.lv/en/statistics/statistics-by-theme/population/characteristics/key-indicator/indicators-characterising-languages-used\">Central Statistical Bureau of Latvia, \u201cIndicators characterizing languages used by the population of Latvia.\u201d, 2017 </a>. (\u21e1 back to text)</li>\n<li id=\"fn10\"><a href=\"http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=earn_gr_gpgr2&amp;lang=en\">Eurostat, Gender Pay Gap Statistics, 2020 </a>. (\u21e1 back to text)</li>\n<li id=\"fn11\">In 2019, the minimum wage in Latvia was \u20ac430 (the net salary varies and is approximately \u20ac380).  (\u21e1 back to text)</li>\n<li id=\"fn12\"><a href=\"https://www.ilo.org/global/statistics-and-databases/standards-and-guidelines/resolutions-adopted-by-international-conferences-of-labour-statisticians/WCMS_230304/lang--en/index.htm\">International Labour Organization (ILO), Resolution concerning statistics of work, employment and labour underutilization, adopted at the Nineteenth International Conference of Labour Statisticians, 21 November 2013</a>. (\u21e1 back to text)</li>\n<li id=\"fn13\"><a href=\"https://ec.europa.eu/eurostat/data/database?node_code=prc_hicp_fp\">Eurostat database </a>. (\u21e1 back to text)</li>\n<li id=\"fn14\"><a href=\"https://ec.europa.eu/eurostat/data/database?node_code=prc_hicp_fp\">Government of Latvia, Central Statistical Bureau of Latvia </a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NW38"
+    }
+}
