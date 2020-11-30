@@ -11,7 +11,7 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "pythonPath":"~/AppData/Local/Programs/Python/Python39"
+            "python":"~/AppData/Local/Programs/Python/Python39"
         }
     ]
 }
