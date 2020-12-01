@@ -39,9 +39,6 @@ user_items = user.items(folder='ww2020 - Narratives3', max_items=800)
 
 for item in user_items:
 
-    #print(item["id"])
-
-
     d = dict()
 
     d['narrative_id'] = item["title"][:item["title"].find(' ')]
@@ -52,8 +49,13 @@ for item in user_items:
     d['tags'].append(d['narrative_id'])
     d['description'] = item["description"]
 
+    if(d['narrative_id'] not in ['NP7']):
+        continue
+    
     photo_url = ''
     photo_name = ''
+
+    print(f'dictionary: {d}')
     
     for p in photos:
 
@@ -63,8 +65,9 @@ for item in user_items:
             continue
     
     
-    print(photo_url)
-    print(photo_name)
+    print(f'photo_url = {photo_url}')
+    print('---')
+    print(f'photo_name = {photo_name}')
     
     #----------------------------------
 
@@ -78,24 +81,28 @@ for item in user_items:
 
     n = len(json_data['values']['story']['sections'])
     print(f'Narrative {d["narrative_id"]} has {n} sections')
+    print('------------------')
 
     json_data['values']['story']['sections'][0]['media']['image']['url'] = photo_url
-    json_data['values']['story']['sections'][0]['media']['image']['sizes'][0]['name'] = photo_name
-    json_data['values']['story']['sections'][0]['media']['image']['sizes'][0]['url'] = photo_url
+    if 'sizes' in json_data['values']['story']['sections'][0]['media']['image'].keys():
+        json_data['values']['story']['sections'][0]['media']['image']['sizes'][0]['name'] = photo_name
+        json_data['values']['story']['sections'][0]['media']['image']['sizes'][0]['url'] = photo_url
 
     print(json_data['values']['story']['sections'][0]['media'])
     print('------------------')
 
     json_data['values']['story']['sections'][n-2]['media']['image']['url'] = photo_metadata_url
-    json_data['values']['story']['sections'][n-2]['media']['image']['sizes'][0]['name'] = photo_metadata_url
-    json_data['values']['story']['sections'][n-2]['media']['image']['sizes'][0]['url'] = photo_metadata_url
+    if 'sizes' in json_data['values']['story']['sections'][n-2]['media']['image'].keys():
+        json_data['values']['story']['sections'][n-2]['media']['image']['sizes'][0]['name'] = photo_metadata_url
+        json_data['values']['story']['sections'][n-2]['media']['image']['sizes'][0]['url'] = photo_metadata_url
 
     print(json_data['values']['story']['sections'][n-2]['media'])
     print('------------------')
     
     json_data['values']['story']['sections'][n-1]['media']['image']['url'] = photo_footnote_url
-    json_data['values']['story']['sections'][n-1]['media']['image']['sizes'][0]['name'] = photo_footnote_name
-    json_data['values']['story']['sections'][n-1]['media']['image']['sizes'][0]['url'] = photo_footnote_url
+    if 'sizes' in json_data['values']['story']['sections'][n-1]['media']['image'].keys():
+        json_data['values']['story']['sections'][n-1]['media']['image']['sizes'][0]['name'] = photo_footnote_name
+        json_data['values']['story']['sections'][n-1]['media']['image']['sizes'][0]['url'] = photo_footnote_url
 
     print(json_data['values']['story']['sections'][n-2]['media'])
     print('******************************')
