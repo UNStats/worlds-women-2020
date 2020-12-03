@@ -1,0 +1,340 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Education\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Education</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Students experiencing bullying</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/jeswin-thomas-tJUjeaNIOZs-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "jeswin-thomas-tJUjeaNIOZs-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/jeswin-thomas-tJUjeaNIOZs-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>School-related bullying is a pervasive issue in the majority of countries, affecting both girls and boys, although in different ways.</li>\n\t<li>Boys are more likely than girls to report having been bullied, both in developing and developed regions.</li>\n\t<li>Students with an immigrant background are more likely to experience bullying than students with a non-immigrant background.</li>\n\t<li>Children from households with lower socioeconomic status are more likely to be exposed to bullying than their counterparts from households with higher socioeconomic status.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606838292351,
+                    "pubDate": 1606838292351,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/3d6d44621adf458f82a76c75ed89dd89/resources/krista-mangulsone-cyRkCbG0XkI-unsplash__1606838129851__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "krista-mangulsone-cyRkCbG0XkI-unsplash__1606838129851__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/3d6d44621adf458f82a76c75ed89dd89/resources/krista-mangulsone-cyRkCbG0XkI-unsplash__1606838129851__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Background</span>",
+                    "content": "<p>Bullying is an intentional, aggressive and repeatedly occurring behaviour. It occurs in school, on school grounds, on the way to school and, increasingly, in cyberspace. Bullying is often perpetrated as a result of gender norms and stereotypes. For instance, girls may experience sexist verbal abuse about their weight, appearance and marriage prospects. School is where children cultivate friendships and form peer groups \u2013 pivotal steps towards adult socialization.<span class=\"footnote-index\">1</span> Relentless and inescapable, bullying affects children and youth in terms of their school attendance, well-being and learning abilities, and can also have a significant impact on their emotional and behavioural development. Children who are bullied are often marginalized by their peers and exhibit risk factors, such as loneliness.<span class=\"footnote-index\">2</span> Providing a safe and inclusive learning environment is critical for the achievement of Sustainable Development Goal (SDG) target 4. a, which aims to \u201cBuild and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all\u201d.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606838404940,
+                    "pubDate": 1606838404940,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/3d6d44621adf458f82a76c75ed89dd89/resources/wan-san-yip-BnVBYYi9zII-unsplash__1606838402428__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "wan-san-yip-BnVBYYi9zII-unsplash__1606838402428__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/3d6d44621adf458f82a76c75ed89dd89/resources/wan-san-yip-BnVBYYi9zII-unsplash__1606838402428__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Current situation</span>",
+                    "content": "<p><strong>Boys are more likely than girls to report having been bullied, both in developing and developed regions</strong></p>\n\n<p>School-related bullying is a pervasive problem in countries worldwide, affecting both girls and boys, but in different ways. Globally, based on data for the period 2013\u20142017, slightly more than one in four girls (28%) and one in three boys (32%) reported having been bullied at school or in the school environment in the previous 12 months (see figure). In countries in developed (high-income) regions, 27% of girls and 30% of boys reported having been bullied. The corresponding proportions for developing (low-income and middle-income) countries were slightly larger \u2014 29% for girls and 34% for boys.</p>\n\n<p>Analysis of data from 81 countries shows that, between 7% to 54% of girls and 11% to 56% of boys reported having been bullied by other students at least once in the past 12 months. In 41 countries (about half of the countries with data), the average prevalence rate was less than 30% for both girls and boys; in five countries (Latvia, Lithuania, Myanmar, Nepal and the Philippines), the average prevalence rate for both sexes was 50% or more. In most of the 81 countries, boys were more likely than girls to experience bullying.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606840836656,
+                    "pubDate": 1606840836656,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne17-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Low socioeconomic status can expose students to more bullying</span>",
+                    "content": "<p>Children from certain population groups, such as ethnic minorities and children with disabilities, are more likely to be singled out for bullying,<span class=\"footnote-index\">3</span> as are children from households with lower socioeconomic status. Analysis of data from 37 countries shows that, in almost all cases, students with low socioeconomic status experienced more bullying than their counterparts with higher socioeconomic status. The difference was substantial in 29 countries, with students with lower socioeconomic status reporting bullying at a higher rate, by 10 percentage points or more, and by 20 percentage points or more in Austria, Canada, Croatia, Lithuania, Norway and Slovakia.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606840919469,
+                    "pubDate": 1606840919469,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/3d6d44621adf458f82a76c75ed89dd89/resources/811626-ECOSOC%20Ad%20Hoc%20Advisory%20Group%20Visits%20Haiti__1606840916740__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "811626-ECOSOC Ad Hoc Advisory Group Visits Haiti__1606840916740__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/3d6d44621adf458f82a76c75ed89dd89/resources/811626-ECOSOC%20Ad%20Hoc%20Advisory%20Group%20Visits%20Haiti__1606840916740__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Students with an immigrant background are more likely to experience bullying</span>",
+                    "content": "<p>The situation of students with an immigrant background is similar, and worse in some cases, to that of students with low socioeconomic status. According to available data, they are more likely than students with a non-immigrant background to experience bullying. Data from 28 countries, all from developed regions, indicate that students with an immigrant background reported bullying at a higher proportion than their counterparts. This was the case in all but five countries: in 18 countries, the difference was greater than 5 percentage points, and in Bulgaria, Czechia, Estonia, Finland, Ireland and Italy the difference was reported at 10 percentage points or more.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606868077296,
+                    "pubDate": 1606868077296,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/3d6d44621adf458f82a76c75ed89dd89/resources/Orly%20Winer-juventud__1606868071553__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "Orly Winer-juventud__1606868071553__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/3d6d44621adf458f82a76c75ed89dd89/resources/Orly%20Winer-juventud__1606868071553__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Recent studies suggest that bullying leads to lower levels of educational achievement</span>",
+                    "content": "<p>Recent studies show that bullying leads to lower levels of educational achievement. In Recife, Brazil, grade 6 students who had been bullied achieved significantly lower scores in mathematics.<span class=\"footnote-index\">4</span> In Ghana, where bullied grade 8 students also achieved lower scores in mathematics, the effects were worse for female students, although their situation was mitigated when the teacher was a woman.<span class=\"footnote-index\">5</span></p>\n\n<p>Preventing and addressing acts of bullying require that governments develop comprehensive, coordinated responses, including appropriate regulations, policy and leadership initiatives, reporting mechanisms, community and student partnerships, evaluations of incidents and staff and teacher involvement.<span class=\"footnote-index\">6</span> Prevention-oriented education programmes that teach students acceptable strategies for interacting with their peers, including skills for understanding interpersonal differences, managing peer pressure and rejecting gender norms have been shown to be effective in preventing acts of bullying.<span class=\"footnote-index\">7</span> Teaching communication and decision-making skills will help students, both victims and perpetrators, to address and ultimately eliminate bullying behaviour.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606841003875,
+                    "pubDate": 1606841003875,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/3d6d44621adf458f82a76c75ed89dd89/resources/Orly%20Winer-DSC_0280%202__1606841001947__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "Orly Winer-DSC_0280 2__1606841001947__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/3d6d44621adf458f82a76c75ed89dd89/resources/Orly%20Winer-DSC_0280%202__1606841001947__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Source</span>",
+                    "content": "<ul>\n\t<li><a href=\"https://www.unicef.org/eap/reports/everyday-lesson-endviolence-schools\" target=\"_blank\">United Nations Children\u2019s Fund (UNICEF), An Everyday Lesson: #ENDviolence in Schools, New York, 2018</a>.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606840566305,
+                    "pubDate": 1606840566305,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/3d6d44621adf458f82a76c75ed89dd89/resources/clay-banks-GX8KBbVmC6c-unsplash__1606840563337__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "clay-banks-GX8KBbVmC6c-unsplash__1606840563337__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/3d6d44621adf458f82a76c75ed89dd89/resources/clay-banks-GX8KBbVmC6c-unsplash__1606840563337__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li>\n<span class=\"concept\">Percentage of girls and boys who experienced bullying during a school year (or in the past 12 months)</span>: <span class=\"definition\">This indicator provides information based on the self-reporting by students of violence and bullying in schools. A high value indicates that a large number of students are experiencing bullying in or near school, indicating that the school is not a safe environment in which to promote learning. Because the indicator is based on self-reporting of violence and bullying in or near school, it is possible that a proportion of students may be afraid of disclosing such information, resulting in an overestimation of the safety of the school environment.</span>\n</li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Girls and boys aged 13\u201417 if the data source for this indicator is the Global school-based student health survey;<span class=\"footnote-index\">8</span> or girls and boys aged 11, 13 and 15 if data source is the Health Behaviour in School-aged Children study.<span class=\"footnote-index\">9</span> </p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>Data by sex are available for 81 countries for the period 2013\u20142017 (latest available) from the United Nations Educational, Scientific and Cultural Organization (UNESCO) Institute for Statistics database.<span class=\"footnote-index\">10</span> </p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"https://www.unicef.org/eap/reports/everyday-lesson-endviolence-schools\">United Nations Children\u2019s Fund (UNICEF), An Everyday Lesson: #ENDviolence in Schools, New York, 2018 </a>. (\u21e1 back to text)</li>\n<li>Ibid. (\u21e1 back to text)</li>\n<li><a href=\"https://www.unicef.org/eap/reports/everyday-lesson-endviolence-schools\">United Nations Children\u2019s Fund (UNICEF), An Everyday Lesson: #ENDviolence in Schools, New York, 2018 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.sciencedirect.com/science/article/pii/S1517758017300218\">Oliveira, F.R. et al., \u201cBullying effect on student\u2019s performance\u201d, EconomiA, vol.19, Issue 1, 2017 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.tandfonline.com/doi/abs/10.1080/00036846.2016.1240350\">Kibriya, S. et al., \u201cThe negative consequences of school bullying on academic performance and mitigation through female teacher participation: evidence from Ghana\u201d, Journal of Applied Economics, vol. 49, Issue 25, 2017 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://unesdoc.unesco.org/ark:/48223/pf0000246970\">United Nations Educational, Scientific and Cultural Organization (UNESCO), School Violence and Bullying: Global Status Report, Paris, 2017 </a>. (\u21e1 back to text)</li>\n<li>Ibid. (\u21e1 back to text)</li>\n<li><a href=\"https://www.who.int/ncds/surveillance/gshs/en/\">World Health Organization (WHO) and Centers for Disease Control and Prevention, Global school-based student health survey </a>. (\u21e1 back to text)</li>\n<li><a href=\"http://www.hbsc.org/\">WHO, Health Behaviour in School-aged Children study </a>. (\u21e1 back to text)</li>\n<li><a href=\"http://uis.unesco.org/\">United Nations Educational, Scientific and Cultural Organization (UNESCO), UNESCO Institute of Statistics database (accessed in May 2020) </a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NE17"
+    }
+}

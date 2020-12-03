@@ -1,0 +1,348 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Education\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Education</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">School attendance rate among youth aged 15\u201424 in Mexico</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/juan-ramos-EWN0rrwbBIQ-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "juan-ramos-EWN0rrwbBIQ-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/juan-ramos-EWN0rrwbBIQ-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>The participation in formal education of both young women and men aged 15\u201424 has increased steadily in Mexico since 1996.</li>\n\t<li>The national gender gap, which historically has been slightly to the disadvantage of young women, narrowed over the period 1996\u20142019; the gender gap has been reversed, with a slightly higher proportion of young women than young men aged 15\u201419 attending school.</li>\n\t<li>Participation of young women and men in formal education differs by state within the United Mexican States. While in many states gender parity has been achieved, in some states, such as Chiapas and Hidalgo, the gender gap in favour of young men persists, in others, such as Jalisco and Chihuahua, the gender gap has reversed, leaving men at a disadvantage.</li>\n\t<li>The school attendance rate of young women and men is affected by place of residence, with the gap between urban and rural areas showing a difference of more than 15 percentage points.</li>\n\t<li>Socioeconomic status has an impact on participation in formal education, with more young women and men in higher socioeconomic strata attending school than their counterparts in lower socioeconomic strata.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606781891951,
+                    "pubDate": 1606781891951,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/11a39c01039f4a7b99b3353b03c38cc5/resources/jeswin-thomas-2Q3Ivd-HsaM-unsplash-woman%20in%20white%20and%20red__1606781888627__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "jeswin-thomas-2Q3Ivd-HsaM-unsplash-woman in white and red__1606781888627__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11a39c01039f4a7b99b3353b03c38cc5/resources/jeswin-thomas-2Q3Ivd-HsaM-unsplash-woman%20in%20white%20and%20red__1606781888627__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Background</span>",
+                    "content": "<p>Education fosters better opportunities for individuals, advances progress in terms of collective well-being and promotes improved overall levels of social development. Educational achievement directly affects the ability of young women and men to find decent work and to improve their living conditions.<span class=\"footnote-index\">1</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606781944541,
+                    "pubDate": 1606781944541,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/11a39c01039f4a7b99b3353b03c38cc5/resources/sam-manns-p0ZvBVpW3KY-unsplash__1606781942759__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "sam-manns-p0ZvBVpW3KY-unsplash__1606781942759__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11a39c01039f4a7b99b3353b03c38cc5/resources/sam-manns-p0ZvBVpW3KY-unsplash__1606781942759__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Current situation</span>",
+                    "content": "<p>The proportion of young people aged 15\u201424 in Mexico currently attending school is significantly greater than that recorded for previous generations. \"The changes experienced in social, cultural, economic, political and demographic orders have opened new and greater opportunities for young people\u201d.<span class=\"footnote-index\">2</span> Among young women, in particular, there has been a significant increase in rates of school attendance.</p>\n\n<p>The greater participation of young women aged 15\u201424 in formal education (which generally corresponds to upper secondary education and higher education),<span class=\"footnote-index\">3</span> is directly related to improved educational options and increased awareness of the opportunities education offers, including access to decent jobs in the labour market.</p>\n\n<p>The Beijing Declaration and Platform for Action,<span class=\"footnote-index\">4</span> adopted at the Fourth World Conference on Women in 1995, prompted many countries, including Mexico, to examine the status of women in critical areas including education, health, employment and political participation.<span class=\"footnote-index\">5</span> In the educational field, women in Mexico were disadvantaged in different aspects, evidencing higher levels of illiteracy, lower school participation rates and a notable gender gap at higher levels of education. Moreover, significant gender biases were reported in both upper and higher secondary education, with women often restricted to so-called feminine fields of study.</p>\n\n<p>In response, the National Programme for Women 1995\u20142000 proposed \u201cto guarantee the access and enrolment of women at all levels and modalities of the education system\u201d, with priority given to ensuring the equality of educational opportunities at all levels of the school system, as well as reducing inequalities between women and men regarding access to school and educational outcomes.<span class=\"footnote-index\">6</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606782221390,
+                    "pubDate": 1606782221390,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/11a39c01039f4a7b99b3353b03c38cc5/resources/austin-pacheco-zolv5DWZGis-unsplash__1606782218990__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "austin-pacheco-zolv5DWZGis-unsplash__1606782218990__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11a39c01039f4a7b99b3353b03c38cc5/resources/austin-pacheco-zolv5DWZGis-unsplash__1606782218990__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">The participation of young women and men in formal education has increased steadily over the period 1996&mdash;2019, and the gender gap has narrowed over the same period</span>",
+                    "content": "<p>The percentages of young women and men in formal education during the period 1996\u20142019 are presented in figure I. School attendance at ages 15\u201424 assumes enrolment either in upper secondary education<span class=\"footnote-index\">7</span> (ages 15\u201417), which, since 9 February 2012, has been mandatory in Mexico, or in higher education (ages 18\u201424).</p>\n\n<p>At the national level, the school attendance rate for the population aged 15\u201424 has increased over recent decades.<span class=\"footnote-index\">8</span> In 1996 only 32.5% of young people in that age range was in school: the attendance rate for young women was 29.7% and for young men it was 35.4%, revealing a gap between women and men of 6 percentage points. By 2002, school attendance had increased by 5 percentage points, to 37.7%, and the gap between women and men had been reduced to 3 percentage points (36.2% for women and 39.3% for men).</p>\n\n<p>In 2005, the school attendance rate for young women and men aged 15\u201424 was 43.7% and by 2019 it had increased to 50.4%, an increase of 6.7 percentage points over a period of 14 years. In 2019, young women\u2019s attendance rate was 50.6% and men\u2019s rate was 50.2%, showing a virtual elimination of the gender gap in formal education at the national level.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606781991562,
+                    "pubDate": 1606781991562,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne1-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">A steady increase in participation in formal education is observed for both young women and men; the gender gap, which was moderately to the disadvantage of young women, has narrowed over the period 1996&mdash;2019</span>",
+                    "content": "<p>When analysing the school attendance rate by single year of age for 1996 and 2019 (see figure II), it is evident that the school attendance rate for both young women and men increased significantly over the period 1996\u20142019. In particular, attendance of young women aged 15\u201419 and at age 21 increased by more than 20 percentage points. Over the same period, the gender gap, which was moderately to the disadvantage of young women in 1996, narrowed, and appears to be reversing among young women and men aged 15\u201421, with a slightly higher participation rate among young women than men in what would be secondary education. For the group aged 22\u201424, there is a slightly higher participation rate of young men than women in what would be upper secondary or post-secondary education.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606782032558,
+                    "pubDate": 1606782032558,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne1-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Participation of young women and men in formal education differs by state within the United Mexican States. While in many states gender parity has been achieved, in some, such as Hidalgo and Chiapas, a gender gap in favour of men persists. In other states, such as Jalisco and Chihuahua, the gender gap has reversed, leaving men at a disadvantage</span>",
+                    "content": "<p>Participation in the formal education of young people aged 15\u201424 reveals gender gaps when looking at the data by state (see figure III).</p>\n\n<p>Closure of the gender gap in school participation has not been even across all states. The 2019 data presented by the states of Chiapas, Guerrero, Hidalgo, Oaxaca, San Luis Potosi, Tabasco and Veracruz showed a 4 and 5 percentage point difference in school participation to the disadvantage of women. In other states, including Chihuahua, Guanajuato, Jalisco, Puebla, Queretaro and Yucatan, between 4 and 8 percentage points differences in school participation were reported to the disadvantage of young men. Since 2005 some states, including Durango, Nayarit, Sinaloa and Sonora, showed equal or greater levels of school attendance among women.</p>\n\n<p>The southern region of the country still displays the greatest differences in opportunities for and accessibility to formal education for women, in particular in Chiapas, Guerrero and Hidalgo. In the central and northern states of the country, the gap is to the disadvantage of men, with a lower rate of school attendance of up to almost 8 percentage points in states such as Chihuahua and Jalisco, a situation that also causes concern and calls for attention.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606782060834,
+                    "pubDate": 1606782060834,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne1-graph-3",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Place of residence affects the participation of young women and men in school, with a gap in attendance of young people in urban and rural areas of more than 15 percentage points </span>",
+                    "content": "<p>It is well known that educational opportunities differ depending on place of residence. The inequalities between urban and rural areas are significant in terms of participation in education for young women and men, with a consistent difference of more than 15 percentage points in the rate of school attendance reported since 2005 (see figure IV).</p>\n\n<p>In 2005, urban locations reported school attendance among men aged 15\u201424 at 48%, and at 54% in 2019, while the school attendance for women was 46% in 2005 and 55% in 2019. As of 2019, the gender gap in school participation in urban locations had been virtually closed (registering a gender gap of only one percentage point).</p>\n\n<p>The situation in rural locations was different, with a gender gap in 2005 of four percentage points against women. While that differential remained for a number of years, by 2019 it had been reduced to close to only one percentage point. It is important to highlight the moderate increase in school attendance among rural women, from 29% in 2005 and to 36% in 2019.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606782092712,
+                    "pubDate": 1606782092712,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne1-graph-4",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Socioeconomic status has impact on participation in formal education, with young women and men in higher socioeconomic strata participating in school at relatively higher attendance rates than their counterparts in lower socioeconomic strata</span>",
+                    "content": "<p>While there are many factors that prevent the access and enrolment of young women and men in formal education, the economic aspect is one of the most relevant. Socioeconomic status as well as place of residence have a significant effect on school enrolment and participation. In particular, in locations with limited physical access to upper and upper middle level schools, students with access to the Internet and advanced information and communication technologies (ICT) are able to access education by different modalities,<span class=\"footnote-index\">9</span> and students at lower socioeconomic strata, without such access, are left at a disadvantage.</p>\n\n<p>Evidence shows that, in 2019, the attendance rate of both young women and men increases with their socioeconomic level, with young women and men aged 15\u201424 in upper socioeconomic strata attending school at relatively higher rates than their less advantaged counterparts. This applies regardless of urban or rural residence or age group (15-19 or 20-24). Young women and men aged 15\u201419 in upper socioeconomic strata living in rural areas had higher levels of attendance than their urban counterparts, and the same was observed for young women aged 20\u201424.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606782272799,
+                    "pubDate": 1606782272799,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/11a39c01039f4a7b99b3353b03c38cc5/resources/sean-kong-r2WhdAwJPxM-unsplash__1606782151837__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "sean-kong-r2WhdAwJPxM-unsplash__1606782151837__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11a39c01039f4a7b99b3353b03c38cc5/resources/sean-kong-r2WhdAwJPxM-unsplash__1606782151837__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<p>The indicator measures the percentage of youth aged 15\u201424 attending school at any educational level in the formal education system during the reference period.</p>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Young women and men aged 15\u201424.</p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>Data are available by age and sex at the national level as well as by state within the United Mexican States, urban/rural residence and socioeconomic status for the period 1996\u20142019. The National Survey of Occupation and Employment (ENOE),<span class=\"footnote-index\">10</span> the labour force survey carried out by the National Institute of Statistics, Geography and Informatics (INEGI), is the source of data for the period 2005\u20142019, while data on school attendance from the INEGI National Survey of Household Income and Expenditure (ENIGH)<span class=\"footnote-index\">11</span>   has been used to complement the time-series data for the period 1996\u20142004. </p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"http://cedoc.inmujeres.gob.mx/documentos_download/MHM_2019.pdf\">INEGI, Mujeres y hombres en M\u00e9xico 2019, Mexico City, 2019 </a>. (\u21e1 back to text)</li>\n<li><a href=\"http://www.scielo.org.mx/scielo.php?script=sci_abstract&amp;pid=S1405-74252000000400003&amp;lng=es&amp;nrm=iso&amp;tlng=en\">Camarena, C., Rosa Mar\u00eda, \u201cLos j\u00f3venes y la educaci\u00f3n: Situaci\u00f3n actual y cambios intergeneracionales\u201d, Papeles de la Poblaci\u00f3n, vol. 6, No. 26, October-December 2000, Autonomous University of Mexico State </a>. (\u21e1 back to text)</li>\n<li>Corresponds to the following levels of the International Standard Classification of Education (ISCED): ISCED level 3 (upper secondary education), ISCED level 5 (short-cycle tertiary education), ISCED level 6 (Bachelor\u2019s or equivalent level), ISCED level 7 (Master\u2019s or equivalent level), and, in some cases, ISCED level 8 (Doctoral or equivalent level). (\u21e1 back to text)</li>\n<li><a href=\"https://www.un.org/en/events/pastevents/pdfs/Beijing_Declaration_and_Platform_for_Action.pdf\">Report of the Fourth World Conference on Women, Beijing, 4\u201315 September 1995 (United Nations publication, Sales No. E.96.IV.13), chap. I, resolution 1, annexes I and II </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.oei.es/historico/na1338.htm\">Sandoval, Etelvina and Tarr\u00e9s, Mar\u00eda Luisa, \u201cMujer y educaci\u00f3n en M\u00e9xico, 1980\u20141990\u201d, Revista Latinoamericana de Estudios Educativos (M\u00e9xico), vol. XXVI, No. 3, 1995 </a>. (\u21e1 back to text)</li>\n<li><a href=\"http://dof.gob.mx/nota_detalle.php?codigo=4896477&amp;fecha=21/08/1996\">National Programme for Women 1995\u20142000 (Programa Nacional de la Mujer 1995\u20142000) (Diario Oficial de la Federaci\u00f3n: 21/08/1996) </a>. (\u21e1 back to text)</li>\n<li>Higher secondary education includes the levels of baccalaureate, professional baccalaureate and its equivalent and professional education that does not require a baccalaureate or its equivalent. It is organized through a common curricular framework at the national level that guarantees the recognition of studies among the options offered (article 44 of the General Education Law, Diario Oficial de la Federaci\u00f3n, September 2019). (\u21e1 back to text)</li>\n<li>Based on information from INEGI, the National Survey of Household Income and Expenditure (ENIGH)and the National Survey of Occupation and Employment (ENOE). (\u21e1 back to text)</li>\n<li><a href=\"https://www.coneval.org.mx/Evaluacion/IEPSM/Documents/Derechos_Sociales/Estudio_Diag_Edu_2018.pdf\">National Council for the Evaluation of Social Development Policy (Consejo Nacional de Evaluaci\u00f3n de la Pol\u00edtica de Desarrollo Social (CONEVAL)), Estudio Diagn\u00f3stico del Derecho a la Educaci\u00f3n 2018, Mexico City, 2018 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://en.www.inegi.org.mx/programas/enoe/15ymas/\">National Institute of Statistics, Geography and Informatics (INEGI), National Survey of Occupation and Employment </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://en.www.inegi.org.mx/programas/enigh/tradicional/2014/\">INEGI, \n                </a></li></ol>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NE1"
+    }
+}

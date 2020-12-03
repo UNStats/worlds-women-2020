@@ -26,12 +26,14 @@ narrative_cat = []
 
 for item in user_items:
 
+    # Skip galleries (they are saved in the same folder as narratives)
     if item["id"] in galleries:
         continue
 
-    # if item["id"] != '0d1ff2530f17451bb8437c6ea584282e':
-    #     continue
-
+    # Only new narratives
+    if item.access != 'org':
+        continue
+    
     d = dict()
 
     d['narrative_id'] = item["title"][:item["title"].find(' ')]

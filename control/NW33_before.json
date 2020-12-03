@@ -1,0 +1,256 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Economic empowerment\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Methodological note on gender equality in trade (UNCTAD)</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/carlos-ibanez-644X6zmy1Hk-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "carlos-ibanez-644X6zmy1Hk-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/carlos-ibanez-644X6zmy1Hk-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>Gender inequalities in trade, particularly in multinational enterprises and foreign trading enterprises, can be analysed by linking microdata from multiple statistical sources available in many countries, based on individual and enterprise characteristics such as employment, education, jobs, businesses and trade.</li>\n\t<li>Based on results of a case study in Finland, women participate in trade less often than men, especially in higher paying occupations.</li>\n\t<li>In exporting and importing enterprises (two-way trading enterprises) in Finland, the share of women is significantly lower in high-paying occupations, such as managers (19%) and professionals (26%), leaving women less likely than men to be able to fully benefit from economic globalization.</li>\n\t<li>The gender pay gap in Finland tends to be larger in high-paying jobs provided by foreign multinationals and enterprises that trade internationally and the highest in multinational firms situated in knowledge intensive services.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606787236631,
+                    "pubDate": 1606787236631,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/aff893133d3b4565b69acd1f7b4d0110/resources/mateus-campos-felipe-sztWS6R3UlA-unsplash__1606787234064__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "mateus-campos-felipe-sztWS6R3UlA-unsplash__1606787234064__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/aff893133d3b4565b69acd1f7b4d0110/resources/mateus-campos-felipe-sztWS6R3UlA-unsplash__1606787234064__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Background</span>",
+                    "content": "<p>This narrative provides a blueprint for linking business and social statistics in order to enable an analysis of gender inequalities in trade, particularly in multinational enterprises and foreign trading enterprises. The variables presented are drawn from statistical sources available for many countries, including statistical business registers, foreign affiliate statistics, international trade statistics, structural business statistics and combined employer-employee datasets (see figure I).</p>\n\n<p>Merging data from official statistical datasets and registers enables the enrichment of gender analyses with economic aspects. Assessing gender equality, such as the gender pay gap, in the business sector is facilitated by the availability of indicators disaggregated by firm type and trading status. While most governments are committed to developing a gender-responsive trade policy, effective measures require country-specific indicators<span class=\"footnote-index\">3</span> in order to obtain a full understanding of gender inequalities in trade.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606787275752,
+                    "pubDate": 1606787275752,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw33-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Microdata linking can improve analyses of trade and gender in Europe</span>",
+                    "content": "<p>Recent work on microdata linking<span class=\"footnote-index\">2</span> and trade in goods by enterprise characteristics<span class=\"footnote-index\">3</span> provide a good starting point for operationalizing trade and gender indicators using the UNCTAD conceptual framework<span class=\"footnote-index\">4</span> and indicators illustrated in a related Finnish case study.<span class=\"footnote-index\">5</span> The findings are in line with research showing that heterogeneous firms have an impact on gendered labour market outcomes,<span class=\"footnote-index\">6</span> specifically on the gender pay gap, especially if they are international trading<span class=\"footnote-index\">7</span> or multinational enterprises.<span class=\"footnote-index\">8</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606787332009,
+                    "pubDate": 1606787332009,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/aff893133d3b4565b69acd1f7b4d0110/resources/arturo-rey-5yP83RhaFGA-unsplash__1606787329045__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "arturo-rey-5yP83RhaFGA-unsplash__1606787329045__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/aff893133d3b4565b69acd1f7b4d0110/resources/arturo-rey-5yP83RhaFGA-unsplash__1606787329045__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Case study from Finland</span>",
+                    "content": "<p><strong>The share of women in high-paying occupations in exporting and importing (two-way trading) enterprises are significantly lower than in non-trading enterprises</strong></p>\n\n<p>In <span class=\"label-ref\">Finland</span>, the shares of women in different occupations in two-way trading and non-trading enterprises reveal that women participate in trade less often than men, especially in higher paying occupations (see figure II). Thus, women in Finland are less likely to be able to fully benefit from economic globalization. Overall, only some 30% of the workforce in two-way trading enterprises are women, compared to 40% in non-trading enterprises.</p>\n\n<p>When merged, data also show that the <a class=\"narrative-ref\" href=\"#NW21\" target=\"_blank\">gender pay gap</a> in Finland tends to be larger in high-paying jobs provided by foreign multinationals and enterprises that trade internationally. Independent firms and those belonging to domestic groups provide more equal pay.<span class=\"footnote-index\">9</span></p>\n\n<p>More specifically, the largest gender pay gaps are found in multinational firms situated in knowledge intensive services compared to independent firms, domestic groups, domestic multinationals and foreign multinationals in three industries: manufacturing, knowledge intensive services and other activities. Data on the wages of women in these industries can help to direct policy attention and measures to address the largest gender pay gaps.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606787364634,
+                    "pubDate": 1606787364634,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw33-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<p>Gender equality in trade indicators measure the preconditions, outcomes and impacts of trade participation for women and men, taking into account their different roles as workers and entrepreneurs, producers and consumers. The indicators require microdata linking of employer and employee datasets to the trading status of enterprises and to various enterprise and individual characteristics to enable in-depth analysis.</p>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Female and male employees and employers in domestic, foreign and multinational businesses and enterprises operating in Finland.</p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>Data provided by the United Nations Conference on Trade and Development (UNCTAD) and by Statistics Finland<span class=\"footnote-index\">10</span> for Finland only. </p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"https://www.wto.org/english/thewto_e/minist_e/mc11_e/genderdeclarationmc11_e.pdf\">World Trade Organization (WTO), Joint Declaration on Trade and Women\u2019s Economic Empowerment, Buenos Aires, 2017 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/-/KS-GQ-19-013?inheritRedirect=true\">Eurostat, Micro data Linking \u2014 2019 Edition, 16 December 2019 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.oecd.org/sdd/its/trade-by-enterprise-characteristics.htm\">Organization for Economic Cooperation and Development (OECD), Trade by enterprise characteristics data </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://unctad.org/en/PublicationsLibrary/presspb2018d7_en.pdf\">United Nations Conference on Trade and Development (UNCTAD), Better data and statistics for gender-responsive trade policy, Policy brief No. 70, October 2018 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://unctad.org/en/PublicationsLibrary/ser-rp-2020d4_en.pdf\">Luomaranta H. et al., \u201dThe impact of multinational and trading enterprises on gender equality - case Finland\u201d, UNCTAD Research Paper No. 45 (UNCTAD/SER.RP/2020/4), May 2020 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://academic.oup.com/qje/article-abstract/131/2/633/2606904?redirectedFrom=fulltext\">Card, D., Cardoso, A.R. and Kline, P., \u201cBargaining, Sorting, and the Gender Wage Gap: Quantifying the Impact of Firms on the Relative Pay of Women\u201d, The Quarterly Journal of Economics, vol. 131, Issue. 2, May 2016 </a>; <a href=\"https://econpapers.repec.org/article/oupoxecpp/v_3a68_3ay_3a2016_3ai_3a2_3ap_3a506-524..htm\">Cardoso, A. R., Guimaraes, P. and Portugal, P., \u201cWhat drives the gender wage gap? A look at the role of firm and job-title heterogeneity\u201d, Oxford Economic Papers, vol. 68, Issue 2, 2016 </a>; <a href=\"http://yanagallen.com/denmark-gender-gap-30-years.pdf\">Gallen, Y., Lesner, R. V. and Vejlin, R., \u201cThe labor market gender gap in Denmark: Sorting out the past 30 years\u201d, Labour Economics, 56, 2019 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://econpapers.repec.org/article/eeeinecon/v_3a111_3ay_3a2018_3ai_3ac_3ap_3a122-133.htm\">B\u00f8ler, E. A., Javorcik, B. and Ulltveit-Moe, K.H., \u201cWorking across time zones: Exporters and the gender wage gap\u201d, Journal of International Economics, vol. 111, Issue C, 2018 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://link.springer.com/article/10.1007/s10290-018-0336-2\">Vahter P. and Masso, J., \u201cThe contribution of multinationals to wage inequality: Foreign ownership and the gender pay gap\u201d, Review of World Economics, vol. 155, Issue 1, February 2019 </a>. (\u21e1 back to text)</li>\n<li>While similar findings have been made in Estonia (<a href=\"https://link.springer.com/article/10.1007/s10290-018-0336-2\">Vahter P. and Masso, J., \u201cThe contribution of multinationals to wage inequality: Foreign ownership and the gender pay gap\u201d, Review of World Economics, vol. 155, Issue 1, February 2019 </a>), opposite observations have been made in Japan (<a href=\"https://econpapers.repec.org/paper/etidpaper/16015.htm\">Kodama N., Javorcik B.S. and Abe, Y., \u201cTransplanting Corporate Culture across International Borders; FDI and female employment in Japan\u201d, Research Institute of Economy, Trade and Industry (RIETI), Discussion Papers 16015, 2016</a>), underlining the importance of compiling country-specific indicators of gender equality in trade. (\u21e1 back to text)</li>\n<li><a href=\"https://www.stat.fi/index_en.html\">Statistics Finland </a>: data could be calculated to different degrees in other countries depending on available statistical data. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NW33"
+    }
+}

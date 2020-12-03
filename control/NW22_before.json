@@ -1,0 +1,256 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Economic empowerment\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Type of earnings of married women and men in employment, living in developing regions</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ives-ives-eEjJphHZgAA-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ives-ives-eEjJphHZgAA-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ives-ives-eEjJphHZgAA-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>Access to cash labor income was more limited for women (61%) than for men (70%) in developing regions, and even more limited for both women (57%) and men (64%) in sub-Saharan Africa.</li>\n\t<li>Access to cash labor income for women and men varied greatly across countries. The gender gap in cash-only labor income was higher than 10 percentage points in almost half (19) of countries with data.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606788097941,
+                    "pubDate": 1606788097941,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/83bf64a8faee479fb4639d5d8b684a1d/resources/zeyn-afuang-9xp0AWvlGC4-unsplash__1606788095108__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "zeyn-afuang-9xp0AWvlGC4-unsplash__1606788095108__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/83bf64a8faee479fb4639d5d8b684a1d/resources/zeyn-afuang-9xp0AWvlGC4-unsplash__1606788095108__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Access to cash labor income is more limited for women than for men in developing regions</span>",
+                    "content": "<p>In developing regions, women are less likely to be employed than men, and when they are employed, they are more likely to be in vulnerable jobs, for example, as <a class=\"narrative-ref\" href=\"#NW23\" target=\"_blank\">contributing family workers</a>. Compared to other jobs, these types of jobs are more often associated with irregular low income or no income at all, resulting in lower proportions of women receiving cash labor income. For instance, among 39 countries with available data in developing regions, 61% of married women aged 15\u201449 employed in the past 12 months were paid only in cash. The proportion of those paid only in cash among married men aged 15\u201449 and employed in the past 12 months was 70%, resulting in a gender gap of nine percentage points. An additional 14% of women and of men were paid in cash and in-kind, resulting in a gender parity among those with this type of earnings (see figure I).</p>\n\n<p>A gender gap of similar magnitude was observed in <span class=\"label-ref\">sub-Saharan Africa</span>, where 57% of married women were paid only in cash and 15% were paid in cash and in kind (vs. 65% and 16% of men, respectively).</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606788126544,
+                    "pubDate": 1606788126544,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw22-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "&nbsp;",
+                    "content": "<p>Across 39 countries in developing regions with available sex-disaggregated data for the period 2013\u20142018, the proportion of married women aged 15\u201449 who earned any cash labor income in the past 12 months varied greatly, from 37% in Malawi to 99% in Haiti. For men, the proportion varied from 33% in Ethiopia to almost 100% in South Africa. In terms of cash-only labor income, Burundi had the lowest proportion among married women aged 15\u201449 who were employed in the past 12 months (17%), and the Maldives the highest (97%). For men, the proportion varied from 23% in Ethiopia to 98% in South Africa. In particular, the gender gap in cash-only labor incomes reached a maximum of 41 percentage points in Nepal and was higher than 10 percentage points in almost half (19) of countries with data (see figure II).</p>\n\n<p>The proportion of married women and married men aged 15\u201449 who earned any cash labor income in the past 12 months also varied by geographic location. Across 39 countries in developing regions with available sex-disaggregated data for the period 2013\u20142018, the proportion reached 87% for married women and 95% for married men in <span class=\"label-ref\">urban areas</span>, resulting in a difference of 8 percentage points. The gender gap was larger (12 percentage points, on average) in rural areas, with 67% of married women and 79% of married men earning any cash labor income in the past 12 months.<span class=\"footnote-index\">2</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606845937877,
+                    "pubDate": 1606845937877,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw22-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Countries in focus: Nigeria and Zambia</span>",
+                    "content": "<p>Both Nigeria and Zambia conducted two Demographic and Health Surveys, in 2013 and 2018. In Nigeria, while the proportion of married women and men aged 15\u201449 who earned any cash labor income in the last 12 months were equal, at 93%, in 2013, by 2018, the proportion of women earning cash income had decreased to 85% and, to a lesser extent, to 91%, for men. During the same period, a trend in the opposite direction was observed in Zambia, where the proportion of married women aged 15\u201449 who earned any cash labor income in the last 12 months increased from 63% in 2013 to 81% in 2018. For men, gains were relatively modest, with the proportion increasing from 83% in 2013 to 87% in 2018.<span class=\"footnote-index\">3</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606788370944,
+                    "pubDate": 1606788370944,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/83bf64a8faee479fb4639d5d8b684a1d/resources/akhila-katuri-Yj8iX12UC4g-unsplash__1606788368020__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "akhila-katuri-Yj8iX12UC4g-unsplash__1606788368020__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/83bf64a8faee479fb4639d5d8b684a1d/resources/akhila-katuri-Yj8iX12UC4g-unsplash__1606788368020__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li>\n<span class=\"concept\">Married women and men aged 15\u201449 living in developing regions by type of earnings from labour in the last 12 months</span>: <span class=\"definition\">This indicator provides information about the type of earnings of married women and men, including renumeration in cash and in kind, payable for time worked or work done, as well as for time not worked, such as annual vacation and other paid leave or holidays. </span>\n</li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Married women and men aged 15\u201449 in developing regions who were employed at any time in the last 12 months. </p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>39 United Nations Member States in developing regions (with latest available sex-disaggregated data for the period 2013\u20142018).</p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li>Any cash labour income includes the following types of labour income: (a) cash only; and (b) cash and in-kind.  (\u21e1 back to text)</li>\n<li>Calculated by UNDESA, Statistics Division, from data provided by ICF International, 2015 (correspondence with the Demographic and Health Survey Programme on 31 August 2020): unweighted averages are based on data from 39 countries in developing regions. (\u21e1 back to text)</li>\n<li>Source: Demographic and Health Survey Programme STATcompiler (last accessed on 7 May 2020). (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NW22"
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Economic empowerment\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Equal legal economic rights on selected issues for women and men in developing regions</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/821228-SDGs Showcased on Billboards in Times Square, New York City.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "821228-SDGs Showcased on Billboards in Times Square, New York City.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/821228-SDGs Showcased on Billboards in Times Square, New York City.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>Globally, as of 2020, 180 out of 188 (96%) Member States and territories have at least one legal barrier restricting women\u2019s opportunities in economic structures, participation in productive activities and access to resources.</li>\n\t<li>In only eight countries in Europe and Northern America are women and men on an equal legal footing with respect to the full set of key topics assessed, which are structured around women\u2019s and men\u2019s interactions with formal laws and regulations during their economic life cycle.</li>\n\t<li>In countries in developed regions, legal gender gaps impeding women\u2019s rights are not significant, but in some countries in developing regions women have a fraction of the economic rights of men as a result of discriminatory laws and regulations that obstruct their economic empowerment.</li>\n\t<li>While countries in Latin America and the Caribbean have made tremendous progress in terms of women\u2019s legal rights over the last 25 years, women\u2019s legal rights are still far from being fully guaranteed in countries in Western Asia and Northern Africa.</li>\n\t<li>Although far from universality, significant gains (almost 30 percentage points) have been achieved in the adoption of protective legislation ensuring equal pay for work of equal value: in 1995, eight (6%) countries in developing regions legally required employers to pay women and men the same remuneration, by 2020, 48 (34%) countries had adopted such protective laws.</li>\n\t<li>Paid parental leave, available to both mothers and fathers, while unknown in national legislation in 1995, had been mandated by law in only seven countries (5%) by 2020.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606791451943,
+                    "pubDate": 1606791451943,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/4b31b21a4ccb41558b6f140a2327d225/resources/the-new-york-public-library-lp3366axla4-unsplash__1606791449261__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "the-new-york-public-library-lp3366axla4-unsplash__1606791449261__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/4b31b21a4ccb41558b6f140a2327d225/resources/the-new-york-public-library-lp3366axla4-unsplash__1606791449261__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Current situation</span>",
+                    "content": "<p>As of 2020, 180 out of 188 (96%) Member States and territories with available data have at least one legal barrier restricting women\u2019s opportunities in economic structures, participation in productive activities and access to resources.<span class=\"footnote-index\">1</span> In only eight countries in Europe and Northern America, Belgium, Canada, Denmark, France, Iceland, <a class=\"narrative-ref\" href=\"#NW38\" target=\"_blank\">Latvia</a>, Luxembourg and Sweden, are women and men on an equal legal footing with respect to the full set of key topics<span class=\"footnote-index\">2</span> assessed, which are structured around women\u2019s and men\u2019s interactions with formal laws and regulations during their economic life cycle. Research shows that while international conventions such as the Convention on the Elimination of All Forms of Discrimination against Women<span class=\"footnote-index\">3</span> and women\u2019s political representation at the national level have played a role in closing legal gaps in women\u2019s economic rights, legal barriers have remained in a number of countries owing to conflict situations and weak rule of law.<span class=\"footnote-index\">4</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606792523104,
+                    "pubDate": 1606792523104,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/4b31b21a4ccb41558b6f140a2327d225/resources/myznik-egor-v6pC9-0kLW0-unsplash__1606792429991__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Gender equality in national laws and regulations remains uneven among countries in developed and developing regions</span>",
+                    "content": "<p>While legal gender gaps are relatively small in developed regions, women in developing regions have a fraction of the economic rights of men due to discriminatory laws and regulations that impede their economic empowerment. However, in some Member States and territories in developing regions there have been positive changes in women\u2019s legal rights over the past 25 years, signifying an improved regulatory environment for women\u2019s economic independence (see figure).</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606792557324,
+                    "pubDate": 1606792557324,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw11-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "&nbsp;",
+                    "content": "<p>It appears that the number of Member States and territories in developing regions with equal legal rights for women and men on selected key issues has reached a plateau, at around 130 States, over the past 25 years. In countries in <span class=\"label-ref\">Western Asia and Northern Africa</span>, the achievement of equal legal rights for women is significantly behind what has been realized in other regions. Countries in <span class=\"label-ref\">Latin America and the Caribbean</span> have made tremendous progress, catching up with developed regions in terms of women\u2019s legal rights.<span class=\"footnote-index\">5</span></p>\n\n<p>Though still far from reaching universality, significant gains have been achieved in terms of legislation to address the <a class=\"narrative-ref\" href=\"#NW21\" target=\"_blank\">gender pay gap</a>: by 2020, employers were legally required to pay equal remuneration for women and men who performed work of equal value in 48 (34%) Member States and territories in developing regions, compared with just eight (6%) in 1995. However, as of 2020, <a class=\"narrative-ref\" href=\"#NW39\" target=\"_blank\">paid parental leave</a>, available to both mothers and fathers, which, along with <a class=\"narrative-ref\" href=\"#NW24\" target=\"_blank\">maternity and paternity leave</a>, contributes to women\u2019s ability to return to work, has been mandated by law in only seven (5%) countries, Azerbaijan, Chile, Kazakhstan, the Republic of Korea, Singapore, Tajikistan and Uzbekistan. In light of the fact that in 1995 not one country in the world provided paid parental leave for both mothers and fathers, this increase shows minimal progress towards ensuring women\u2019s right to work.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606847336000,
+                    "pubDate": 1606847336000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/4b31b21a4ccb41558b6f140a2327d225/resources/sofiya-kirik-0qyUkrrmI8U-unsplash__1606847329156__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "sofiya-kirik-0qyUkrrmI8U-unsplash__1606847329156__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/4b31b21a4ccb41558b6f140a2327d225/resources/sofiya-kirik-0qyUkrrmI8U-unsplash__1606847329156__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<p>These indicators provide information on the number of United Nations Member States and territories with equal legal rights for women and men on selected issues and on the number of Member States and territories with legal barriers restricting women\u2019s opportunities in economic structures, participation in productive activities and access to resources. Only formal laws and regulations are taken into account; religious and customary laws are not considered unless they are codified. The implementation of laws is not measured by these indicators.</p>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>188 United Nations Member States and territories (140 in developing regions).<span class=\"footnote-index\">6</span></p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>Data have been provided through the dataset of the Women, Business and the Law project of the World Bank.<span class=\"footnote-index\">7</span></p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"https://datacatalog.worldbank.org/dataset/women-business-and-law\">The World Bank, Women, Business and the Law project, Data Catalog, Washington, D.C., 2020 </a>. (\u21e1 back to text)</li>\n<li>The eight indicators covered by the Women, Business and the Law project are Mobility, Workplace, Pay, Marriage, Parenthood, Entrepreneurship, Assets and Pension. (\u21e1 back to text)</li>\n<li><a href=\"https://www.un.org/womenwatch/daw/cedaw/cedaw.htm\">United Nations, Treaty Series, vol. 1249, No. 20378 </a>. (\u21e1 back to text)</li>\n<li><a href=\"http://documents1.worldbank.org/curated/en/312581468338398063/pdf/WPS6616.pdf\">Hallward-Driemeier, M., Tazeen, H., and Bogdana Rusu, A., \u201cWomen\u2019s legal rights over 50 years: Progress, stagnation or regression?\u201d, World Bank, Policy Research Working Paper 6616, Washington, D.C., September 2013 </a>. (\u21e1 back to text)</li>\n<li>Ibid. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\">Member States and territories have been organized by regional groupings under the Sustainable Development Goals (SDGs) indicator framework </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://datacatalog.worldbank.org/dataset/women-business-and-law\">The World Bank, Women, Business and the Law project, Data Catalog, Washington, D.C., 2020 </a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NW11"
+    }
+}

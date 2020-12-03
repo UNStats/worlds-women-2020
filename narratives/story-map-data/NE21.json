@@ -1,0 +1,304 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Education\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Education</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Educational attainment</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606940190720,
+                    "pubDate": 1606940190720,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/cf33cdf262c349438b4656d9bc6f09ad/resources/mateus-campos-felipe-sztWS6R3UlA-unsplash__1606940186767__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "mateus-campos-felipe-sztWS6R3UlA-unsplash__1606940186767__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/cf33cdf262c349438b4656d9bc6f09ad/resources/mateus-campos-felipe-sztWS6R3UlA-unsplash__1606940186767__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>Regional variations in educational attainment are linked to the general level of socioeconomic development: in developed regions, where universal primary education has been attained, the proportions of women and men with no schooling or whose highest attainment is at the primary level are small while those whose highest level of education is at or above the secondary level are substantial; the reverse holds in developing regions where universal primary education has not been attained.</li>\n\t<li>Gender differences in educational attainment are most striking among the population with no schooling: differences are particularly large in sub-Saharan Africa (where 44% of women have never attended school, compared to 30% of men) and Southern Asia (where 48% of women have never attended school, compared to 28% of men).</li>\n\t<li>Primary education is the highest level of educational attainment for slightly above a quarter of the adult population in developing regions (28% for women and 27% for men). Secondary education is the highest educational level attained by most women (41%) and men (48%) both globally and across developed (53% of women and 57% of men) and developing regions (38% of women and 46% of men).</li>\n\t<li>Globally, nearly one in five adult women (17%) and men (19%) have attained tertiary education: more women (39%) and men (37%) in developed regions have completed tertiary education as compared to their counterparts in developing regions (11% for women and 13% for men).</li>\n\t<li>Tertiary education is the most common educational attainment in Central Asia, where about 6 in 10 women and men have attended or graduated from post-secondary education.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606853430303,
+                    "pubDate": 1606853400000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/cf33cdf262c349438b4656d9bc6f09ad/resources/adam-winger-UFG04g43hqs-unsplash__1606853424196__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "adam-winger-UFG04g43hqs-unsplash__1606853424196__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/cf33cdf262c349438b4656d9bc6f09ad/resources/adam-winger-UFG04g43hqs-unsplash__1606853424196__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Background</span>",
+                    "content": "<p>Educational attainment is a measure of the stock of human capital, that is, the knowledge and the skills available in a given population. A higher level of educational attainment indicates the availability of a relatively high level of skills and knowledge in the labour force. The greater the level of educational attainment, the more likely it is that individuals will have the relevant skills for employment and entrepreneurship, and the greater their earning potential.</p>\n\n<p>In addition to preparing individuals for the labour market, high levels of educational attainment also have a positive impact on broader social development goals, including increased levels of participation and representation in government and of political influence. Persons with higher levels of educational attainment are usually better equipped to make well-informed decisions, for example about their personal and family health or the environment. Raising educational attainment is a key mechanism for empowering women, improving their access to well-paid jobs, increasing their representation in government and enhancing their political influence.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606853467079,
+                    "pubDate": 1606853460000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/cf33cdf262c349438b4656d9bc6f09ad/resources/humberto-chavez-FVh_yqLR9eA-unsplash-woman%20standing%20under%20tree__1606853464465__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "humberto-chavez-FVh_yqLR9eA-unsplash-woman standing under tree__1606853464465__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/cf33cdf262c349438b4656d9bc6f09ad/resources/humberto-chavez-FVh_yqLR9eA-unsplash-woman%20standing%20under%20tree__1606853464465__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Current situation</span>",
+                    "content": "<p><strong>Levels of educational attainment are associated with levels of socioeconomic development</strong></p>\n\n<p>Regional averages<span class=\"footnote-index\">1</span> of educational attainment among men and women aged 25 and older, calculated according to four education levels:<span class=\"footnote-index\">2</span> \u201cno schooling\u201d, \u201cprimary\u201d, \u201csecondary\u201d and \u201ctertiary\u201d, show that educational attainment varies substantially across regions (see figure I).</p>\n\n<p>In developed regions, where universal primary education has been attained, the proportions of women and men with no schooling or whose highest attainment is at the primary level are small (less than 10% both for women and men), while those whose highest attainment is at or above the secondary level are substantial (more than 90% for both women and men). Australia and New Zealand and countries in Central Asia and Northern America and Europe display this same pattern. Most countries in Eastern Asia, Latin America and the Caribbean, Northern Africa, Oceania (excluding Australia and New Zealand), South-Eastern Asia and Western Asia also display a similar profile, although the proportion of the population whose highest attainment is at or above the secondary level are moderate (in the range of 50% to 90% for both women and men).</p>\n\n<p>In contrast, in the developing regions of <span class=\"label-ref\">sub-Saharan Africa</span> and <span class=\"label-ref\">Southern Asia</span>, where the goal of universal primary education has not yet been achieved, the proportions of women and men without schooling, or whose highest educational attainment is at the primary level, are significant (over 50% for both women and men), whereas under 50% of women and men have completed either secondary or tertiary level education.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606853498638,
+                    "pubDate": 1606853460000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne21-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Gender disparities against women are most evident among those with no schooling, particularly in sub-Saharan Africa and Southern Asia</span>",
+                    "content": "<p>Gender differences in the educational attainment of women and men aged 25 and older are most evident among the population with no schooling. Globally, 18% of women compared to 11% of men have no schooling. Some of the largest gaps are found in <span class=\"label-ref\">sub-Saharan Africa</span>, where, on average, 44% of women have never attended school, compared to 30% of men. Gender differences are also large in <span class=\"label-ref\">Southern Asia</span>, where, on average, 48% of women have no schooling, compared to 28% of men.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606853529332,
+                    "pubDate": 1606853520000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne21-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Primary education is the highest level of educational attainment for slightly above a quarter of the adult population in developing regions of the world</span>",
+                    "content": "<p>Primary education is the highest level of educational attainment for slightly above a quarter of the adult population in developing regions (27% for women and 28% for men). Primary education is the highest level of attainment for over 30% of women and men in Latin America and the Caribbean and South-Eastern Asia. Corresponding figures for Eastern Asia, Northern Africa, Southern Asia, sub-Saharan Africa and Western Asia are in the range of 20% to 30% for both women and men. In Oceania (excluding Australia and New Zealand), 15% of women and 17% of men have only attained primary level education, whereas in Australia and New Zealand, Central Asia and Northern America and Europe, less than 10% of women and men have only primary education.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606853637265,
+                    "pubDate": 1606853580000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne21-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Secondary education is the highest educational level attained by most women and men globally, across both developed and developing regions</span>",
+                    "content": "<p>Secondary education is attained by the majority of adults, both women and men, across both developed and developing regions: worldwide, on average, 41% of women and 48% of men have completed their secondary education; in developed regions, 53% of women and 57% of men have attained that level; and in developing regions, 38% of women and 46% of men have secondary education qualifications.</p>\n\n<p>By region, in Eastern Asia, Northern Africa, Northern America and Europe and Oceania (excluding Australia and New Zealand), secondary education is the highest educational level achieved by the majority of the adult population (50% to 75% of both women and men).</p>\n\n<p>In Central Asia, Latin America and the Caribbean, South-Eastern Asia and Western Asia, secondary education is the highest level achieved by between 33% and 50% of women and men.</p>\n\n<p>About one in four (24%) women in sub-Saharan Africa, on average, have some secondary education, compared to one in three (33%) men. Secondary education is the highest level of attainment for 24% of women and 36% of men in Southern Asia, revealing a gender gap in the range of 1 to 16 percentage points, representing moderate to severe educational disadvantages against women. Large gender gaps to the disadvantage of women (in the range of 13 to 16 percentage points) are also observed in India, Nepal and Pakistan.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606853707547,
+                    "pubDate": 1606853700000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne21-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "&nbsp;",
+                    "content": "<p><strong>Globally, nearly 20% of adult women and men have attained tertiary level education; and more women and men in developed regions have attained tertiary education compared to their counterparts in developing regions</strong></p>\n\n<p>Globally, an average of nearly one in five adult women (17%) and men (19%) have attained tertiary education. More women (39%) and men (37%) in developed regions have attained tertiary education as compared to their counterparts in developing regions (11% for women and 13% for men). Tertiary level education is the most common educational attainment in <span class=\"label-ref\">Central Asia</span>, where about 6 in 10 women and men have attended or graduated from post-secondary education. Attainment of tertiary level education is relatively high in Australia and New Zealand, Northern America and Europe and Western Asia (20% to 50% for both women and men). In Eastern Asia, Latin America and the Caribbean and South-Eastern Asia, 10% to 20% of women and men are graduates of tertiary education. In Northern Africa, Oceania (excluding Australia and New Zealand), Southern Asia and sub-Saharan Africa, tertiary education is least common, with women constituting a minority of the small proportion of the population (less than 10%) that has attained post-secondary education.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606853748346,
+                    "pubDate": 1606853700000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne21-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Definitions</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<ul>\n\t<li><span class=\"concept\">Educational attainment</span>:<span class=\"footnote-index\">3</span> <span class=\"definition\">Highest level of education, as classified under the International Standard Classification of Education (ISCED), an individual has successfully completed, which is typically certified by a recognized qualification certificate. Recognized intermediate qualifications are classified at a lower level.</span></li>\n\t<li><span class=\"concept\">Educational attainment of the population aged 25 and older</span>: <span class=\"definition\">Percentage distribution of the population aged 25 and older according to the highest level of education attained or completed with reference to ISCED. The indicator is closely related to the skills and competencies of national populations, and may be seen as a proxy of both the quantitative and qualitative aspects of the stock of human capital. Higher levels of educational attainment in a population are associated with greater personal, household or national wealth and economic growth.</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Population aged 25 and older.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Data on educational attainment are available for 153 countries<span class=\"footnote-index\">4</span> for the period 2005\u20142018 (latest available).<span class=\"footnote-index\">5</span></p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606853793085,
+                    "pubDate": 1606853760000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/cf33cdf262c349438b4656d9bc6f09ad/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1606853791291__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1606853791291__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/cf33cdf262c349438b4656d9bc6f09ad/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1606853791291__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "&nbsp;",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li>It should be noted that the regional averages, which were computed weighted by the population sizes of constituent countries, should not be regarded as exact because of the lack of data for some countries. However, they provide a basis for broad comparison of educational attainment across regions. It is also important to bear in mind that comparability of data is limited because of differing definitions pertaining to educational attainment used by countries and because educational systems in different countries do not necessarily impart the same degree of skills and knowledge at each level of education. (\u21e1 back to text)</li>\n\t<li>The educational attainment category of \u201cno schooling\u201d refers to all persons who have attended less than one grade at the primary level; \u201cprimary\u201d comprises those who have completed primary education (ISCED 1) or at least one grade of primary education; \u201csecondary\u201d represents those who have attended lower secondary (ISCED 2), upper secondary (ISCED 3) or post-secondary non-tertiary education (ISCED 4); and \u201ctertiary\u201d comprises those who have attended any level of tertiary education (ISCED 5-8). (\u21e1 back to text)</li>\n\t<li>Caution is required when using this indicator for cross-country comparison, since countries do not always classify degrees and qualifications using the same levels as those set out in the International Standard Classification of Education (ISCED), even if they are received at roughly the same age or after a similar number of years of schooling. Also, certain educational programmes and courses of study cannot be easily classified under ISCED. This indicator only measures educational attainment in terms of level of education attained, that is, years of schooling, and does not necessarily reveal the quality of education (learning achievement and other impacts). (\u21e1 back to text)</li>\n\t<li>Countries are organized in <a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\" target=\"_blank\">regional groupings </a> under the Sustainable Development Goals (SDGs) indicators framework. (\u21e1 back to text)</li>\n\t<li>Data is from the <a href=\"http://data.uis.unesco.org/\" target=\"_blank\">United Nations Educational, Scientific and Cultural Organization (UNESCO), UNESCO Institute for Statistics database (accessed in February 2020) </a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606853832080,
+                    "pubDate": 1606853820000,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/cf33cdf262c349438b4656d9bc6f09ad/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1606853817314__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1606853817314__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/cf33cdf262c349438b4656d9bc6f09ad/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1606853817314__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NE21"
+    }
+}

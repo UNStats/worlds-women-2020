@@ -1,0 +1,360 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Economic empowerment\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Gender pay gap</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/buchen-wang-g1AYjBlMSv4-unsplash-woman in beige coat walking.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "buchen-wang-g1AYjBlMSv4-unsplash-woman in beige coat walking.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/buchen-wang-g1AYjBlMSv4-unsplash-woman in beige coat walking.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>A gender pay gap by five percentage points or higher was observed in 49 out of 58 (84%) countries with available data for the period 2014\u20142018. In most countries, women earn less than men, and the median gender pay gap for the 58 countries with available data was 12% in favour of men.</li>\n\t<li>Among 27 countries of the European Union with comparable trend data on the gender pay gap, a slight downward trend was observed overall during the period 2014\u20142018, with the average pay gap in the 27 reporting countries of the European Union decreasing from 15.7% in 2014 to 14.8% in 2018.</li>\n\t<li>A gap in earnings between women and men persists across all economic sectors. The median gender pay gap in the European Union was larger than 10% in 15 out of 17 economic sectors, most notably in the financial and insurance activities subsector.</li>\n\t<li>Even when a large number of explained factors are taken into consideration, pay differentials between women and men can be explained only to a certain degree. Gender pay gaps that cannot be explained may be caused by omitted variables and other factors not covered by available data, including discrimination.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606788455666,
+                    "pubDate": 1606788455666,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/733303cb424641cf9f3ae89ea97874d2/resources/cassandre-boyer-zcffhix_mlA-unsplash__1606788453287__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "cassandre-boyer-zcffhix_mlA-unsplash__1606788453287__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/733303cb424641cf9f3ae89ea97874d2/resources/cassandre-boyer-zcffhix_mlA-unsplash__1606788453287__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Background</span>",
+                    "content": "<p>Gender pay gap is a global measure to assess progress in reducing the differences in average earnings of women and men, and it may result from a multitude of explained and unexplained factors. The explained factors combine: (a) the individual characteristics of women and men in the labour market; (b) the types of jobs they perform; and (c) the types of establishments or companies in which they work, and includes age, level and field of education, work experience, <a class=\"narrative-ref\" href=\"#NW3\" target=\"_blank\">occupation</a>, <a class=\"narrative-ref\" href=\"#NW2\" target=\"_blank\">economic sector</a>, type of contract and working time of employed women and men, as well as the age, size, legal status and private/foreign/state ownership of the establishments in which they work. Gender inequalities in most of these areas are associated with traditions and stereotypes (influencing the choice of education, professions and career paths of women and men) as well as difficulties in balancing work and family life, which often lead to part-time work and career breaks, mainly among women.<span class=\"footnote-index\">1</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606788494259,
+                    "pubDate": 1606788494259,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/733303cb424641cf9f3ae89ea97874d2/resources/shridhar-gupta-dZxQn4VEv2M-unsplash__1606788488852__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "shridhar-gupta-dZxQn4VEv2M-unsplash__1606788488852__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/733303cb424641cf9f3ae89ea97874d2/resources/shridhar-gupta-dZxQn4VEv2M-unsplash__1606788488852__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">A notable gender pay gap is found in most countries with available data</span>",
+                    "content": "<p>A gender pay gap by five percentage points or higher was observed in 49 out of 58 (84%) countries with available data for the period 2014\u20142018. In most countries, women earned less than men, and the median gender pay gap for these 58 countries was 12% in favour of men. However, a gender pay gap in favour of women was found in Latin America and the Caribbean, where statistics on earnings were produced from a variety of data sources with discrepancies in coverage, scope and characteristics. In that region, in more than half the countries with available data for the period 2014\u20142018, men earned less than women. Among 33 countries in Europe with more comparable data on the gender pay gap during the same time period, women were generally paid less than men, with a gender pay gap in the region ranging between 2% and 28%. Six countries, namely, Austria, Estonia, Germany, the Russian Federation, Ukraine and the United Kingdom of Great Britain and Northern Ireland, had the largest gender pay gaps in the region, amounting to more than 20%. Average hourly earnings of employed women and men differed the most in countries in Eastern and South-Eastern Asia, although data were available for only five countries: the gender pay gap was calculated as 22% in favour of women in Thailand (with women earning more) and 31% in favour of men in the Republic of Korea (with men earning more) (see figure I).</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606788524976,
+                    "pubDate": 1606788524976,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw21-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Countries in developed regions show a slight decline in gender pay gap</span>",
+                    "content": "<p>Among 27 member States of the European Union with comparable data on the gender pay gap, a slight downward trend was observed overall during the period 2014\u20142018, with the average pay gap in the 27 reporting member States decreasing from 15.7% in 2014 to 14.8%<span class=\"footnote-index\">2</span> in 2018. During the same period, 18 out of the 27 (67%) countries showed a decrease in the pay gap, with the largest decline in pay differences in Europe between women and men provisionally recorded in Estonia, where women were paid 28.2% less than men in 2014 and 22.7% less in 2018<span class=\"footnote-index\">3</span> (see figure II).</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606958451326,
+                    "pubDate": 1606958451326,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw21-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">The gender gap persists across all economic sectors</span>",
+                    "content": "<p>A gap in earnings between women and men persists across all economic sectors, although significant variations in are found from one industry to another. Based on 2014 data for 27 member States of the European Union, the median gender pay gap in the European Union was greater than 10% in 15 out of 17 economic sectors, most notably in the financial and insurance activities subsector.</p>\n\n<p>As called for by the Beijing Platform for Action, adopted in 1995, women and men have the right to equal pay for equal work or work of equal value. However, even when a large number of explained factors are taken into consideration, pay differentials between women and men can be explained only to a certain extent. Those that cannot be explained may be attributed to omitted variables and other factors not covered by available data, including gender discrimination.<span class=\"footnote-index\">4</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606788665886,
+                    "pubDate": 1606788665886,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/733303cb424641cf9f3ae89ea97874d2/resources/dibakar-roy-1FjWwwWvDfo-unsplash__1606788662722__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "dibakar-roy-1FjWwwWvDfo-unsplash__1606788662722__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/733303cb424641cf9f3ae89ea97874d2/resources/dibakar-roy-1FjWwwWvDfo-unsplash__1606788662722__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">The legal framework</span>",
+                    "content": "<p>Globally<span class=\"footnote-index\">5</span> as of 2020, 173 United Nations Member States and territories have ratified ILO Convention No. 100 [link to NW9] (Equal Remuneration Convention), on equal remuneration for women and men workers.</p>\n\n<p>With the aim of promoting equal pay for equal work or work of equal value, several countries in developed regions, including Australia, Belgium, Denmark, Finland, France, Germany, Italy, Sweden, Switzerland and the United Kingdom, have introduced legal or regulatory obligations for enterprises of varying sizes to publish sex-disaggregated data on wages.<span class=\"footnote-index\">6</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606789346039,
+                    "pubDate": 1606789346039,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/733303cb424641cf9f3ae89ea97874d2/resources/bill-oxford-OXGhu60NwxU-unsplash__1606789343713__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "bill-oxford-OXGhu60NwxU-unsplash__1606789343713__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/733303cb424641cf9f3ae89ea97874d2/resources/bill-oxford-OXGhu60NwxU-unsplash__1606789343713__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Country in focus: Canada</span>",
+                    "content": "<p>In 2018, the gender wage gap stood at 13.3% in <span class=\"label-ref\"><a class=\"narrative-ref\" href=\"#NW32\" target=\"_blank\">Canada</a></span>, a decrease of 5.5 percentage points over 1998. Further analysis at the country level reveals that 39.7% of the gender wage gap in 2018 could be explained by women\u2019s and men\u2019s employment in different economic sectors.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606789083123,
+                    "pubDate": 1606789083123,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/733303cb424641cf9f3ae89ea97874d2/resources/amy-hirschi-K0c8ko3e6AA-unsplash__1606789080145__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "amy-hirschi-K0c8ko3e6AA-unsplash__1606789080145__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/733303cb424641cf9f3ae89ea97874d2/resources/amy-hirschi-K0c8ko3e6AA-unsplash__1606789080145__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Country in focus: Switzerland</span>",
+                    "content": "<p>In 2017, the difference between the average gross hourly earnings of employed women and men stood at 17% of men\u2019s gross earnings in <span class=\"label-ref\">Switzerland</span>.<span class=\"footnote-index\">7</span></p>\n\n<p>Following the enforcement of the revised Gender Equality Act in 2020, companies in Switzerland with 100 or more employees are required to conduct an equal pay analysis by 2021. A free-of-charge web application standard analysis tool named <a href=\"https://www.ebg.admin.ch/ebg/en/home/services/logib.html\" target=\"_blank\">Logib</a> has been developed to enable companies with 50 or more employees to carry out standardized and reliable pay equality analysis with a minimal administrative burden. It is estimated that Logib will be used by thousands of companies both in Switzerland and abroad.<span class=\"footnote-index\">8</span> Once anonymous data on employees\u2019 individual characteristics, workplace characteristics, working hours and payments are fed into the application, information on average payments to women and to men, as well as on the number of women in different wage quartiles, are produced in a simple manner, assisting the identification of possible gender pay gaps at the enterprise level.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606789359574,
+                    "pubDate": 1606789359574,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/733303cb424641cf9f3ae89ea97874d2/resources/ben-wicks-800KX2y7QD8-unsplash-Woman%20in%20black%20coat%20standing%20on%20road__1606789257151__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-wicks-800KX2y7QD8-unsplash-Woman in black coat standing on road__1606789257151__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/733303cb424641cf9f3ae89ea97874d2/resources/ben-wicks-800KX2y7QD8-unsplash-Woman%20in%20black%20coat%20standing%20on%20road__1606789257151__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li>\n<span class=\"concept\">Average hourly earnings of employees, by sex, age, occupation and persons with disabilities:</span>: <span class=\"definition\">This indicator provides information on mean hourly earnings from paid employment of employees by sex and occupation. Earnings exclude employers\u2019 contributions on behalf of employees to social security and pension schemes and the benefits received by employees under these schemes, as well as severance and termination pay. This indicator is used to calculate the gender pay gap.</span>\n</li>\n<li>\n<span class=\"concept\">Gender pay gap</span>: <span class=\"definition\">difference between the average hourly wages of men and women expressed as a percentage of the average hourly wages of men, as follows:<br>\n                                [Average hourly earnings of men \u2013 Average hourly earnings of women] / [Average hourly earnings of men]\n                                </span>\n</li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Employed women and men. Differences in coverage in terms of minimum age, working time and economic sectors may be observed across different data sources. </p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>58 United Nations Member States and territories (with latest available data for the period 2014\u20142018). Countries and territories are organized under the regional groupings of the Sustainable Development Goals (SDGs) indicators framework.<span class=\"footnote-index\">10</span></p>\n</div>\n<div class=\"methodology-availability\">\n<p>Statistics on earnings are obtained from various data sources. Most countries in developing regions rely on labour force surveys or household income and expenditure surveys, while most countries in developed regions rely on establishment surveys. Cross-country comparisons of earnings data from different data sources are affected by type and age of workers covered, as well as by the exclusion of certain economic sectors. International comparability is hampered by differences across countries in the size criterion adopted in surveys or censuses. In addition, the average earnings of particular groups, including women, are affected by the different elements that make up the groups and their characteristics. Furthermore, earnings reflected in SDG indicator 8.5.1 may omit earnings of part-time workers and/or of domestic workers, depending on the data source. This is particularly relevant given that women are more likely to hold part-time jobs and to work as domestic workers than men and that both part-time and domestic workers generally have lower hourly earnings. </p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"https://ec.europa.eu/eurostat/documents/3888793/8979317/KS-TC-18-003-EN-N.pdf/3a6c9295-5e66-4b79-b009-ea1604770676\">Leythienne, P., and Ronkowski, P., 2018, A decomposition of the unadjusted gender pay gap using Structure of Earnings Survey data, 2018 edition, Publications Office of the European Union, Luxembourg, 2018 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://ec.europa.eu/eurostat/en/web/products-datasets/-/SDG_05_20\">Eurostat, 2020, Gender pay gap in unadjusted form (last accessed on 31 August 2020) </a>. (\u21e1 back to text)</li>\n<li>  Ibid.  (\u21e1 back to text)</li>\n<li><a href=\"https://ec.europa.eu/eurostat/documents/3888793/8979317/KS-TC-18-003-EN-N.pdf/3a6c9295-5e66-4b79-b009-ea1604770676\">Leythienne, P., and Ronkowski,P., 2018, A decomposition of the unadjusted gender pay gap using Structure of Earnings Survey data, 2018 edition, Luxembourg, Publications Office of the European Union, 2018 </a>. (\u21e1 back to text)</li>\n<li>Source: <a href=\"\">United Nations Department of Economic and Social Affairs (UNDESA), Sustainable Development Goal 16: Focus on Public Institutions, World Public Sector Report 2019, New York 2019 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C100\">International Labour Organization (ILO), Convention No. 100 (Equal Remuneration Convention), 1951</a>. (\u21e1 back to text)</li>\n<li>Source:<a href=\"http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=sdg_05_20&amp;lang=en\"> Eurostat, 2020, Gender pay gap in unadjusted form (last accessed on 31 August 2020) </a>. (\u21e1 back to text)</li>\n<li>Federal Office for Gender Equality, \u201cTackling the gender pay gap with digital solutions\u201d, webinar held on 19 August 2020.. (\u21e1 back to text)</li>\n<li>Source: <a href=\"https://unstats.un.org/sdgs/metadata/files/Metadata-08-05-01.pdf\">UNSD, 2020. Metadata file for SDG indicator 8.5.1.  </a>. Last accessed on 17 09 2020. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, regional groupings under the Sustainable Development Goals (SDGs) indicators framework </a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NW21"
+    }
+}

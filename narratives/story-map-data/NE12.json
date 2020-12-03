@@ -1,0 +1,281 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Education\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Education</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Schools with access to single-sex basic sanitation by education level</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/nathan-dumlao-x7Lyx8Yyvug-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "nathan-dumlao-x7Lyx8Yyvug-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/nathan-dumlao-x7Lyx8Yyvug-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>Primary schools are more affected by the lack of access to single-sex sanitation facilities than schools at other levels of education. Globally, about one in five primary schools lacks single-sex sanitation facilities.</li>\n\t<li>Levels of access to sanitation facilities vary widely across regions and levels of education.</li>\n\t<li>In sub-Saharan Africa, which faces the starkest challenge in providing schools with access to single-sex toilets, the proportion of primary schools with single-sex sanitation is less than 50% in about half of countries with data.</li>\n\t<li>Access to single-sex sanitation facilities in schools at the lower and upper secondary levels is better than in schools at the primary level.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606837352995,
+                    "pubDate": 1606837352995,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/6c55c2d7077346ecba2e628e88588de2/resources/827864-Fresh%20Water%20Point%20in%20Malakal__1606837348417__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "827864-Fresh Water Point in Malakal__1606837348417__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/6c55c2d7077346ecba2e628e88588de2/resources/827864-Fresh%20Water%20Point%20in%20Malakal__1606837348417__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Background</span>",
+                    "content": "<p>Lack of water and sanitation facilities, especially single-sex toilets, can be a barrier to girls\u2019 participation in schooling. Inadequate sanitation facilities for girls, particularly <a class=\"narrative-ref\" href=\"#NH13\" target=\"_blank\">during menstruation</a>, can have a negative effect on their school attendance. Safe and separate sanitation facilities need to be made available in schools to ensure that girls can study in a dignified, gender-equitable learning environment; this will reduce absenteeism and facilitate their continuing enrolment in education through adolescence. Sustainable Development Goal (SDG) indicator 4.a.1, which monitors the proportion of schools with offering basic services, by type of service, addresses access to single-sex basic sanitation facilities to ensure that education facilities are gender sensitive and provide safe, inclusive and effective learning environments for all.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606837457413,
+                    "pubDate": 1606837457413,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/6c55c2d7077346ecba2e628e88588de2/resources/alex-shaw-HfgGZC8JdBk-unsplash__1606837453279__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "alex-shaw-HfgGZC8JdBk-unsplash__1606837453279__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/6c55c2d7077346ecba2e628e88588de2/resources/alex-shaw-HfgGZC8JdBk-unsplash__1606837453279__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Current situation</span>",
+                    "content": "<p>Levels of access to sanitation facilities vary across regions and across level of education: primary schools are particularly affected by the lack of access to single-sex sanitation facilities</p>\n\n<p>Data for the period 2015\u20142019 show that globally 22% of primary schools lack single-sex sanitation facilities (see figure). Among 103 countries with data, in about 20% access to single-sex sanitation facilities at the primary school level was below 75% (more than half of those countries were in sub-Saharan Africa). Access to single-sex facilities was universal in countries in Northern America and Europe, with the exception of Albania, where access was 83%. Access was also universal in the vast majority of countries in Eastern Asia, Oceania and Western Asia and Northern Africa and in about 50% of the countries in Latin America and the Caribbean. In Afghanistan and Bangladesh (Southern Asia), Cambodia and the Philippines (South-Eastern Asia), the Marshall Islands (Oceania) and Jordan (Western Asia) less than half of primary schools provided single-sex sanitation facilities.</p>\n\n<p>Compared to schools at the primary level, the situation reported in schools at the lower and upper secondary levels was improved. Globally, the percentage of schools that lacked single-sex facilities at the lower (13%) and upper (12%) secondary levels compared favourably to the 22% of primary schools with appropriate facilities. Regional patterns of access to single-sex sanitation facilities at the lower and upper secondary levels are broadly similar to those at the primary level, although overall access is somewhat better at those levels of education (see figure).</p>\n\n<p>Studies of access to sanitation facilities that analyse the situation at the individual country level show that variations in access by region are wide, and that access is more limited in rural schools. For example, in Nicaragua, 64% of urban schools but only 32% of rural schools had improved basic sanitation services.<span class=\"footnote-index\">1</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606837525577,
+                    "pubDate": 1606837525577,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne12-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">A high percentage of schools in sub-Saharan Africa lack adequate facilities</span>",
+                    "content": "<p>Countries in sub-Saharan Africa face the starkest challenge in providing access to single-sex toilets at all levels of education. The situation is extreme at the primary education level, where the proportion of schools with single-sex sanitation was less than 50% in 11 out of 23 countries with data.</p>\n\n<p>Access to single-sex sanitation facilities was somewhat better in schools at the lower and upper secondary levels of education in sub-Saharan Africa: at those levels, the proportion of schools with access was less than 50% in about a third of countries with data. In about half of countries with data, more than 75% of schools had access to single-sex sanitation facilities.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606866709884,
+                    "pubDate": 1606866709884,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/6c55c2d7077346ecba2e628e88588de2/resources/alex-shaw-HfgGZC8JdBk-unsplash__1606837453279__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Sources</span>",
+                    "content": "<ol>\n\t<li><a href=\"https://www.unicef.org/publications/index_102969.html\" target=\"_blank\">United Nations Children\u2019s Fund (UNICEF) and World Health Organization (WHO), Drinking Water, Sanitation and Hygiene in Schools: Global Baseline Report 2018, New York, 2018 </a></li>\n</ol>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606837558056,
+                    "pubDate": 1606837558056,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/6c55c2d7077346ecba2e628e88588de2/resources/clay-banks-GX8KBbVmC6c-unsplash__1606837554662__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "clay-banks-GX8KBbVmC6c-unsplash__1606837554662__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/6c55c2d7077346ecba2e628e88588de2/resources/clay-banks-GX8KBbVmC6c-unsplash__1606837554662__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definition</h2>\n<ul>\n<li>\n<span class=\"concept\">Proportion of schools with access to single-sex basic sanitation facilities</span>: <span class=\"definition\"> Number of schools at a given level of education (primary, lower secondary and upper secondary education) with access to single-sex basic sanitation facilities expressed as a percentage of all schools at that level of education. </span>\n</li>\n<li>\n<span class=\"concept\">Basic sanitation facilities</span>: <span class=\"definition\">Functional improved sanitation facilities<span class=\"footnote-index\">2</span>  separated for females and males on or near the school premises.</span>\n</li>\n</ul>\n<p>The indicator measures access in schools to key basic services and facilities necessary to ensure a safe and effective learning environment for all students.</p>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Schools at the primary, lower secondary and upper secondary education levels.</p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>Data are available for: 103 countries at the primary education level; 89 at the lower secondary level; and 91 at the upper secondary education level. Data correspond to the latest available year for the period 2015\u20142019.<span class=\"footnote-index\">3</span>  Countries are organized according to regional groupings under the Sustainable Development Goals (SDGs) indicator framework.<span class=\"footnote-index\">4</span>\n</p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"https://www.unicef.org/publications/index_102969.html\">United Nations Children\u2019s Fund (UNICEF) and World Health Organization (WHO), Drinking Water, Sanitation and Hygiene in Schools: Global Baseline Report 2018, New York, 2018 </a>. (\u21e1 back to text)</li>\n<li>Improved sanitation facilities include a pit latrine with slab, a ventilated improved pit latrine, a flush toilet, a pour\u2010flush toilet or a composting toilet: unimproved facilities include a pit latrine without a slab, hanging toilets and bucket toilets. (\u21e1 back to text)</li>\n<li>Data are from the <a href=\"http://uis.unesco.org/\">United Nations Educational, Scientific and Cultural Organization (UNESCO), UNESCO Institute for Statistics database</a>  (accessed in May 2020). (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, regional groupings under the Sustainable Development Goals (SDGs) indicator framework</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NE12"
+    }
+}

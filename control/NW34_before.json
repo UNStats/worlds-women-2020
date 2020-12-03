@@ -1,0 +1,297 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Economic empowerment\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Resource allocation within households and individual poverty (the World Bank)</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/sneha-ZgWJhbr8Wco-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "sneha-ZgWJhbr8Wco-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/sneha-ZgWJhbr8Wco-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n\t<li>Monetary poverty measures are typically based on consumption data for the household as a whole, rather than for individual household members. However, assumption of equal sharing is not supported by available data and there are significant gender gaps in resource shares within households in some countries.</li>\n\t<li>In Bangladesh and Iraq, women\u2019s estimated resource shares are significantly lower than those of men in households with at least one adult woman and one adult man.</li>\n\t<li>Gender differences in resource shares translate into gender differences in consumption poverty, with women being poorer than men in countries where they command a lower share of household consumption.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606786067291,
+                    "pubDate": 1606786067291,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/ca789604c7a9485e848528963844c45d/resources/diane-helentjaris-5f1RsK-pyZQ-unsplash__1606786064263__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "diane-helentjaris-5f1RsK-pyZQ-unsplash__1606786064263__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/ca789604c7a9485e848528963844c45d/resources/diane-helentjaris-5f1RsK-pyZQ-unsplash__1606786064263__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Measuring monetary poverty at the individual level is challenging and there are data gaps in individual consumption patterns of women, men and children living in the same household </span>",
+                    "content": "<p>How many women, men and children are poor? This is a seemingly straightforward question, but it has no straightforward answer. <span class=\"label-ref\">Monetary poverty measures</span> are typically based on consumption and household surveys, which usually collect consumption data for the household as a whole rather than for individual household members. As a result, individuals are typically classified as poor or non-poor in accordance with the poverty status of the household in which they live, which is an obvious problem if there is inequality in consumption within the household. Measuring differences in consumption between women, men and <a class=\"narrative-ref\" href=\"#NW35\" target=\"_blank\">children living in the same household</a> is not an easy task for two main reasons. First, it is very expensive to collect person-level spending on private goods. For example, food is consumed individually, but monitoring individual food intakes is difficult. Second, there are goods with varying degrees of shareability within households, for example, the amount of space occupied in a common dwelling or the use of a shared vehicle. Ascribing a value to services from the use of such goods to each household member is not straightforward, and it is extremely difficult to directly observe the consumption flow to individuals within households.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606786146173,
+                    "pubDate": 1606786146173,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/ca789604c7a9485e848528963844c45d/resources/adli-wahid--x5kJ8Zc4wI-unsplash__1606786140883__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "adli-wahid--x5kJ8Zc4wI-unsplash__1606786140883__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/ca789604c7a9485e848528963844c45d/resources/adli-wahid--x5kJ8Zc4wI-unsplash__1606786140883__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Individual poverty rates can be estimated through assigned goods spending disaggregated for women, men and children within a household</span>",
+                    "content": "<p>As a result of the data gap in individual consumption, researchers have long sought to estimate how resources are allocated within households by developing structural models of <a class=\"narrative-ref\" href=\"#ND11\" target=\"_blank\">household decision-making</a>, based on available survey data, by \u201cassigning\u201d parts of household consumption to individual household members. Such structural models make assumptions on how households and individuals behave. Much of this research has sought to identify the resource share of each person in the household, defined as the fraction of household consumption attributed to a given person. The data requirements of the approach are modest: most methodologies rely on a single \u201cassignable good\u201d, typically clothing, that is disaggregated among groups of women, men and children in most household surveys. The combination of this data and the structural model allows for the identification of resource shares of women, men and children in the household. Although the model uses only data on assignable goods spending relative to total household consumption, the resulting resource shares measure each person\u2019s claim on total household consumption.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606786189686,
+                    "pubDate": 1606786189686,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/ca789604c7a9485e848528963844c45d/resources/dibakar-roy-1FjWwwWvDfo-unsplash__1606786186299__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "dibakar-roy-1FjWwwWvDfo-unsplash__1606786186299__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/ca789604c7a9485e848528963844c45d/resources/dibakar-roy-1FjWwwWvDfo-unsplash__1606786186299__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">In Bangladesh and Iraq, women&rsquo;s estimated resource shares are significantly lower than those of men in households with adult women and adult men</span>",
+                    "content": "<p>In an effort to operationalize model-based estimates of intra-household resource allocation for poverty monitoring, the World Bank partnered with the Institute for Fiscal Studies on a joint project aimed at ascertaining whether or not these methods can be used to estimate intra-household differences in consumption using off-the-shelf national household survey data with consumption modules.<span class=\"footnote-index\">1</span> The proposed methods were applied to 12 countries on data for clothing, the assignable good, and resource shares and poverty rates of women, men and children were estimated in 5 countries: Albania, Bangladesh, Bulgaria, Iraq and Malawi. The results show that equal sharing, that is, the implicit assumption underlying standard household-level poverty calculations, was rejected by the data, and that there are significant gender gaps in resource shares in some countries. Focusing on households that include at least one adult woman and one adult man, women\u2019s estimated resource shares are lower than men\u2019s in all countries, except for Bulgaria (see figure I). However, formal testing for gender differences shows that only in Bangladesh and Iraq are women\u2019s resource shares significantly different from men\u2019s. These gender differences in resource shares translate into gender differences in consumption poverty, with women being poorer than men in countries where they command a lower share of household consumption.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606786219574,
+                    "pubDate": 1606786219574,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw34-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">In Bangladesh, irrespective of the good assessed (food or clothing), women&rsquo;s resource shares are smaller than men&rsquo;s, and this finding is consistent across households of different sizes (from 1&mdash;4 children)</span>",
+                    "content": "<p>To further validate the resource share estimates, a rare feature of the Bangladesh data was used, namely the availability of individual-level food consumption; this information was compared with the estimated resource shares based on food vis-\u00e0-vis those obtained from clothing (see figure II). Data show that, irrespective of the assignable good used (food or clothing), women\u2019s resource shares are smaller than men\u2019s, and this finding is consistent across households of different sizes (for example, differentiating between households with 1\u20144 children). However, children\u2019s resource shares in households with two or more children appear larger, and resource shares of adult women and men in such households are correspondingly smaller if food is used as the assignable good; this finding requires further investigation.</p>\n\n<p>Overall, these results are encouraging and point towards the direction for next steps, that is, further validation of the estimated resource shares using field experiments, in order to move away from the unsatisfactory assumption of equal sharing and towards poverty measures that better reflect realities on the ground.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606786261786,
+                    "pubDate": 1606786261786,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw34-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Sources</span>",
+                    "content": "<ul>\n\t<li><a href=\"https://www.aeaweb.org/articles?id=10.1257/aer.103.1.438\" target=\"_blank\">Dunbar, G. R., Lewbel, A., and Pendakur, K., \u201cChildren\u2019s Resources in Collective Households: Identification, Estimation, and an Application to Child Poverty in Malawi\u201d, American Economic Review, vol. 103, No.1, February 2013 </a></li>\n\t<li><a href=\"https://www.ifs.org.uk/publications/14748\" target=\"_blank\">Lechene, V., Pendakur, K., and Wolf, A., \u201dOLS estimation of the intra-household distribution of expenditure\u201d, IFS Working Paper W20/06, Institute for Fiscal Studies, London, 2020 </a></li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606786291548,
+                    "pubDate": 1606786291548,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/ca789604c7a9485e848528963844c45d/resources/clay-banks-GX8KBbVmC6c-unsplash__1606786287661__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "clay-banks-GX8KBbVmC6c-unsplash__1606786287661__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/ca789604c7a9485e848528963844c45d/resources/clay-banks-GX8KBbVmC6c-unsplash__1606786287661__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "&nbsp;",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Resource share of an individual in a household</span>: <span class=\"definition\">Fraction of household consumption enjoyed by that person</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Adult women and men and children within households in Albania, Bangladesh, Bulgaria, Iraq and Malawi.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Data are based on the Albania Living Standards Measurement Survey 2008, Bangladesh Integrated Household Survey 2015, Bulgaria Multitopic Household Survey 2003, Iraq Household Socio-Economic Survey 2006\u20142007 and Malawi Third Integrated Household Survey 2010\u20142011 (2003\u20142015, latest available data).</p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606846930853,
+                    "pubDate": 1606846930853,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li>The estimates, summarized in <a href=\"https://www.ifs.org.uk/publications/14748\">Lechene, V., Pendakur, K., and Wolf, A., \u201dOLS estimation of the intra-household distribution of expenditure\u201d, IFS Working Paper W20/06, Institute for Fiscal Studies, London, 2020 </a>, are based on a linear representation of a model proposed by <a href=\"https://www.aeaweb.org/articles?id=10.1257/aer.103.1.438\">Dunbar, G. R., Lewbel, A., and Pendakur, K., \u201cChildren\u2019s Resources in Collective Households: Identification, Estimation, and an Application to Child Poverty in Malawi\u201d, American Economic Review, vol. 103, No.1, February 2013 </a>. They require the estimation of linear \u201cEngel curves\u201d for the assignable good, something that can be easily done with standard statistical software. An \u201cEngel curve\u201d relates the fraction of the household\u2019s budget allocated to a specific good to total household consumption. In addition, the linear representation has the advantage that it provides a simple pre-test to check some of the identifying assumptions underlying the structural model. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NW34"
+    }
+}
