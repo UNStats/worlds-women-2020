@@ -83,22 +83,22 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "title": "<span style=\"font-size:26px\">Key points</span>",
                     "content": "<ul class=\"key-points\">\n<li>Worldwide, the most visible digital divide is the one between women and men, with 58.3% of men and 48.4% of women using the Internet in 2019.</li>\n<li>In regions with a high Internet use penetration, including developed regions and countries in Latin America and the Caribbean, there was only a small difference in Internet usage between women and men (at or below 2%).</li>\n<li>In relative terms, the gender gap among Internet users has grown wider in developing regions, increasing from 15.8% in 2013 to 22.8% in 2019. The largest gap was observed in Central and Southern Asia (51.3%).</li>\n<li>Globally, women are less likely than men to own a mobile phone, with men\u2019s ownership being 6.8 percentage points higher than women\u2019s, on average.</li>\n</ul>\n",
                     "contentActions": [],
-                    "creaDate": 1602471192292,
-                    "pubDate": 1602471192292,
+                    "creaDate": 1603114721365,
+                    "pubDate": 1603114721365,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
                         "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/d6a2f8291c9c4b60a80431f65cf104af/resources/michael-demoya-rL1TdmPa5u8-unsplash__1602471051953__w1200.jpg",
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/d6a2f8291c9c4b60a80431f65cf104af/resources/mimi-thian-7b_9cHdKgFg-unsplash-two%20women%20smiling%20in%20front%20of%20computer__1603114719959__w1200.jpg",
                             "type": "image",
                             "altText": "",
                             "sizes": [
                                 {
-                                    "name": "michael-demoya-rL1TdmPa5u8-unsplash__1602471051953__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/d6a2f8291c9c4b60a80431f65cf104af/resources/michael-demoya-rL1TdmPa5u8-unsplash__1602471051953__w1200.jpg",
+                                    "name": "mimi-thian-7b_9cHdKgFg-unsplash-two women smiling in front of computer__1603114719959__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/d6a2f8291c9c4b60a80431f65cf104af/resources/mimi-thian-7b_9cHdKgFg-unsplash-two%20women%20smiling%20in%20front%20of%20computer__1603114719959__w1200.jpg",
                                     "width": 1200
                                 }
                             ],
@@ -137,22 +137,22 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Current situation</span>",
+                    "title": "<span style=\"font-size:26px\">Current situation</span>",
                     "content": "<p>Use of these technologies is uneven: in 2019, 3.6 billion people, almost half of the world population, did not have access to the Internet.<span class=\"footnote-index\">1</span> There is a clear digital divide between developed regions, where 86.6% of the population is using the Internet, and developing regions, which have an overall share of 47% in Internet usage. In the least developed countries, only 19.1% of the population is using the Internet.</p>\n",
                     "contentActions": [],
-                    "creaDate": 1602471210557,
-                    "pubDate": 1602471210557,
+                    "creaDate": 1603114581453,
+                    "pubDate": 1603114581453,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
                         "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/d6a2f8291c9c4b60a80431f65cf104af/resources/christina-wocintechchat-com-dFCOgR91H5M-unsplash__1602471142634__w1200.jpg",
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/d6a2f8291c9c4b60a80431f65cf104af/resources/pradnyal-gandhi-wlQwzSmDEz8-unsplash__1603114580195__w1200.jpg",
                             "type": "image",
                             "altText": "",
                             "sizes": [
                                 {
-                                    "name": "christina-wocintechchat-com-dFCOgR91H5M-unsplash__1602471142634__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/d6a2f8291c9c4b60a80431f65cf104af/resources/christina-wocintechchat-com-dFCOgR91H5M-unsplash__1602471142634__w1200.jpg",
+                                    "name": "pradnyal-gandhi-wlQwzSmDEz8-unsplash__1603114580195__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/d6a2f8291c9c4b60a80431f65cf104af/resources/pradnyal-gandhi-wlQwzSmDEz8-unsplash__1603114580195__w1200.jpg",
                                     "width": 1200
                                 }
                             ],
@@ -219,7 +219,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Globally, women are less likely than men to own a mobile phone</span>",
+                    "title": "<span style=\"font-size:26px;\">Globally, women are less likely than men to own a mobile phone</span>",
                     "content": "<p>Ownership of mobile phones is an important tool for reducing gender inequality, and the effect of mobile phone access for women has been shown to accelerate economic and social development. However, globally a gender gap for this indicator is evident.</p>\n<p>Among 84 United Nations Member States and territories with latest available sex-disaggregated data for the period 2016\u20142018, mobile phone ownership among men, on average, was 6.8 percentage points higher than for women (see figure III). In 24 of those countries, more women than men owned a mobile phone, but the gender gap was small; in <span class=\"label-ref\">Chile</span>, however, women\u2019s mobile phone ownership was substantially higher than that of men. In 23 of the 84 countries countries with latest available sex-disaggregated data, men\u2019s ownership was more than 10 percentage points higher than women\u2019s ownership, reaching as high as 53 percentage points in the Niger and 42 percentage points in C\u00f4te d'Ivoire. In most of the countries that had a large gender gap in mobile phone ownership, there was also a large gender gap in Internet usage.</p>\n",
                     "contentActions": [
                         {

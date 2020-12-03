@@ -184,7 +184,7 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">Further reading and related stories</span>",
-                    "content": "<ul>\n<li><a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/abc5dcf8f01342adbc9578b4677e4832#ND6\" target=\"_blank\">Women in national parliaments</a></li>\n<li><a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b61f8ad6e9644b4d8bc4949a107dea56#ND9\" target=\"_blank\">Women in local government positions</a></li>\n<li><a class=\"narrative-ref\" href=\"#ND10\" target=\"_blank\">Women in politics and decision-making positions in Africa</a></li>\n</ul>\n",
+                    "content": "<ul>\n<li><a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/abc5dcf8f01342adbc9578b4677e4832#ND6\" target=\"_blank\">Women in national parliaments</a></li>\n<li><a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b61f8ad6e9644b4d8bc4949a107dea56#ND9\" target=\"_blank\">Women in local government positions</a></li>\n<li><a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/ac58f456b4514f8db9d096a4710711da#ND10\" target=\"_blank\">Women in politics and decision-making positions in Africa</a></li>\n</ul>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609674534",
@@ -288,6 +288,6 @@
     },
     "_ssl": null,
     "annotations_unsd": {
-        "narrative_id": "ND7"
+        "narrative_id": "Mexico:"
     }
 }

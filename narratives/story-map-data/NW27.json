@@ -83,22 +83,22 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "title": "<span style=\"font-size:26px\">Key points</span>",
                     "content": "<ul class=\"key-points\">\n<li>Labour force participation rates in Japan have increased since 2001, particularly among women aged 15\u201464 (70%) and 25\u201444 years (76%) as of 2018.</li>\n<li>During the period 1980\u20142018, the share of dual-income households doubled, while the share households with working men and economically inactive women declined by almost half.</li>\n<li>55.3% of women in dual-income households work as non-regular employees; they constitute 68.1% of total non-regular employees as of 2019.</li>\n<li>Large gender gaps are observed in the responses of women and men aged 34\u201454 among their reasons for choosing non-regular work, including \u201cworking at a convenient time\u201d, \u201csupplementing family income\u201d and \u201chandling housework, childcare and nursing care work.\u201d</li>\n<li>Although non-regular employment facilitates flexible working arrangements, it is one of the main factors contributing to the gender pay gap in Japan.</li>\n</ul>\n",
                     "contentActions": [],
-                    "creaDate": 1602498683515,
-                    "pubDate": 1602498683515,
+                    "creaDate": 1603142565859,
+                    "pubDate": 1603142565859,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
                         "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/d965358e9e8d4f1ba249dadaa55ea703/resources/shelby-miller-iMoMe337qs0-unsplash__1602498681708__w1200.jpg",
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/d965358e9e8d4f1ba249dadaa55ea703/resources/ellicia-24HcJhf0u6M-unsplash__1603142564393__w1200.jpg",
                             "type": "image",
                             "altText": "",
                             "sizes": [
                                 {
-                                    "name": "shelby-miller-iMoMe337qs0-unsplash__1602498681708__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/d965358e9e8d4f1ba249dadaa55ea703/resources/shelby-miller-iMoMe337qs0-unsplash__1602498681708__w1200.jpg",
+                                    "name": "ellicia-24HcJhf0u6M-unsplash__1603142564393__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/d965358e9e8d4f1ba249dadaa55ea703/resources/ellicia-24HcJhf0u6M-unsplash__1603142564393__w1200.jpg",
                                     "width": 1200
                                 }
                             ],
@@ -168,7 +168,7 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<p>While non-regular employment allows women to adopt a flexible working style, it is also one of the main factors contributing to the <a class=\"narrative-ref\" href=\"#NW21\" target=\"_blank\">gender pay gap</a> (see figure IV). Policies are being implemented to achieve gender equality in the workplace, including the adoption of a plan to promote the transition of working from non-regular to regular employment, the facilitation of <a class=\"narrative-ref\" href=\"#NW24\" target=\"_blank\">maternity and care leave</a> and the prevention of sexual harassment in the work place.</p>\n",
+                    "content": "<p>While non-regular employment allows women to adopt a flexible working style, it is also one of the main factors contributing to the <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/733303cb424641cf9f3ae89ea97874d2#NW21\" target=\"_blank\">gender pay gap</a> (see figure IV). Policies are being implemented to achieve gender equality in the workplace, including the adoption of a plan to promote the transition of working from non-regular to regular employment, the facilitation of <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/85520f09c5d747f4b9c4ec858155f1ce#NW24\" target=\"_blank\">maternity and care leave</a> and the prevention of sexual harassment in the work place.</p>\n",
                     "contentActions": [],
                     "creaDate": 1603045714423,
                     "pubDate": 1603045714423,
@@ -185,7 +185,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
                     "content": "<div class=\"references\">\n<h1>Sources</h1>\n<ul>\n<li><a href=\"http://www.gender.go.jp/english_contents/pr_act/pub/pamphlet/women-and-men20/index.html\" target=\"_blank\">Government of Japan, Gender Equality Bureau, Women and Men in Japan 2020, Tokyo, 2020</a></li>\n<li><a href=\"http://www.gender.go.jp/english_contents/index.html\" target=\"_blank\">Government of Japan, Gender Equality Bureau, White paper on gender equality 2019, Tokyo, June 2019</a></li>\n<li><a href=\"https://www.stat.go.jp/english/data/roudou/\" target=\"_blank\">Government of Japan, Statistics Bureau of Japan, Labour Force Survey, Tokyo, 2018</a></li>\n</ul>\n</div>\n",
                     "contentActions": [],
                     "creaDate": 1603045905133,

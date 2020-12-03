@@ -107,8 +107,8 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:28px\"><strong>Current situation</strong></span>",
-                    "content": "<p>Globally, an increasing number of companies are using 30% as the gender balance target on corporate boards, following initiatives such as the \u201c30% Club\u201d, a campaign promoting greater female representation on corporate boards launched in the United Kingdom of Great Britain and Northern Ireland in 2010.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598609558915\" data-storymaps-type=\"navigate\">1</a></span> Furthermore, in 2010, the European Commission suggested legislative action to set a gender target on boards, proposing a target of 40% of women\u2019s representation on corporate boards in 2012.</p>\n\n<p>In 2019, the highest percentage of female board members in the largest publicly listed companies in the <span class=\"label-ref\">European Union</span> was found in France (45.3%), the only country reaching the 40% target suggested by the European Commission. Four other countries exceeded 35%, Sweden (37.5%), Italy (36.1%), Belgium (35.9%) and Germany (35.6%), with the latter three also surpassing their legislative quota targets. Overall, a total of 11 countries out of the 28 countries in the European Union (39%) had over 30% of women as board members of their largest publicly listed companies. Nevertheless, in 12 countries, women constituted less than a fifth of board members, and in 3 countries they represented less than 10% of board members: Cyprus (9.1%), Estonia (9.4%) and Malta (10%) (see figure I).</p>\n",
+                    "title": "<span style=\"font-size:28px;\"><strong>Current situation</strong></span>",
+                    "content": "<p>Globally, an increasing number of companies are using 30% as the gender balance target on corporate boards, following initiatives such as the \u201c30% Club\u201d, a campaign promoting greater female representation on corporate boards launched in the United Kingdom of Great Britain and Northern Ireland in 2010.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598609558915\" data-storymaps-type=\"navigate\">1</a></span> Furthermore, in 2010, the European Commission suggested legislative action to set a gender target on boards, proposing a target of 40% of women\u2019s representation on corporate boards in 2012.</p>\n<p>In 2019, the highest percentage of female board members in the largest publicly listed companies in the <span class=\"label-ref\">European Union</span> was found in France (45.3%), the only country reaching the 40% target suggested by the European Commission. Four other countries exceeded 35%, Sweden (37.5%), Italy (36.1%), Belgium (35.9%) and Germany (35.6%), with the latter three also surpassing their legislative quota targets. Overall, a total of 11 countries out of the 28 countries in the European Union (39%) had over 30% of women as board members of their largest publicly listed companies. Nevertheless, in 12 countries, women constituted less than a fifth of board members, and in 3 countries they represented less than 10% of board members: Cyprus (9.1%), Estonia (9.4%) and Malta (10%) (see figure I).</p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609558915",
@@ -131,16 +131,16 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Legislative quotas can be strong drivers for gender balance in boardrooms</span>",
+                    "title": "<span style=\"font-size:26px\">Legislative quotas can be strong drivers for gender balance in boardrooms</span>",
                     "content": "<p>Government intervention has proven to be an effective method for improving gender diversity on corporate boards. Before 2010, the proportion of women on the boards of the largest listed companies in the countries of the <span class=\"label-ref\">European Union</span> was steady. In 2010, the European Commission recommended the adoption of legislative action to set a gender target on boards. Since 2010, the average proportion of women on the boards of the largest listed companies has doubled, from 11.9% in 2010, to 28.8% in 2019.</p>\n<p>Of the 11 countries with over 30% of female board members, five had implemented legislative quotas. The proportion of women on boards has gone up by 25.8% in the five countries with legislative quotas compared to a 16.9% overall increase in the 28 countries of the European Union. This difference is striking when compared to countries without quotas or that have taken no action at all, where there was only a 4.1% increase in women\u2019s representation over the same nine-year period. Less dramatic improvements have been observed in countries using soft measures, or non-binding quotas, where women\u2019s representation on boards increased by 13.2% over the same time period (see figure II).</p>\n",
                     "contentActions": [],
-                    "creaDate": 1598574540039,
-                    "pubDate": 1598574540039,
+                    "creaDate": 1603119746977,
+                    "pubDate": 1603119746977,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
                         "webpage": {
-                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/nd2-fig2",
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd2-graph-2",
                             "type": "webpage",
                             "altText": "",
                             "display": "stretch",
@@ -168,13 +168,13 @@
                             "index": 10
                         }
                     ],
-                    "creaDate": 1598609652152,
-                    "pubDate": 1598609652152,
+                    "creaDate": 1603119787291,
+                    "pubDate": 1603119787291,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
                         "webpage": {
-                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/nd2-fig3",
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd2-graph-3",
                             "type": "webpage",
                             "altText": "",
                             "display": "stretch",
@@ -421,6 +421,6 @@
     },
     "_ssl": null,
     "annotations_unsd": {
-        "narrative_id": "ND2"
+        "narrative_id": "Women"
     }
 }

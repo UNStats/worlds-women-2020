@@ -190,7 +190,7 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px\">&nbsp;</span>",
-                    "content": "<p>In 2019, the highest proportion of young women not in education, employment or training was in countries in <span class=\"label-ref\">Southern Asia</span> (48.7%), where the unemployment rate for women aged 15\u201324 stood at 18.4%, similar to the overall youth unemployment rate of 18.8%. The relatively much higher prevalence of NEET than unemployment among young women in Southern Asia may indicate a level of discouragement about entering into and participating in the labour market.</p>\n<p>Discriminatory <a class=\"narrative-ref\" href=\"#NW8\" target=\"_blank\">social norms</a> and <a class=\"narrative-ref\" href=\"#NW11\" target=\"_blank\">legal barriers</a> are likely to contribute to the youth NEET rate, preventing young women, in particular, from increasing their future employability by gaining experience through employment or honing their skills through education or training.</p>\n",
+                    "content": "<p>In 2019, the highest proportion of young women not in education, employment or training was in countries in <span class=\"label-ref\">Southern Asia</span> (48.7%), where the unemployment rate for women aged 15\u201324 stood at 18.4%, similar to the overall youth unemployment rate of 18.8%. The relatively much higher prevalence of NEET than unemployment among young women in Southern Asia may indicate a level of discouragement about entering into and participating in the labour market.</p>\n<p>Discriminatory <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/247cc2188f2146beacad35ef94ccf7fa#NW8\" target=\"_blank\">social norms</a> and <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/4b31b21a4ccb41558b6f140a2327d225#NW11\" target=\"_blank\">legal barriers</a> are likely to contribute to the youth NEET rate, preventing young women, in particular, from increasing their future employability by gaining experience through employment or honing their skills through education or training.</p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609674534",
@@ -417,6 +417,6 @@
     },
     "_ssl": null,
     "annotations_unsd": {
-        "narrative_id": "NW18"
+        "narrative_id": "Youth"
     }
 }

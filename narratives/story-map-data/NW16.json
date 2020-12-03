@@ -107,7 +107,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:28px\">There is a gender gap in time use in Colombia</span>",
+                    "title": "<span style=\"font-size:28px;\">There is a gender gap in time use in Colombia</span>",
                     "content": "<p>In 2017, the <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/6f02cbbfb8d34cb7806d21f4bd14e826#NW25\" target=\"_blank\">total workload</a> of women in Colombia was 13 hours and 24 minutes per day, of which 56.5% was dedicated to paid work and 43.5% to unpaid work. The total workload of men was 11 hours and 16 minutes a day, 82% of which corresponded to paid work and 18% to unpaid work. In total, employed women worked 2 hours and 8 minutes more than employed men per day (see figure I).</p>\n",
                     "contentActions": [
                         {
@@ -131,7 +131,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
                     "content": "<p>Similarly, among the working population aged 10 or older, Colombian women worked about 2 hours more than men. Women received remuneration for 51.2% of their total working time, while men were paid for 73.1% of their total working time (see figure II).</p>\n",
                     "contentActions": [],
                     "creaDate": 1603046794729,
@@ -149,7 +149,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
                     "content": "<p>Data indicate that Colombian women have less time available for personal activities, including rest and study, and less paid hours, which affects their economic empowerment, their bargaining power inside the home and their well-being. This gap persists across all age groups (see figure III), resulting in a sexual division of labour<span class=\"footnote-index\">1</span> within households throughout the life cycle.</p>\n",
                     "contentActions": [],
                     "creaDate": 1603046870739,
@@ -167,7 +167,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
                     "content": "<p>This sexual division of labour was also observed by <span class=\"label-ref\">ethnicity</span> (see figure IV). In the case of Afro-Colombians, the gender gap in unpaid work hours per day (4:17 hours, with women working 7:19 hours and men 3:12) was 11.8% (27 minutes), which was greater than the gender gap observed in the total population (3:49 hours, with women working 7:14 hours and men 3:25).</p>\n<p>Gender gaps in paid work for <span class=\"label-ref\">indigenous persons</span> (1:32 hours, with women working 5:31 hours and men 7:03) and for Afro-Colombians (1:54, with women working 6:54 hours and men 8:48) were similar to the gender gap in paid work in the total population (1:39 hours, with women working 7:35 hours and men 9:14). Nevertheless, among indigenous persons and Afro-Colombians, both men and women spent proportionately less time in paid work than men and women in the total population.</p>\n",
                     "contentActions": [],
                     "creaDate": 1603046905787,
@@ -185,24 +185,25 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">The division of labour between women and men is enabled by cultural norms and traditional gender roles</span>",
-                    "content": "<p>In order to measure perceptions about stereoptypical gender roles among women and men in Colombia, the national Time Use Survey: 2016\u20142017 included five questions containing sexist statements. Understanding the prevalence of rigid gender stereotypes in the population is crucial for the formulation of policies to promote cultural change towards the elimination of <a class=\"narrative-ref\" href=\"#NW8\" target=\"_blank\">harmful social norms and discriminatory attitudes</a>.</p>\n<p>The prevalence of the sexual division of labour is not surprising given than 65% of the population agreed that \u201cWomen are better for domestic work than men\u201d, and more than 35% thought that \u201cA man's duty is to earn money; a woman's duty is to take care of the home and family\u201d. In answers to almost all such questions in the survey, a greater proportion of men than that women agreed with the sexist statements (see table).</p>\n",
+                    "title": "<span style=\"font-size:26px\">The division of labour between women and men is enabled by cultural norms and traditional gender roles</span>",
+                    "content": "<p>In order to measure perceptions about stereoptypical gender roles among women and men in Colombia, the national Time Use Survey: 2016\u20142017 included five questions containing sexist statements. Understanding the prevalence of rigid gender stereotypes in the population is crucial for the formulation of policies to promote cultural change towards the elimination of <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/247cc2188f2146beacad35ef94ccf7fa#NW8\" target=\"_blank\">harmful social norms and discriminatory attitudes</a>.</p>\n<p>The prevalence of the sexual division of labour is not surprising given than 65% of the population agreed that \u201cWomen are better for domestic work than men\u201d, and more than 35% thought that \u201cA man's duty is to earn money; a woman's duty is to take care of the home and family\u201d. In answers to almost all such questions in the survey, a greater proportion of men than that women agreed with the sexist statements (see table).</p>\n",
                     "contentActions": [],
-                    "creaDate": 1602365395580,
-                    "pubDate": 1602365340000,
+                    "creaDate": 1603139501564,
+                    "pubDate": 1603139501564,
                     "status": "PUBLISHED",
                     "media": {
-                        "type": "image",
-                        "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/3cbb3176f1434be9998a51378715e290/resources/Orly%20Winer-elderly__1602351673277__w1200.jpg",
-                            "type": "image",
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw16-table-1",
+                            "type": "webpage",
                             "altText": "",
-                            "display": "fill"
+                            "display": "stretch",
+                            "unload": true
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
                     "content": "<p>Furthermore, <span class=\"label-ref\">elderly</span>\u00a0people and people residing in <span class=\"label-ref\">rural areas</span> tended to be more in agreement with the following statement: \u201cThe head of the home must be the man.\u201d To varying degrees, the proportion of men agreeing with that statement was higher than that of women across all age groups, but the proportion of men in agreement was above 40% in all cases (see figure V).</p>\n",
                     "contentActions": [],
                     "creaDate": 1603046997086,
@@ -220,7 +221,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Decisions about which member of the household engages in unpaid work impact the labour market participation of women and men</span>",
+                    "title": "<span style=\"font-size:26px;\">Decisions about which member of the household engages in unpaid work impact the labour market participation of women and men</span>",
                     "content": "<p>Time is a scarce resource. During the entire period 2009\u20142019, the <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/3cbb3176f1434be9998a51378715e290#NW26\" target=\"_blank\">unemployment rate</a> among women was higher than that of men, and the gender gap was measured, at its lowest, at 4.9 percentage points during the period 2014\u20142016. The overall unemployment rate among women did not fall into a single-digit number range during the entire period 2009\u20142019 (see figure VI).</p>\n",
                     "contentActions": [],
                     "creaDate": 1603047085474,
@@ -238,7 +239,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
                     "content": "<p>Against this backdrop, <span class=\"label-ref\">younger women</span> and women with middle level education were more affected by unemployment compared to men. Women have a higher unemployment rate than men across all levels of education, although, in 2019, the rate dropped to 5.5% for women with postgraduate education (see figure VII).</p>\n",
                     "contentActions": [],
                     "creaDate": 1603047112581,
@@ -256,7 +257,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
                     "content": "<p>Women aged 18\u201424 were most affected by unemployment, and that age group was also the one with the most significant gender gap against women in the rate of unemployment (see figure VIII).</p>\n",
                     "contentActions": [],
                     "creaDate": 1603047137367,

@@ -59,7 +59,7 @@
             "storage": "WEBAPP",
             "sections": [
                 {
-                    "title": "<p><span style=\"color:#FF8C00\"><span style=\"font-size:18px\"><strong>Violence</strong></span></span><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>&nbsp;against women and the girl child</strong></span></span></p>\n",
+                    "title": "<p><span style=\"color:#FF8C00;\"><span style=\"font-size:18px;\"><strong>Violence</strong></span></span><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>&nbsp;against women and the girl child</strong></span></span></p>\n",
                     "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Sexual violence by non-intimate partners</div>\n",
                     "contentActions": [],
                     "creaDate": 1603055477478,
@@ -83,8 +83,8 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Key points</span>",
-                    "content": "<ul class=\"key-points\">\n\t<li>Worldwide, 7% of women have experienced sexual violence by a non-partner since age 15</li>\n\t<li>Most sexual violence is perpetrated by a person known by the victim. While 49% of women who have experienced sexual violence since age 15 reported that the perpetrator was their current husband or partner, 6% reported that the perpetrator was a stranger. Friends or acquaintances were reported as perpetrators by 5% of the women.</li>\n\t<li>In 14 out of 46 countries with data, between 1% and 5% of women aged 20-29 reported experiencing sexual violence perpetrated by a non-partner since age 15. In the remaining countries the rate was less than 1%.</li>\n\t<li>International estimates on non-partner violence \u201cin the previous 12 months\u201d are being produced for the first time. Recent national estimates point to a risk of sexual violence by non-partners as being between 0.1 and 3.1%.</li>\n</ul>\n",
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n<li>Worldwide, 7% of women have experienced sexual violence by a non-partner since age 15</li>\n<li>Most sexual violence is perpetrated by a person known by the victim. While 49% of women who have experienced sexual violence since age 15 reported that the perpetrator was their current husband or partner, 6% reported that the perpetrator was a stranger. Friends or acquaintances were reported as perpetrators by 5% of the women.</li>\n<li>In 14 out of 46 countries with data, between 1% and 5% of women aged 20-29 reported experiencing sexual violence perpetrated by a non-partner since age 15. In the remaining countries the rate was less than 1%.</li>\n<li>International estimates on non-partner violence \u201cin the previous 12 months\u201d are being produced for the first time. Recent national estimates point to a risk of sexual violence by non-partners as being between 0.1 and 3.1%.</li>\n</ul>\n",
                     "contentActions": [],
                     "creaDate": 1603055528259,
                     "pubDate": 1603055528259,
@@ -107,17 +107,37 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:28px;\"><strong>Lifetime prevalence</strong></span>",
-                    "content": "<p>Sexual violence can be perpetrated by <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/50dd1b2d6167437693178836261522e6#NV1\" target=\"_blank\">women\u2019s intimate partners</a> or by others. According to WHO estimates in 2013,<span class=\"footnote-index\">1</span> worldwide, 7.2% of women have experienced sexual violence by a non-partner since age 15.</p>\n<p>The majority of sexual violence is committed by intimate partners or someone known to the victim (see figure I). Based on data between 2005 and 2018, of those women who were subjected to sexual violence during their lifetime, almost half (48.6%) were victims of their current husband or partner; almost a quarter (24.2%) experienced violence at the hands of a former husband or partner; and&nbsp;8.2% were victims of their current or former boyfriend. <strong>This suggests that&nbsp;8 out of 10&nbsp;victims were&nbsp;subjected to sexual violence by a&nbsp;current or former intimate partner or boyfriend.</strong></p>\n<p><strong>On average, over 90%<span class=\"footnote-index\">2</span> of women subjected to sexual violence knew the perpetrator (see figure I)</strong>, including 5.3% who reported that the perpetrator was a friend or acquaintance. Conversely, around 10% of women subjected to sexual violence did not know the perpetrator, including 6.3%&nbsp;who explicitly reported that the perpetrator was a stranger.</p>\n<p>Even after excluding current and former intimate partners from the analysis, the majority of women subjected to sexual violence knew their perpetrator. At least 62%<span class=\"footnote-index\">3</span> of non-partner sexual violence is committed by a person known to the victim, while 23%<span class=\"footnote-index\">4</span> of sexual violence is committed by a complete stranger.</p>\n",
+                    "title": "<span style=\"font-size:28px\"><strong>Lifetime prevalence</strong></span>",
+                    "content": "<p>Sexual violence can be perpetrated by <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/50dd1b2d6167437693178836261522e6#NV1\" target=\"_blank\">women\u2019s intimate partners</a> or by others. According to WHO estimates in 2013,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1603110471888\" data-storymaps-type=\"navigate\">1</a></span> worldwide, 7.2% of women have experienced sexual violence by a non-partner since age 15.</p>\n<p>The majority of sexual violence is committed by intimate partners or someone known to the victim (see figure I). Based on data between 2005 and 2018, of those women who were subjected to sexual violence during their lifetime, almost half (48.6%) were victims of their current husband or partner; almost a quarter (24.2%) experienced violence at the hands of a former husband or partner; and\u00a08.2% were victims of their current or former boyfriend. <strong>This suggests that\u00a08 out of 10\u00a0victims were\u00a0subjected to sexual violence by a\u00a0current or former intimate partner or boyfriend.</strong></p>\n<p><strong>On average, over 90%<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1603110483455\" data-storymaps-type=\"navigate\">2</a></span> of women subjected to sexual violence knew the perpetrator (see figure I)</strong>, including 5.3% who reported that the perpetrator was a friend or acquaintance. Conversely, around 10% of women subjected to sexual violence did not know the perpetrator, including 6.3%\u00a0who explicitly reported that the perpetrator was a stranger.</p>\n<p>Even after excluding current and former intimate partners from the analysis, the majority of women subjected to sexual violence knew their perpetrator. At least 62%<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1603110494666\" data-storymaps-type=\"navigate\">3</a></span> of non-partner sexual violence is committed by a person known to the victim, while 23%<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1603110501692\" data-storymaps-type=\"navigate\">4</a></span> of sexual violence is committed by a complete stranger.</p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598603710821",
                             "type": "navigate",
                             "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1603110471888",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1603110483455",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1603110494666",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1603110501692",
+                            "type": "navigate",
+                            "index": 7
                         }
                     ],
-                    "creaDate": 1602516678390,
-                    "pubDate": 1602516678390,
+                    "creaDate": 1603110502424,
+                    "pubDate": 1603110502424,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -131,11 +151,32 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Prevalence in the past 12 months in selected countries</span>",
-                    "content": "<p>In reporting on sexual violence in the previous 12 months in eight countries in Eastern and South Eastern Europe participating in the 2019 Organization for Security and Cooperation in Europe OSCE-led Survey on Violence against Women,<span class=\"footnote-index\">5</span> 0.8% of women reported sexual violence by a non-partner during the previous 12 months. Country estimates ranged from 0.1% in North Macedonia to 1.0% in Ukraine.<span class=\"footnote-index\">6</span></p>\n<p>In general, data availability on sexual violence is higher for dedicated studies on intimate partner violence. However, in recent years, several national statistical offices<span class=\"footnote-index\">7</span> have conducted surveys of violence against women and produced estimated rates of sexual violence perpetrated by non-partners. For example, results from a personal safety survey carried out in Australia in 2016 found that 1.8% of women had experienced sexual violence by a non-partner in the past 12 months, and the 2017 national study on gender-based violence in Mongolia pointed to a proportion of 3.1%.</p>\n<p>When looking at sexual violence by age group it is clear that <span class=\"label-ref\">younger women</span> face a greater risk of sexual assault. According to data from justice systems and rape crisis centres in Chile, Malaysia, Mexico, Papua New Guinea, Peru and the United States of America, the incidence of certain forms of sexual violence is closely associated with the age of the victim, in particular violence taking place in schools and colleges.<span class=\"footnote-index\">8</span> The proportion of women aged 20\u201329 who have ever experienced sexual violence by a non-partner since age 15 is an important indicator of non-partner sexual violence.</p>\n<p>In the 46 countries for which data are available (see figure II), the proportion of women aged 20\u201329 who have experienced sexual violence perpetrated by someone other than an intimate partner since age 15 ranged from less than 1% in Tajikistan (2014) and Kyrgyzstan (2015) to 4.8% in <span class=\"label-ref\">Colombia</span> (2016).</p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602517639912,
-                    "pubDate": 1602517639912,
+                    "title": "<span style=\"font-size:26px\">Prevalence in the past 12 months in selected countries</span>",
+                    "content": "<p>In reporting on sexual violence in the previous 12 months in eight countries in Eastern and South Eastern Europe participating in the 2019 Organization for Security and Cooperation in Europe OSCE-led Survey on Violence against Women,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1603110579325\" data-storymaps-type=\"navigate\">5</a></span> 0.8% of women reported sexual violence by a non-partner during the previous 12 months. Country estimates ranged from 0.1% in North Macedonia to 1.0% in Ukraine.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1603110585830\" data-storymaps-type=\"navigate\">6</a></span></p>\n<p>In general, data availability on sexual violence is higher for dedicated studies on intimate partner violence. However, in recent years, several national statistical offices<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1603110593182\" data-storymaps-type=\"navigate\">7</a></span> have conducted surveys of violence against women and produced estimated rates of sexual violence perpetrated by non-partners. For example, results from a personal safety survey carried out in Australia in 2016 found that 1.8% of women had experienced sexual violence by a non-partner in the past 12 months, and the 2017 national study on gender-based violence in Mongolia pointed to a proportion of 3.1%.</p>\n<p>When looking at sexual violence by age group it is clear that <span class=\"label-ref\">younger women</span> face a greater risk of sexual assault. According to data from justice systems and rape crisis centres in Chile, Malaysia, Mexico, Papua New Guinea, Peru and the United States of America, the incidence of certain forms of sexual violence is closely associated with the age of the victim, in particular violence taking place in schools and colleges.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1603110607845\" data-storymaps-type=\"navigate\">8</a></span> The proportion of women aged 20\u201329 who have ever experienced sexual violence by a non-partner since age 15 is an important indicator of non-partner sexual violence.</p>\n<p>In the 46 countries for which data are available (see figure II), the proportion of women aged 20\u201329 who have experienced sexual violence perpetrated by someone other than an intimate partner since age 15 ranged from less than 1% in Tajikistan (2014) and Kyrgyzstan (2015) to 4.8% in <span class=\"label-ref\">Colombia</span> (2016).</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1603110579325",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1603110585830",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1603110593182",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1603110607845",
+                            "type": "navigate",
+                            "index": 7
+                        }
+                    ],
+                    "creaDate": 1603110613696,
+                    "pubDate": 1603110613696,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -197,11 +238,22 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<ul>\n<li><span class=\"concept\">Sexual violence</span>: <span class=\"availability\">Any sort of harmful or unwanted sexual behaviour, including acts of abusive sexual contact, forced engagement in sexual acts, attempted or completed sexual acts without consent, incest and sexual harassment. </span></li>\n</ul>\n<div class=\"methodology-availability\">\n<ul>\n<li><span class=\"concept\">Non-partner sexual violence</span>: <span class=\"availability\">For the purpose of the analysis of non-partner sexual violence, non-partner sexual violence covers violence committed by someone other than current or former husbands, partners or boyfriends. The analysis also focuses on whether or not the perpetrator is known to the victim. Far fewer countries have measured non-partner sexual violence in the preceding 12 months compared with sexual violence since age 15.</span></li>\n<li><span class=\"concept\">Prevalence of non-partner violence</span>: <span class=\"availability\">The World Health Organization (WHO) defines the prevalence of non-partner violence as the \u201cpercentage of women in a given population who have ever experienced sexual violence by someone other than a partner\u201d.<span class=\"footnote-index\">9</span> </span></li>\n<li><span class=\"availability\">The Demographic and Health Surveys programme has an indicator on the percentage of women who have ever experienced sexual violence and an additional indicator showing the percentage of women who have experienced sexual violence committed </span>by, inter alia: current husbands or partners; former husbands or partners; current or former boyfriends; fathers or stepfathers<span class=\"availability\">; brother or stepbrothers; in-laws; own friends or acquaintances; family friends; an employer or someone at work; a stranger; or other.<span class=\"footnote-index\">10 </span></span></li>\n<li><span lang=\"EN-US\">For the purpose of the analysis of DHS data on </span><span lang=\"EN-US\">non-partner sexual violence, non-partner sexual violence covers violence committed by someone other than current or former husbands, partners or boyfriends. The analysis also focuses on whether or not the perpetrator is known to the victim.</span></li>\n<li><span lang=\"EN-US\">Far fewer countries have measured non-partner sexual violence in the preceding 12 months compared with sexual violence since age 15. </span></li>\n</ul>\n<div>\n<div>\n<div>\n<p>&nbsp;</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
-                    "contentActions": [],
-                    "creaDate": 1602964765755,
-                    "pubDate": 1602964765755,
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<ul>\n<li><span class=\"concept\">Sexual violence</span>: <span class=\"availability\">Any sort of harmful or unwanted sexual behaviour, including acts of abusive sexual contact, forced engagement in sexual acts, attempted or completed sexual acts without consent, incest and sexual harassment. </span></li>\n</ul>\n<div class=\"methodology-availability\">\n<ul>\n<li><span class=\"concept\">Non-partner sexual violence</span>: <span class=\"availability\">For the purpose of the analysis of non-partner sexual violence, non-partner sexual violence covers violence committed by someone other than current or former husbands, partners or boyfriends. The analysis also focuses on whether or not the perpetrator is known to the victim. Far fewer countries have measured non-partner sexual violence in the preceding 12 months compared with sexual violence since age 15.</span></li>\n<li><span class=\"concept\">Prevalence of non-partner violence</span>: <span class=\"availability\">The World Health Organization (WHO) defines the prevalence of non-partner violence as the \u201cpercentage of women in a given population who have ever experienced sexual violence by someone other than a partner\u201d.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1603110687866\" data-storymaps-type=\"navigate\">9</a></span> </span></li>\n<li><span class=\"availability\">The Demographic and Health Surveys programme has an indicator on the percentage of women who have ever experienced sexual violence and an additional indicator showing the percentage of women who have experienced sexual violence committed </span>by, inter alia: current husbands or partners; former husbands or partners; current or former boyfriends; fathers or stepfathers<span class=\"availability\">; brother or stepbrothers; in-laws; own friends or acquaintances; family friends; an employer or someone at work; a stranger; or other.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1603110693966\" data-storymaps-type=\"navigate\">10</a> </span></span></li>\n<li><span lang=\"EN-US\">For the purpose of the analysis of DHS data on </span><span lang=\"EN-US\">non-partner sexual violence, non-partner sexual violence covers violence committed by someone other than current or former husbands, partners or boyfriends. The analysis also focuses on whether or not the perpetrator is known to the victim.</span></li>\n<li><span lang=\"EN-US\">Far fewer countries have measured non-partner sexual violence in the preceding 12 months compared with sexual violence since age 15. </span></li>\n</ul>\n<div>\n<div>\n<div>\n<p>\u00a0</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1603110687866",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1603110693966",
+                            "type": "navigate",
+                            "index": 7
+                        }
+                    ],
+                    "creaDate": 1603110694740,
+                    "pubDate": 1603110694740,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -209,20 +261,13 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/e4db21be88f5489db915cc75d14c8fde/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602964762127__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1602964762127__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/e4db21be88f5489db915cc75d14c8fde/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602964762127__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"https://apps.who.int/gho/data/view.main.NPSVWHOINCOME?lang=en\" target=\"_blank\">WHO, Global Health Observatory (data repository), Non-partner sexual violence prevalence</a> and <a href=\"https://www.who.int/gho/women_and_health/violence/non_partner_sexual_text/en/\" target=\"_blank\">WHO, Global Health Observatory (data repository), Non-partner sexual violence</a>. (\u21e1 back to text)</li>\n<li>Assuming \u201cpriest/religious leader, police/soldier other perpetrator\u201d are unknown to the victim. (\u21e1 back to text)</li>\n<li>Includes friends, relatives and in-laws, teachers and/or someone at work. (\u21e1 back to text)</li>\n<li>Violence committed by persons other than current husbands/partners, former husbands/partners and/or current/former boyfriends. (\u21e1 back to text)</li>\n<li>Albania, Bosnia and Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia, the Republic of Moldova and Ukraine. (\u21e1 back to text)</li>\n<li><a href=\"https://www.osce.org/files/f/documents/9/2/413237_0.pdf\" target=\"_blank\">Organization for Security and Cooperation in Europe (OSCE), OSCE-led Survey on Violence against Women: Well-Being and Safety of Women, annex 6, 2019</a> (accessed on 27 July 2020). (\u21e1 back to text)</li>\n<li>Including national statistical offices in Australia (2016), Mongolia (2017), Mexico (2016), Trinidad and Tobago (2017) and the Philippines (2017). Other countries have also produced older estimates of \u201cnon-partner sexual violence in the past 12 months\u201d in conjunction with their national statistics offices (including Laos (1.0%, 2014) and Bangladesh (0.8%, 2011)). (\u21e1 back to text)</li>\n<li><a href=\"https://www.who.int/violence_injury_prevention/violence/global_campaign/en/chap6.pdf?ua=1\" target=\"_blank\">WHO, World report on violence and health, chapter six, Geneva,2002</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.who.int/data/gho/indicator-metadata-registry/imr-details/3686\" target=\"_blank\">World Health Organization (WHO), Global Health Observatory, (data repository), Non-partner sexual violence prevalence</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://dhsprogram.com/data/Guide-to-DHS-Statistics/Persons_Committing_Sexual_Violence.htm\" target=\"_blank\">Demographic and Health Surveys (DHS-7), Guide to DHS Statistics DHS-7, Persons committing sexual violence</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"https://apps.who.int/gho/data/view.main.NPSVWHOINCOME?lang=en\" target=\"_blank\">WHO, Global Health Observatory (data repository), Non-partner sexual violence prevalence</a> and <a href=\"https://www.who.int/gho/women_and_health/violence/non_partner_sexual_text/en/\" target=\"_blank\">WHO, Global Health Observatory (data repository), Non-partner sexual violence</a>. (<a data-storymaps=\"MJ-ACTION-1603110528973\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li>Assuming \u201cpriest/religious leader, police/soldier other perpetrator\u201d are unknown to the victim. (<a data-storymaps=\"MJ-ACTION-1603110536238\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li>Includes friends, relatives and in-laws, teachers and/or someone at work. (<a data-storymaps=\"MJ-ACTION-1603110544964\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li>Violence committed by persons other than current husbands/partners, former husbands/partners and/or current/former boyfriends. (<a data-storymaps=\"MJ-ACTION-1603110555904\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li>Albania, Bosnia and Herzegovina, Kosovo, North Macedonia, Montenegro, Serbia, the Republic of Moldova and Ukraine. (<a data-storymaps=\"MJ-ACTION-1603110631762\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li><a href=\"https://www.osce.org/files/f/documents/9/2/413237_0.pdf\" target=\"_blank\">Organization for Security and Cooperation in Europe (OSCE), OSCE-led Survey on Violence against Women: Well-Being and Safety of Women, annex 6, 2019</a> (accessed on 27 July 2020). (<a data-storymaps=\"MJ-ACTION-1603110640176\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li>Including national statistical offices in Australia (2016), Mongolia (2017), Mexico (2016), Trinidad and Tobago (2017) and the Philippines (2017). Other countries have also produced older estimates of \u201cnon-partner sexual violence in the past 12 months\u201d in conjunction with their national statistics offices (including Laos (1.0%, 2014) and Bangladesh (0.8%, 2011)). (<a data-storymaps=\"MJ-ACTION-1603110650763\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li><a href=\"https://www.who.int/violence_injury_prevention/violence/global_campaign/en/chap6.pdf?ua=1\" target=\"_blank\">WHO, World report on violence and health, chapter six, Geneva,2002</a>. (<a data-storymaps=\"MJ-ACTION-1603110658913\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li><a href=\"https://www.who.int/data/gho/indicator-metadata-registry/imr-details/3686\" target=\"_blank\">World Health Organization (WHO), Global Health Observatory, (data repository), Non-partner sexual violence prevalence</a>. (<a data-storymaps=\"MJ-ACTION-1603110708463\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li><a href=\"https://dhsprogram.com/data/Guide-to-DHS-Statistics/Persons_Committing_Sexual_Violence.htm\" target=\"_blank\">Demographic and Health Surveys (DHS-7), Guide to DHS Statistics DHS-7, Persons committing sexual violence</a>. (<a data-storymaps=\"MJ-ACTION-1603110716272\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n</ol>\n</div>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598603509488",
@@ -273,10 +318,60 @@
                             "id": "MJ-ACTION-1598605681508",
                             "type": "navigate",
                             "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1603110528973",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1603110536238",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1603110544964",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1603110555904",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1603110631762",
+                            "type": "navigate",
+                            "index": 3
+                        },
+                        {
+                            "id": "MJ-ACTION-1603110640176",
+                            "type": "navigate",
+                            "index": 3
+                        },
+                        {
+                            "id": "MJ-ACTION-1603110650763",
+                            "type": "navigate",
+                            "index": 3
+                        },
+                        {
+                            "id": "MJ-ACTION-1603110658913",
+                            "type": "navigate",
+                            "index": 3
+                        },
+                        {
+                            "id": "MJ-ACTION-1603110708463",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1603110716272",
+                            "type": "navigate",
+                            "index": 6
                         }
                     ],
-                    "creaDate": 1602964727902,
-                    "pubDate": 1602964727902,
+                    "creaDate": 1603110716920,
+                    "pubDate": 1603110716920,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -284,13 +379,6 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/e4db21be88f5489db915cc75d14c8fde/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602964725242__w1800.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602964725242__w1800.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/e4db21be88f5489db915cc75d14c8fde/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602964725242__w1800.jpg",
-                                    "width": 1800
-                                }
-                            ],
                             "display": "fill"
                         }
                     }

@@ -83,7 +83,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Key points</span>",
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
                     "content": "<ul class=\"key-points\">\n<li>At the global level, girls and boys are equally likely to be enrolled in primary education, although fewer girls than boys participate in primary education in Oceania (excluding Australia and New Zealand) and Western Asia, and to a minor extent in sub-Saharan Africa; in Southern Asia more girls than boys participate in primary education.</li>\n<li>There has been substantial progress towards gender parity in regions with\u00a0the widest gender disparities in favour of boys in 1990. Southern Asia, in particular, has recorded a significant increase in GPI (from 0.75 to 1.07).</li>\n<li>The gender gap in secondary education has closed in most regions over the period 1990\u20142018, although girls are still less likely than boys to enrol in secondary school in sub-Saharan Africa, Western Asia and Oceania (excluding Australia and New Zealand).</li>\n<li>Gender disparities at the secondary level of education are wider than those at the primary level.</li>\n<li>Gender disparities in tertiary education have shifted from a male to a female advantage across the world and in most regions over the period 1990\u20142018.</li>\n</ul>\n",
                     "contentActions": [],
                     "creaDate": 1602816099645,
@@ -165,8 +165,8 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Gender parity index of the gross enrolment ratios in secondary education</span>",
-                    "content": "<p><strong>The gender gap in secondary education has closed in most regions</strong></p>\n<p>The gender gap in the global gross enrolment ratios for girls and boys in <a class=\"narrative-ref\" href=\"#NE9\" target=\"_blank\">secondary education</a> has narrowed steadily during the period 1990\u20142018. The GPI based on gross enrolment ratios in secondary education rose from a value of 0.84 in 1990 to 0.99 in 2018, confirming that the gender gap at the secondary level of education has closed at the global level (see figure II).</p>\n<p>Despite the gains made over the past three decades, girls are still less likely than boys to enrol in secondary school in <span class=\"label-ref\">sub-Saharan Africa</span> (where GPI was 0.88 in 2018), Western Asia (0.90) and <span class=\"label-ref\">Oceania</span> (excluding Australia and New Zealand) (0.82), all regions with low overall enrolment ratios for both girls and boys. In , where the GPI was low in 1990 (0.59), the gender gap has been closed at the fastest rate over the period 1990\u20142018 (the GPI in 2018 was 1.00). In regions with higher overall secondary enrolment ratios, such as <span class=\"label-ref\">Latin America and the Caribbean</span> (where the GPI was 1.04 in 2018), gender-based disparities favour girls. Northern America and Europe and Central Asia are the only regions that have achieved and maintained equal access to secondary education for both girls and boys throughout the period 1990\u20142018.</p>\n",
+                    "title": "<span style=\"font-size:26px\">Gender parity index of the gross enrolment ratios in secondary education</span>",
+                    "content": "<p><strong>The gender gap in secondary education has closed in most regions</strong></p>\n<p>The gender gap in the global gross enrolment ratios for girls and boys in <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/c4c41eff64624689abe8b2bfe170f93e#NE9\" target=\"_blank\">secondary education</a> has narrowed steadily during the period 1990\u20142018. The GPI based on gross enrolment ratios in secondary education rose from a value of 0.84 in 1990 to 0.99 in 2018, confirming that the gender gap at the secondary level of education has closed at the global level (see figure II).</p>\n<p>Despite the gains made over the past three decades, girls are still less likely than boys to enrol in secondary school in <span class=\"label-ref\">sub-Saharan Africa</span> (where GPI was 0.88 in 2018), Western Asia (0.90) and <span class=\"label-ref\">Oceania</span> (excluding Australia and New Zealand) (0.82), all regions with low overall enrolment ratios for both girls and boys. In Southern Asia, where the GPI was low in 1990 (0.59), the gender gap has been closed at the fastest rate over the period 1990\u20142018 (the GPI in 2018 was 1.00). In regions with higher overall secondary enrolment ratios, such as <span class=\"label-ref\">Latin America and the Caribbean</span> (where the GPI was 1.04 in 2018), gender-based disparities favour girls. Northern America and Europe and Central Asia are the only regions that have achieved and maintained equal access to secondary education for both girls and boys throughout the period 1990\u20142018.</p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609674534",
@@ -174,8 +174,8 @@
                             "index": -1
                         }
                     ],
-                    "creaDate": 1602676608925,
-                    "pubDate": 1602676608925,
+                    "creaDate": 1604934250483,
+                    "pubDate": 1604934250483,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",

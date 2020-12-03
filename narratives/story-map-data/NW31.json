@@ -59,22 +59,22 @@
             "storage": "WEBAPP",
             "sections": [
                 {
-                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n",
-                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Switzerland: employment models in couple households</div>\n",
+                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Economic empowerment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Switzerland: employment models in couple households</div>\n",
                     "contentActions": [],
-                    "creaDate": 1602484642608,
-                    "pubDate": 1602484642608,
+                    "creaDate": 1603142914890,
+                    "pubDate": 1603142914890,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
                         "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/2bb9274fcdb84ff781d49734e814f03f/resources/junho-9Zojqxf1RMg-unsplash-couple%20on%20park%20bench__1602484306225__w1200.jpg",
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/2bb9274fcdb84ff781d49734e814f03f/resources/hansjorg-keller-hwTZ7_NUSZ8-unsplash__1603142912720__w1200.jpg",
                             "type": "image",
                             "altText": "",
                             "sizes": [
                                 {
-                                    "name": "junho-9Zojqxf1RMg-unsplash-couple on park bench__1602484306225__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/2bb9274fcdb84ff781d49734e814f03f/resources/junho-9Zojqxf1RMg-unsplash-couple%20on%20park%20bench__1602484306225__w1200.jpg",
+                                    "name": "hansjorg-keller-hwTZ7_NUSZ8-unsplash__1603142912720__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/2bb9274fcdb84ff781d49734e814f03f/resources/hansjorg-keller-hwTZ7_NUSZ8-unsplash__1603142912720__w1200.jpg",
                                     "width": 1200
                                 }
                             ],
@@ -149,7 +149,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
                     "content": "<div class=\"references\">\n<h1>Sources</h1>\n<ul>\n<li><a href=\"https://www.bfs.admin.ch/bfs/en/home/statistics/economic-social-situation-population/gender-equality.assetdetail.8288362.html\" target=\"_blank\">Government of Switzerland, Federal Statistical Office, \u201cOn the way to gender equality - Current situation and developments\u201d, 2019</a></li>\n<li><a href=\"https://www.bfs.admin.ch/bfs/en/home/statistics/economic-social-situation-population/gender-equality/balancing-work-family/employment-couple-housholds.html\" target=\"_blank\">Government of Switzerland, Federal Statistical Office, \u201cEmployment models in couple households\u201d</a></li>\n<li><a href=\"https://w3.unece.org/PXWeb2015/pxweb/en/STAT/STAT__30-GE__98-GE_LifeBalance/00104_en_GELB_Working_Couples_r.px/\" target=\"_blank\">United Nations Economic Commission for Europe, Population and Gender Database, work-life balance, \u201cCouples with both partners aged 25\u201449 by working pattern and age of youngest child\u201d</a></li>\n</ul>\n</div>\n",
                     "contentActions": [],
                     "creaDate": 1603045839961,

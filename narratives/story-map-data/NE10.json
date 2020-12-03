@@ -213,7 +213,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Women in sub-Saharan Africa and Western Asia remain at a disadvantage</span>",
+                    "title": "<span style=\"font-size:26px;\">Women in sub-Saharan Africa and Western Asia remain at a disadvantage</span>",
                     "content": "<p>While women are more represented than men in tertiary education in most regions of the world, the situation is the opposite in <span class=\"label-ref\">sub-Saharan Africa</span> (where the gross enrolment ratio in 2018 was 8% for women and 10% for men). National level data show that the majority of countries with female enrolment ratios of less than 10% are located in sub-Saharan Africa (see figure II), and a few in Western Asia (Afghanistan, Turkmenistan, Uzbekistan and Yemen). While enrolment in tertiary education has historically been low in these regions for both women and men, gender disparities continue to favour men in most countries in sub-Saharan Africa and Western Asia.</p>\n",
                     "contentActions": [
                         {
@@ -253,7 +253,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Methodological challenges: measuring participation in tertiary education</span>",
+                    "title": "<span style=\"font-size:26px\">Methodological challenges: measuring participation in tertiary education</span>",
                     "content": "<p>Unlike primary and secondary education, where the target age groups consist of the official school-age populations, the notion of a target population is not easily applied to tertiary education as there are usually no official ages for attendance. Most tertiary education systems offer a wide range of programmes and pathways, allowing students to achieve a degree in two years or to complete an advanced research degree in seven or eight years. In the light of this variation, the gross enrolment ratio for tertiary education is calculated based on a standard age range of five years, which begins at the end of secondary education.</p>\n<p>The ratio is computed as the total enrolment in tertiary education, regardless of age, expressed as a percentage of the target population made up of the five-year age group following graduation from secondary school. While the gross enrolment ratio in tertiary education is useful for computing the volume of participation in tertiary programmes, it is important to note that there are limitations when comparing the actual population coverage across countries owing to: differences in the duration of tertiary education programmes; the enrolment of large numbers of women and men outside the target age group; and high drop-out rates and frequent re-enrolments.</p>\n",
                     "contentActions": [
                         {
@@ -262,19 +262,19 @@
                             "index": -1
                         }
                     ],
-                    "creaDate": 1602678384288,
-                    "pubDate": 1602678384288,
+                    "creaDate": 1603113863342,
+                    "pubDate": 1603113863342,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
                         "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602500674804__w1200.jpg",
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/photo-1601742638130-f76cbe00ad01__1603113860791__w1200.jpg",
                             "type": "image",
                             "altText": "",
                             "sizes": [
                                 {
-                                    "name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1602500674804__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602500674804__w1200.jpg",
+                                    "name": "photo-1601742638130-f76cbe00ad01__1603113860791__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/photo-1601742638130-f76cbe00ad01__1603113860791__w1200.jpg",
                                     "width": 1200
                                 }
                             ],

@@ -83,7 +83,7 @@
                     }
                 },
                 {
-                    "title": "<strong><span style=\"font-size:26px\">Key points</span></strong>",
+                    "title": "<strong><span style=\"font-size:26px;\">Key points</span></strong>",
                     "content": "<p>During the period from 1998 to 2014, there was a 30 percentage point increase in the proportion of deliveries at health facilities.</p>\n<p>In 1998, <span class=\"label-ref\">younger mothers</span> were more likely than older mothers to deliver their babies with the assistance of skilled health personnel, while by 2014 little difference was recorded by age.</p>\n<p>Overall, wealthier and more educated women and women living in urban areas are more likely to access the services of skilled personnel while giving birth.<br/>\n\u00a0</p>\n",
                     "contentActions": [],
                     "creaDate": 1602980186408,
@@ -149,7 +149,7 @@
                 },
                 {
                     "title": "&nbsp;",
-                    "content": "<p>Despite the introduction of policies to address problems resulting from lack of access to skilled health personnel, some women are falling through the safety net; women who deliver their children at home are less likely to be able to obtain access to skilled care if complications occur <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/f59163868d1d48d59723c8686af8a37b#NV7\" target=\"_blank\">during childbirth</a>.</p>\n<p><strong>Delivering at health facilities ensures skilled care during childbirth.</strong> According to the most recent survey, nearly 3 in 4 births occur at health facilities, primarily public sector health facilities: facility-based births are more common in urban settings (90%) than in rural areas (60%).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598642147708\" data-storymaps-type=\"navigate\">3</a></span> In Ghana, more than a quarter of births occur at home: overall, almost 3 in 4 births are attended by a skilled professional.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598642152931\" data-storymaps-type=\"navigate\">4</a></span></p>\n",
+                    "content": "<p>Despite the introduction of policies to address problems resulting from lack of access to skilled health personnel, some women are falling through the safety net; women who deliver their children at home are less likely to be able to obtain access to skilled care if complications occur <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/3e45b6c8a7ee424380dc7d8514ac43bf#NH7\" target=\"_blank\">during childbirth</a>.</p>\n<p><strong>Delivering at health facilities ensures skilled care during childbirth.</strong> According to the most recent survey, nearly 3 in 4 births occur at health facilities, primarily public sector health facilities: facility-based births are more common in urban settings (90%) than in rural areas (60%).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598642147708\" data-storymaps-type=\"navigate\">3</a></span> In Ghana, more than a quarter of births occur at home: overall, almost 3 in 4 births are attended by a skilled professional.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598642152931\" data-storymaps-type=\"navigate\">4</a></span></p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598642147708",
@@ -162,8 +162,8 @@
                             "index": 12
                         }
                     ],
-                    "creaDate": 1602953788021,
-                    "pubDate": 1602953760000,
+                    "creaDate": 1603121196995,
+                    "pubDate": 1603121196995,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",

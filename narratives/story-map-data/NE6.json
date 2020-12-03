@@ -59,7 +59,7 @@
             "storage": "WEBAPP",
             "sections": [
                 {
-                    "title": "<p><span style=\"font-size:18px\"><strong>Education</strong></span></p>\n",
+                    "title": "<p><span style=\"font-size:18px;\"><strong>Education</strong></span></p>\n",
                     "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">School completion at primary and secondary levels of education</div>\n",
                     "contentActions": [],
                     "creaDate": 1602770911596,
@@ -86,19 +86,19 @@
                     "title": "<span style=\"font-size:26px\">Key points</span>",
                     "content": "<ul class=\"key-points\">\n<li>Gender disparities in school completion rates show different patterns, depending on the level of education and income group.</li>\n<li>Among low-income countries, disparities in school completion, to the disadvantage of girls, are more common at higher levels of education; the converse is true among upper-income, middle-income and high-income countries.</li>\n<li>In upper-income, middle-income and high-income countries, boys are more likely than girls to drop out of school at the upper secondary levels of education as a result of a variety of factors, including poverty, which compels some to choose employment over continued education.</li>\n<li>Among poorer countries, particularly those in sub-Saharan Africa, lower levels of school completion among girls than boys tend to be more common among children from poor households than those from wealthier households, particularly at higher levels of education.</li>\n</ul>\n",
                     "contentActions": [],
-                    "creaDate": 1602770953019,
-                    "pubDate": 1602770953019,
+                    "creaDate": 1603136844646,
+                    "pubDate": 1603136844646,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
                         "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/ef080130f70043aa994ac0a0db8d3610/resources/juan-ramos-EWN0rrwbBIQ-unsplash__1602770951606__w1200.jpg",
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/ef080130f70043aa994ac0a0db8d3610/resources/husniati-salma-ldkHWg5s3Ec-unsplash__1603136843435__w1200.jpg",
                             "type": "image",
                             "altText": "",
                             "sizes": [
                                 {
-                                    "name": "juan-ramos-EWN0rrwbBIQ-unsplash__1602770951606__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/ef080130f70043aa994ac0a0db8d3610/resources/juan-ramos-EWN0rrwbBIQ-unsplash__1602770951606__w1200.jpg",
+                                    "name": "husniati-salma-ldkHWg5s3Ec-unsplash__1603136843435__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/ef080130f70043aa994ac0a0db8d3610/resources/husniati-salma-ldkHWg5s3Ec-unsplash__1603136843435__w1200.jpg",
                                     "width": 1200
                                 }
                             ],
@@ -116,19 +116,19 @@
                             "index": -1
                         }
                     ],
-                    "creaDate": 1602770980840,
-                    "pubDate": 1602770980840,
+                    "creaDate": 1603136819392,
+                    "pubDate": 1603136819392,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
                         "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/ef080130f70043aa994ac0a0db8d3610/resources/mark-rivera-BqjwOoKFBVk-unsplash-woman%20in%20red%20academic%20dress__1602770979322__w1200.jpg",
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/ef080130f70043aa994ac0a0db8d3610/resources/nikhita-s-NsPDiPFTp4c-unsplash__1603136584444__w1200.jpg",
                             "type": "image",
                             "altText": "",
                             "sizes": [
                                 {
-                                    "name": "mark-rivera-BqjwOoKFBVk-unsplash-woman in red academic dress__1602770979322__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/ef080130f70043aa994ac0a0db8d3610/resources/mark-rivera-BqjwOoKFBVk-unsplash-woman%20in%20red%20academic%20dress__1602770979322__w1200.jpg",
+                                    "name": "nikhita-s-NsPDiPFTp4c-unsplash__1603136584444__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/ef080130f70043aa994ac0a0db8d3610/resources/nikhita-s-NsPDiPFTp4c-unsplash__1603136584444__w1200.jpg",
                                     "width": 1200
                                 }
                             ],
@@ -137,7 +137,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Gender disparities differ across income groups and levels of education</span>",
+                    "title": "<span style=\"font-size:26px;\">Gender disparities differ across income groups and levels of education</span>",
                     "content": "<p>Gender differences in completion rates show different patterns, depending on the level of education and country income group (see figure I).</p>\n<p>Among low-income countries (and to a lesser extent lower-income and middle-income countries), the school completion rate for boys is generally higher than for girls\u00a0at higher levels of education. This is indicated by the proportion of countries above the parity line, together with the vertical distance between the observation and the parity line.</p>\n<p>The converse is true among upper-income, middle-income and high-income countries: male and female completion rates are very similar at the primary level, but diverge increasingly, to the disadvantage of boys, at secondary levels of education. In upper-income, middle-income and high-income countries, boys are more likely than girls to drop out of school at the upper secondary levels of education due to a variety of factors, including poverty, which compels some to choose employment over continuing their education.</p>\n",
                     "contentActions": [],
                     "creaDate": 1602770803861,
@@ -204,15 +204,22 @@
                             "index": -1
                         }
                     ],
-                    "creaDate": 1602770718641,
-                    "pubDate": 1602770718641,
+                    "creaDate": 1603136986143,
+                    "pubDate": 1603136986143,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
                         "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/ef080130f70043aa994ac0a0db8d3610/resources/juan-ramos-EWN0rrwbBIQ-unsplash__1602704504989__w600.jpg",
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/ef080130f70043aa994ac0a0db8d3610/resources/alexis-brown--Xv7k95vOFA-unsplash__1603136984419__w1200.jpg",
                             "type": "image",
                             "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "alexis-brown--Xv7k95vOFA-unsplash__1603136984419__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/ef080130f70043aa994ac0a0db8d3610/resources/alexis-brown--Xv7k95vOFA-unsplash__1603136984419__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
                             "display": "fill"
                         }
                     }
@@ -242,7 +249,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
                     "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li><span class=\"concept\">School completion rate</span>: <span class=\"definition\"> Percentage of a cohort of children or young people aged 3\u20135 years above the intended age for the last grade of each level of education who have completed that grade.<span class=\"footnote-index\">3</span> The intended age for the last grade of each level of education is the age at which pupils would enter the grade if they had started school at the official primary entrance age, had studied full-time and had progressed without repeating or skipping a grade. For example, if the official age of entry into primary education is 6 years, and if primary education has 6 grades, the intended age for the last grade of primary education is 11 years old: in this case, 14\u201316 years (11 + 3 = 14 and 11 + 5 = 16) would be the reference age group for the calculation of the primary completion rate.</span></li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Girls and boys aged 3\u20135 years above the intended age for the last grade of: (a) primary; (b) lower secondary; and (c) upper secondary school.</p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>Data are available for: 86 countries at the primary education level; 117 countries at the lower secondary level; and 120 countries at the upper secondary education level (latest available for the period 2013\u20132018).</p>\n</div>\n</div>\n",
                     "contentActions": [
                         {

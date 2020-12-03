@@ -59,7 +59,7 @@
             "storage": "WEBAPP",
             "sections": [
                 {
-                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Education</strong></span></span></p>\n",
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Education</strong></span></span></p>\n",
                     "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Female researchers active in research and development (R&amp;D)</div>\n",
                     "contentActions": [],
                     "creaDate": 1602771680630,
@@ -83,7 +83,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Key points</span>",
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
                     "content": "<ul class=\"key-points\">\n<li>Globally, women researchers constituted only 30% of all researchers.</li>\n<li>The share of women among researchers varies widely across regions, with the highest share of female researchers in countries the Latin America and the Caribbean region. Only three regions, Latin America and the Caribbean, Northern Africa, and Central Asia, have achieved or almost attained gender parity, that is, a share of between 45% and 55% for either sex.</li>\n<li>Gender parity has been achieved only in about one in four countries (of the 148 countries with available data).</li>\n<li>Female researchers tend to work in the academic and government sectors, while male researchers work mainly in the private sector. In general, women researchers are less likely than men to be engaged in fields of research pertaining to engineering and technologies.</li>\n</ul>\n",
                     "contentActions": [],
                     "creaDate": 1602771717051,
@@ -116,21 +116,28 @@
                             "index": -1
                         }
                     ],
-                    "creaDate": 1602771244340,
-                    "pubDate": 1602771244340,
+                    "creaDate": 1603138331261,
+                    "pubDate": 1603138331261,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
                         "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/8d6654cc3155423f9c2b77249b4e670e/resources/science-in-hd-EB78x6KzQjY-unsplash__1602702706789__w600.jpg",
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/8d6654cc3155423f9c2b77249b4e670e/resources/bret-kavanaugh-kGCR2C4R_FQ-unsplash__1603138329211__w1920.jpg",
                             "type": "image",
                             "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "bret-kavanaugh-kGCR2C4R_FQ-unsplash__1603138329211__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/8d6654cc3155423f9c2b77249b4e670e/resources/bret-kavanaugh-kGCR2C4R_FQ-unsplash__1603138329211__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Women constituted only 30% of all researchers worldwide, with wide disparities among regions</span>",
+                    "title": "<span style=\"font-size:26px;\">Women constituted only 30% of all researchers worldwide, with wide disparities among regions</span>",
                     "content": "<p>Globally, women accounted for only 30% of total researchers in 2017 (see figure I).</p>\n<p>The share of women among researchers displayed wide variation across regions, with countries Latin America and the Caribbean having the highest share of women researchers (46% in 2017). The proportion of women researchers was also relatively high in Northern Africa (45%), Central Asia (45%) and South-Eastern Asia (41%). Around one in three researchers was female in Europe and Northern America (35%), Western Asia (33%) and sub-Saharan Africa (31%), exceeding the world average. In contrast, the share of women researchers was the lowest in <span class=\"label-ref\">Southern Asia</span> (23%) and <span class=\"label-ref\">Eastern Asia</span> (21%).</p>\n<p>In the achievement of gender parity, which is defined as a share of between 45% and 55% for either sex, only three regions,\u00a0<span class=\"label-ref\">Latin America and the Caribbean</span>; <span class=\"label-ref\">Northern Africa</span>; and <span class=\"label-ref\">Central Asia,\u00a0</span>have thus far reached this goal.</p>\n",
                     "contentActions": [],
                     "creaDate": 1602771357676,
@@ -191,15 +198,22 @@
                             "index": -1
                         }
                     ],
-                    "creaDate": 1602771449385,
-                    "pubDate": 1602771449385,
+                    "creaDate": 1603138028081,
+                    "pubDate": 1603138028081,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
                         "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/8d6654cc3155423f9c2b77249b4e670e/resources/ani-kolleshi-7jjnJ-QA9fY-unsplash__1602702767509__w600.jpg",
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/8d6654cc3155423f9c2b77249b4e670e/resources/humberto-chavez-FVh_yqLR9eA-unsplash-woman%20standing%20under%20tree__1603138026825__w1200.jpg",
                             "type": "image",
                             "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "humberto-chavez-FVh_yqLR9eA-unsplash-woman standing under tree__1603138026825__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/8d6654cc3155423f9c2b77249b4e670e/resources/humberto-chavez-FVh_yqLR9eA-unsplash-woman%20standing%20under%20tree__1603138026825__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
                             "display": "fill"
                         }
                     }

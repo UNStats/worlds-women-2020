@@ -59,7 +59,7 @@
             "storage": "WEBAPP",
             "sections": [
                 {
-                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Education</strong></span></span></p>\n",
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Education</strong></span></span></p>\n",
                     "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Out-of-school children, adolescents and youth</div>\n",
                     "contentActions": [],
                     "creaDate": 1602767876028,
@@ -83,7 +83,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Key points</span>",
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
                     "content": "<ul class=\"key-points\">\n<li>The global rates for out-of-school children, adolescents and youth show a substantial downward decline across levels of education corresponding to primary, lower secondary and upper secondary education.</li>\n<li>Global trends show that the world is moving towards greater gender parity in out-of-school rates, although inequalities at the primary school level persist (9% for girls and 7% for boys, resulting in a 2 percentage points gender gap).</li>\n<li>Female and male out-of-school rates for the lower secondary (around 15%) and upper secondary (around 35%) school-age populations are nearly identical at the global level.</li>\n<li>Out-of-school rates for youth of upper secondary school age are far greater than those for children and adolescents of primary and lower secondary school age.</li>\n<li>Despite the overall historically downward trend, global out-of-school rates seem to have stagnated in recent years.</li>\n<li>Although global proportions of boys and girls not in education are roughly equal, global averages mask large gender inequalities among regions. As of 2018, gender parity in the out-of-school rate had not been achieved in any region in the world with girls generally having a higher out-of-school rate than boys in most regions, particularly in primary school.</li>\n</ul>\n",
                     "contentActions": [],
                     "creaDate": 1602767838904,
@@ -107,7 +107,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:28px;\">Background</span>",
+                    "title": "<span style=\"font-size:28px\">Background</span>",
                     "content": "<p>Out-of-school children, adolescents and youth comprise two groups based on their exposure to education: those who have entered school in the past and dropped out; and those who have not entered school. Children who drop out in early grades are unlikely to acquire even the most basic mastery of reading and writing, numeracy and other skills. Children who never enter school will have no exposure to formal education at all and will bear the attendant lifelong consequences.</p>\n<p>Children, adolescents and youth who are not enrolled in school are often those from poor households and from socially marginalized communities, including children with disabilities, and from ethnic-minority communities, rural areas and areas with conflict. These barriers often interact with gender to create even greater disadvantages in learning opportunities. Education is essential to the achievement of the SDGs: it will not be possible to achieve universal completion of primary and secondary education by 2030 (SDG Goal 4) without tackling the problem of out-of-school children, adolescents and youth.</p>\n",
                     "contentActions": [
                         {
@@ -116,20 +116,20 @@
                             "index": -1
                         }
                     ],
-                    "creaDate": 1602705124956,
-                    "pubDate": 1602705124956,
+                    "creaDate": 1603135921133,
+                    "pubDate": 1603135921133,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
                         "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/7b2391b3dbc341a68b9724c0266a1bf5/resources/pop-zebra-2QE5yMcWrD4-unsplash__1602705095350__w600.jpg",
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/7b2391b3dbc341a68b9724c0266a1bf5/resources/adrien-taylor-o4m8M9ri6wc-unsplash__1603135919798__w1200.jpg",
                             "type": "image",
                             "altText": "",
                             "sizes": [
                                 {
-                                    "name": "pop-zebra-2QE5yMcWrD4-unsplash__1602705095350__w600.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/7b2391b3dbc341a68b9724c0266a1bf5/resources/pop-zebra-2QE5yMcWrD4-unsplash__1602705095350__w600.jpg",
-                                    "width": 600
+                                    "name": "adrien-taylor-o4m8M9ri6wc-unsplash__1603135919798__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/7b2391b3dbc341a68b9724c0266a1bf5/resources/adrien-taylor-o4m8M9ri6wc-unsplash__1603135919798__w1200.jpg",
+                                    "width": 1200
                                 }
                             ],
                             "display": "fill"
@@ -242,7 +242,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
                     "content": "<p>As countries strive to achieve universal primary and secondary education by 2030, they face different challenges and require different policies, depending on their circumstances.</p>\n<p>Interventions that have been used successfully to reach the disadvantaged and the marginalized, especially girls, include: the abolishment of school fees; increased education budgets; social cash transfers, especially to support poor families, making it easier for them to send their children to school; increasing attention to ethnic and linguistic minorities; overcoming conflicts that keep children out of school because of hostilities; and improving the quality of education.</p>\n",
                     "contentActions": [
                         {
@@ -251,20 +251,20 @@
                             "index": -1
                         }
                     ],
-                    "creaDate": 1602705433187,
-                    "pubDate": 1602705433187,
+                    "creaDate": 1603136064312,
+                    "pubDate": 1603136064312,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
                         "image": {
-                            "url": "https://www.arcgis.com/sharing/rest/content/items/7b2391b3dbc341a68b9724c0266a1bf5/resources/pop-zebra-2QE5yMcWrD4-unsplash__1602705095350__w600.jpg",
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/7b2391b3dbc341a68b9724c0266a1bf5/resources/terry-boynton-qOgtSCWDv2E-unsplash__1603135802901__w1200.jpg",
                             "type": "image",
                             "altText": "",
                             "sizes": [
                                 {
-                                    "name": "pop-zebra-2QE5yMcWrD4-unsplash__1602705095350__w600.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/7b2391b3dbc341a68b9724c0266a1bf5/resources/pop-zebra-2QE5yMcWrD4-unsplash__1602705095350__w600.jpg",
-                                    "width": 600
+                                    "name": "terry-boynton-qOgtSCWDv2E-unsplash__1603135802901__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/7b2391b3dbc341a68b9724c0266a1bf5/resources/terry-boynton-qOgtSCWDv2E-unsplash__1603135802901__w1200.jpg",
+                                    "width": 1200
                                 }
                             ],
                             "display": "fill"
