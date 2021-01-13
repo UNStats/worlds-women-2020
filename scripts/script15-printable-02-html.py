@@ -41,8 +41,8 @@ data_files = os.listdir('printable/json/')
 for item in data_files:
 
 
-    if item != '022ab89e10d04700901ced2a133eda86.json':
-        continue
+    # if item != '022ab89e10d04700901ced2a133eda86.json':
+    #     continue
 
     with open('printable/json/' + item) as json_file:
         d = json.load(json_file)
@@ -88,6 +88,7 @@ for item in data_files:
                             title = soup2.find('div', attrs={'class': 'title'}).string
                             title = str(title).replace('&nbsp;', '')
                             title = title.replace(u'\u00A0', '')
+                            title = title.replace(u'\u2014', '&#8212;')
 
                             with tag('h5'):
                                 text(theme)
@@ -99,15 +100,49 @@ for item in data_files:
                             
                             subtitle = str(subtitle).replace('&nbsp;', '')
                             subtitle = subtitle.replace(u'\u00A0', '')
+                            subtitle = subtitle.replace(u'\u2014', '&#8212;')
+                            subtitle = subtitle.replace(u'\u00a0', '&#8211;')
+                            subtitle = subtitle.replace(u'\u2013', '&ndash;')
+                            subtitle = subtitle.replace(u'\u201c', '&#8220;')
+                            subtitle = subtitle.replace(u'\u201d', '&#8221;')
+                            subtitle = subtitle.replace(u'\u2019', '&#8217;')
+                            subtitle = subtitle.replace(u'\u2014', '&#8212;')
+                            subtitle = subtitle.replace(u'\u00e9', '&#233;')
+                            subtitle = subtitle.replace(u'\u00f3', '&#243;')
+                            subtitle = subtitle.replace(u'\u00ed', '&#237;')
+                            subtitle = subtitle.replace(u'\u00e1', '&#225;')
+                            subtitle = subtitle.replace(u'e\u0301', '&#233;')
+                            subtitle = subtitle.replace(u'o\u0301', '&#243;')
+                            subtitle = subtitle.replace(u'\u2010', '&#8208;')
+                            subtitle = subtitle.replace(u'\u00ab', '&#171;')
+                            subtitle = subtitle.replace(u'\u00bb', '&#187;')
+                            subtitle = subtitle.replace(u'\u2018', '&#8216;')
+                            subtitle = subtitle.replace(u'\u0103', '&#259;')
+                            subtitle = subtitle.replace(u'\u021b', '&#539;')
+                            subtitle = subtitle.replace(u'\u0219', '&#537;')
 
                             content = str(soup2).replace('⇡','&#8673;')
-                            content = content.replace(u'\u00a0', ' ')
+                            content = content.replace(u'\u00a0', '&#8211;')
                             content = content.replace(u'\u2013', '&ndash;')
                             content = content.replace(u'\u201c', '&#8220;')
                             content = content.replace(u'\u201d', '&#8221;')
                             content = content.replace(u'\u2019', '&#8217;')
                             content = content.replace(u'\u2014', '&#8212;')
-                            print(content)
+                            content = content.replace(u'\u00e9', '&#233;')
+                            content = content.replace(u'\u00f3', '&#243;')
+                            content = content.replace(u'\u00ed', '&#237;')
+                            content = content.replace(u'\u00e1', '&#225;')
+                            content = content.replace(u'e\u0301', '&#233;')
+                            content = content.replace(u'o\u0301', '&#243;')
+                            content = content.replace(u'\u2010', '&#8208;')
+                            content = content.replace(u'\u00ab', '&#171;')
+                            content = content.replace(u'\u00bb', '&#187;')
+                            content = content.replace(u'\u2018', '&#8216;')
+                            content = content.replace(u'\u0103', '&#259;')
+                            content = content.replace(u'\u021b', '&#539;')
+                            content = content.replace(u'\u0219', '&#537;')
+                            content = content.replace(u'\u010d', '&#269;')
+
                             
 
                             content = re.sub(r'\(<a(.*?)back to text</a>\)', "", content)
