@@ -1,0 +1,422 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Population and families\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Population and families</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Divorced, separated and widowed women and men</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602755238901,
+                    "pubDate": 1602755238901,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/a561bd3799104b75b968038fce5fd052/resources/aditya-das-MpkvpjhucPQ-unsplash__1602755236740__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "aditya-das-MpkvpjhucPQ-unsplash__1602755236740__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/a561bd3799104b75b968038fce5fd052/resources/aditya-das-MpkvpjhucPQ-unsplash__1602755236740__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n<li>Women are more likely than men to remain unmarried after a marriage is dissolved through divorce or separation, or through widowhood in older age.</li>\n<li>At the global level, across all regions, the proportion of currently divorced and separated persons aged 45\u201349 is higher among women than men. This proportion has remained relatively constant worldwide since the 1980s, from 4.5% to 5% for women, and from 3% to 3.2% for men.</li>\n<li>The highest proportion of currently divorced or separated persons live in developed regions (between 8% and 10%).\u00a0</li>\n<li>Globally, there are about four widows for every widower:\u00a029% of women aged 65\u201369 are widowed, as compared to 7% of men.</li>\n<li>Since the early 1980s, there has been a steeper decline in proportion of widowed women aged 65\u201369 years (11 percentage points) compared to men (2 percentage points). Despite this substantial decline, the global widowhood gender gap currently stands at 22 percentage points against women.</li>\n<li>The following regions have a gender gap in widowhood of over 25 percentage points: Northern Africa and Western Asia, sub-Saharan Africa and Central and Southern Asia, which are also the regions with the highest proportion of widowed women (at least 30%).</li>\n<li>In general, countries in Europe and Northern America have a narrow widowhood gender gap (ranging between 3 and 9 percentage points) in comparison to countries in sub-Saharan Africa where the gap ranges between 40 to 49 percentage points.</li>\n<li>The striking differences in rates between women and men and the differences in regional rates are due to a variety of factors, including: gender differentials in age at marriage, since women generally get married at a younger age than men; remarriage rates, since women are less likely than men to remarry following a marital dissolution, including through widowhood; and survival rates, which are in favour of women due to the overall lower female mortality rate.</li>\n<li>There has been a steep decline over the past 40 years in the proportion of widows to widowers, reflecting both improved overall mortality rates and the fact that men are living to older ages compared to the past. Other factors include increased age at marriage, in particular for women, and the decrease, as a result, in the age gap between spouses,\u00a0which has reduced the chances of wives losing their husbands at younger ages.</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602755440273,
+                    "pubDate": 1602755440273,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/a561bd3799104b75b968038fce5fd052/resources/enoch-ho-rM9qgVKxMFE-unsplash__1602755437684__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "enoch-ho-rM9qgVKxMFE-unsplash__1602755437684__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/a561bd3799104b75b968038fce5fd052/resources/enoch-ho-rM9qgVKxMFE-unsplash__1602755437684__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px;\">Background</span>",
+                    "content": "<p>Over the past decades, the increase in divorce rates has been one of the most visible features of change in the family structure.<span class=\"footnote-index\">2</span> Marital dissolution, particularly through divorce and separation, can have long-lasting consequences, not just for couples but also for children and other dependent family members. Women are less likely to remarry after divorce, separation or widowhood, and often find themselves in more vulnerable social economic situations. Over recent decades, there have been major differences in the rates of marital dissolution (divorce, separation and widowhood) between women and men, including within geographical regions</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609558915",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1602755594185,
+                    "pubDate": 1602755594185,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/a561bd3799104b75b968038fce5fd052/resources/mi-pham-ZN6W8BixVhI-unsplash-woman%20and%20boy%20walking%20on%20rice%20paddy__1602755541863__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Women are more likely than men to be currently divorced, separated or widowed</span>",
+                    "content": "<p>As reported by the United Nations Entity for Gender Equality and the Empowerment of Women (UN-Women),<span class=\"footnote-index\">2</span> one visible feature of family change is the small but steady increase in the proportion of women and men whose marriages have been terminated as the result of divorce or separation, as well as a decline in marital dissolution through widowhood. In the last 40 years there has been a slightly higher increase in the proportion of currently divorced or separated women than men aged 45\u201349, both globally and in most geographical regions (see figure I). Worldwide, the proportion of currently divorced and separated persons aged 45\u201349 has remained relatively constant since the 1980s: from 4.5% to 5% for women, and from 3% to 3.2% for men. There has also been a decline in the proportion of widowed persons (aged 65\u201369) during the same time period, down from 40.4% to 29.2% for women, and from 9.2% to 7% for men (see figure I). The downward trend in widowhood has been steeper for women than for men, and the gender gap has been reduced from 31.1 to 22.3 percentage points. It is possible that the decline in the rates of widowhood for women is due to the fact that men are living longer owing to better overall health and improved health care.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602780953480,
+                    "pubDate": 1602780953480,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/population-np22-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px\">Divorce and separation</span>",
+                    "content": "<p>Current proportions of divorced and separated persons are highest in <span class=\"label-ref\">Australia and New Zealand</span> (10.4% for women and 8.2% for men) and in <span class=\"label-ref\">Europe and Northern America</span> (9.5% for women and 7.3% for men), and generally low in developing regions, except in Latin America and the Caribbean (5.6% for women and 4.1% for men) (see figure I). In all geographical regions, women aged 45\u201349 are more likely than men in the same age group to be currently divorced or separated; this gender gap has been sustained and, in some cases, has increased over time during the period from the early 1980s to the late 2010s. Globally, the gender gap has remained constant at 1.5 to 1.9 percentage points during this period. Over the last 40 years, the largest increase in the gender gap in divorce and separation was in Eastern and South-Eastern Asia, from 0.6 to 2.4 percentage points, due to a steeper increase in the divorce rate for women than for men.\u00a0</p>\n<p>Cultural differences among geographical regions and subregions may account for the observed differences, and there may be stigma attached both to marital dissolution and remarriage in some contexts. In its report,\u00a0<em>Families in a Changing World</em>, UN-Women attributes the higher rates of women than men who are currently divorced or separated to the fact that men are more likely than women to remarry after divorce</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609631920",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609642799",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609651540",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1602781029005,
+                    "pubDate": 1602781029005,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/population-np22-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<p>In some countries, the proportion of women aged 45\u201349 who are currently divorced or separated is significantly higher than that of men in the same age group, resulting in a large gender gap, ranging from between 5% to 15% (see figure II). This is the case, in particular, for selected countries in sub-Saharan Africa (<span class=\"label-ref\">Senegal</span>, 13%), Latin America and the Caribbean (Panama, 9%), and, to some extent, in Europe and Northern America (Estonia and the Russian Federation, 6%).</p>\n<p>As highlighted in the UN-Women report\u00a0<em>Families in a Changing World</em>, while larger gender gaps in divorce and separation could indicate that women are able to sustain themselves financially through paid work after marital dissolution, there is also a chance they may be left in an economically vulnerable situation.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609674534",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1602781056855,
+                    "pubDate": 1602781056855,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/population-np22-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Widowhood</span>",
+                    "content": "<p>While widowhood among older persons is an inevitable fact of life, there are striking differences in rates between women and men, as well as noticeable regional differences resulting from a variety of factors, including gender differentials in <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/f13f7dc3b9744d5489e7ae3e87c57d71#NP21\" target=\"_blank\">age at marriage</a>, remarriage rates, <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/f8555d8e5c944ba2a9ae0dde6152624c#NH5\" target=\"_blank\">mortality</a> and <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/ff20e9ee998f4c8ea43813616acbabe4#NP20\" target=\"_blank\">survival rates</a>. In general, women get married at a younger age than men, thereby creating a gap in the ages of spouses. In addition, women are less likely than men to remarry following a marital dissolution, including through widowhood. Furthermore, survival rates into advanced ages are in favour of women due to lower female than male mortality rates. As a result of all these factors, there is a higher proportion of widows than widowers.<span class=\"footnote-index\">3</span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609698448",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609707111",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1602756213997,
+                    "pubDate": 1602756213997,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/a561bd3799104b75b968038fce5fd052/resources/v-srinivasan-unsplash__1602756211756__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "v-srinivasan-unsplash__1602756211756__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/a561bd3799104b75b968038fce5fd052/resources/v-srinivasan-unsplash__1602756211756__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">In all regions, the proportion of older widows is higher than that of older widowers</span>",
+                    "content": "<p>Proportionately, among older people aged 65\u201369, there are more widowed women than men (see figure III). Globally, the proportion of widowed women in this age group (29%) is about four times that of men (7%). The decline in these proportions, at the global level, since the early 1980s, has been steeper for women (11 percentage points) than for men (2 percentage points). Nevertheless, there is still a global widowhood gender gap of 22 percentage points.</p>\n<p>At the regional level, marked differences are notable. For instance, in countries in <span class=\"label-ref\">Northern Africa and Western Asia</span>, <span class=\"label-ref\">sub-Saharan Africa</span> and <span class=\"label-ref\">Central and Southern Asia</span> there is a gender gap of over 25 percentage points in the proportion of widowed women and men, and these regions also have the highest proportion of widowed women (32% or more). Europe and Northern America and Australia and New Zealand have the lowest rates of widowed women (23%) compared to other regions.</p>\n<p>Since the early 1980s, there has been a decline in the rates of widowed persons (aged 65\u201369), particularly women, in all geographical regions. The largest decline in the proportion of widows aged 65\u201369, ranging between 10% and 19%, have been recorded in Central and Southern Asia (from 52.1% to 33.7%), Eastern and South-Eastern Asia (from 45.3% to 29.7%), Northern Africa and Western Asia (from 48.7% to 34.4%) and sub-Saharan Africa (from 42.2% to 32%). Trends in female widowhood, particularly in countries in sub-Saharan Africa, where there was a decline in the 1990s followed by an increase in the 2000s and a subsequent decline, raise the issue of the likely contribution to this phenomenon of excess male mortality due to HIV/AIDS.<span class=\"footnote-index\">4</span></p>\n<p>Declines over the years in the rates of widowed persons reflect improved mortality conditions and the likelihood that men will live longer than in the past. Other contributing factors include women marrying men who are not significantly older than themselves, thereby reducing the chances of wives losing their husbands at much younger ages.<span class=\"footnote-index\">5</span></p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602781144582,
+                    "pubDate": 1602781144582,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/population-np22-graph-3",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Countries in focus</span>",
+                    "content": "<p>The mean <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/f13f7dc3b9744d5489e7ae3e87c57d71#NP21\" target=\"_blank\">age at marriage</a> has increased over the years, more so for women than for men and as a result, the age gap between spouses has decreased. For instance the age gap decreased in Guinea-Bissau from 9.3 to 6.2 years (1991\u20132014); in Bangladesh from 7.3 to 5.8 years (1981\u20132011); in the Gambia from 8.8 to 7.8 years (2000\u20132013); in Ghana from 6.3 to 4 years (1993\u20132014); and in Mali from 9.2 to 7.1 years (1987\u20132018).</p>\n<p>In spite of reduced levels of widowhood for both women and men over the years in all regions, there are still wide variations in the gender gap among countries. A focus on selected countries with the smallest and largest gaps in widowhood for the population aged 65\u201369 years (see figure IV) shows that countries in Europe and Northern America have a narrow widowhood gender gap (between 3 and 9 percentage points) in comparison to countries\u00a0in <span class=\"label-ref\">sub-Saharan Africa</span> (between 40 and 49 percentage points). This could be due to the higher survival rates of women over men, coupled with a generally wider age gap between spouses (especially among older persons), and the lower probability that women will remarry after the death of a spouse.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602781185054,
+                    "pubDate": 1602781185054,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/population-np22-graph-4",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li><span class=\"concept\">Divorce</span>: <span class=\"availability\">Final legal dissolution of a marriage, which confers on the parties the right to remarriage under civil, religious and/or other provisions, according to the laws of each country.</span></li>\n<li><span class=\"concept\">Judicial separation</span>: <span class=\"availability\">Disunion of married persons, according to the laws of each country, without conferring on the parties the right to remarry.<span class=\"footnote-index\">7</span></span></li>\n<li><span class=\"concept\">Separated persons</span>: <span class=\"availability\">For the purposes of the present analysis, separated persons are persons who are legally married (legally or consensually) but not living together.<span class=\"footnote-index\">8</span></span></li>\n<li><span class=\"concept\">Widowed persons</span>: <span class=\"availability\">Individuals whose marriages have been dissolved through the death of a spouse and who have not remarried.<span class=\"footnote-index\">9</span></span></li>\n<li><span class=\"concept\">Rates of marital dissolution (divorce, separation and widowhood)</span>: <span class=\"availability\">Proportion of women and men who are currently divorced, separated or widowed. </span></li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Divorced and/or separated women and men aged 45-49 who are currently not remarried; and widowed women and men aged 65-69 who are currently not remarried. The information is presented at the global level and by regional groupings under the Sustainable Development Goals (SDGs) indicator\u00a0framework.<span class=\"footnote-index\">10</span></p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609809974",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609814847",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609820099",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1602756090561,
+                    "pubDate": 1602756090561,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/a561bd3799104b75b968038fce5fd052/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602756088683__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1602756088683__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/a561bd3799104b75b968038fce5fd052/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602756088683__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118374085.fmatter\" target=\"_blank\">H\u00e4rk\u00f6nen, J., \u201cDivorce: Trends, Patterns, Causes, and Consequences\u201d, in Treas, J., Scott, J. and Richards, M., (eds.), The Wiley-Blackwell Companion to the Sociology of Families, London and New York, 2014</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.unwomen.org/-/media/headquarters/attachments/sections/library/publications/2019/progress-of-the-worlds-women-2019-2020-en.pdf?la=en&amp;vs=3512\" target=\"_blank\">United Nations Entity for Gender Equality and the Empowerment of Women (UN-Women), Progress of the World\u2019s Women 2019-2020: Families in a Changing World, New York, 2019</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.cairn-int.info/article-E_POPU_206_0879--the-shock-of-widowhood-on-the-eve-of-old.htm\" target=\"_blank\">Christiane Delb\u00e8s and Joelle Gaymu, \u201cThe Shock of Widowhood on the Eve of Old Age: Male and Female Experiences\u201d, Population, vol. 57, Issue 6, 2002</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/unsd/gender/worldswomen.html\" target=\"_blank\">UNDESA, Statistics Division, The World\u2019s Women 2015: Trends and Statistics, New York, 2015 (United Nations publication, Sales No. E.15.XVII.8)</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.dhsprogram.com/pubs/pdf/CR5/CR5.pdf\" target=\"_blank\">Westoff, C.F., \u201cTrends in marriage and early childbearing in developing countries\u201d, DHS Comparative Reports, No. 5, July 2003</a>. (\u21e1 back to text)</li>\n<li>UNDESA, Population Division, World Marriage Data 2019 (last accessed on 29 July 2020). (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/unsd/demographic/standmeth/principles/M19Rev3en.pdf\" target=\"_blank\">United Nations, Principles and Recommendations for a Vital Statistics System: Revision 3, New York, 2014</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://population.un.org/MarriageData/Index.html#/home\" target=\"_blank\">United Nations Department of Economic and Social Affairs (UNDESA), Population Division, World Marriage Data 2019, New York, 2019 (POP/DB/Marr/Rev2019)</a>. (\u21e1 back to text)</li>\n<li>United Nations, Principles and Recommendations for a Vital Statistics System: Revision 3, New York, 2014. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/sdgs/indicators/regional-groups/\" target=\"_blank\">Regional groupings under the Sustainable Development Goal indicators</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609848308",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609857337",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609873239",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609883421",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609896997",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609906932",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609914851",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609927078",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609936839",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609958575",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609967973",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609975942",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1598610194053",
+                            "type": "navigate",
+                            "index": 5
+                        }
+                    ],
+                    "creaDate": 1602756121822,
+                    "pubDate": 1602756121822,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/a561bd3799104b75b968038fce5fd052/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602756119654__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602756119654__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/a561bd3799104b75b968038fce5fd052/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602756119654__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NP22"
+    }
+}

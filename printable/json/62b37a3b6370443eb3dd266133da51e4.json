@@ -1,0 +1,285 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Education\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Education</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Women teachers and professors at tertiary levels of education</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602776575731,
+                    "pubDate": 1602776575731,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/62b37a3b6370443eb3dd266133da51e4/resources/amy-hirschi-K0c8ko3e6AA-unsplash__1602776555970__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "amy-hirschi-K0c8ko3e6AA-unsplash__1602776555970__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/62b37a3b6370443eb3dd266133da51e4/resources/amy-hirschi-K0c8ko3e6AA-unsplash__1602776555970__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n<li>Globally, more men than women teach at the tertiary level of education; worldwide female teachers constituted only 43% of teachers at the tertiary level in 2018, an increase from 33% in 1990.</li>\n<li>Proportions of female teachers at the tertiary level in regions worldwide show a broad range of variation, with the highest proportion in Central Asia (54%) and the lowest in sub-Saharan Africa (24%).</li>\n<li>As of 2018, gender parity in the composition of the teaching force was reported in 30% of countries with data; the majority of countries with less than 30% of female teachers at the tertiary level were in sub-Saharan Africa.</li>\n<li>The proportion of women teachers at the tertiary level has increased in all regions of the world over the period 1990\u20132018.</li>\n<li>The proportion of women teachers at the tertiary level (43%) is significantly lower than the share of women at the primary (66%) and secondary levels (slightly over 50%).</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1603140682807,
+                    "pubDate": 1603140682807,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/62b37a3b6370443eb3dd266133da51e4/resources/nathan-dumlao-ewGMqs2tmJI-unsplash__1603140681297__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "nathan-dumlao-ewGMqs2tmJI-unsplash__1603140681297__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/62b37a3b6370443eb3dd266133da51e4/resources/nathan-dumlao-ewGMqs2tmJI-unsplash__1603140681297__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px\">Background</span>",
+                    "content": "<p>Trained, qualified and well-motivated teachers are essential for an effective learning environment and quality education, and the achievement of\u00a0Sustainable Development Goal (SDG) 4. Teaching staff have\u00a0an important role in the creation of a gender-sensitive learning and social environment in which young women and men are treated equally and encouraged to achieve their full potential. Gender balance among teaching staff is critical for promoting gender parity and equality in access to, and achievement in, education and for creating a supportive and non-discriminatory learning environment. There is evidence that gender balance among teaching staff is closely related to the improvement of gender parity in school enrolment.<span class=\"footnote-index\">2</span> Policies that promote gender balance in the teaching workforce have been found to have a positive impact on access to education and completion rates, especially for girls and young women.<span class=\"footnote-index\">2</span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609558915",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1603140846244,
+                    "pubDate": 1603140846244,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/62b37a3b6370443eb3dd266133da51e4/resources/van-tay-media-pc_HmXZ0e_w-unsplash__1603140844681__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "van-tay-media-pc_HmXZ0e_w-unsplash__1603140844681__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/62b37a3b6370443eb3dd266133da51e4/resources/van-tay-media-pc_HmXZ0e_w-unsplash__1603140844681__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Current situation</span>",
+                    "content": "<p><strong>More men than women teach at the tertiary level</strong></p>\n<p>Globally, female teachers constituted 43% of tertiary-level teaching staff in 2018 (see figure I). Across the world, however, the proportions of female teachers at the tertiary level showed a wide range of variation: the highest level in <span class=\"label-ref\">Central Asia</span> (54%) and lowest in <span class=\"label-ref\">sub-Saharan Africa</span> (24%).</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602690529650,
+                    "pubDate": 1602690529650,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne16-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px;\">&nbsp;</span>",
+                    "content": "<p><strong>Data show that the proportion of female teachers at the tertiary level has increased in all regions of the world</strong></p>\n<p>The participation of women in teaching at the tertiary level has increased in all regions of the world (see figure I). The global share of female teachers at the tertiary level increased from 33% to 43% over the period 1990\u20132018. In many regions, the proportion of female teachers grew by double digits: in South-Eastern Asia by 21 percentage points; in Southern Asia by 15 percentage points, in Northern America by 14 percentage points, and in Eastern Asia by 13 percentage points. The gains were modest (less than 10 percentage points) in sub-Saharan Africa, Northern Africa and Western Asia and Latin America and the Caribbean. During the period 1990\u20132018, <span class=\"label-ref\">Central Asia</span> was the only region to attain gender parity among teachers at the tertiary level of education.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609631920",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609642799",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609651540",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602690669127,
+                    "pubDate": 1602690669127,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne16-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<p><strong>Most of the countries with less than 30% of female teachers at the tertiary level of education were in <span class=\"label-ref\">sub-Saharan Africa</span></strong></p>\n<p>In 46 countries out of 150 (about 30%) reporting data for the period 2010\u20132019, the proportion of female teachers at the tertiary level was in the range of 45% to 55%, indicating the achievement of gender parity in the teaching force. In 15 countries, more that 55% of teachers at the tertiary level were women, and in Belarus, Kazakhstan, Kyrgyzstan and Myanmar the proportion of female teachers was higher than 60% (see figure II).</p>\n<p>In contrast, in 89 countries (60% of countries with data) the share of female teachers at the tertiary level was less than 45%. Low proportions of female teachers at the tertiary level (below 30%) were reported in 36 countries, 28 of which were in @@sub-Saharan Africa@@. The other countries with a low representation of female teachers were in Northern Africa and Western Asia (Jordan, Morocco and the State of Palestine), Southern Asia (Afghanistan and Bangladesh) and Eastern and South-Eastern Asia (Cambodia and the Democratic People's Republic of Korea). Data show, moreover, that the proportion of female teachers at the tertiary level tends to be lower in countries with low levels of overall <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/11a30d2e3cfb4e428a5124534a0ee81c#NE10\" target=\"_blank\">enrolment in tertiary education</a>.</p>\n<p><strong>The share of female teachers at the tertiary level is significantly lower than their share at the primary and secondary levels</strong></p>\n<p>In most regions of the word, the majority of teachers at the primary level (about 66%) are women, although data reveal variations between countries. Women\u2019s share in teaching drops significantly at higher levels of education: female teachers at the secondary level constitute slightly more than half of the teaching staff; and at the tertiary level, worldwide, the majority of teachers are men. Globally, the proportion of female teachers at the tertiary level of education was 43% in 2018.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609674534",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602776482835,
+                    "pubDate": 1602776482835,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/education-ne16-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li><span class=\"concept\">Teachers</span>: <span class=\"definition\">Persons whose professional activity involves the transmission of knowledge, attitudes and skills stipulated in a formal curriculum programme to students enrolled at a formal educational institution</span></li>\n<li><span class=\"concept\">Proportion of females among tertiary teachers or professors</span>: <span class=\"definition\">Number of female teachers at the tertiary level of education, expressed as a percentage of the total number of teachers at that level. The indicator measures the gender composition of the teaching force and helps in assessing the need for opportunities and/or incentives to encourage women to teach\u00a0at the tertaiary level of education. A percentage of female teachers in the range of 45% to 55% indicates gender parity in the composition of the teaching force. A value of greater than 55% reveals more opportunities and/or preference for women in teaching at the tertiary level of education.</span></li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Teaching staff, including full and/or part-time teachers, at the tertiary level of education.</p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>Data are available for all regional groupings under the Sustainable Development Goals (SDGs)<span class=\"footnote-index\">4</span> (except Oceania) and for 150 countries for the period 1990\u20132018 (latest available).<span class=\"footnote-index\">5</span></p>\n</div>\n</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602775999835,
+                    "pubDate": 1602775999835,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/62b37a3b6370443eb3dd266133da51e4/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602690468918__w600.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li>Al-Samarrai, S., Rose, P., Tembon, M., and Colclough, C. (ed.), Achieving Schooling for All in Africa: Costs, Commitment and Gender, Ashgate, 2003. (\u21e1 back to text)</li>\n<li><a href=\"https://unesdoc.unesco.org/ark:/48223/pf0000189433\" target=\"_blank\">UNESCO Institute for Statistics, Global Education Digest 2010, Comparing Education Statistics Across the World, Montreal, 2010</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/unsd/gender/worldswomen.html\" target=\"_blank\">United Nations Department of Economic and Social Affairs (UNDESA), The World's Women 2015: Trends and Statistics, New York, 2015 (United Nations publication, Sales No. E.15.XVII.8)</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\" target=\"_blank\">Regional groupings under the Sustainable Development Goals (SDGs)</a>. (\u21e1 back to text)</li>\n<li><a href=\"http://uis.unesco.org/\" target=\"_blank\">Data source: United Nations Educational, Scientific and Cultural Organization (UNESCO), UNESCO Institute for Statistics database</a> (last accessed May 2020). (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609809974",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609814847",
+                            "type": "navigate",
+                            "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609820099",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602690441234,
+                    "pubDate": 1602690441234,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/62b37a3b6370443eb3dd266133da51e4/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602690439652__w600.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602690439652__w600.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/62b37a3b6370443eb3dd266133da51e4/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602690439652__w600.jpg",
+                                    "width": 600
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NE16"
+    }
+}

@@ -1,0 +1,426 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Power and decision making\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Power and decision making</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Women as decision makers in the corporate world</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602489178701,
+                    "pubDate": 1602489178701,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/894bed8498eb449a983af8b33a7125f3/resources/md-mahdi-Y8BNDWG7EFg-unsplash__1602489177090__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "md-mahdi-Y8BNDWG7EFg-unsplash__1602489177090__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/894bed8498eb449a983af8b33a7125f3/resources/md-mahdi-Y8BNDWG7EFg-unsplash__1602489177090__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n<li>In 2019, one country in the European Union had surpassed the target of 40% of women on corporate boards recommended by the European Commission, and four other countries in the European Union came close, with shares above 35%.</li>\n<li>Government intervention has proven to be an effective method for improving gender diversity on corporate boards. Since the European Commission recommended the adoption of legislative action to set a gender target for board membership in 2010, the average proportion of women on the boards of the largest listed companies in the European Union has doubled (from 11.9% in 2010 to 28.8% in 2019).</li>\n<li>In those countries in the European Union with legislative quotas, women\u2019s representation on boards increased by 20 percentage points more than in countries without quotas or related actions.</li>\n<li>Overall, female representation on corporate boards has been growing, particularly in developed countries, although not fast enough: at the current pace, the goal of 30% of women\u2019s representation on boards will not be reached until 2029.</li>\n<li>The representation of women on corporate boards varies across economic sectors. In 2019, the financial sector had the highest proportion of companies with at least three women on their boards (45%) while the industrial sector had the largest proportion of companies without female representation at the board level (25%), as was also the case in the information technology (22%) and communications services sectors (22%).</li>\n<li>The \u201cglass wall\u201d phenomenon, which keeps women in support management positions rather than allowing them access to strategic management functions, still exists at the board level.</li>\n<li>While the share of female participation in the boardroom has increased, boards remain largely chaired by men, and in 2018 the share of female board chairs was less than 10% in almost all regions. Even in Europe, where the majority of legislative quotas on female board membership have been implemented, only 6.9% of board chairs are women.</li>\n<li>Data from 2018 show that, across regions, companies with female rather than male board chairs have a significantly higher number of women on their boards. The same phenomenon was found to apply at companies with a female Chief Executive Officer.</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602814187015,
+                    "pubDate": 1602814187015,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/894bed8498eb449a983af8b33a7125f3/resources/simon-rae-IGOBsR93I7Y-unsplash__1602814185144__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "simon-rae-IGOBsR93I7Y-unsplash__1602814185144__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/894bed8498eb449a983af8b33a7125f3/resources/simon-rae-IGOBsR93I7Y-unsplash__1602814185144__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px;\"><strong>Current situation</strong></span>",
+                    "content": "<p>Globally, an increasing number of companies are using 30% as the gender balance target on corporate boards, following initiatives such as the \u201c30% Club\u201d, a campaign promoting greater female representation on corporate boards launched in the United Kingdom of Great Britain and Northern Ireland in 2010.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598609558915\" data-storymaps-type=\"navigate\">1</a></span> Furthermore, in 2010, the European Commission suggested legislative action to set a gender target on boards, proposing a target of 40% of women\u2019s representation on corporate boards in 2012.</p>\n<p>In 2019, the highest percentage of female board members in the largest publicly listed companies in the <span class=\"label-ref\">European Union</span> was found in France (45.3%), the only country reaching the 40% target suggested by the European Commission. Four other countries exceeded 35%, Sweden (37.5%), Italy (36.1%), Belgium (35.9%) and Germany (35.6%), with the latter three also surpassing their legislative quota targets. Overall, a total of 11 countries out of the 28 countries in the European Union (39%) had over 30% of women as board members of their largest publicly listed companies. Nevertheless, in 12 countries, women constituted less than a fifth of board members, and in 3 countries they represented less than 10% of board members: Cyprus (9.1%), Estonia (9.4%) and Malta (10%) (see figure I).</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609558915",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1603062025384,
+                    "pubDate": 1603062025384,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/nd2-fig1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Legislative quotas can be strong drivers for gender balance in boardrooms</span>",
+                    "content": "<p>Government intervention has proven to be an effective method for improving gender diversity on corporate boards. Before 2010, the proportion of women on the boards of the largest listed companies in the countries of the <span class=\"label-ref\">European Union</span> was steady. In 2010, the European Commission recommended the adoption of legislative action to set a gender target on boards. Since 2010, the average proportion of women on the boards of the largest listed companies has doubled, from 11.9% in 2010, to 28.8% in 2019.</p>\n<p>Of the 11 countries with over 30% of female board members, five had implemented legislative quotas. The proportion of women on boards has gone up by 25.8% in the five countries with legislative quotas compared to a 16.9% overall increase in the 28 countries of the European Union. This difference is striking when compared to countries without quotas or that have taken no action at all, where there was only a 4.1% increase in women\u2019s representation over the same nine-year period. Less dramatic improvements have been observed in countries using soft measures, or non-binding quotas, where women\u2019s representation on boards increased by 13.2% over the same time period (see figure II).</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1603119746977,
+                    "pubDate": 1603119746977,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd2-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "&nbsp;",
+                    "content": "<p>A 2019 study<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598609631920\" data-storymaps-type=\"navigate\">2</a></span> revealed a similar trend of female representation on corporate boards in 23 out of 49 developed countries with available data (figure III).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598609642799\" data-storymaps-type=\"navigate\">3</a></span> Overall, female representation on boards has been growing, although not fast enough. Over the last five years, the growth rate was faster in developed countries (9.1%) than in emerging economies (5%). According to another report, at the current pace the goal of 30% of women\u2019s representation on boards will not be reached until 2029.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598609651540\" data-storymaps-type=\"navigate\">4</a></span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609631920",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609642799",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609651540",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1603119787291,
+                    "pubDate": 1603119787291,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/power-nd2-graph-3",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Distribution of companies by number of women on their boards are not even across economic sectors</span>",
+                    "content": "<p>In 2019, the distribution of companies by number of women on their boards were not even across economic sectors (see figure IV). Out of more than 2,700 companies in over 50 countries, the financial sector showed the highest proportion of companies with at least three women on their boards (45%), while the information technology sector remained the sector with the lowest (28%). In all sectors, over 75% of companies had at least one woman on their boards. The industrial sector showed the largest proportion of companies without women on boards (25%), followed by the information technology (22%) and communications services sectors (22%).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598609674534\" data-storymaps-type=\"navigate\">5</a></span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609674534",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1598609675200,
+                    "pubDate": 1598609675200,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/nd2-fig4",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">The &ldquo;glass wall&rdquo; phenomenon: women are more likely to be non-executive directors on supervisory boards rather than executives on management boards</span>",
+                    "content": "<p>As highlighted in the 2019 report of the International Labour Organization (ILO),<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598609698448\" data-storymaps-type=\"navigate\">6</a></span> while companies have been making efforts to place more women on boards, the roles of women on boards have not been emphasized enough and the \u201cglass wall\u201c phenomenon, which restricts women to support management positions rather than strategic management functions, is evident still at the board level. This is particularly apparent in companies with a two-tier board structure. Some countries have a mandatory two-tier structure: a management board and a supervisory board. The executive directors on the management board decide about the company\u2019s objectives and implement the necessary measures, while the non-executive directors on the supervisory board monitor those decisions.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598609707111\" data-storymaps-type=\"navigate\">7</a></span> Evidence presented in the above-mentioned report of ILO reveals that women are more likely to be non-executive than executive directors and on supervisory rather than management boards in countries with two-tier board systems (for example, in France and Germany).</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609698448",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609707111",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1602814167522,
+                    "pubDate": 1602814167522,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/894bed8498eb449a983af8b33a7125f3/resources/curtis-macnewton-5rKPeFcsSTY-unsplash__1602814165505__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "curtis-macnewton-5rKPeFcsSTY-unsplash__1602814165505__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/894bed8498eb449a983af8b33a7125f3/resources/curtis-macnewton-5rKPeFcsSTY-unsplash__1602814165505__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Women as board chairs: gender equality remains elusive</span>",
+                    "content": "<p>While the share of female participation on corporate boards has increased, boards in all the regions remain largely chaired by men. As noted in the above-mentioned ILO report, in 2018, over 76% of companies reported having a man as the chair of the board (among surveyed companies that have a board), and, when further investigating the presence of women as board chairs of large listed companies in selected countries, the report noted that the share is generally less than 10%. Data compiled by the Deloitte Global Center for Corporate Governance in 2018, covering nearly 7,000 companies in 66 countries, show that the proportion of female board chairs is less than 10% in almost all regions. Even in <span class=\"label-ref\">Europe</span>, where the majority of legislative quotas on female board members have been implemented, only 6.9% of board chairs are women (see figure V).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598609744028\" data-storymaps-type=\"navigate\">8</a></span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609744028",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1598609744686,
+                    "pubDate": 1598609744686,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/nd2-fig5",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Interrelationships between corporate leadership and board diversity</span>",
+                    "content": "<p>Data from 2018 show that, across regions, companies with female rather than male board chairs have a significantly higher number of women serving on boards. For example, in Asia, the percentage of women on boards was 19.2% when the chair was a woman compared to 9.9% when the chair was a man. The same phenomenon was found in companies with a female Chief Executive Officer. The largest difference was seen in <span class=\"label-ref\">North America</span>, where 30.9% of board members were female when a woman was Chief Executive Officer, compared to only 17.4% when the Chief Executive Officer was a man (see figure VI).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598609766300\" data-storymaps-type=\"navigate\">9</a></span> Furthermore, recent evidence showed that, when there is gender balance on boards, companies are more likely to have <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/0d1ff2530f17451bb8437c6ea584282e#ND1\" target=\"_blank\">women in senior management and in top executive positions</a>.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598609772459\" data-storymaps-type=\"navigate\">10</a></span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609766300",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609772459",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1598609773623,
+                    "pubDate": 1598609773623,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/nd2-fig6",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1>About the data</h1>\n<h2>Coverage</h2>\n<p>Women\u2019s representation on the boards of: the largest publicly listed companies in the 28 States members of the European Union;<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598609809974\" data-storymaps-type=\"navigate\">11</a></span> large-cap and mid-cap companies across 23 developed market and 26 emerging market countries;<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598609814847\" data-storymaps-type=\"navigate\">12</a></span> and companies in 66 countries and territories in regions worldwide.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598609820099\" data-storymaps-type=\"navigate\">13</a></span></p>\n<h2>Definitions</h2>\n<ul class=\"definitions\">\n<li><span class=\"definition\">Percentage of board seats held by women</span> is calculated by dividing the number of board seats held by women by the total number of board seats.</li>\n<li><span class=\"definition\">Percentage of women chairs of corporate boards</span> is calculated by dividing the number of board chair positions held by women by the total number of board chair seats.</li>\n</ul>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609809974",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609814847",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609820099",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1602249432829,
+                    "pubDate": 1602249432829,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"https://30percentclub.org/\" target=\"_blank\">30% Club: Growth through diversity</a>. (<a data-storymaps=\"MJ-ACTION-1598609848308\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li><a href=\"https://www.msci.com/documents/10199/29f5bf79-cf87-71a5-ac26-b435d3b6fc08\" target=\"_blank\">Morgan Stanley Capital International, \u201cWomen on Boards: 2019 Progress Report\u201d </a>. (<a data-storymaps=\"MJ-ACTION-1598609857337\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li>The Morgan Stanley Capital International \u201c<a href=\"https://www.msci.com/acwi\" target=\"_blank\">All Country World Index\u201d is comprised of the MSCI World Index</a>, which captures 23 developed economies, and the MSCI Emerging Market Index, which covers 26 emerging economies. Developed-market countries include: Australia; Austria; Belgium; Canada; Denmark; Finland; France; Germany; Hong Kong, China; Ireland; Israel; Italy; Japan; the Netherlands; New Zealand; Norway; Portugal; Singapore; Spain; Sweden; Switzerland; the United Kingdom; and the United States. Emerging-market countries include: Argentina; Brazil; Chile; China; Colombia; Czechia; Egypt; Greece; Hungary; India; Indonesia; Malaysia; Mexico; Pakistan; Peru; the Philippines; Poland; Qatar; the Republic of Korea; the Russian Federation; Saudi Arabia; South Africa, Taiwan Province of China; Thailand; Turkey; and the United Arab Emirates. (<a data-storymaps=\"MJ-ACTION-1598609873239\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li><a href=\"https://www2.deloitte.com/global/en/pages/risk/articles/women-in-the-boardroom-global-perspective.html\" target=\"_blank\">Deloitte Global Center for Corporate Governance, Women in the boardroom: A global perspective, sixth edition, 2019</a>. (<a data-storymaps=\"MJ-ACTION-1598609883421\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li>Morgan Stanley Capital International, \u201cWomen on Boards: 2019 Progress Report\u201d. (<a data-storymaps=\"MJ-ACTION-1598610194053\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li><a href=\"https://www.ilo.org/global/publications/books/WCMS_700953/lang--en/index.htm\" target=\"_blank\">International Labour Organization (ILO), Women in business and management: The business case for change, Geneva, 2019</a>. (<a data-storymaps=\"MJ-ACTION-1598609896997\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li><a href=\"https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=1001&amp;context=fisch_2016\" target=\"_blank\">University of Pennsylvania, Carey Law School, Block, D. and Gerstner, A.L., \u201cOne-Tier vs. Two-Tier Board Structure: A Comparison Between the United States and Germany United States and Germany\u201d</a> (<a data-storymaps=\"MJ-ACTION-1598609906932\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li><a href=\"https://www2.deloitte.com/global/en/pages/risk/articles/women-in-the-boardroom-global-perspective.html\" target=\"_blank\">Deloitte Global Center for Corporate Governance, Women in the boardroom: A global perspective, sixth edition, 2019</a>. (<a data-storymaps=\"MJ-ACTION-1598609914851\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li><a href=\"https://www2.deloitte.com/global/en/pages/risk/articles/women-in-the-boardroom-global-perspective.html\" target=\"_blank\">Deloitte Global Center for Corporate Governance, Women in the boardroom: A global perspective, sixth edition, 2019</a>. (<a data-storymaps=\"MJ-ACTION-1598609927078\" data-storymaps-type=\"navigate\">\u21e1 back to tex</a>t)</li>\n<li><a href=\"https://www.ilo.org/global/publications/books/WCMS_700953/lang--en/index.htm\" target=\"_blank\">International Labour Organization (ILO), Women in business and management: The business case for change, Geneva, 2019</a>. (<a data-storymaps=\"MJ-ACTION-1598609936839\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li><a href=\"https://ec.europa.eu/info/sites/info/files/aid_development_cooperation_fundamental_rights/annual_report_ge_2019_en.pdf\" target=\"_blank\">European Union, 2019 Report on equality between women and men in the EU, Luxembourg, 2019</a>. (<a data-storymaps=\"MJ-ACTION-1598609958575\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li>Morgan Stanley Capital International, All Country World Index, 2019 (<a href=\"https://www.msci.com/acwi\" target=\"_blank\">link</a>). (<a data-storymaps=\"MJ-ACTION-1598609967973\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n<li><a href=\"https://www2.deloitte.com/global/en/pages/risk/articles/women-in-the-boardroom-global-perspective.html\" target=\"_blank\">Deloitte Global Center for Corporate Governance, Women in the boardroom: A global perspective, sixth edition, 2019</a>: the 66 countries and territories profiled in the report are: Argentina; Australia; Austria; Belgium; Bermuda; Brazil; Canada; Cayman Islands; Chile; China; Colombia; Croatia; Czechia; Denmark; Egypt; Estonia; Finland; France; Germany; Greece; Hong Kong, China; Hungary; Iceland; India; Indonesia; Ireland; Israel; Italy; Japan; Jordan; Kazakhstan; Kenya; Latvia; Lebanon; Lithuania; Luxembourg; Malaysia; Mexico; Morocco; the Netherlands; Nigeria; Norway; Peru; the Philippines; Poland; Portugal; Qatar; the Republic of Korea; Romania; the Russian Federation; Saudi Arabia; Singapore; Slovakia; South Africa; Spain; Sweden; Switzerland; Taiwan Province of China; Trinidad and Tobago; Turkey; Thailand; the United Arab Emirates; the United Kingdom of Great Britain and Northern Ireland; the United States of America; Viet Nam; and New Zealand. (<a data-storymaps=\"MJ-ACTION-1598609975942\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609848308",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609857337",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609873239",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609883421",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609896997",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609906932",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609914851",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609927078",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609936839",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609958575",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609967973",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609975942",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1598610194053",
+                            "type": "navigate",
+                            "index": 5
+                        }
+                    ],
+                    "creaDate": 1602249411319,
+                    "pubDate": 1602249411319,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "Women"
+    }
+}

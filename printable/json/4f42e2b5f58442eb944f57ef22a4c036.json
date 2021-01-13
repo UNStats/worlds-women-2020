@@ -1,0 +1,282 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Population and families\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Population and families</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Women and girls in forced displacement (UNHCR &amp; IDMC)</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/j-w-E8cenvOOpHQ-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "j-w-E8cenvOOpHQ-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/j-w-E8cenvOOpHQ-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n<li>By the end of 2019, 79.5 million people (26 million refugees, 45.7 million internally displaced people and 4.2 million asylum-seekers) had been forcibly displaced worldwide as a result of persecution, conflict, violence or human rights violations, an increase of 8.7 million people over 2018.</li>\n<li>There are approximately equal numbers of women and men among refugees, asylum-seekers and internally displaced persons worldwide.</li>\n<li>Among refugees in Northern America and Europe and Eastern Asia and South-Eastern Asia, women and girls comprise about 40% of the total population, with a pronounced sex imbalance among adults (35% of refugees above the age of 18 are women in these two regions).</li>\n<li>Among internally displaced people, approximately 50% are women and girls: about 13% are girls aged 0\u20144, 23% are girls aged 5\u201414 years old, 19% are young women aged 15\u201424, and 8% are women aged 60 and older.</li>\n<li>Although displacement is a traumatic experience, it may also be a space for redefining and negotiating pre-existing roles, which can lead to an improvement of women\u2019s previous circumstances and social status.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606859702199,
+                    "pubDate": 1606859702199,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/4f42e2b5f58442eb944f57ef22a4c036/resources/adrien-taylor-o4m8M9ri6wc-unsplash__1606859698998__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "adrien-taylor-o4m8M9ri6wc-unsplash__1606859698998__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/4f42e2b5f58442eb944f57ef22a4c036/resources/adrien-taylor-o4m8M9ri6wc-unsplash__1606859698998__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Background</span>",
+                    "content": "<p>By the end of 2019, the world\u2019s forcibly displaced population remained at a record high, with a total of 79.5 million individuals having been forcibly displaced worldwide as a result of persecution, conflict, violence or human rights violations, an increase of 8.7 million people over 2018. This population includes 26 million refugees, 45.7 million internally displaced people and 4.2 million asylum-seekers.<span class=\"footnote-index\">1</span> Overall, based on available data, there appear to be approximately equal numbers of women and men among refugees, asylum-seekers and internally displaced persons reported to UNHCR.</p>\n<p>Among the refugee population, in 2019, the lowest proportions of women were among refugees hosted in Northern America and Europe and in Eastern Asia and South-Eastern Asia, where slightly less than 40% were women. This sex imbalance was most pronounced among adults in those two regions, with only around 35% of all refugees above the age of 18 being women, while there were marginally more boys than girls under age 18 (see figure I). In contrast, the highest proportion of girls and women among refugee populations (52%) was in sub-Saharan Africa. Approximately 25% of all refugees hosted in sub-Saharan Africa, Western Asia and Northern Africa, Central Asia and Southern Asia and Latin-America and the Caribbean were girls under the age of 18.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606859742483,
+                    "pubDate": 1606859742483,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/population-np7-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "&nbsp;",
+                    "content": "<p>By the end of 2019, an estimated 45.7 million people were internally displaced due to armed conflict, generalized violence or human rights violations, as reported by the Internal Displacement Monitoring Centre for 61 countries and territories.<span class=\"footnote-index\">2</span> An additional 5.1 million people were internally displaced as a result of disasters across 95 countries and territories. This is an increase over the total of 41.3 million displaced people reported at the end of 2018.<span class=\"footnote-index\">3</span> In particular, according to the Internal Displacement Monitoring Centre, there were 3.3 million internally displaced girls under age 5 at the end of 2019: 5.8 million were aged 5\u201414; 4.8 million aged 15\u201424; 9.6 million aged 25\u201459; as well as 2 million women aged 60 and older (see figure II). Current data suggest that the proportion of women and girls among internally displaced persons is often higher than among the national population. The higher numbers of forcibly displaced women compared to men are often linked to socioeconomic factors and local conflict dynamics. In the case of armed conflict, this may be explained by the fact that men often stay behind to fight, while women tend to flee for safety along with dependent family members.<span class=\"footnote-index\">4</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606859774565,
+                    "pubDate": 1606859774565,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/population-np7-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "&nbsp;",
+                    "content": "<p>In such circumstances, women face significantly different challenges than men in terms of livelihood needs and access to economic opportunities, including financial strains and difficulties resulting not only from displacement itself but also from gender norms, which may impose specific <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/6f02cbbfb8d34cb7806d21f4bd14e826#NW25\" target=\"_blank\">household responsibilities</a> and/or prevent them from <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/27c1c1ad540347aabc70434238223919#NW1\" target=\"_blank\">working</a>. Internal displacement also has an impact on women\u2019s ability to find shelter and security, to access services such as education and health care and to participate in decision-making processes.<span class=\"footnote-index\">5</span> A recent study conducted by the Government of Colombia<span class=\"footnote-index\">6</span> revealed that conflict and forced displacement exacerbates discrimination and violence against women, leaving forcibly displaced women more exposed to <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/e4db21be88f5489db915cc75d14c8fde#NV2\" target=\"_blank\">sexual</a> and <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/50dd1b2d6167437693178836261522e6#NV1\" target=\"_blank\">domestic</a> violence and labour exploitation. It also showed that forcibly displaced women often face greater obstacles in access to education and <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/68c4420b26c04066b787f56b854b9c0b#NW12\" target=\"_blank\">land ownership</a>, as well as in making their voices heard in public and political spheres.</p>\n<p>In situations of forced displacement, women\u2019s economic activities are significant and crucial, often contributing to the livelihood of their families and communities and to the strengthening of their economic stability. However, as observed in some studies, women may also be empowered in such scenarios as there may be more space for them to participate in decision-making and in activities outside the home. Although displacement is a traumatic experience, it may also be a space for redefining and negotiating pre-existing roles, which can lead to an improvement of women\u2019s previous circumstances and social status. A recent report assessed the impact of displacement on the gender roles and relations of women and girls who were forced to move from a rural area to a peri-urban area in Pakistan. Before displacement, livelihood opportunities had been limited for women, who were mostly able to engage in activities related to household and agricultural work. After moving, women were obliged to look for alternative sources of income, such as sewing, which allowed them to earn money and to manage their earnings independently. In addition, the perception of the importance of girls\u2019 education, which was previously regarded as superfluous, was altered owing to displacement. Other life-changing transformations were possible due to greater access to amenities such as running water, cooking gas and electricity, which reduced the amount of time women and girls dedicated to domestic chores.<span class=\"footnote-index\">7</span></p>\n<p>However, in order to increase and maintain women\u2019s livelihood opportunities, further transformation needs to take place within the household, the community and within institutions. This should be accompanied by the long-term and continuous development of non-economic aspects, such as women\u2019s access to education, and the implementation of laws and policies supporting women\u2019s empowerment. Increased availability of disaggregated data on internal displacement is also crucial to a better understanding and response to the needs of displaced women and girls, as well as to inform improved policymaking. These measures could not only enable women and girls to overcome challenges associated with displacement, but also provide them with ways to benefit from it.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606859831973,
+                    "pubDate": 1606859831973,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/4f42e2b5f58442eb944f57ef22a4c036/resources/annie-spratt-ZyWN6N41JUc-unsplash__1606859826296__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "annie-spratt-ZyWN6N41JUc-unsplash__1606859826296__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/4f42e2b5f58442eb944f57ef22a4c036/resources/annie-spratt-ZyWN6N41JUc-unsplash__1606859826296__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Sources</span>",
+                    "content": "<ul>\n<li><a href=\"https://www.odi.org/sites/odi.org.uk/files/resource-documents/12610.pdf\" target=\"_blank\">Levine, S., et al., The impact of displacement on gender roles and relations: the case of IDPs from FATA, Pakistan, Humanitarian Policy Group, March 2019 </a>.</li>\n<li><a href=\"https://data.unwomen.org/sites/default/files/documents/gender%20and%20intersecting%20inequalities/docs/presentations/1.4c.5.%20Colombia.pdf\" target=\"_blank\">Government of Colombia, \u201cWomen and Internal Conflict in Colombia\u201d, presentation, February 2020 </a>.</li>\n<li><a href=\"https://www.ohchr.org/EN/ProfessionalInterest/Pages/StatusOfRefugees.aspx\" target=\"_blank\">1951 Convention relating to the Status of Refugees, United Nations, Treaty Series, vol. 1001, No. 14691 </a>.</li>\n<li><a href=\"https://www.internal-displacement.org/sites/default/files/publications/documents/202003-twice-invisible-internally-displaced-women.pdf\" target=\"_blank\">Internal Displacement Monitoring Centre, Women and girls in internal displacement, March 2020 </a>.</li>\n<li><a href=\"\" target=\"_blank\">Internal Displacement Monitoring Centre, Global Report on Internal Displacement 2020, April 2020 </a>.</li>\n<li><a href=\"https://unstats.un.org/unsd/statcom/51st-session/documents/BG-item-3n-international-recommendations-on-IDP-statistics-E.pdf\" target=\"_blank\">Expert Group on Refugee and Internally Displaced Persons Statistics, International Recommendations on IDP Statistics, Background document to the 51st session of the Statistical Commission, March 2020 </a>.</li>\n<li><a href=\"https://unstats.un.org/unsd/demographic-social/Standards-and-Methods/files/Principles_and_Recommendations/International-Migration/2018_1746_EN_08-E.pdf\" target=\"_blank\">Expert Group on Refugee and Internally Displaced Persons Statistics, International Recommendations on Refugee Statistics, Publications Office of the European Union, Luxembourg, March 2018 </a>.</li>\n<li><a href=\"https://www.ohchr.org/EN/ProfessionalInterest/Pages/ProtocolStatusOfRefugees.aspx\" target=\"_blank\">1967 Protocol relating to the Status of Refugees, United Nations, Treaty Series, vol. 189, No. 2545 </a>.</li>\n<li><a href=\"https://www.unhcr.org/en-us/statistics/unhcrstats/5e57d0c57/mid-year-trends-2019.html\" target=\"_blank\">Office of the United Nations High Commissioner for Refugees (UNHCR), Mid-Year Trends 2019, February 2020 </a>.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606859860090,
+                    "pubDate": 1606859860090,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/4f42e2b5f58442eb944f57ef22a4c036/resources/clay-banks-GX8KBbVmC6c-unsplash__1606859857809__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "clay-banks-GX8KBbVmC6c-unsplash__1606859857809__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/4f42e2b5f58442eb944f57ef22a4c036/resources/clay-banks-GX8KBbVmC6c-unsplash__1606859857809__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Definitions</span>",
+                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<ul>\n<li>\n<span class=\"concept\">Share of women among refugees</span>: <span class=\"definition\">Women as a percentage of all refugees.</span>\n</li>\n<li>\n<span class=\"concept\">Share of children among refugees</span>: <span class=\"definition\">Population aged 0\u201417 as a percentage of all refugees.</span>\n</li>\n<li>\n<span class=\"concept\">Number of women and girls living in internal displacement as a result of conflict and violence</span>: <span class=\"definition\">The number of internally displaced women in different age groups is estimated using national sex and age distribution data. For each country considered, the percentage of women in each group is applied to the number of people living in internal displacement as a result of conflict and violence.<span class=\"footnote-index\">8</span></span>\n</li>\n<li>\n<span class=\"concept\">Children</span>: <span class=\"definition\">Children are defined as all those aged 0\u201417.</span>\n</li>\n<li>\n<span class=\"concept\">Refugee</span>: <span class=\"definition\">According to the 1951 Convention Relating to the Status of Refugees<span class=\"footnote-index\">9</span> and the 1967 Protocol thereto,<span class=\"footnote-index\">10</span>  a refugee is someone \u201cwho, owing to a well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group, or political opinion, is outside the country of his or her nationality, and is unable or, owing to such fear, is unwilling to avail himself or herself of the protection of that country\u201d. The term also comprises people falling under various regional instruments complementing the international refugee protection standards such as the Organization of African Unity Convention governing the specific aspects of refugee problems in Africa<span class=\"footnote-index\">11</span> and the Cartagena Declaration on Refugees.<span class=\"footnote-index\">12</span> </span>\n</li>\n<li>\n<span class=\"concept\">Asylum seeker</span>: <span class=\"definition\">An asylum seeker is defined as someone \u201cwho is claiming or applying for protection as a refugee and who has not yet received a final decision on his or her claim. It may also be someone \u201cwho has not yet submitted an application for refugee status recognition (has not yet formalized the administrative requirements in national law) but may nevertheless be in need of international protection\u201d.<span class=\"footnote-index\">13</span> </span>\n</li>\n<li>\n<span class=\"concept\">Internally displaced person</span>: <span class=\"definition\">Internally displaced persons are people \u201cwho have been forced to leave or abandon their homes, and who have not crossed an internationally recognized border\u201d.<span class=\"footnote-index\">14</span> </span>\n</li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Women, men and children in refugee, asylum seeking or displaced person status in countries worldwide, organized by regional groupings under the Sustainable Development Goals (SDGs) indicators framework.<span class=\"footnote-index\">15</span></p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>Demographically disaggregated data on refugees and asylum-seekers reported to the Office of the United Nations High Commissioner for Refugees (UNHCR) in 2019 varied widely between countries and population groups. In 2019, 123 countries reported sex-disaggregated data for refugees, and 129 for asylum-seekers. For refugees and refugee-like populations, sex-disaggregated data was available for 81% of the population. The coverage of sex-disaggregated data for asylum-seekers was 42%. The Internal Displacement Monitoring Centre reported that, in 2018, only 14% of the countries and territories for which data was collected on internally displaced persons published information disaggregated by sex and age. Statistics on forced displacement are often limited in terms of disaggregated data. Case studies are the main source of detailed information on refugees, asylum seekers and internally displaced persons.<span class=\"footnote-index\">16</span></p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<ol>\n<li><a href=\"https://www.unhcr.org/refugee-statistics/\">Office of the United Nations High Commissioner for Refugees (UNHCR), Refugee Population Statistics Database, 2020 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.internal-displacement.org/publications/2020-global-report-on-internal-displacement\">Internal Displacement Monitoring Centre, Global Report on Internal Displacement 2020, April 2020 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.internal-displacement.org/sites/default/files/publications/documents/202003-twice-invisible-internally-displaced-women.pdf\">Internal Displacement Monitoring Centre, Women and girls in internal displacement, March 2020 </a>. (\u21e1 back to text)</li>\n<li>Ibid. (\u21e1 back to text)</li>\n<li><a href=\"https://www.internal-displacement.org/sites/default/files/publications/documents/202003-twice-invisible- internally-displaced-women.pdf\">Internal Displacement Monitoring Centre, Women and girls in internal displacement, March 2020 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://data.unwomen.org/sites/default/files/documents/gender%20and%20intersecting%20inequalities/docs/presentations/1.4c.5.%20Colombia.pdf\">Government of Colombia, Women and Internal Conflict in Colombia, presentation, February 2020 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.odi.org/sites/odi.org.uk/files/resource-documents/12610.pdf\">Levine, S., et al., The impact of displacement on gender roles and relations: the case of IDPs from FATA, Pakistan, Humanitarian Policy Group, March 2019 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://population.un.org/wpp/\">As per the United Nations Department of Economic and Social Affairs (UNDESA), Population Division, World Population Prospects 2019, New York, 2019 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ohchr.org/EN/ProfessionalInterest/Pages/StatusOfRefugees.aspx\">1951 Convention relating to the Status of Refugees, United Nations, Treaty Series, vol. 1001, No. 14691 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ohchr.org/EN/ProfessionalInterest/Pages/ProtocolStatusOfRefugees.aspx\">1967 Protocol relating to the Status of Refugees, United Nations, Treaty Series, vol. 189, No. 2545 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.unhcr.org/en-us/about-us/background/45dc1a682/oau-convention-governing-specific-aspects-refugee-problems-africa-adopted.html\">United Nations, Treaty Series,vol.1001, No.14691 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.oas.org/dil/1984_cartagena_declaration_on_refugees.pdf\">Cartagena Declaration on Refugees, November 1984 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/unsd/demographic-social/Standards-and-Methods/files/Principles_and_Recommendations/International-Migration/2018_1746_EN_08-E.pdf\">Expert Group on Refugee and Internally Displaced Persons Statistics, International Recommendations on Refugee Statistics, Publications Office of the European Union, Luxembourg, March 2018 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/unsd/statcom/51st-session/documents/BG-item-3n-international-recommendations-on-IDP-statistics-E.pdf\">United Nations, Statistical Commission, Fifty-first session, International Recommendations on Internally Displaced Persons Statistics, March 2020 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, regional groupings under the Sustainable Development Goals (SDGs) indicator framework </a>. (\u21e1 back to text)</li>\n<li>To bridge this gap, the United Nations Statistical Commission, at its forty-seventh session, in 2016, established the Expert Group on Refugee and Internally Displaced Persons Statistics to produce international recommendations to improve statistics on these populations. (\u21e1 back to text)</li>\n</ol>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NP7"
+    }
+}

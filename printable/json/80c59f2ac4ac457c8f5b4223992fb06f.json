@@ -1,0 +1,473 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Economic empowerment\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Women and men in informal employment by sector&nbsp;</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602764903198,
+                    "pubDate": 1602764903198,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/80c59f2ac4ac457c8f5b4223992fb06f/resources/brett-andrei-martin-a0TrZ9xqSDk-unsplash__1602764901692__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "brett-andrei-martin-a0TrZ9xqSDk-unsplash__1602764901692__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/80c59f2ac4ac457c8f5b4223992fb06f/resources/brett-andrei-martin-a0TrZ9xqSDk-unsplash__1602764901692__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n<li>In 2016, the proportion of informal employment as a percentage of women\u2019s total employment worldwide was 58%, compared with 63% for men, although informal employment was more prevalent among women in 66 out of 119 countries (56%) with available data.</li>\n<li>The agriculture sector had the highest level of informal work, and informal employment was a larger source of employment for women than for men in that sector.</li>\n<li>The share of informal employment was significantly lower in developed regions, at below 25% of women\u2019s and men\u2019s total employment.</li>\n<li>The proportion of individuals classified as own-account workers and contributing family workers, who often lack basic social protections and are subject to low income and difficult working conditions, was higher among informally employed women (64%) than informally employed men (59%).</li>\n<li>Informal employment is more prevalent among youth and people at older ages, with little gender differences: globally, around three out of four young and older women and men work in informal jobs.</li>\n<li>With the attainment of higher levels of education, women and men are at lower risk of working in informal jobs, and women, in particular, once they complete secondary or tertiary education.</li>\n<li>The proportion of women informally employed as wage and salaried workers who worked reduced hours was higher than that of men (20% versus 12% for men), although men were more likely (10 percentage points) to have longer informal working hours than women.</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602766063470,
+                    "pubDate": 1602766063470,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/80c59f2ac4ac457c8f5b4223992fb06f/resources/837206-Secretary-Generals%20Envoy%20on%20Youth%20Visits%20Youth%20in%20PoC%20Site%20in%20Juba__1602766062096__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "837206-Secretary-Generals Envoy on Youth Visits Youth in PoC Site in Juba__1602766062096__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/80c59f2ac4ac457c8f5b4223992fb06f/resources/837206-Secretary-Generals%20Envoy%20on%20Youth%20Visits%20Youth%20in%20PoC%20Site%20in%20Juba__1602766062096__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px;\">Informal employment is an important source of employment for both women and men</span>",
+                    "content": "<p>In 2016, employed women and men working informally represented 61.2% of global employment, which means that they lacked access to decent and productive work in conditions of freedom, equity, security and human dignity.<span class=\"footnote-index\">1</span> The proportion of employed women with informal jobs was 58%, lower<span class=\"footnote-index\">2</span> than the corresponding proportion for men (63%). However, the level of women\u2019s participation in informal employment was higher than for men in 66 out of 119 (or 56%) countries with available data in the ILO microdata repository. Among the three&nbsp;broad <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/16cf3ba269944620b610ef7f80671fd3#NW2\" target=\"_blank\">economic sectors</a>,<span class=\"footnote-index\">3</span> agriculture had the highest level of informal jobs, affecting almost all employment, with a slightly higher rate for women (95%) than for men (93%). Informal employment outside the agriculture sector was lower for both women (46%) and men (53%) (see figure I).</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609558915",
+                            "type": "navigate",
+                            "index": 12
+                        }
+                    ],
+                    "creaDate": 1602765093992,
+                    "pubDate": 1602765093992,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw5-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">The share of informal employment is higher in developing regions</span>",
+                    "content": "<p>In 2016, more than half of women and men were in informal employment in the following 6 out of 10 regions with data: sub-Saharan Africa (over 85%); Southern Asia (over 85%); South-Eastern Asia (over 75%); Northern Africa (over 60%); Latin America and the Caribbean (over 50%); and Central Asia (over 50%) (see figure II). Compared with other developing regions, informal employment was less prevalent among employed women in Western Asia, although women\u2019s overall <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/27c1c1ad540347aabc70434238223919#NW1\" target=\"_blank\">labour force participation</a>&nbsp;in the region was also much lower than the global average.&nbsp;The proportion of informal employment was significantly lower in developed regions, representing less than 25% of women\u2019s and men\u2019s employment, including in the non-agriculture sector, in Europe and Northern America.&nbsp;</p>\n\n<p>In general, people do not work informally by choice, they are usually driven to take on such work as a result of insufficient social protection measures.<span class=\"footnote-index\">4</span> For example, sub-Saharan Africa, where informal work was prevalent both for women (92%) and men (86%) in 2016, was also <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/3cbb3176f1434be9998a51378715e290#NW26\" target=\"_blank\">the region with the lowest proportion of people (3%) receiving unemployment benefits</a>.<span class=\"footnote-index\">5</span></p>\n\n<p>Informal employment was higher for women than men in four regions, resulting in a gender gap in most regions, most notably in sub-Saharan Africa&nbsp;(6 percentage points and up to 11 percentage points when excluding agriculture) and Southern Asia&nbsp;(4 percentage points, with higher rates of informal employment among women in the agriculture sector). Informal employment was higher, however, for men than for women in Northern Africa (6 percentage points and up to 18 percentage points when excluding agriculture) and was almost at parity in Western Asia.&nbsp;</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1610484203797,
+                    "pubDate": 1610484203797,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw5-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "&nbsp;Among informal workers, a gender gap is visible among contributing family workers (more prevalent for women) and own-account workers (more prevalent for men)",
+                    "content": "<p>Globally in 2016, women in informal employment worked in almost equal proportions as contributing family workers (28%), own-account workers (36%) and employees (34%), while men in informal employment worked chiefly as own-account workers (50%) and only marginally as contributing family workers (9%), resulting in a gender gap of almost 20 percentage points in this category of informal workers. Own-account and contributing family workers, who often lack basic social protections and are subject to low income and difficult working conditions, represented 64% of women\u2019s informal employment, compared to 59% of men\u2019s, indicating a greater shortage of decent work for women.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609631920",
+                            "type": "navigate",
+                            "index": 12
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609642799",
+                            "type": "navigate",
+                            "index": 12
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609651540",
+                            "type": "navigate",
+                            "index": 12
+                        }
+                    ],
+                    "creaDate": 1602766206769,
+                    "pubDate": 1602766206769,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/80c59f2ac4ac457c8f5b4223992fb06f/resources/chitto-cancio-DiV6hNAn4bE-unsplash__1602766205201__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "chitto-cancio-DiV6hNAn4bE-unsplash__1602766205201__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/80c59f2ac4ac457c8f5b4223992fb06f/resources/chitto-cancio-DiV6hNAn4bE-unsplash__1602766205201__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Informal employment is more prevalent among youth and at older ages, with little gender differences</span>",
+                    "content": "<p>According to ILO data from 2016, globally, the proportion of men in informal employment was higher than women\u2019s at all ages, with some variation at different stages over the life cycle. Young women and men aged 15\u201324 (75% and 78%, respectively) and older women and men aged 65 and above (73% and 79%, respectively) were most likely to work in informal jobs. Informal employment was less prevalent (lower than 60%) for both women and men aged 35\u201354. The gender gap in informal employment ranged from 6 percentage points among youth to 4 percentage points among older persons and was the smallest, at 2 percentage points, among women and men aged 55\u201364 (see figure III).&nbsp;</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609674534",
+                            "type": "navigate",
+                            "index": 12
+                        }
+                    ],
+                    "creaDate": 1602765499542,
+                    "pubDate": 1602765499542,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw5-graph-3",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Higher levels of education result in lower levels of informal employment</span>",
+                    "content": "<p>According to ILO data from 2016, both women and men without formal education were highly likely to end up working in informal jobs (96% of women without education were in informal employment, compared with 92% of men) (see figure IV). However, with increases in educational achievement, this risk was lower for both women and men, although there were certain gender differences. While informal employment was more prevalent among women than among men with no formal education, or only primary education, this trend was reversed for women with secondary or tertiary education, who were less likely than men with the same level of education to be working in informal jobs.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609698448",
+                            "type": "navigate",
+                            "index": 12
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609707111",
+                            "type": "navigate",
+                            "index": 12
+                        }
+                    ],
+                    "creaDate": 1602765473070,
+                    "pubDate": 1602765473070,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw5-graph-4",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Women and men informally employed as wage and salaried workers tend to work non-standard working hours</span>",
+                    "content": "<p>Women and men in informal employment usually work outside the standard weekly working hours.<span class=\"footnote-index\">6</span> In addition, in 2016, both women and men in informal wage employment worldwide working non-standard hours were more likely to work excessive hours,<span class=\"footnote-index\">7</span> and men were more likely to have longer informal working hours than women (10 percentage points). In the case of those working reduced hours, the proportion of <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/11b52c23c621480db0f9017fa5bff63b#NW4\" target=\"_blank\">part time employment</a><span class=\"footnote-index\">8</span> among wage and salaried workers informally employed was higher, almost twice, among women than men (20% versus 12%, respectively) (see figure V). Informally employed women and men who work part time may face further ineligibility for social security benefits, compounding their vulnerability owing to lower wages and additional restrictions to their upward mobility in terms of careers and training opportunities.<span class=\"footnote-index\">8</span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609744028",
+                            "type": "navigate",
+                            "index": 12
+                        }
+                    ],
+                    "creaDate": 1602765567517,
+                    "pubDate": 1602765567517,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw5-graph-5",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">The gender gap in informal employment is particularly significant among countries with the lowest gross national income per capita</span>",
+                    "content": "<p>Among 47 United Nations Member States and territories with available data since 2015 in the Global SDG Indicators Database (representing 11% of the global economy in 2019), the gender gap, that is, the difference between the proportion of women and men in informal employment, showed a higher proportion of informal employment among women than men in countries at earlier stages of economic development, particularly in <span class=\"label-ref\">sub-Saharan Africa</span>.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609766300",
+                            "type": "navigate",
+                            "index": 12
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609772459",
+                            "type": "navigate",
+                            "index": 12
+                        }
+                    ],
+                    "creaDate": 1602766279641,
+                    "pubDate": 1602766279641,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/80c59f2ac4ac457c8f5b4223992fb06f/resources/ifeoluwadayo-ogunderu-WSuiFaFAmp0-unsplash__1602766278212__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ifeoluwadayo-ogunderu-WSuiFaFAmp0-unsplash__1602766278212__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/80c59f2ac4ac457c8f5b4223992fb06f/resources/ifeoluwadayo-ogunderu-WSuiFaFAmp0-unsplash__1602766278212__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Country in focus: India</span>",
+                    "content": "<p>In 2018, 89% of both employed women and men in <span class=\"label-ref\">India</span> held informal jobs. Moreover, when the agriculture sector was excluded, informal employment still represented 76% of women\u2019s jobs and 81% of men\u2019s.<span class=\"footnote-index\">10</span></p>\n<p>In 2008, India enacted the Unorganised Workers' Social Security Act to address the high levels of informal employment, including among home-based workers. Despite the adoption of the act, national estimates produced by the Ministry of Statistics and Programme Implementation indicate a significant degree of informal employment in the country since 2010 (90% and 87% for employed women and men, respectively).<span class=\"footnote-index\">11</span> Despite the persistence of informal employment in India\u2019s labour market, conditions of work seem to have been improving, with the share of regular wage workers increasing from 14% during the period 2004\u20132015 to 23% during the biennium 2017\u20132018, at the expense of casual wage employment,<span class=\"footnote-index\">12</span> which is irregular and does not follow a continuous working cycle.</p>\n<p>While women\u2019s employment in the informal sector is only slightly higher than men\u2019s in India, women were significantly more likely than men to be employed as informal workers in the formal sector.<span class=\"footnote-index\">13</span> <span class=\"footnote-index\">14</span></p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602764587160,
+                    "pubDate": 1602764587160,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/80c59f2ac4ac457c8f5b4223992fb06f/resources/stephane-hermellin-klnRXrqi9Kg-unsplash__1601400086011__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<p><span style=\"font-size:26px;\">Effects&nbsp;of&nbsp;coronavius-19&nbsp;(COVID-19)</span></p>\n",
+                    "content": "<p>During economic downturns, informal employment may act as a buffer for people who have lost their jobs in the formal sector, although an increase in the informal labour supply may also decrease wages and trigger additional lay-offs within informal employment.<span class=\"footnote-index\">15</span> Recent ILO estimates suggest that workers in informal employment have been affected to a greater degree during <span class=\"label-ref\">COVID-19</span> than during past crises.<span class=\"footnote-index\">16</span> Limited opportunities for teleworkable jobs in developing regions, coupled with lack of employment benefits in informal employment, have created new challenges for women and men working in informal jobs.</p>\n<p>According to the ILO baseline employment estimates for 2020, prior to the onset of&nbsp;<span class=\"label-ref\">COVID-19</span>, while young women aged 15\u201324 years made up less than 39% of global youth employment, they accounted for more than their overall share in three out of the four subsectors hardest hit by the pandemic, namely: accommodation and food services (51%); real estate; business and administrative activities (44%); and wholesale and retail trade; repair of motor vehicles and motorcycles (42%). Almost three quarters of young persons employed in these three hardest-hit subsectors were informally employed.<span class=\"footnote-index\">17</span></p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602764636278,
+                    "pubDate": 1602764636278,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/80c59f2ac4ac457c8f5b4223992fb06f/resources/pradnyal-gandhi-wlQwzSmDEz8-unsplash__1601402417526__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li><span class=\"concept\">Proportion of informal employment in total employment, by sector and sex</span>: provides information on the proportion of employed persons who, in their main jobs, informally hold either: (a) paid employment jobs not covered by social security systems or without entitlement to employment benefits such as annual or sick leave, severance pay or advance notice of dismissal; or (b) self-employment jobs in informal sector enterprises operated by them or by a related person living in the same household<span class=\"definition\">.</span></li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Women and men aged 15 and above in informal employment.</p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>Global and regional estimates for 2016 are derived from the International Labour Organization (ILO) microdata repository for 119 countries, representing more than 90% of the world\u2019s employed women and men aged 15 and above.<span class=\"footnote-index\">18</span> In addition, the Global SDG Indicators Database<span class=\"footnote-index\">19</span> has the latest available data disaggregated by sex for the period 2015\u20132019 for 47 United Nations Member States and territories.</p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609809974",
+                            "type": "navigate",
+                            "index": 12
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609814847",
+                            "type": "navigate",
+                            "index": 12
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609820099",
+                            "type": "navigate",
+                            "index": 12
+                        }
+                    ],
+                    "creaDate": 1602765689953,
+                    "pubDate": 1602765689953,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/80c59f2ac4ac457c8f5b4223992fb06f/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602764711112__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"https://www.ilo.org/global/standards/information-resources-and-publications/publications/WCMS_672549/lang--en/index.htm\" target=\"_blank\">International Labour Organization (ILO), Rules of the game: An introduction to the standards-related work of the International Labour Organization, Geneva, 2019</a>. (\u21e1 back to text)</li>\n<li>These global results were mainly influenced by the results from China, where the gender gap in the share of informal employment in total employment was minus five percentage points. (\u21e1 back to text)</li>\n<li>Namely: agriculture, industry, and the services sectors. (\u21e1 back to text)</li>\n<li><a href=\"https://www.wiego.org/social-protection-informal-workers\" target=\"_blank\">Women in Informal Employment: Globalizing and Organizing (WIEGO), Social Protection for Informal Workers (last accessed on 25 August 2020</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/sdgs/indicators/database/\" target=\"_blank\">UNDESA, Statistical Division, Global SDG Indicators Database (last accessed on 25 August 2020)</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ilo.org/global/publications/books/WCMS_626831/lang--en/index.htm\" target=\"_blank\">ILO, Women and Men in the Informal Economy: A Statistical Picture, third edition, Geneva, 2018</a>. (\u21e1 back to text)</li>\n<li>More than 48 hours per week. (\u21e1 back to text)</li>\n<li>Part time employment is defined as employment constituting less than 35 hours per week. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ilo.org/global/publications/books/WCMS_626831/lang--en/index.htm\" target=\"_blank\">ILO, Women and Men in the Informal Economy: A Statistical Picture, third edition, Geneva, 2018</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/sdgs/indicators/database/\" target=\"_blank\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, Global SDG Indicators Database</a>. ILO harmonized estimates. (last accessed on 12 August 2020.) (\u21e1 back to text)</li>\n<li>Ibid. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ilo.org/employment/Whatwedo/Publications/working-papers/WCMS_734503/lang--en/index.htm\" target=\"_blank\">International Labour Organization (ILO), Informal Employment Trends in the Indian Economy: Persistent informality, but growing positive development, Working Paper No. 254, Geneva, 2019</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ilo.org/newdelhi/areasofwork/informal-economy/lang--en/index.htm\" target=\"_blank\">ILO, Informal Economy in South Asia, Geneva, 2020 (last accessed on 17 August 2020)</a>. (\u21e1 back to text)</li>\n<li>Figures for India\u2019s informal employment in 2010 and in 2018 originate from two different sources, the National Sample Survey (2010) and the Labour Force Survey (2018). (\u21e1 back to text)</li>\n<li><a href=\"https://doi.org/10.1787/9789264059245-en\" target=\"_blank\">J\u00fctting, J. and De Laiglesia, J., Is Informal Normal ?: Towards More and Better Jobs in Developing Countries, Development Centre Studies, Organization for Economic Cooperation and Development (OECD) Publishing, Paris, 2009</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ilo.org/global/topics/coronavirus/impacts-and-responses/WCMS_749399/lang--en/index.htm\" target=\"_blank\">International Labour Organization (ILO), ILO Monitor: COVID-19 and the world of work, fifth edition, Geneva, 2020</a>. (\u21e1 back to text)</li>\n<li><a href=\"\" target=\"_blank\">ILO, ILO Monitor: COVID-19 and the world of work, fourth edition, Geneva, 2020</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ilo.org/global/publications/books/WCMS_409035/lang--en/index.htm\" target=\"_blank\">See also International Labour Organization (ILO), Key Indicators of the Labour Market, ninth edition, Geneva, 2016</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/sdgs/indicators/database/\" target=\"_blank\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, Global SDG Indicators Database</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609848308",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609857337",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609873239",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609883421",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609896997",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609906932",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609914851",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609927078",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609936839",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609958575",
+                            "type": "navigate",
+                            "index": 11
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609967973",
+                            "type": "navigate",
+                            "index": 11
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609975942",
+                            "type": "navigate",
+                            "index": 11
+                        },
+                        {
+                            "id": "MJ-ACTION-1598610194053",
+                            "type": "navigate",
+                            "index": 5
+                        }
+                    ],
+                    "creaDate": 1602764772950,
+                    "pubDate": 1602764772950,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/80c59f2ac4ac457c8f5b4223992fb06f/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602764771560__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602764771560__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/80c59f2ac4ac457c8f5b4223992fb06f/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602764771560__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.26.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "Women"
+    }
+}

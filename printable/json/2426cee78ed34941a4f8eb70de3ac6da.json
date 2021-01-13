@@ -1,0 +1,256 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Violence\u00a0against women and the girl child\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"color:#FF8C00\"><span style=\"font-size:18px\"><strong>Violence</strong></span></span><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>&nbsp;against women and the girl child</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Laws on domestic violence</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602951120569,
+                    "pubDate": 1602951120569,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/2426cee78ed34941a4f8eb70de3ac6da/resources/giammarco-boscaro-OPzWvgL-upY-unsplash__1602951117621__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "giammarco-boscaro-OPzWvgL-upY-unsplash__1602951117621__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/2426cee78ed34941a4f8eb70de3ac6da/resources/giammarco-boscaro-OPzWvgL-upY-unsplash__1602951117621__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n<li>Over one-third of countries in Northern Africa and Western Asia (43%) and sub-Saharan Africa (35%) do not have laws on domestic violence.</li>\n<li>The majority of developed countries (96%) as well as countries in Latin America and the Caribbean (97%), Eastern and South-Eastern Asia (93%) and Oceania (90%) have laws on domestic violence.</li>\n<li>Although domestic violence laws are almost universal in countries in Latin America and the Caribbean, fewer countries in the region (64%) have laws on sexual harassment.</li>\n<li>Few countries (27%) have laws explicitly criminalizing marital rape: even in the case of developed countries and countries in Latin America and the Caribbean, less than half have explicitly criminalized marital rape.</li>\n<li>As at 2020, 153 countries have laws on domestic violence; 106 countries have laws on sexual harassment; and 45 countries have laws on marital rape.</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602951521105,
+                    "pubDate": 1602951521105,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/2426cee78ed34941a4f8eb70de3ac6da/resources/bill-oxford-OXGhu60NwxU-unsplash__1602951519714__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "bill-oxford-OXGhu60NwxU-unsplash__1602951519714__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/2426cee78ed34941a4f8eb70de3ac6da/resources/bill-oxford-OXGhu60NwxU-unsplash__1602951519714__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:28px\">Background</span>",
+                    "content": "<p>Not all countries have laws criminalizing or containing provisions on violence against women, and when such laws are in place, authorities are often more focused on responding to cases of domestic violence through criminal justice processes rather than on ways of preventing its occurrence by providing support and resources to women at risk of abuse. Furthermore, even when domestic violence laws exist, they are not necessarily implemented, or implemented in a form that helps the victims in substantive ways.</p>\n<p>In many cases, victims and survivors of domestic violence are economically dependent on their intimate partners and the conviction and/or imprisonment of perpetrators often leaves victims deprived of their one source of economic support. In the light of these factors, domestic violence laws need to be implemented in tandem with measures for the economic empowerment of women, including, in particular, appropriate social support mechanisms for those who take the difficult step of seeking legal recourse.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598603710821",
+                            "type": "navigate",
+                            "index": -1
+                        }
+                    ],
+                    "creaDate": 1602951680488,
+                    "pubDate": 1602951680488,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/2426cee78ed34941a4f8eb70de3ac6da/resources/bill-oxford-OXGhu60NwxU-unsplash__1602951519714__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "bill-oxford-OXGhu60NwxU-unsplash__1602951519714__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/2426cee78ed34941a4f8eb70de3ac6da/resources/bill-oxford-OXGhu60NwxU-unsplash__1602951519714__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Laws on domestic violence</span>",
+                    "content": "<p>As of 2020, at least 153 countries have passed laws on <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/50dd1b2d6167437693178836261522e6#NV1\" target=\"_blank\">domestic violence</a>, 106 have laws on sexual harassment and 45 have laws on marital rape. As shown in figure I, developed countries as well as countries in <span class=\"label-ref\">Latin America and the Caribbean</span>, <span class=\"label-ref\">Eastern and South-Eastern Asia</span> and <span class=\"label-ref\">Oceania (excluding Australia and New Zealand)</span>\u00a0have the highest coverage; over 90% of countries in those regions have laws on domestic violence. This is in stark contrast to the situation in countries in <span class=\"label-ref\">sub-Saharan Africa</span> and <span class=\"label-ref\">Northern Africa and Western Asia</span>, where less than 65% have laws specifically criminalizing domestic violence.</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602527567222,
+                    "pubDate": 1602527567222,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/violence-nv9-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Laws on sexual harassment</span>",
+                    "content": "<p>As of 2020, 106 countries have passed laws on sexual harassment, and the regional distribution is broadly similar to that observed with respect to laws on domestic violence (see figure II). However, there is one noticeable difference: in the <span class=\"label-ref\">Latin America and the Caribbean</span> region, while the majority of countries have laws on domestic violence (97%), far fewer have laws on sexual harassment (64%).</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602269957189,
+                    "pubDate": 1602269957189,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/violence-nv9-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;Laws on marital rape</span>",
+                    "content": "<p>In many parts of the world legislation does not adequately protect women from marital rape. As of 2020, only 45 countries have adopted laws on marital rape; only 46% of developed countries have laws on marital rape; and fewer than 14% of developing countries in sub-Saharan Africa, Central and Southern Asia, Northern Africa and Western Asia and Oceania (excluding Australia and New Zealand) have such laws (figure III).</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1602527715204,
+                    "pubDate": 1602527715204,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/violence-nv9-graph-3",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Sources</span>",
+                    "content": "<ul>\n<li><a href=\"https://genderstats.un.org/\" target=\"_blank\">United Nations Minimum Set of Gender Indicators: Human rights of women and girl children; Existence of laws on domestic violence</a>.</li>\n<li><a href=\"https://databank.worldbank.org/reports.aspx?source=283&amp;series=SG.LEG.DVAW\" target=\"_blank\">World Bank, databank on gender statistics</a>.</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1602270028737,
+                    "pubDate": 1602270028737,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/clay-banks-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1>About the data</h1>\n<h2>Coverage</h2>\n<p>Adult and adolescent women worldwide.</p>\n<h2>Availability</h2>\n<p>As of 2020, the United Nations Minimum Set of Gender Indicators contains data on the existence of: laws on domestic violence from 187 countries; laws on sexual harassment from 153 countries; and laws on marital rape from 166 countries.</p>\n<p>Oceania (excl) refers to Oceania (excluding Australia and New Zealand) throughout the publication.</p>\n<h2>Definitions</h2>\n<p>Existence of laws in countries in relation to broad categories of violence against women, including domestic violence, sexual harassment and marital rape (United Nations Minimum Set of Gender Indicators).</p>\n<ul class=\"definitions\">\n<li><span class=\"concept\">Domestic violence</span>: <span class=\"definition\"> Includes a range of sexually, psychologically and physically coercive acts used against adult and adolescent women by a current or former intimate partner, without her consent.<span class=\"footnote-index\">1</span> Data refer to instances where domestic violence is specifically criminalized or where provisions for protection orders are in place.</span></li>\n<li><span class=\"concept\">Sexual harassment\u00a0</span>is defined as any unwelcome conduct of a sexual nature that might reasonably be expected or be perceived to cause offense or humiliation, when such conduct interferes with work, is made a condition of employment or creates an intimidating, hostile or offensive work environment. Sexual harassment may occur in the workplace or in connection with work. While typically involving a pattern of conduct, sexual harassment may take the form of a single incident. In assessing the reasonableness of expectations or perceptions, the perspective of the person who is the target of the conduct shall be considered.<span class=\"definition\"><span class=\"footnote-index\">2</span> Data refer to whether countries have laws in place that prohibit sexual harassment: voluntary guidelines or policies are not counted.</span></li>\n<li><span class=\"concept\">Marital rape</span>: <span class=\"definition\">Also called spousal rape, is non-consensual sex where the perpetrator is the victim's spouse.<span class=\"footnote-index\">3</span></span></li>\n</ul>\n</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602526634822,
+                    "pubDate": 1602526634822,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li>General Assembly document A/61/122/Add.1, para. 113. (\u21e1 back to text)</li>\n<li><a href=\"https://www.unsystem.org/content/un-system-model-policy-sexual-harassment-0\" target=\"_blank\">UN system model policy on sexual harassment</a>, 2018. (\u21e1 back to text)</li>\n<li>In general, while rape laws (except where the exemption of a spouse is explicitly stated) do not preclude a spouse from being prosecuted, data refer to instances where laws explicitly criminalize marital rape without qualifications, for example, by providing that sexual assault provisions apply irrespective of the nature of the relationship between the perpetrator and complainant, or that no marriage or other relationship shall constitute a defense against a charge of sexual assault under the law. In other instances, a marital (or equivalent) relationship may be explicitly cited in the law as an aggravating factor. Explicit criminalization of marital rape is recommended as best practice by, among other bodies, the Council of Europe. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1602526533427,
+                    "pubDate": 1602526533427,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        }
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NV9"
+    }
+}

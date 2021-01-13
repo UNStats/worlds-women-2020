@@ -1,0 +1,331 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Economic empowerment\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Economic empowerment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Gender differences and trends in reading as leisure activity in Italy</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606782728342,
+                    "pubDate": 1606782728342,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/priscilla-du-preez-O7H9G8OPFhQ-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n<li>The gender gap in reading books as a leisure activity among the adult population aged 18 and over has consistently been in favour of women over the past two decades (1998\u20142019).</li>\n<li>The inclination to read books is affected by an individual\u2019s level of education, increasing with each level of educational attainment for both women and men across all age groups.</li>\n<li>Among children and young people aged 6\u201417, more girls than boys read at least one book in their free time.</li>\n<li>More men than women read newspapers, and gender differences are also observed in the proportions of women and men reading newspapers online and reading digital publications, including electronic books (e-books).</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606782795858,
+                    "pubDate": 1606782795858,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/f1d33b9809db4d27a1c94bab209b4011/resources/alexis-brown-omeaHbEFlN4-unsplash__1606782792202__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "alexis-brown-omeaHbEFlN4-unsplash__1606782792202__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/f1d33b9809db4d27a1c94bab209b4011/resources/alexis-brown-omeaHbEFlN4-unsplash__1606782792202__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Background</span>",
+                    "content": "<p>Reading is a significant gauge of overall well-being and social development, and reading for pleasure, in particular, can play a vital role in improving educational outcomes, increasing empathy, improving relationships with others, reducing symptoms of depression and improving well-being throughout life. In contemporary society, the spread of technological means of communication (such as social networks) may mean that there is little time or desire left for reading.</p>\n<p>It important therefore to survey trends in reading as a leisure activity, taking into account the impact of new technologies, including the evolution of dedicated devices, new standards of publication (portable document format (pdf) or electronic publications) and digital (e-book) lending.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606782975737,
+                    "pubDate": 1606782975737,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/f1d33b9809db4d27a1c94bab209b4011/resources/ben-white-EMZxDosijJ4-unsplash__1606782966354__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ben-white-EMZxDosijJ4-unsplash__1606782966354__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/f1d33b9809db4d27a1c94bab209b4011/resources/ben-white-EMZxDosijJ4-unsplash__1606782966354__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Current situation</span>",
+                    "content": "<p>In Italy, as in many other countries, there has been a growing disaffection with reading as a pastime over the course of recent decades, although there are evident gender differences in reading patterns and preferences based on the type of media, for example, books, e-books, newspapers or reading on the web.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606783078815,
+                    "pubDate": 1606783078815,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/f1d33b9809db4d27a1c94bab209b4011/resources/eliott-reyna-kcT-7cirBEw-unsplash__1606783065228__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "eliott-reyna-kcT-7cirBEw-unsplash__1606783065228__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/f1d33b9809db4d27a1c94bab209b4011/resources/eliott-reyna-kcT-7cirBEw-unsplash__1606783065228__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Gender disparities in reading habits among the adult population aged 18 and over persist when it comes to reading books as a leisure activity</span>",
+                    "content": "<p>In Italy, in 2019, 38.4% of the adult population aged 18 and over read at least one book a year (see figure I). The gender gap, which, since the end of the 1980, has shown that women are more inclined than men to read books, was confirmed in the 2019 ISTAT survey, which showed that the proportion of female readers aged 18 and over was 42.5%, almost 9 percentage points higher than men. This gap shows no signs of changing over time (it was 9.3 percentage points in 1998), exceeding 13 percentage points over the period 2009\u20142016. It is worth noting, however, that the gap is slightly narrower (6.5 percentage points) when considering the reading of four or more books in a year.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606783224042,
+                    "pubDate": 1606783224042,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw36-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">The tendency to read books grows with increased educational attainment</span>",
+                    "content": "<p>People with higher levels of educational attainment read more, and the more educated a population the more likely it is that increased time spent in reading will be observed; this holds true for women and men in all age groups. At all levels of education, however, women read more than men(see figure II).</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606783347538,
+                    "pubDate": 1606783347538,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw36-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Among children and youth aged 6&mdash;17, more girls than boys had read at least one book a year in their free time </span>",
+                    "content": "<p>Many studies focusing on <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/cba28346e8c745ca84446dd894760e67#NE14\" target=\"_blank\">young people</a> agree about the importance of reading, starting from childhood. Reading for pleasure makes an enormous difference to children\u2019s educational performance: children who read for enjoyment every day not only perform better in reading tests, they also develop a broader vocabulary, increased general knowledge and a better understanding of other cultures.</p>\n<p>In Italy, during 2018\u20142019, around 3.6 million children and young people aged 6\u201417 (52.1%) had read at least one book in their free time during the past year: 46.9% had read up to 3 books (weak readers), 40.7% had read 4 to 11 books (average readers); and 12.5% had read 12 or more books (strong readers).</p>\n<p>Even among the very young, more girls than boys stated that they had read at least one book in their free time (58.2% of girls versus 46.4% of boys) (see figure III). Furthermore, among girls, the proportion of those who had read e-books or books online was higher (10.5% of girls versus 6.4% of boys). For girls, the highest percentage of readers was recorded between ages 14\u201417 (66.2%), for boys, between ages 11\u201413 (53%).</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606783508680,
+                    "pubDate": 1606783508680,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw36-graph-3",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">On average, men read newspapers more than women </span>",
+                    "content": "<p>Men are more likely to read newspapers than women: in 2019, 44.5% of males versus 33.6% of women read a newspaper at least once a week. However, over the course of the past 20 years, the gender gap has narrowed, from over 17 percentage points in 1998 to around 11 percentage points in 2019.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606784441518,
+                    "pubDate": 1606784441518,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw36-graph-4",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Digital reading is characterized by limited gender differences, with the highest rates of reading among young girls</span>",
+                    "content": "<p>Overall, despite the wide scope of reading opportunities offered by new technologies, a disaffection with reading as a pastime is pervasive in all sectors of the population, and it is not yet clear whether the digital revolution and the availability of e-books might bring about a renewed interest in reading. In 2018, only 8.4% of the population aged 6 and over (20.6% of readers, a total of about 4.8 million people) stated that they had read an e-book and/or a digital book available online. According to available data, girls read more digital books than boys and more than the older female and male population, although reported gender differences are not significant.</p>\n<p>There has been a marked decrease in the reading of print edition newspapers in the past 20 years, only partially mitigated by the increase in the viewing of newspaper content online. In 1998, 62.7% of the population aged 18 and over read newspapers at least once a week, a share that had dropped to 38.9% in 2019. There has been a modest recovery in readership due to the interest in online products (which was 32.5% in 2019), which has brought total newspaper readership (both paper and digital) to 52.2%, or 46% for women and 58% for men, resulting in a gender gap of 12 percentage points in 2019 (see Figure V).</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606783971690,
+                    "pubDate": 1606783971690,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/economic-nw36-graph-5",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li>\n<span class=\"concept\">Reading behaviour</span>: <span class=\"definition\">Includes the proportion of the population that reads at least one book a year, and the proportion of the population that reads newspapers at least once a week</span>\n</li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Population aged 6 and older living in households and resident in Italy</p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>The main data source for reading behaviours and other related information is the Multipurpose Survey on Households: Aspects of Daily Life produced by the National Statistical Institute (ISTAT) of Italy.<span class=\"footnote-index\">1</span> The survey collects basic information on individuals and daily household life and provides valuable information on the habits and problems faced by people in Italy in everyday life. The survey, which has been carried out on an annual basis since 1993, provides estimates at the national, regional and municipal levels.                    </p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"https://www.istat.it/en/archive/129934\">National Statistical Institute (ISTAT), Multipurpose Survey on Households: Aspects of Daily Life, 31 March 2020 </a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NW36"
+    }
+}

@@ -1,0 +1,295 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Environment\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Environment</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Women and the environment</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/daniel-tran-99UAuUYsz_A-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "daniel-tran-99UAuUYsz_A-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/daniel-tran-99UAuUYsz_A-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n<li>Women are not as prepared as men to cope with disasters and other environment-related challenges as they often own fewer assets and rely more heavily on natural resources for their livelihoods. More than half of the economically active women in 11 countries in the Asia-Pacific region are engaged in agriculture.</li>\n<li>Urban settings offer women economic opportunities but also place many, in particular slum dwellers, at heightened risk of poverty, violence and unsafe living conditions.</li>\n<li>There is a gender gap in the likelihood of women and men becoming slum dwellers: in five countries with available data, men living in urban areas were more likely to live in slums, while in four other countries women were more likely to be slum dwellers.</li>\n<li>Although the majority of people who lack access to basic drinking water sources live in rural areas, the urban poorest are also deprived in this regard. Since women and girls are disproportionately in charge of water collection, they are particularly affected. For example, the poorest women in urban settings are more likely to lack access to basic drinking water sources than men in Indonesia (10% more likely), Tajikistan (11% more likely), Afghanistan (14% more likely) and Myanmar (32% more likely).</li>\n<li>The average amount of time spent on water collection among slum dwellers in the Asia-Pacific region is 15 minutes, although some people spend as long as 6 hours each time they fetch water. In rural areas, people living in the most remote locations may spend up to 15 hours on this task.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606858292111,
+                    "pubDate": 1606858292111,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/4f1ffd03d6ee472dabbb94fb89f53c8d/resources/nikola-jovanovic-OBok3F8buKY-unsplash-woman%20holding%20green%20leafed%20seenling__1606858289810__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "nikola-jovanovic-OBok3F8buKY-unsplash-woman holding green leafed seenling__1606858289810__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/4f1ffd03d6ee472dabbb94fb89f53c8d/resources/nikola-jovanovic-OBok3F8buKY-unsplash-woman%20holding%20green%20leafed%20seenling__1606858289810__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Background</span>",
+                    "content": "<p>Just as women and men have unequal access to rights, resources and opportunities, they relate to and interact with the natural environment in different ways, face differing vulnerabilities and impacts, and have unique knowledge and adaptive capacity related to climate change, disasters and use of natural resources.<span class=\"footnote-index\">1</span> The lives of women in countries in the Asia and the Pacific region are intrinsically connected with the environment, with more than 50% of economically active women in 11 countries in the region engaged in <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/16cf3ba269944620b610ef7f80671fd3#NW2\" target=\"_blank\">agriculture</a>.<span class=\"footnote-index\">2</span> Furthermore, because of its many low-lying areas, densely populated coastal cities and frequent natural disasters, the region is highly vulnerable to the effects of climate change. In general, women are less well equipped to cope with disasters and other environment-related challenges as they often <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/68c4420b26c04066b787f56b854b9c0b#NW12\" target=\"_blank\">own</a> fewer assets and rely more heavily on natural resources for their livelihoods. Moreover, a large share of women also engages in <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/80c59f2ac4ac457c8f5b4223992fb06f#NW5\" target=\"_blank\">informal employment</a> (56% of women in Eastern and South-Eastern Asia and 88% in Central and Southern Asia),<span class=\"footnote-index\">3</span> which increases their vulnerability to external shocks.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606858335653,
+                    "pubDate": 1606858335653,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/4f1ffd03d6ee472dabbb94fb89f53c8d/resources/oriento-BoT8cS4XNcI-unsplash-man%20in%20blue%20t-shirt__1606858333989__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "oriento-BoT8cS4XNcI-unsplash-man in blue t-shirt__1606858333989__w1200.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/4f1ffd03d6ee472dabbb94fb89f53c8d/resources/oriento-BoT8cS4XNcI-unsplash-man%20in%20blue%20t-shirt__1606858333989__w1200.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">Available data show gender differences in the likelihood of being a slum dweller: in Cambodia, Bangladesh, Indonesia, Myanmar and Thailand, men were more likely to live in slums, while in Afghanistan, India, Maldives and Nepal, women were more likely to be slum dwellers</span>",
+                    "content": "<p>Seven of 10 of the most populous cities in the world are in Asia.<span class=\"footnote-index\">4</span> Although urban settings offer economic opportunities, they also put many women at heightened risk of experiencing poverty, violence and health hazards, particularly in slum settings. An analysis of sex-disaggregated data for 12 Asian countries for the period 2012\u20142017 indicates that a greater proportion of women than men live in slums (see figure I). While in five of the countries with available data men were more likely to live in slums, meaning that the proportion of men living in slums out of all men living in urban areas was higher than the corresponding figure for women, women were more likely to be slum dwellers in four other countries, Afghanistan, India, Maldives and Nepal.<span class=\"footnote-index\">5</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606998590410,
+                    "pubDate": 1606998590410,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/nn2-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "&nbsp;",
+                    "content": "<p>People are classified as slum dwellers if they live in urban settings and lack improved water sources and improved sanitation facilities, live in overcrowded homes or in non-durable housing. An analysis of data for 15 Asian countries<span class=\"footnote-index\">6</span> shows that, although the majority of people lacking access to basic<span class=\"footnote-index\">7</span> drinking water sources live in rural areas,<span class=\"footnote-index\">8</span> the <span class=\"label-ref\">urban poorest</span> are also deprived in this regard. For instance, during the wet season in Cambodia, more than 75% of people living in the poorest urban households lack access to basic<span class=\"footnote-index\">9</span> drinking water sources; this figure goes down during the dry season, but still remains above 60%.<span class=\"footnote-index\">10</span> As women and girls are most often in charge of water collection,<span class=\"footnote-index\">11</span> the lack of basic drinking water sources affects them disproportionately. Among the Asian countries with available data, India alone compiles data on water collection roles,<span class=\"footnote-index\">12</span> revealing large gender differentials: in 75% of slum dwellings in India, women are responsible for fetching water<span class=\"footnote-index\">13</span> (see figure II).</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606858410262,
+                    "pubDate": 1606858410262,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/nn2-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;There is wide variation across countries in the region in time spent in fetching water</span>",
+                    "content": "<p>For women living in slums, the long distances that often need to be covered to fetch water adds a substantial burden to their daily workload. There is wide variation across countries in the amount of time taken to fetch water, from an average of less than seven minutes in Indonesia, to 88 minutes (about one hour and a half) in the Philippines. Although the median time for water collection stands at 15 minutes,<span class=\"footnote-index\">14</span> households located furthest from water sources may spend as long as 6 hours on this essential task.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606998607900,
+                    "pubDate": 1606998607900,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/4f1ffd03d6ee472dabbb94fb89f53c8d/resources/Orly%20Winer-g-2__1606858589098__w1200.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;Gender gaps in access to water in urban and rural areas</span>",
+                    "content": "<p>There are gender differences in accessing basic drinking water sources among the poorest urban dwellers in many countries in the Asia-Pacific region: while women and girls in slum households are generally responsible for the time-consuming task of collecting water for drinking and cooking, there is not always enough water for their feminine hygiene needs. In Myanmar, for instance, women living in slum households are 10 percentage points<span class=\"footnote-index\">15</span> likelier than men to live in households that lack basic drinking water; a gender gap in access also exists in Afghanistan.<span class=\"footnote-index\">16</span> This may lead to a lack of proper sanitation, exposing women to health risks (see figure III).</p>\n\n<p>In rural areas, where piped water is not as common, people often walk very long distances to collect water: in many rural and remote areas, people, most often women, can spend as long as 15 hours travelling to collect water. On average, rural dwellers spend from about 10 minutes in Indonesia in order to fetch water to 39 minutes in Timor-Leste and 38 minutes in Pakistan.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606998623950,
+                    "pubDate": 1606998623950,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/nn2-graph-3",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li>\n<span class=\"concept\">Proportion of urban population living in slums</span>: <span class=\"definition\">Proportion of the urban population lacking access to at least one of the following: clean water, improved sanitation facilities, durable housing or sufficient living space. <span class=\"footnote-index\">17</span> </span>\n</li>\n<li>\n<span class=\"concept\">Total number of people living in slums</span>: <span class=\"definition\">Proportion of people living in slums (United Nations Entity for Gender Equality and the Empowerment of Women (UN-Women) calculations based on Demographic and Health Surveys and Multiple Indicator Cluster Surveys) multiplied by the total number of people living in urban areas (UNdata).<span class=\"footnote-index\">18</span></span>\n</li>\n<li>\n<span class=\"concept\">Gender parity index among slum dwellers</span>: <span class=\"definition\">Proportion of urban women living in slums, divided by the proportion of urban men living in slums. This indicator serves to measure the gender gap in the share of urban women and men living in slums, as well as the gap in their risk or likelihood of being slum dwellers.</span>\n</li>\n<li>\n<span class=\"concept\">Gender parity index among individuals aged 15\u201449 who lack access to basic drinking water sources, by wealth quintile</span>: <span class=\"definition\">Proportion of women aged 15\u201449 who lack access to basic drinking water sources, divided by the proportion of men aged 15\u201449 who lack access to basic drinking water sources, disaggregated by wealth quintile. </span>\n</li>\n<li>\n<span class=\"concept\">Proportion of slum dwellers in India responsible for fetching water by sex and age</span>: <span class=\"definition\">Proportion of slum dwellers who are primarily responsible for collecting water for their household: data available for women and men aged 15\u201449 and girls and boys aged 0\u201414. </span>\n</li>\n<li>\n<span class=\"concept\">Total amount of time (in minutes) spent by slum dwellers on fetching water</span>: <span class=\"definition\">Total time taken by slum dwellers for a single round trip to collect water from a drinking source. </span>\n</li>\n<li>\n<span class=\"concept\">Total amount of time (in minutes) spent by people living in rural areas on fetching water</span>: <span class=\"definition\">Total time taken by rural dwellers for a single round trip to collect water from a drinking source. </span>\n</li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Countries covered include all countries with available data from Multiple Indicator Cluster Surveys and/or Demographic and Health Surveys covered under the Regional Office of the United Nations Entity for Gender Equality and the Empowerment of Women (UN-Women) for the Asia and the Pacific region.</p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"https://www.unescap.org/sites/default/files/ESCAP.CST_.2020.INF_.10_Gender_Environment_Statistics.pdf\">Economic and Social Commission for Asia and the Pacific (ESCAP), Work of the Secretariat and partners on mainstreaming gender in environment statistics, July 2020 (ESCAP/CST/2020/INF/10) \n                </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://data.worldbank.org/indicator/SL.AGR.EMPL.FE.ZS\">Afghanistan, Bangladesh, Bhutan, India, Democratic People\u2019s Republic of Korea, Lao People\u2019s Democratic Republic, Nepal, Pakistan, Papua New Guinea, Tajikistan and Vanuatu; see International Labour Organization (ILO), Department of Statistics (ILOSTAT) database, Employment in agriculture (percentage of female employment) 2019 (data retrieved in March 2020) </a>. (\u21e1 back to text)</li>\n<li>See <a href=\"https://unstats.un.org/sdgs/indicators/database/\">Global Sustainable Development Goals (SDG) Indicators Database </a> and proportion of informal employment, by sector and sex (ILO harmonized) 2016 (data retrieved in April 2020). (\u21e1 back to text)</li>\n<li><a href=\"https://www.un.org/en/events/citiesday/assets/pdf/the_worlds_cities_in_2018_data_booklet.pdf\">See United Nations Department of Economic and Social Affairs (UNDESA), The World\u2019s Cities in 2018: Data Booklet </a>. (\u21e1 back to text)</li>\n<li>These differences are significant at 99% confidence for India and Nepal. For Afghanistan and Maldives they are significant at 90% and 70% confidence, respectively. (\u21e1 back to text)</li>\n<li>A total of 15 countries with available Demographic and Health Surveys or Multiple Indicator Cluster Surveys were considered for this analysis.  (\u21e1 back to text)</li>\n<li>For the identification of slum dwellers, the indicator methodology considers \u201cimproved water sources\u201d only, however, for Sustainable Development Goal indicator 6.1.1.(proportion of population using safely managed drinking water services), all four criteria must be met. However, because information on availability and faecal contamination often does not exist, in practice \u201cbasic\u201d is used instead (see <a href=\"https://unstats.un.org/sdgs/metadata/files/Metadata-06-01-01.pdf\">SDG metadata</a> for details). (\u21e1 back to text)</li>\n<li>In Asia, 40.20 % of the rural population, compared to 14.21 % of the urban dwellers: see <a href=\"https://unstats.un.org/sdgs/indicators/database/\">Global SDG Indicator Database</a>, proportion of population using safely managed drinking water services, by urban and rural, 2017 (data retrieved in April 2020). (\u21e1 back to text)</li>\n<li>Drinking water services are classified as basic if the water source is improved and within 30 minutes round-trip collection time.  (\u21e1 back to text)</li>\n<li>Estimates calculated by UN-Women using 2014 Multiple Indicator Cluster Survey data for Cambodia: values stand at 75.74% during the wet season and 63% during the dry season.  (\u21e1 back to text)</li>\n<li><a href=\"https://www.unwomen.org/-/media/headquarters/attachments/sections/library/publications/2018/sdg-report-gender-equality-in-the-2030-agenda-for-sustainable-development-2018-en.pdf?la=en&amp;vs=4332\">UN-Women, Turning Promises into Action: Gender Equality in the 2030 Agenda for Sustainable Development, 2018 </a>. (\u21e1 back to text)</li>\n<li>India is the only country with large enough sample sizes for calculations on the living circumstances of slum dwellers.  (\u21e1 back to text)</li>\n<li>Estimates calculated by UN-Women using the Demographic and Health Survey, India 2016 (for approximately 67,000 slum households without basic water). (\u21e1 back to text)</li>\n<li>For countries included in the analysis (all countries with available data from Demographic and Health Surveys or Multiple Indicator Cluster Surveys). (\u21e1 back to text)</li>\n<li>Among urban poorest women, 39.95% lack access to basic drinking water, compared to 30.23% of urban poorest men (UN-Women estimates, from data analysis of the 2016 Demographic and Health Study. (\u21e1 back to text)</li>\n<li>Among urban poorest women, 43.24% lack access to improved water sources, compared to 37.88% of urban poorest men.  (\u21e1 back to text)</li>\n<li><a href=\"https://sdg-tracker.org/cities\">United Nations, Sustainable Development Goals (SDGs) datasets </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://data.un.org/\">UNdata </a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NN2"
+    }
+}

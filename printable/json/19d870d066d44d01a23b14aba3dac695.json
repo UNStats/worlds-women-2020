@@ -1,0 +1,241 @@
+{
+    "values": {
+        "settings": {
+            "header": {
+                "linkText": "World's Women 2020",
+                "linkURL": "https://worlds-women-2020-data-undesa.hub.arcgis.com/",
+                "logoURL": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/logos/UNStats%20Logo-short.png",
+                "logoTarget": "https://unstats.un.org/unsd/demographic-social/gender/",
+                "social": {
+                    "facebook": true,
+                    "twitter": true,
+                    "bitly": true
+                }
+            },
+            "appGeocoders": [
+                {
+                    "singleLineFieldName": "SingleLine",
+                    "name": "ArcGIS World Geocoding Service",
+                    "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+                }
+            ],
+            "layout": {
+                "id": "side"
+            },
+            "layoutOptions": {
+                "layoutCfg": {
+                    "size": "large",
+                    "position": "right"
+                },
+                "socialLinks": false
+            },
+            "theme": {
+                "colors": {
+                    "name": "side-default-5",
+                    "themeMajor": "white",
+                    "dotNav": "#68AAE1",
+                    "panel": "#FFFFFF",
+                    "media": "#E8E8DF",
+                    "text": "#000000",
+                    "textLink": "#555",
+                    "softText": "#FFF",
+                    "softBtn": "#4D4D4D",
+                    "esriLogo": "black"
+                },
+                "fonts": {
+                    "sectionTitle": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    },
+                    "sectionContent": {
+                        "id": "default",
+                        "value": "font-family:'open_sansregular', sans-serif;"
+                    }
+                }
+            }
+        },
+        "title": "Population and families\n",
+        "story": {
+            "storage": "WEBAPP",
+            "sections": [
+                {
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Population and families</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Child marriage among girls in Jordan</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606795592917,
+                    "pubDate": 1606795592917,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/kristaps-ungurs-mV3EOtCNlX8-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "kristaps-ungurs-mV3EOtCNlX8-unsplash.jpg",
+                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/kristaps-ungurs-mV3EOtCNlX8-unsplash.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
+                    "content": "<ul class=\"key-points\">\n<li>During the period 1997\u20142012, marriage of girls before age 18 decreased from 13.5% to 8.4%; marriage of girls before age 15 decreased from around 1% to almost zero over the same period.</li>\n<li>The five-fold increase in the rate of marriage of girls younger than age 15 observed during the period 2012\u20142017 resulted from a number of factors, including poverty and population growth owing to the influx of foreigners into the country as a result of armed conflicts in neighbouring countries.</li>\n<li>Of the 77,700 marriage contracts issued in 2017, 13.4%, involved girls under age 18. After the adoption of new regulations in 2018, the number of child marriage contracts dropped significantly, by 27% compared to 2017.</li>\n</ul>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606795625524,
+                    "pubDate": 1606795625524,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/19d870d066d44d01a23b14aba3dac695/resources/ali-yahya-pvdRZLni3P0-unsplash__1606795623586__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ali-yahya-pvdRZLni3P0-unsplash__1606795623586__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/19d870d066d44d01a23b14aba3dac695/resources/ali-yahya-pvdRZLni3P0-unsplash__1606795623586__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Background</span>",
+                    "content": "<p><a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/f13f7dc3b9744d5489e7ae3e87c57d71#NP21\" target=\"_blank\">Child marriage</a> is a form of violence against girls, which deprives them of their legitimate human rights, including their right to education, to make an informed choice of a life partner and to build positive family relationships. Lack of such rights has a negative effect on the quality of girls' lives, their reproductive health and their ability to find decent work.</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606795656275,
+                    "pubDate": 1606795656275,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://www.arcgis.com/sharing/rest/content/items/19d870d066d44d01a23b14aba3dac695/resources/ariyan-dv-9vY_9LgGyeA-unsplash-Woman%20in%20brown%20dress%20sitting%20on%20chair__1606795653758__w1920.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "ariyan-dv-9vY_9LgGyeA-unsplash-Woman in brown dress sitting on chair__1606795653758__w1920.jpg",
+                                    "url": "https://www.arcgis.com/sharing/rest/content/items/19d870d066d44d01a23b14aba3dac695/resources/ariyan-dv-9vY_9LgGyeA-unsplash-Woman%20in%20brown%20dress%20sitting%20on%20chair__1606795653758__w1920.jpg",
+                                    "width": 1920
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\">Current situation</span>",
+                    "content": "<p><strong>After years of significant and steady decrease, child marriage spiked in 2017 </strong></p>\n\n<p>Analysis of data from the Population and Family and Health Survey in Jordan shows that there was a significant and steady decrease in the percentage of women married before age 15 and before age 18 during the period 1997\u20142012 (see figure I):<span class=\"footnote-index\">1</span> child marriage before age 18 decreased from 13.5% to 8.4% while marriage before age 15 decreased from around 1% to almost zero (0.3%). That decrease was due to amendments made to the Provisional Personal Status Law No. 82 in 2001 to increase the minimum age of marriage to 18.</p>\n\n<p>However, early marriage among women aged 20\u201424, particularly those who married before age 15, increased significantly in recent years (a five-fold increase between 2012 and 2017), from almost zero to 1.5%. During the same period, the proportion of women aged 20\u201424 who married before age 18 registered a moderate increase, from 8.4% to 9.7%. The increase in child marriage in Jordan between 2012 and 2017 resulted from a number of factors, including poverty and population growth owing to the influx of foreigners into Jordan as a result of armed conflicts in neighbouring countries.<span class=\"footnote-index\">2</span></p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1607000104958,
+                    "pubDate": 1607000104958,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/population-np25-graph-1",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "&nbsp;",
+                    "content": "<p><strong>Legislative amendments at the national level have resulted in a significant drop in early marriage</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Although the legal age of marriage in Jordan is 18 for both women and men, it may be lowered for girls aged 15 and over at the discretion of the chief justice. By 2017 (see figure I), child marriage was on the rise, threatening the core of the institution of marriage and destroying the life and dreams of children. According to the 2017 annual statistical report by the Supreme Judge Department, Jordanian authorities issued 77,700 marriage contracts in 2017, 13.4% of which involved girls under age 18. As a coordinated response, the Government of Jordan, through legislative amendments, has placed a high priority on the elimination of child marriage in the country. The amendments introduced a number of new provisions, including: a maximum 15-year difference in ages between husband and wife; the restriction that the husband must have no other wives; and that marriage must not prevent girls from continuing their education. As a result of the new regulations, child marriage contracts dropped significantly in 2018, by 27% compared to 2017 (see figure II).</p>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1607025019359,
+                    "pubDate": 1607025019359,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/population-np25-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "&nbsp;",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li><span class=\"concept\">Child marriage</span>: <span class=\"definition\">Proportion of women aged 20\u201424 who were married or in a union before age 15 and before age 18. It is calculated by dividing the number of women aged 20\u201424 who were first married or in a union by age 15 or age 18 by the total number of women aged 20\u201424 in the population. </span></li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>The indicator covers the proportion of women aged 20\u201424 who were first married or in a union by age 15 and by age 18. Information is presented at the national level.</p>\n</div>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": 1606817652264,
+                    "pubDate": 1606817652264,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "display": "fill"
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px;\"> </span>",
+                    "content": "\n<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"https://dhsprogram.com/pubs/pdf/FR346/FR346.pdf\">Government of Jordan, Department of Statistics, Jordan Population and Family Health Survey 2017-18, DHS Program, Maryland, March 2019</a>. (\u21e1 back to text)</li>\n<li>For example, 7.5% of Jordanian women aged 20\u201424 got married before age 18, compared to 36.6% of women migrants from the Syrian Arab Republic, see Government of Jordan, Department of Statistics, and World Health Organization (WHO), International Classification of Functioning, Disability and Health (ICF), 2019; see also <a href=\"https://www.unicef.org/jordan/media/1796/file/Jordan-Reports.pdf\">United Nations Children\u2019s Fund (UNICEF), A Qualitative Study on the Underlying Social Norms and Economic Causes that Lead to Child Marriage in Jordan, New York, 2019 </a> and  <a href=\"https://dhsprogram.com/pubs/pdf/FR346/FR346.pdf\">Government of Jordan, Department of Statistics, Jordan Population and Family Health Survey 2017-18, DHS Program, Maryland, March 2019</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        []
+                    ],
+                    "creaDate": [
+                        1602805607319
+                    ],
+                    "pubDate": [
+                        1602805607319
+                    ],
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "image",
+                        "image": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                            "type": "image",
+                            "altText": "",
+                            "sizes": [
+                                {
+                                    "name": "lindsay-henwood-unsplash.jpg",
+                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
+                                    "width": 1200
+                                }
+                            ],
+                            "display": "fill"
+                        }
+                    }
+                }
+            ]
+        },
+        "template": {
+            "name": "Map Journal",
+            "createdWith": "1.24.1",
+            "editedWith": "1.25.0"
+        },
+        "doNotWarnTitle": true
+    },
+    "_ssl": null,
+    "annotations_unsd": {
+        "narrative_id": "NP25"
+    }
+}
