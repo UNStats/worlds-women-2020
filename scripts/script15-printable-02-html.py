@@ -14,6 +14,34 @@ from bs4 import BeautifulSoup
 
 import pdfkit 
 
+
+def clean_text(x):
+    x = x.replace('&nbsp;', '')
+    x = x.replace('⇡', '&#8673;')
+    x = x.replace(u'\u00A0', '')
+    x = x.replace(u'\u00a0', '&#8211;')
+    x = x.replace(u'\u00ab', '&#171;')
+    x = x.replace(u'\u00bb', '&#187;')
+    x = x.replace(u'\u00e1', '&#225;')
+    x = x.replace(u'\u00e9', '&#233;')
+    x = x.replace(u'\u00ed', '&#237;')
+    x = x.replace(u'\u00f3', '&#243;')
+    x = x.replace(u'\u0103', '&#259;')
+    x = x.replace(u'\u010d', '&#269;')
+    x = x.replace(u'\u0219', '&#537;')
+    x = x.replace(u'\u021b', '&#539;')
+    x = x.replace(u'\u2010', '&#8208;')
+    x = x.replace(u'\u2013', '&ndash;')
+    x = x.replace(u'\u2014', '&#8212;')
+    x = x.replace(u'\u2018', '&#8216;')
+    x = x.replace(u'\u2019', '&#8217;')
+    x = x.replace(u'\u201c', '&#8220;')
+    x = x.replace(u'\u201d', '&#8221;')
+    x = x.replace(u'e\u0301', '&#233;')
+    x = x.replace(u'o\u0301', '&#243;')
+    return x
+
+
 last_url = None
 
 options = {
@@ -49,7 +77,7 @@ for item in data_files:
 
     theme = d['values']['title']
     print('-----------')
-    print(theme)
+    print(item)
     print('-----------')
 
     sections = d['values']['story']['sections']
@@ -73,10 +101,14 @@ for item in data_files:
         with tag('body'):
             with tag('div', klass='container'):
                 with tag('div', klass='row'):
+
+                    metadata_section = 0
                     
                     for i, s in enumerate(sections):
                         soup1 = BeautifulSoup(s['title'], features='html.parser')
                         soup2 = BeautifulSoup(s['content'], features='html.parser')
+
+                        
 
                         footnotes = soup2.findAll('span', {'class' : 'footnote-index'})
 
@@ -98,62 +130,31 @@ for item in data_files:
                         else:
                             subtitle = soup1.get_text()
                             
-                            subtitle = str(subtitle).replace('&nbsp;', '')
-                            subtitle = subtitle.replace(u'\u00A0', '')
-                            subtitle = subtitle.replace(u'\u2014', '&#8212;')
-                            subtitle = subtitle.replace(u'\u00a0', '&#8211;')
-                            subtitle = subtitle.replace(u'\u2013', '&ndash;')
-                            subtitle = subtitle.replace(u'\u201c', '&#8220;')
-                            subtitle = subtitle.replace(u'\u201d', '&#8221;')
-                            subtitle = subtitle.replace(u'\u2019', '&#8217;')
-                            subtitle = subtitle.replace(u'\u2014', '&#8212;')
-                            subtitle = subtitle.replace(u'\u00e9', '&#233;')
-                            subtitle = subtitle.replace(u'\u00f3', '&#243;')
-                            subtitle = subtitle.replace(u'\u00ed', '&#237;')
-                            subtitle = subtitle.replace(u'\u00e1', '&#225;')
-                            subtitle = subtitle.replace(u'e\u0301', '&#233;')
-                            subtitle = subtitle.replace(u'o\u0301', '&#243;')
-                            subtitle = subtitle.replace(u'\u2010', '&#8208;')
-                            subtitle = subtitle.replace(u'\u00ab', '&#171;')
-                            subtitle = subtitle.replace(u'\u00bb', '&#187;')
-                            subtitle = subtitle.replace(u'\u2018', '&#8216;')
-                            subtitle = subtitle.replace(u'\u0103', '&#259;')
-                            subtitle = subtitle.replace(u'\u021b', '&#539;')
-                            subtitle = subtitle.replace(u'\u0219', '&#537;')
-
-                            content = str(soup2).replace('⇡','&#8673;')
-                            content = content.replace(u'\u00a0', '&#8211;')
-                            content = content.replace(u'\u2013', '&ndash;')
-                            content = content.replace(u'\u201c', '&#8220;')
-                            content = content.replace(u'\u201d', '&#8221;')
-                            content = content.replace(u'\u2019', '&#8217;')
-                            content = content.replace(u'\u2014', '&#8212;')
-                            content = content.replace(u'\u00e9', '&#233;')
-                            content = content.replace(u'\u00f3', '&#243;')
-                            content = content.replace(u'\u00ed', '&#237;')
-                            content = content.replace(u'\u00e1', '&#225;')
-                            content = content.replace(u'e\u0301', '&#233;')
-                            content = content.replace(u'o\u0301', '&#243;')
-                            content = content.replace(u'\u2010', '&#8208;')
-                            content = content.replace(u'\u00ab', '&#171;')
-                            content = content.replace(u'\u00bb', '&#187;')
-                            content = content.replace(u'\u2018', '&#8216;')
-                            content = content.replace(u'\u0103', '&#259;')
-                            content = content.replace(u'\u021b', '&#539;')
-                            content = content.replace(u'\u0219', '&#537;')
-                            content = content.replace(u'\u010d', '&#269;')
-
+                            subtitle = str(subtitle)
+                            subtitle = clean_text(subtitle)
                             
-
+                            content = str(soup2)
+                            content = clean_text(content) 
                             content = re.sub(r'\(<a(.*?)back to text</a>\)', "", content)
                             content = content.replace('(&#8673; back to text)', '')
 
-                            with tag('div', klass='page'):
-                                doc.stag('br')
-                                with tag('h4'):
-                                    text(subtitle)
-                                with tag('div', klass='content'):
-                                    doc.asis(content)
+                            if 'About the data' in content:
+                                metadata_section = metadata_section + 1
+
+                            if i == 1 or metadata_section > 0 :
+                                with tag('div', klass='page'):
+                                    doc.stag('br')
+                                    with tag('h4'):
+                                        text(subtitle)
+                                    with tag('div', klass='content'):
+                                        doc.asis(content)
+                            else:
+                                with tag('div'):
+                                    doc.stag('br')
+                                    with tag('h4'):
+                                        text(subtitle)
+                                    with tag('div', klass='content'):
+                                        doc.asis(content)
                                 
                         media = s['media']
                         
@@ -164,27 +165,27 @@ for item in data_files:
                                 
                                 graph_count += 1
 
-                                driver = webdriver.Chrome('C:/Users/LGONZALE20/Downloads/chromedriver.exe')
-                                driver.get(url)
-                                driver.execute_script('document.body.style.zoom = "85%"')
-                                screenshot = driver.save_screenshot('printable/img/image_'+ str(graph_count) +'.png')
+                                # driver = webdriver.Chrome('C:/Users/LGONZALE20/Downloads/chromedriver.exe')
+                                # driver.get(url)
+                                # driver.execute_script('document.body.style.zoom = "85%"')
+                                # screenshot = driver.save_screenshot('printable/img/image_'+ str(graph_count) +'.png')
                                 
                                 image_file = '../img/image_'+ str(graph_count) +'.png'
                                 print(image_file)
-                                driver.quit()
+                                # driver.quit()
 
                                 doc.stag('img', src=image_file, width='800')
                             
                             last_url = url
-
+                            
                         if media['type'] == 'image':
                             url = media['image']['url']
                             
                             if url != last_url:
                                 if i == 0:
                                     doc.stag('img', src=url, height='600')
-                                if i > 1:
-                                    doc.stag('img', src=url, style='height:400px;max-width:500px;width: expression(this.width > 500 ? 500: true);')
+                                # if i > 1:
+                                #     doc.stag('img', src=url, style='height:400px;max-width:500px;width: expression(this.width > 500 ? 500: true);')
 
                             last_url = url
 
