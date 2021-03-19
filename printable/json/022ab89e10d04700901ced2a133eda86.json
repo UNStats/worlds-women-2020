@@ -60,10 +60,10 @@
             "sections": [
                 {
                     "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Health</strong></span></span></p>\n",
-                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Health risk factors</div>\n",
+                    "content": "<style type=\"text/css\">p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Health risk factors</div>\n",
                     "contentActions": [],
-                    "creaDate": 1602781380632,
-                    "pubDate": 1602781380632,
+                    "creaDate": 1612101423166,
+                    "pubDate": 1612101423166,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -71,23 +71,16 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/022ab89e10d04700901ced2a133eda86/resources/valentin-balan-k0aVMMZwqtU-unsplash__1602781378357__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "valentin-balan-k0aVMMZwqtU-unsplash__1602781378357__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/022ab89e10d04700901ced2a133eda86/resources/valentin-balan-k0aVMMZwqtU-unsplash__1602781378357__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">Key points</span>",
-                    "content": "<ul class=\"key-points\">\n<li>Tobacco use kills more than 8 million people annually around the world: over 7 million people die from the first-hand use of tobacco and around 1.2 million non-smokers die from exposure to second-hand smoke.\u00a0</li>\n<li>Globally, men are 4.5 times more likely to smoke than women: the gender difference is largest in Eastern and South-Eastern Asia, where men are almost 13 times more likely than women to use tobacco; the gender gap is smallest in Australia and New Zealand where the ratio is 1.3, close to gender parity.</li>\n<li>Since 2000 there has been a decline in smoking rates among both sexes, although the decline has been less pronounced among men.</li>\n<li>In 2016, more than 3 million people died as a result of the harmful use of alcohol, representing 1 in 20 deaths worldwide: the vast majority, more than three quarters, of those deaths were among men.</li>\n<li>In 2018, men consumed more alcohol than women worldwide, an average of 9.8 litres per man versus 2.6 litres of alcohol per woman aged 15 and older.</li>\n<li>In 2016, 39% of adults aged 18 and older (39% of men and 40% of women) were overweight. About 13% of the world\u2019s adult population (11% of men and 15% of women) were obese. Women are more likely than men to be obese both as a result of biological and lifestyle factors, in particular lower rates of participation in physical activity and insufficient time for personal care and leisure.</li>\n<li>Emerging research shows that smoking may also be associated with a negative progression and adverse outcomes of the Coronavirus-19 (COVID-19) disease, which works to the disadvantage of men, who are more likely to smoke than women (4.5 times more likely, globally). Severe obesity has been also found to be associated with higher in-hospital mortality and, in general, worse in-hospital outcomes related to COVID-19.</li>\n</ul>\n",
+                    "content": "<ul class=\"key-points\">\n\t<li>Tobacco use kills more than 8 million people annually around the world: over 7 million people die from the first-hand use of tobacco and around 1.2 million non-smokers die from exposure to second-hand smoke.&nbsp;</li>\n\t<li>Globally, men are 4.5 times more likely to smoke than women: the gender difference is largest in Eastern and South-Eastern Asia, where men are almost 13 times more likely than women to use tobacco; the gender gap is smallest in Australia and New Zealand where the ratio is 1.3, closer to gender parity.</li>\n\t<li>Since 2000 there has been a decline in smoking rates among both sexes, although the decline has been less pronounced among men.</li>\n\t<li>In 2016, more than 3 million people died as a result of the harmful use of alcohol, representing 1 in 20 deaths worldwide: the vast majority, more than three quarters, of those deaths were among men.</li>\n\t<li>In 2018, men consumed more alcohol than women worldwide, an average of 9.8 litres per man versus 2.6 litres of alcohol per woman aged 15 and older.</li>\n\t<li>In 2016, 39% of adults aged 18 and older (39% of men and 40% of women) were overweight. About 13% of the world\u2019s adult population (11% of men and 15% of women) were obese. Women are more likely than men to be obese both as a result of biological and lifestyle factors, in particular lower rates of participation in physical activity and insufficient time for personal care and leisure.</li>\n\t<li>Emerging research shows that smoking may also be associated with a negative progression and adverse outcomes of the Coronavirus-19 (COVID-19) disease, which works to the disadvantage of men, who are more likely to smoke than women (4.5 times more likely, globally). Severe obesity has been also found to be associated with higher in-hospital mortality and, in general, worse in-hospital outcomes related to COVID-19.</li>\n</ul>\n",
                     "contentActions": [],
-                    "creaDate": 1602781433436,
-                    "pubDate": 1602781433436,
+                    "creaDate": 1612376532517,
+                    "pubDate": 1612376532517,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -95,29 +88,27 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/022ab89e10d04700901ced2a133eda86/resources/annie-spratt-YlafeFUppxo-unsplash__1602781429612__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "annie-spratt-YlafeFUppxo-unsplash__1602781429612__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/022ab89e10d04700901ced2a133eda86/resources/annie-spratt-YlafeFUppxo-unsplash__1602781429612__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:28px;\">Background</span>",
-                    "content": "<p>A health risk factor is anything that increases the likelihood of an individual developing a disease or injury. Risk factors can be demographic, social, economic, environmental, biological or behavioural in nature, although in most cases they are a combination of all of these factors.</p>\n<p>The set of risk factors contributing most to the burden of disease is changing. In 1990, the leading risk factors for early death and disability were child wasting, short gestation for birth weight and low birth weight for gestation. In 2017, the leading factors were high blood pressure, smoking and high blood sugar.<span class=\"footnote-index\">1</span></p>\n<p>There are significant differences in the prevailing risk factors affecting the health of people in developed and less developed regions. In developing regions, prominent risk factors include <a class=\"narrative-ref\" href=\"#NH4\" target=\"_blank\">undernutrition</a>, <a class=\"narrative-ref\" href=\"#NN3\" target=\"_blank\">unimproved water</a> and sanitation facilities, poor hygiene and <a class=\"narrative-ref\" href=\"#NN4\" target=\"_blank\">indoor smoke</a> from solid fuels. In developed regions, the harmful use of alcohol and tobacco, poor diet and lack of exercise contribute substantially to the burden of non-communicable diseases, although the effects of non-communicable diseases are on the rise in developing regions as well. Across regions, unsafe sex remains the main risk factor for sexually transmitted infections, and for <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/4086d9f255f7404e9e6d3a949ec42417#NH10\" target=\"_blank\">HIV/AIDS</a> in particular, while gender norms, ideals of masculinity and power relations fuel a relatively high level of unintentional injuries and <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b0c1d58d7f044717985af52c7b6ad2ab#NH8\" target=\"_blank\">interpersonal violence</a>.</p>\n<p>Morbidity and mortality rates for many diseases are aggravated by exposure to specific modifiable risk factors, including tobacco use, harmful use of alcohol, unhealthy diet, physical inactivity and polluted air.</p>\n",
+                    "title": "<span style=\"font-size:28px\">Background</span>",
+                    "content": "<p>A health risk factor is anything that increases the likelihood of an individual developing a disease or injury. Risk factors can be demographic, social, economic, environmental, biological or behavioural in nature, although in most cases they are a combination of all of these factors.</p>\n\n<p>The set of risk factors contributing most to the burden of disease is changing. In 1990, the leading risk factors for early death and disability were child wasting, short gestation for birth weight and low birth weight for gestation. In 2017, the leading factors were high blood pressure, smoking and high blood sugar.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615179806984\" data-storymaps-type=\"navigate\">1</a></span></p>\n\n<p>There are significant differences in the prevailing risk factors affecting the health of people in developed and less developed regions. In developing regions, prominent risk factors include undernutrition, unimproved water and sanitation facilities, poor hygiene and indoor smoke from solid fuels. In developed regions, the harmful use of alcohol and tobacco, poor diet and lack of exercise contribute substantially to the burden of non-communicable diseases, although the effects of non-communicable diseases are on the rise in developing regions as well. Across regions, unsafe sex remains the main risk factor for sexually transmitted infections, and for <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/4086d9f255f7404e9e6d3a949ec42417#NH10\" target=\"_blank\">HIV/AIDS</a> in particular, while gender norms, ideals of masculinity and power relations fuel a relatively high level of unintentional injuries and <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b0c1d58d7f044717985af52c7b6ad2ab#NH8\" target=\"_blank\">interpersonal violence</a>.</p>\n\n<p>Morbidity and mortality rates for many diseases are aggravated by exposure to specific modifiable risk factors, including tobacco use, harmful use of alcohol, unhealthy diet, physical inactivity and polluted air.</p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609558915",
                             "type": "navigate",
                             "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615179806984",
+                            "type": "navigate",
+                            "index": 10
                         }
                     ],
-                    "creaDate": 1602781509143,
-                    "pubDate": 1602781509143,
+                    "creaDate": 1615179807688,
+                    "pubDate": 1615179807688,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -125,23 +116,52 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/022ab89e10d04700901ced2a133eda86/resources/marie-michele-bouchard-G_8d9xbLPBs-unsplash__1602781507558__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "marie-michele-bouchard-G_8d9xbLPBs-unsplash__1602781507558__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/022ab89e10d04700901ced2a133eda86/resources/marie-michele-bouchard-G_8d9xbLPBs-unsplash__1602781507558__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Current situation</span>",
-                    "content": "<p><strong>Tobacco use is a major contributor to illness and death from non-communicable diseases</strong></p>\n<p>Tobacco in any form kills and sickens millions of people every year: the use of tobacco is one of the biggest public health threats, killing more than 8 million people a year<span class=\"footnote-index\">2</span> around the world (up from more than 5 million deaths in 2010).<span class=\"footnote-index\">3</span> More than 7 million of those deaths are the result of first-person tobacco use while around 1.2 million are the result of non-smokers being exposed to second-hand smoke.<span class=\"footnote-index\">4</span></p>\n<p>Tobacco use is a major risk factor for chronic respiratory and <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/527e660cda4c470980fca8eca7b2c3fc#NH11\" target=\"_blank\">cardiovascular diseases</a>. Among women, smoking is also associated with breast cancer.<span class=\"footnote-index\">5</span> In 2018, men were 4.5 more likely to use tobacco than women. Globally, in 2018, the prevalence of smoking among men 15 years and older was 38.6%, compared to 8.5% among women of the same age. A decline in smoking rates has been observed since 2000 for both sexes, but the decline has been slower among men (23%) than among women (49%).</p>\n<p>During the period 2000\u20142018, the number of male tobacco users in the world increased each year, peaking in 2018 at 1,093 million.<span class=\"footnote-index\">6</span> The number of users is projected to decrease, assuming countries maintain current efforts in tobacco control.<span class=\"footnote-index\">7</span> Since 2000, the number of female tobacco users has been declining in all regions (244 million in 2018, an estimated 100 million fewer than in 2000).<span class=\"footnote-index\">8</span></p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602780181479,
-                    "pubDate": 1602780181479,
+                    "title": "<span style=\"font-size:26px\">Current situation</span>",
+                    "content": "<p><strong>Tobacco use is a major contributor to illness and death from non-communicable diseases</strong></p>\n\n<p>Tobacco in any form kills and sickens millions of people every year: the use of tobacco is one of the biggest public health threats, killing more than 8 million people a year<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615179839649\" data-storymaps-type=\"navigate\">2</a></span> around the world (up from more than 5 million deaths in 2010).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615179843928\" data-storymaps-type=\"navigate\">3</a></span> More than 7 million of those deaths are the result of first-person tobacco use while around 1.2 million are the result of non-smokers being exposed to second-hand smoke.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615179849337\" data-storymaps-type=\"navigate\">4</a></span></p>\n\n<p>Tobacco use is a major risk factor for chronic respiratory and <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/527e660cda4c470980fca8eca7b2c3fc#NH11\" target=\"_blank\">cardiovascular diseases</a>. Among women, smoking is also associated with breast cancer.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615179862196\" data-storymaps-type=\"navigate\">5</a></span> In 2018, men were 4.5 more likely to use tobacco than women. Globally, in 2018, the prevalence of smoking among men 15 years and older was 38.6%, compared to 8.5% among women of the same age. A decline in smoking rates has been observed since 2000 for both sexes, but the decline has been slower among men (23%) than among women (49%).</p>\n\n<p>During the period 2000\u20142018, the number of male tobacco users in the world increased each year, peaking in 2018 at 1,093 million.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615179873246\" data-storymaps-type=\"navigate\">6</a></span> The number of users is projected to decrease, assuming countries maintain current efforts in tobacco control.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615179878360\" data-storymaps-type=\"navigate\">7</a></span> Since 2000, the number of female tobacco users has been declining in all regions (244 million in 2018, an estimated 100 million fewer than in 2000).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615179883537\" data-storymaps-type=\"navigate\">8</a></span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1615179839649",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615179843928",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615179849337",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615179862196",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615179873246",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615179878360",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615179883537",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1615179925652,
+                    "pubDate": 1615179925652,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -155,8 +175,8 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:28px;\">&nbsp;</span>",
-                    "content": "<p>The difference in smoking prevalence between women and men is reduced in higher income countries (see figure I). For instance, in <span class=\"label-ref\">Australia and New Zealand</span> the gender gap is lower than 5 percentage points, and in <span class=\"label-ref\">Europe and Northern America</span> the gender gap was measured at about 11 percentage points in 2018.</p>\n<p>The gap may be associated with women having a greater control over their own resources in high-income countries and with the marketing strategies of the tobacco industry, which target women, especially young women.<span class=\"footnote-index\">9</span></p>\n<p>The gender difference is most marked in <span class=\"label-ref\">Eastern and South-Eastern Asia</span>, where more than 50% of men smoke, compared to only 4% of women. In all regions it is vital to reduce the use of smokeless tobacco products, especially in countries where they enjoy great popularity, for example in <span class=\"label-ref\">South-Eastern Asia</span>, where smokeless tobacco use among women is far more prevalent than smoked tobacco use (11.5% and 1.6%, respectively).<span class=\"footnote-index\">10</span></p>\n<p>Smoking has also been reported as a potential risk factor for <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/2546f9aed54c4f1d8d07e65f99a55365#NH12\" target=\"_blank\">COVID-19</a> as it is harmful to the immune system and its ability to respond to infections, specifically, because of its effects in upregulating receptors in the airways.<span class=\"footnote-index\">11</span> In a recent review, it was reported that smoking may be associated with a negative progression and adverse outcomes\u00a0of <span class=\"label-ref\">COVID-19</span>.<span class=\"footnote-index\">12</span> The higher prevalence of male smokers of all ages in Italy, especially among the elderly,<span class=\"footnote-index\">13</span> may explain their higher predisposition to COVID-19.<span class=\"footnote-index\">14</span></p>\n",
+                    "title": "<span style=\"font-size:28px\">&nbsp;</span>",
+                    "content": "<p>The difference in smoking prevalence between women and men is reduced in higher income countries (see figure I). For instance, in <span class=\"label-ref\">Australia and New Zealand</span> the gender gap is lower than 5 percentage points, and in <span class=\"label-ref\">Europe and Northern America</span> the gender gap was measured at about 11 percentage points in 2018.</p>\n\n<p>The gap may be associated with women having a greater control over their own resources in high-income countries and with the marketing strategies of the tobacco industry, which target women, especially young women.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180013804\" data-storymaps-type=\"navigate\">9</a></span></p>\n\n<p>The gender difference is most marked in <span class=\"label-ref\">Eastern and South-Eastern Asia</span>, where more than 50% of men smoke, compared to only 4% of women. In all regions it is vital to reduce the use of smokeless tobacco products, especially in countries where they enjoy great popularity, for example in <span class=\"label-ref\">South-Eastern Asia</span>, where smokeless tobacco use among women is far more prevalent than smoked tobacco use (11.5% and 1.6%, respectively).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180019027\" data-storymaps-type=\"navigate\">10</a></span></p>\n\n<p>Smoking has also been reported as a potential risk factor for <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/2546f9aed54c4f1d8d07e65f99a55365#NH12\" target=\"_blank\">COVID-19</a> as it is harmful to the immune system and its ability to respond to infections, specifically, because of its effects in upregulating receptors in the airways.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180024143\" data-storymaps-type=\"navigate\">11</a></span> In a recent review, it was reported that smoking may be associated with a negative progression and adverse outcomes&nbsp;of <span class=\"label-ref\">COVID-19</span>.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180032990\" data-storymaps-type=\"navigate\">12</a></span> The higher prevalence of male smokers of all ages in Italy, especially among the elderly,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180038441\" data-storymaps-type=\"navigate\">13</a></span> may explain their higher predisposition to COVID-19.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180044232\" data-storymaps-type=\"navigate\">14</a></span></p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609631920",
@@ -172,10 +192,40 @@
                             "id": "MJ-ACTION-1598609651540",
                             "type": "navigate",
                             "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180013804",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180019027",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180024143",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180032990",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180038441",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180044232",
+                            "type": "navigate",
+                            "index": 10
                         }
                     ],
-                    "creaDate": 1602780317501,
-                    "pubDate": 1602780317501,
+                    "creaDate": 1615180061476,
+                    "pubDate": 1615180061476,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -189,75 +239,57 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<p><strong>1 in 20 deaths result from harmful use of alcohol</strong></p>\n<p>Alcohol consumption can have an impact on the incidence of diseases, <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b0c1d58d7f044717985af52c7b6ad2ab#NH8\" target=\"_blank\">injuries</a> and other health conditions, including their outcomes. The health and social harms from drinking alcohol occur through three main interrelated mechanisms: (a) toxic effects on organs and tissues (resulting, for instance, in liver disease, heart disease or cancer); (b) development of dependence, whereby the drinker\u2019s self-control over his or her drinking is impaired, often involving alcohol-induced mental disorders, such as depression or psychoses; and (c) through intoxication, that is, the psychoactive effects of alcohol in the hours after drinking.<span class=\"footnote-index\">15</span></p>\n<p>In 2016, more than 3 million people died as a result of harmful use of alcohol \u2013 5% of global deaths for the year \u2014and over 75% of those deaths were among men.<span class=\"footnote-index\">16</span> For women, cardiovascular diseases are the most common cause of death connected to alcohol use (41.6% of all alcohol-related deaths among women), while for men, injuries (28.7%) and digestive diseases (21.3%) are the most common alcohol-related deaths.<span class=\"footnote-index\">17</span> The differences between women and men are even greater when considering the burden of disease as expressed in disability-adjusted life years.<span class=\"footnote-index\">18</span> Estimates for 2016 show that the number of years of life lost due to premature death and disability related to alcohol consumption is four times higher for men than for women (106.5 million years for men versus 26.1 million for women).<span class=\"footnote-index\">19</span></p>\n<p>In addition, the association of alcohol consumption with engagement in unprotected sex<span class=\"footnote-index\">20</span> has been shown to increase the risk of experiencing unintended pregnancy.<span class=\"footnote-index\">21</span> Alcohol-attributable harms are underestimated, especially for women, as alcohol is a contributing factor to <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/50dd1b2d6167437693178836261522e6#NV1\" target=\"_blank\">intimate partner violence</a> perpetrated against women.<span class=\"footnote-index\">22</span> The relationship between alcohol and intimate partner violence is a complex one and should be looked at within the context of broader gender inequalities and harmful gender norms and behaviours.</p>\n",
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<p><strong>1 in 20 deaths result from harmful use of alcohol</strong></p>\n\n<p>Alcohol consumption can have an impact on the incidence of diseases, <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b0c1d58d7f044717985af52c7b6ad2ab#NH8\" target=\"_blank\">injuries</a> and other health conditions, including their outcomes. The health and social harms from drinking alcohol occur through three main interrelated mechanisms: (a) toxic effects on organs and tissues (resulting, for instance, in liver disease, heart disease or cancer); (b) development of dependence, whereby the drinker\u2019s self-control over his or her drinking is impaired, often involving alcohol-induced mental disorders, such as depression or psychoses; and (c) through intoxication, that is, the psychoactive effects of alcohol in the hours after drinking.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180150418\" data-storymaps-type=\"navigate\">15</a></span></p>\n\n<p>In 2016, more than 3 million people died as a result of harmful use of alcohol \u2013 5% of global deaths for the year \u2014and over 75% of those deaths were among men.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180156068\" data-storymaps-type=\"navigate\">16</a></span> For women, cardiovascular diseases are the most common cause of death connected to alcohol use (41.6% of all alcohol-related deaths among women), while for men, injuries (28.7%) and digestive diseases (21.3%) are the most common alcohol-related deaths.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180161388\" data-storymaps-type=\"navigate\">17</a></span> The differences between women and men are even greater when considering the burden of disease as expressed in disability-adjusted life years.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180169460\" data-storymaps-type=\"navigate\">18</a></span> Estimates for 2016 show that the number of years of life lost due to premature death and disability related to alcohol consumption is four times higher for men than for women (106.5 million years for men versus 26.1 million for women).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180174796\" data-storymaps-type=\"navigate\">19</a></span></p>\n\n<p>In addition, the association of alcohol consumption with engagement in unprotected sex<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180184736\" data-storymaps-type=\"navigate\">20</a></span> has been shown to increase the risk of experiencing unintended pregnancy.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180190813\" data-storymaps-type=\"navigate\">21</a></span> Alcohol-attributable harms are underestimated, especially for women, as alcohol is a contributing factor to <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/50dd1b2d6167437693178836261522e6#NV1\" target=\"_blank\">intimate partner violence</a> perpetrated against women.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180195668\" data-storymaps-type=\"navigate\">22</a></span> The relationship between alcohol and intimate partner violence is a complex one and should be looked at within the context of broader gender inequalities and harmful gender norms and behaviours.</p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609674534",
                             "type": "navigate",
                             "index": 10
-                        }
-                    ],
-                    "creaDate": 1602973150668,
-                    "pubDate": 1602973150668,
-                    "status": "PUBLISHED",
-                    "media": {
-                        "type": "webpage",
-                        "webpage": {
-                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/health-nh6-graph-2",
-                            "type": "webpage",
-                            "altText": "",
-                            "display": "stretch",
-                            "unload": true
-                        }
-                    }
-                },
-                {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<p><strong>Worldwide, men consume almost four times more alcohol than women</strong></p>\n<p>In 2018, worldwide men consumed an average of 9.8 litres of pure alcohol per year compared to 2.6 litres among women, with no significant change\u00a0observed over the last 10 years (see figure II). It is less common for women to be current<span class=\"footnote-index\">23</span> drinkers than men, and when they drink, they drink less than men.</p>\n<p>Globally, the highest overall rate of alcohol consumption for both sexes is in <span class=\"label-ref\">Australia and New Zealand</span> and <span class=\"label-ref\">Europe and Northern America</span>, where men consume at least three times more alcohol than women (on average, 16 litres for men versus 5 litres for women) (see figure II). The lowest alcohol consumption is recorded in <span class=\"label-ref\">Northern Africa and Western Asia</span>, where the gender difference between women and men is even more pronounced (almost five-fold).</p>\n<p>The harmful use of alcohol not only increases the risk of one of the major non-communicable diseases, as described above, but it also plays a role in suicide and road traffic accidents and is frequently associated with the higher mortality rates among men than women due\u00a0to <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b0c1d58d7f044717985af52c7b6ad2ab#NH8\" target=\"_blank\">these causes</a>.<span class=\"footnote-index\">24</span></p>\n",
-                    "contentActions": [
+                        },
                         {
-                            "id": "MJ-ACTION-1598609698448",
+                            "id": "MJ-ACTION-1615180150418",
                             "type": "navigate",
                             "index": 10
                         },
                         {
-                            "id": "MJ-ACTION-1598609707111",
-                            "type": "navigate",
-                            "index": 10
-                        }
-                    ],
-                    "creaDate": 1602973191143,
-                    "pubDate": 1602973191143,
-                    "status": "PUBLISHED",
-                    "media": {
-                        "type": "webpage",
-                        "webpage": {
-                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/health-nh6-graph-2",
-                            "type": "webpage",
-                            "altText": "",
-                            "display": "stretch",
-                            "unload": true
-                        }
-                    }
-                },
-                {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<p>In terms of global prevalence, in 2016, it was estimated that 53.6% of men and 32.3% of women were current drinkers.<span class=\"footnote-index\">25</span> Worldwide, in 2016, the prevalence of drinking decreased among women (from 37.3% in 2000), although estimates of the absolute number of women who are current drinkers has increased.<span class=\"footnote-index\">26</span></p>\n<p>Alcohol consumption among women has additional implications. For example, women who drink during pregnancy may increase the risk of preventable health conditions, both for themselves and their newborn children, including stillbirth, spontaneous abortion, premature birth, intrauterine growth retardation and low birth weight. Alcohol use also increases the risk of foetal exposure to alcohol due to drinking during pregnancy or delayed recognition of pregnancy.<span class=\"footnote-index\">27</span></p>\n",
-                    "contentActions": [
-                        {
-                            "id": "MJ-ACTION-1598609766300",
+                            "id": "MJ-ACTION-1615180156068",
                             "type": "navigate",
                             "index": 10
                         },
                         {
-                            "id": "MJ-ACTION-1598609772459",
+                            "id": "MJ-ACTION-1615180161388",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180169460",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180174796",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180184736",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180190813",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180195668",
                             "type": "navigate",
                             "index": 10
                         }
                     ],
-                    "creaDate": 1602973217573,
-                    "pubDate": 1602973217573,
+                    "creaDate": 1615180222443,
+                    "pubDate": 1615180222443,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -272,10 +304,149 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px\">&nbsp;</span>",
-                    "content": "<p><strong>Obesity, a significant risk factor in mortality and morbidity due to cardiovascular diseases, diabetes and cancer, is more prevalent among women</strong></p>\n<p>Globally, at least 2.8 million people die each year as a result of being overweight or obese.<span class=\"footnote-index\">28</span><span class=\"footnote-index\">,</span><span class=\"footnote-index\">29</span> Excess body weight is a significant risk factor in mortality and morbidity due to cardiovascular diseases, diabetes and cancer (including breast <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/527e660cda4c470980fca8eca7b2c3fc#NH11\" target=\"_blank\">cancer</a>). Overweight and obesity are causes of increased blood pressure, high cholesterol and triglycerides levels and insulin resistance, which are themselves direct risk factors for several chronic diseases.<span class=\"footnote-index\">30</span></p>\n<p>In 2016, 39% of adults aged 18 years and older (39% of men and 40% of women) were overweight, and about 13% of the world\u2019s adult population (11% of men and 15% of women) were obese.<span class=\"footnote-index\">31</span> The prevalence of obesity is about 36% higher among women, and although the gender gap has remained steady since 2010, the trend for both women and men is moving upwards (see figure III). Based on data for the period 2001\u20142016, women are less likely than men to participate in physical activities (32% of women versus 23% of men).<span class=\"footnote-index\">32</span></p>\n<p>In general, women have less access to <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/022ab89e10d04700901ced2a133eda86#NW1\" target=\"_blank\">economic resources</a> and have an extra <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/6f02cbbfb8d34cb7806d21f4bd14e826#NW25\" target=\"_blank\">household workload</a>, making it difficult for them to allocate adequate resources and time to exercise<span class=\"footnote-index\">33</span> and lead a healthy diet. In addition, in many societies, men, as opposed to women, are expected to be physically strong, which could contribute to women\u2019s lower level of physical activity.<span class=\"footnote-index\">34</span> Lack of physical activity combined with sex-related biological factors, such as women\u2019s predisposition to store fat subcutaneously and lower metabolic rates, may contribute to the prevalence of obesity in women.<span class=\"footnote-index\">35</span></p>\n<p>In a cohort of patients hospitalized with <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/2546f9aed54c4f1d8d07e65f99a55365#NH12\" target=\"_blank\">COVID-19</a> in a minority-predominant population (<span class=\"label-ref\">African-American</span>), men with severe obesity<span class=\"footnote-index\">36</span>\u00a0in older ages\u00a0were independently associated with higher in-hospital mortality and in general worse in-hospital outcomes.<span class=\"footnote-index\">37</span> In a study conducted in the United Kingdom of Great Britain and Northern Ireland, an unhealthy body mass index was strongly associated with testing positive for and risk of death related to COVID-19. The gradient of risk in relation to body mass index was steeper in those under age 70 in comparison with those aged 70 and older\u00a0for <span class=\"label-ref\">COVID-19</span>-related deaths. In addition, unhealthy body mass index was more strongly related to test positivity and death in non-whites (predominantly South Asians and Afro-Caribbeans) compared with whites.<span class=\"footnote-index\">38</span></p>\n",
-                    "contentActions": [],
-                    "creaDate": 1603121776011,
-                    "pubDate": 1603121776011,
+                    "content": "<p><strong>Worldwide, men consume almost four times more alcohol than women</strong></p>\n\n<p>In 2018, worldwide men consumed an average of 9.8 litres of pure alcohol per year compared to 2.6 litres among women, with no significant change&nbsp;observed over the last 10 years (see figure II). It is less common for women to be current<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180369052\" data-storymaps-type=\"navigate\">23</a></span> drinkers than men, and when they drink, they drink less than men.</p>\n\n<p>Globally, the highest overall rate of alcohol consumption for both sexes is in <span class=\"label-ref\">Australia and New Zealand</span> and <span class=\"label-ref\">Europe and Northern America</span>, where men consume at least three times more alcohol than women (on average, 16 litres for men versus 5 litres for women) (see figure II). The lowest alcohol consumption is recorded in <span class=\"label-ref\">Northern Africa and Western Asia</span>, where the gender difference between women and men is even more pronounced (almost five-fold).</p>\n\n<p>The harmful use of alcohol not only increases the risk of one of the major non-communicable diseases, as described above, but it also plays a role in suicide and road traffic accidents and is frequently associated with the higher mortality rates among men than women due&nbsp;to <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b0c1d58d7f044717985af52c7b6ad2ab#NH8\" target=\"_blank\">these causes</a>.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180375335\" data-storymaps-type=\"navigate\">24</a></span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609698448",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609707111",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180369052",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180375335",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1615180390560,
+                    "pubDate": 1615180390560,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/health-nh6-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<p>In terms of global prevalence, in 2016, it was estimated that 53.6% of men and 32.3% of women were current drinkers.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180452978\" data-storymaps-type=\"navigate\">25</a></span> Worldwide, in 2016, the prevalence of drinking decreased among women (from 37.3% in 2000), although estimates of the absolute number of women who are current drinkers has increased.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180478362\" data-storymaps-type=\"navigate\">26</a></span></p>\n\n<p>Alcohol consumption among women has additional implications. For example, women who drink during pregnancy may increase the risk of preventable health conditions, both for themselves and their newborn children, including stillbirth, spontaneous abortion, premature birth, intrauterine growth retardation and low birth weight. Alcohol use also increases the risk of foetal exposure to alcohol due to drinking during pregnancy or delayed recognition of pregnancy.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180483934\" data-storymaps-type=\"navigate\">27</a></span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1598609766300",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1598609772459",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180452978",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180478362",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180483934",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1615180502633,
+                    "pubDate": 1615180502633,
+                    "status": "PUBLISHED",
+                    "media": {
+                        "type": "webpage",
+                        "webpage": {
+                            "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/health-nh6-graph-2",
+                            "type": "webpage",
+                            "altText": "",
+                            "display": "stretch",
+                            "unload": true
+                        }
+                    }
+                },
+                {
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<p><strong>Obesity, a significant risk factor in mortality and morbidity due to cardiovascular diseases, diabetes and cancer, is more prevalent among women</strong></p>\n\n<p>Globally, at least 2.8 million people die each year as a result of being overweight or obese.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180568801\" data-storymaps-type=\"navigate\">28</a></span><span class=\"footnote-index\">,</span><span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180573503\" data-storymaps-type=\"navigate\">29</a></span> Excess body weight is a significant risk factor in mortality and morbidity due to cardiovascular diseases, diabetes and cancer (including breast <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/527e660cda4c470980fca8eca7b2c3fc#NH11\" target=\"_blank\">cancer</a>). Overweight and obesity are causes of increased blood pressure, high cholesterol and triglycerides levels and insulin resistance, which are themselves direct risk factors for several chronic diseases.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180585104\" data-storymaps-type=\"navigate\">30</a></span></p>\n\n<p>In 2016, 39% of adults aged 18 years and older (39% of men and 40% of women) were overweight, and about 13% of the world\u2019s adult population (11% of men and 15% of women) were obese.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180590848\" data-storymaps-type=\"navigate\">31</a></span> The prevalence of obesity is about 36% higher among women, and although the gender gap has remained steady since 2010, the trend for both women and men is moving upwards (see figure III). Based on data for the period 2001\u20142016, women are less likely than men to participate in physical activities (32% of women versus 23% of men).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180596569\" data-storymaps-type=\"navigate\">32</a></span></p>\n\n<p>In general, women have less access to <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/27c1c1ad540347aabc70434238223919#NW1\" target=\"_blank\">economic resources</a> and have an extra <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/6f02cbbfb8d34cb7806d21f4bd14e826#NW25\" target=\"_blank\">household workload</a>, making it difficult for them to allocate adequate resources and time to exercise<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180601479\" data-storymaps-type=\"navigate\">33</a></span> and lead a healthy diet. In addition, in many societies, men, as opposed to women, are expected to be physically strong, which could contribute to women\u2019s lower level of physical activity.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180609222\" data-storymaps-type=\"navigate\">34</a></span> Lack of physical activity combined with sex-related biological factors, such as women\u2019s predisposition to store fat subcutaneously and lower metabolic rates, may contribute to the prevalence of obesity in women.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180613905\" data-storymaps-type=\"navigate\">35</a></span></p>\n\n<p>In a cohort of patients hospitalized with <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/2546f9aed54c4f1d8d07e65f99a55365#NH12\" target=\"_blank\">COVID-19</a> in a minority-predominant population (<span class=\"label-ref\">African-American</span>), men with severe obesity<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180624679\" data-storymaps-type=\"navigate\">36</a></span>&nbsp;in older ages&nbsp;were independently associated with higher in-hospital mortality and in general worse in-hospital outcomes.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180629775\" data-storymaps-type=\"navigate\">37</a></span> In a study conducted in the United Kingdom of Great Britain and Northern Ireland, an unhealthy body mass index was strongly associated with testing positive for and risk of death related to COVID-19. The gradient of risk in relation to body mass index was steeper in those under age 70 in comparison with those aged 70 and older&nbsp;for <span class=\"label-ref\">COVID-19</span>-related deaths. In addition, unhealthy body mass index was more strongly related to test positivity and death in non-whites (predominantly South Asians and Afro-Caribbeans) compared with whites.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180638210\" data-storymaps-type=\"navigate\">38</a></span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1615180568801",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180573503",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180585104",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180590848",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180596569",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180601479",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180609222",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180613905",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180624679",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180629775",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180638210",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1615180686575,
+                    "pubDate": 1615180686575,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -289,8 +460,8 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li><span class=\"concept\">Age-standardized prevalence of tobacco use among persons aged 15 and older</span>: <span class=\"definition\">Percentage of the population aged 15 and older\u00a0who currently use tobacco products (smoked and/or smokeless tobacco), including: cigarettes, pipes, cigars, cigarillos, waterpipes (hookah/shisha), bidis, kretek, heated tobacco products and all forms of smokeless (oral and nasal) tobacco products. In this indicator, tobacco products exclude e-cigarettes (which do not contain tobacco), \u201ce-cigars\u201d, \u201ce-hookahs\u201d, JUUL and \u201ce-pipes\u201d.</span></li>\n<li><span class=\"concept\">Total alcohol consumption per capita</span>: <span class=\"definition\">Total amount of alcohol consumed per adult (aged 15 and older) over a calendar year, in litres of pure alcohol (adjusted for tourist consumption).</span></li>\n<li><span class=\"concept\">Prevalence of obesity</span>: <span class=\"definition\">Percentage of the population whose calculated body mass index is greater than or equal to 30 kg/m2. Body mass index is a simple index of weight-to-height, commonly used to classify overweight and obesity in adults. It is defined as a person's weight in kilograms divided by the square of his or her height in meters (kg/m2).</span></li>\n</ul>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<ul>\n<li><span class=\"concept\">Age-standardized prevalence of tobacco use among persons aged 15 and older</span>: <span class=\"availability\">Data on the indicator are available from the World Health Organization (WHO) for all WHO member States for the period 2000\u20142020, according to the availability of empirical data for each country: countries are organized by regional groupings under the Sustainable Development Goals (SDGs) indicators framework.<span class=\"footnote-index\">39</span></span></li>\n<li><span class=\"concept\">Total alcohol consumption per capita</span>: <span class=\"availability\">Data are available for 190 member States of the World Health Organization (WHO).</span></li>\n<li><span class=\"concept\">Prevalence of obesity</span>: <span class=\"availability\">Data are available for 200 countries, tracking worldwide trends in body-mass index, underweight, overweight and obesity for the period 1975\u20142016.<span class=\"footnote-index\">40</span></span></li>\n</ul>\n</div>\n</div>\n",
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Age-standardized prevalence of tobacco use among persons aged 15 and older</span>: <span class=\"definition\">Percentage of the population aged 15 and older&nbsp;who currently use tobacco products (smoked and/or smokeless tobacco), including: cigarettes, pipes, cigars, cigarillos, waterpipes (hookah/shisha), bidis, kretek, heated tobacco products and all forms of smokeless (oral and nasal) tobacco products. In this indicator, tobacco products exclude e-cigarettes (which do not contain tobacco), \u201ce-cigars\u201d, \u201ce-hookahs\u201d, JUUL and \u201ce-pipes\u201d.</span></li>\n\t<li><span class=\"concept\">Total alcohol consumption per capita</span>: <span class=\"definition\">Total amount of alcohol consumed per adult (aged 15 and older) over a calendar year, in litres of pure alcohol<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615180957604\" data-storymaps-type=\"navigate\">39</a></span> (adjusted for tourist consumption).</span></li>\n\t<li><span class=\"concept\">Prevalence of obesity</span>: <span class=\"definition\">Percentage of the population whose calculated body mass index is greater than or equal to 30 kg/m2. Body mass index is a simple index of weight-to-height, commonly used to classify overweight and obesity in adults. It is defined as a person's weight in kilograms divided by the square of his or her height in meters (kg/m2).</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<ul>\n\t<li><span class=\"concept\">Age-standardized prevalence of tobacco use among persons aged 15 and older</span>: <span class=\"availability\">Data on the indicator are available from the World Health Organization (WHO) for all WHO member States for the period 2000\u20142020, according to the availability of empirical data for each country: countries are organized by regional groupings under the Sustainable Development Goals (SDGs) indicators framework.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615181029724\" data-storymaps-type=\"navigate\">40</a></span></span></li>\n\t<li><span class=\"concept\">Total alcohol consumption per capita</span>: <span class=\"availability\">Data are available for 190 member States of the World Health Organization (WHO).</span></li>\n\t<li><span class=\"concept\">Prevalence of obesity</span>: <span class=\"availability\">Data are available for 200 countries, tracking worldwide trends in body-mass index, underweight, overweight and obesity for the period 1975\u20142016.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615181035699\" data-storymaps-type=\"navigate\">41</a></span></span></li>\n</ul>\n</div>\n</div>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609809974",
@@ -306,10 +477,25 @@
                             "id": "MJ-ACTION-1598609820099",
                             "type": "navigate",
                             "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180957604",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615181029724",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615181035699",
+                            "type": "navigate",
+                            "index": 10
                         }
                     ],
-                    "creaDate": 1602779396327,
-                    "pubDate": 1602779396327,
+                    "creaDate": 1615181036292,
+                    "pubDate": 1615181036292,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -322,8 +508,8 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"http://www.healthdata.org/sites/default/files/files/policy_report/2019/GBD_2017_Booklet_Issuu_2.pdf\" target=\"_blank\">Institute for Health Metrics and Evaluation, Findings from the Global Burden of Disease Study 2017, Seattle, 2018</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.who.int/news-room/fact-sheets/detail/tobacco\" target=\"_blank\">World Health Organization (WHO), Fact sheets, Tobacco, May 2020</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.who.int/gender/documents/10facts_gender_tobacco_en.pdf\" target=\"_blank\">WHO, 2010, 10 facts on gender and tobacco</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.who.int/news-room/fact-sheets/detail/tobacco\" target=\"_blank\">WHO, Fact sheet on tobacco, 2020</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://academic.oup.com/jnci/article/96/1/29/2520748\" target=\"_blank\">Reynolds, P. et al, \u201cActive smoking, household passive smoking, and breast cancer: evidence from the California Teachers Study\u201d, Journal of the National Cancer Institute, vol. 96, Issue 7, January 2004</a>; <a href=\"https://www.researchgate.net/publication/235756281_Active_Smoking_and_Breast_Cancer_Risk_Original_Cohort_Data_and_Meta-Analysis\" target=\"_blank\">Gaudet, M.M., et al, \u201cActive smoking and breast cancer risk: original cohort data and meta-analysis\u201d, Journal of the National Cancer Institute, vol. 105, Issue 8, April 2013</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://apps.who.int/iris/bitstream/handle/10665/330221/9789240000032-eng.pdf?ua=1\" target=\"_blank\">WHO, WHO global report on trends in prevalence of tobacco use 2000\u20132025, third edition, Geneva, 2019</a>. (\u21e1 back to text)</li>\n<li>Ibid. (\u21e1 back to text)</li>\n<li>Ibid. (\u21e1 back to text)</li>\n<li><a href=\"https://www.who.int/bulletin/volumes/89/3/10-079905.pdf\" target=\"_blank\">Hitchman, S.C., Fong, G.T., \u201cGender empowerment and female-to-male smoking prevalence ratios\u201d, Bulletin of the World Health Organization, vol. 89 (3), 2011</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://apps.who.int/iris/bitstream/handle/10665/330221/9789240000032-eng.pdf?ua=1\" target=\"_blank\">WHO, WHO global report on trends in prevalence of tobacco use 2000\u20132025, third edition, Geneva, 2019</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30117-X/fulltext\" target=\"_blank\">Cai, H., \u201cSex difference and smoking predisposition in patients with Covid-19\u201d, Lancet Respiratory Medicine, vol.8, Issue 4, April 2020</a>. (\u21e1 back to text)</li>\n<li><a href=\"http://www.tobaccoinduceddiseases.org/Covid-19-and-smoking-A-systematic-review-of-the-evidence,119324,0,2.html\" target=\"_blank\">Vardavas, C.I., Nikitara, K., \u201cCovid-19 and smoking: A systematic review of the evidence\u201d, Tobacco Induced Diseases, vol. 18, March 2020</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.epicentro.iss.it/passi-argento/dati/fumo#dati\" target=\"_blank\">National Health Institute, La sorveglianza Passi d'Argento, I dati per l'Italia: abitudine al fumo. [The Italian behavioural risk factor surveillance system in the elderly population, data for Italy: smoking habit] </a>(accessed on 24 April 2020) (Italian original). (\u21e1 back to text)</li>\n<li><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7238743/#r15\" target=\"_blank\">Michelozzi, P. et al., \u201cMortality impacts of the coronavirus disease (Covid-19) outbreak by sex and age: rapid mortality surveillance system, Italy, 1 February to 18 April 2020\u201d, Eurosurveillance, vol. 25 (19), May 2020</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://apps.who.int/iris/bitstream/handle/10665/274603/9789241565639-eng.pdf?ua=1\" target=\"_blank\">WHO, 2018, Global status report on alcohol and health 2018, Geneva, 2018</a>; and <a href=\"https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199551149.001.0001/acprof-9780199551149\" target=\"_blank\">Babor, T. et al., Alcohol: No Ordinary Commodity: Research and Public Policy, first edition, Oxford Scholarship Online, 2010</a>. (\u21e1 back to text)</li>\n<li>Ibid. (\u21e1 back to text)</li>\n<li>Ibid. (\u21e1 back to text)</li>\n<li>Disability-adjusted life years (DALYs) measure the burden of disease, injury and death in a population. Alcohol-attributable DALYs may be interpreted as the number of years lost due to ill-health, disability or early death from the use of alcohol. Alcohol attributable DALYs are DALYs that would not have occurred if alcohol were not consumed in the population. (See <a href=\"https://apps.who.int/iris/bitstream/handle/10665/274603/9789241565639-eng.pdf?ua=1\" target=\"_blank\">WHO, Global status report on alcohol and health 2018, Geneva, 2018)</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://apps.who.int/iris/bitstream/handle/10665/274603/9789241565639-eng.pdf?ua=1\" target=\"_blank\">WHO, Global status report on alcohol and health 2018, Geneva, 2018</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://link.springer.com/article/10.1007/s10461-015-1108-9\" target=\"_blank\">Scott-Sheldon, L. et al, \u201cAlcohol use predicts sexual decision-making: a systematic review and meta-analysis of the experimental literature\u201d,AIDS and Behavior, vol. 20, 19\u201439(2016)</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/s12884-015-0663-4\" target=\"_blank\">Oulman, E. et al, \u201cPrevalence and predictors of unintended pregnancy among women: an analysis of the Canadian Maternity Experiences Survey\u201d, BMC Pregnancy and Childbirth, vol. 15, 260 (2015)</a>; and <a href=\"https://journals.lww.com/journaladdictionmedicine/Abstract/2018/08000/Is_Preconception_Substance_Use_Associated_With.12.aspx\" target=\"_blank\">Lundsberg, L. et al, \u201cIs preconception substance use associated with unplanned or poorly timed pregnancy?\u201d, Journal of Addiction Medicine, vol. 12, Issue 4, July/August 2018</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://iris.paho.org/bitstream/handle/10665.2/6085/Prevention%20of%20alcohol-related%202013.pdf?sequence=1&amp;isAllowed=\" target=\"_blank\">Cherpitel, C.J. et al, Prevention of alcohol-related injuries in the Americas: from evidence to policy action, Pan American Health Organization and WHO, Washington, D.C., 2013</a>; and <a href=\"https://journals.sagepub.com/doi/10.1177/0886260510370596\" target=\"_blank\">Graham, K. et al, \u201cAlcohol may not cause partner violence but it seems to make it worse: a cross national comparison of the relationship between alcohol and severity of partner violence\u201d, Journal of Interpersonal Violence, vol. 26, Issue 8, 3 June 2010</a>. (\u21e1 back to text)</li>\n<li>Current drinkers are defined as people who have consumed alcohol in the previous 12 months. (\u21e1 back to text)</li>\n<li><a href=\"https://dx.doi.org/10.3390/ijerph7041392\" target=\"_blank\">Pompili, M. et al. \u201cSuicidal behavior and alcohol abuse\u201d, International Journal of Environmental Research and Public Health, vol. 7(4), 2010</a>. (\u21e1 back to text)</li>\n<li>Current drinkers are defined as people who have consumed alcohol in the previous 12 months. (\u21e1 back to text)</li>\n<li>Ibid. (\u21e1 back to text)</li>\n<li><a href=\"https://www.sciencedirect.com/journal/obstetrics-and-gynecology-clinics-of-north-america/vol/41/issue/2\" target=\"_blank\">Connery, H.S., Albright, B.B. and Rodolico, J.M., \u201cAdolescent substance use and unplanned pregnancy: strategies for risk reduction\u201d Obstetrics and Gynecology Clinics of North America, vol. 41, Issue 2, June 2014</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.who.int/features/factfiles/obesity/en/\" target=\"_blank\">WHO, Health Topics, Fact sheets, 10 facts on obesity</a>. (\u21e1 back to text)</li>\n<li>According to WHO, a person with a body mass index of 25 or more is considered overweight, and a person with a body mass index of 30 or more is considered obese. (\u21e1 back to text)</li>\n<li><a href=\"https://pubmed.ncbi.nlm.nih.gov/21295846/\" target=\"_blank\">Finucane, M. et al, \u201cNational, regional, and global trends in body-mass index since 1980: systematic analysis of health examination surveys and epidemiological studies with 960 country-years and 9,1 million participants\u201d, The Lancet, vol. 377, Issue 9765, February 2011</a>; <a href=\"https://www.who.int/whosis/whostat/2011/en/\" target=\"_blank\">WHO, World Health Statistics 2011, Geneva, 2011</a>; <a href=\"https://www.who.int/whosis/whostat/2009/en/\" target=\"_blank\">WHO, World Health Statistics 2009, Geneva, 2009</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.who.int/en/news-room/fact-sheets/detail/obesity-and-overweight\" target=\"_blank\">WHO, Health Topics, Fact sheets, Obesity and overweight</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32129-3/fulltext\" target=\"_blank\">Guthold, R., Stevens, G.A., Riley, L.M. and Bull, F.C., \u201cWorldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016, a pooled analysis of 2416 population-based measurement studies in 128.9 million children, adolescents, and adults\u201d, The Lancet, vol. 390, Issue 10113, 16 December 2017</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.who.int/news-room/fact-sheets/detail/physical-activity\" target=\"_blank\">WHO, Health Topics, Fact sheets, Physical activity, Geneva, 2018</a>. (\u21e1 back to text)</li>\n<li><a href=\"http://www.gsws.pitt.edu/blogs/msf31/unexpected-social-pressures-males\" target=\"_blank\">University of Pittsburg, Gender, Sexuality, &amp; Women\u2019s Studies Program, \u201cUnexpected social pressures from males\u201d</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32129-3/fulltext\" target=\"_blank\">Guthold, R., Stevens, G.A., Riley, L.M. and Bull, F.C., \u201cWorldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016, a pooled analysis of 2416 population-based measurement studies in 128.9 million children, adolescents, and adults\u201d, The Lancet, vol. 390, Issue 10113, 16 December 2017</a>. (\u21e1 back to text)</li>\n<li>Severe obesity is classified as a body mass index of 35 or more. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7228874/\" target=\"_blank\">Palaiodimos, L. et al, \u201cSevere obesity, increasing age and male sex are independently associated with worse in-hospital outcomes, and higher in-hospital mortality, in a cohort of patients with Covid-19 in the Bronx, New York\u201d, Metabolism: Clinical and Experimental, vol., 108, July 2020</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7326434/\" target=\"_blank\">Sattar, N. et al, \u201cBMI and future risk for Covid-19 infection and death across sex, age and ethnicity: Preliminary findings from UK biobank\u201d, Diabetes &amp; Metabolic Syndrome: Clinical Research &amp; Reviews, vol. 14, Issue 5, September\u2014October 2020</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\" target=\"_blank\">Regional groupings under the Sustainable Development Goals (SDGs) indicators framework</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32129-3/fulltext\" target=\"_blank\">Data based on Guthold, R., Stevens, G.A., Riley, L.M. and Bull, F.C., \u201cWorldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016, a pooled analysis of 2416 population-based measurement studies in 128.9 million children, adolescents, and adults\u201d, The Lancet, vol. 390, Issue 10113, 16 December 2017</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"http://www.healthdata.org/sites/default/files/files/policy_report/2019/GBD_2017_Booklet_Issuu_2.pdf\" target=\"_blank\">Institute for Health Metrics and Evaluation, Findings from the Global Burden of Disease Study 2017, Seattle, 2018</a>. (<a data-storymaps=\"MJ-ACTION-1615179827412\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.who.int/news-room/fact-sheets/detail/tobacco\" target=\"_blank\">World Health Organization (WHO), Fact sheets, Tobacco, May 2020</a>. (<a data-storymaps=\"MJ-ACTION-1615179951188\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.who.int/gender/documents/10facts_gender_tobacco_en.pdf\" target=\"_blank\">WHO, 2010, 10 facts on gender and tobacco</a>. (<a data-storymaps=\"MJ-ACTION-1615179958239\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.who.int/news-room/fact-sheets/detail/tobacco\" target=\"_blank\">WHO, Fact sheet on tobacco, 2020</a>. (<a data-storymaps=\"MJ-ACTION-1615179965752\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://academic.oup.com/jnci/article/96/1/29/2520748\" target=\"_blank\">Reynolds, P. et al, \u201cActive smoking, household passive smoking, and breast cancer: evidence from the California Teachers Study\u201d, Journal of the National Cancer Institute, vol. 96, Issue 7, January 2004</a>; <a href=\"https://www.researchgate.net/publication/235756281_Active_Smoking_and_Breast_Cancer_Risk_Original_Cohort_Data_and_Meta-Analysis\" target=\"_blank\">Gaudet, M.M., et al, \u201cActive smoking and breast cancer risk: original cohort data and meta-analysis\u201d, Journal of the National Cancer Institute, vol. 105, Issue 8, April 2013</a>. (<a data-storymaps=\"MJ-ACTION-1615179972508\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://apps.who.int/iris/bitstream/handle/10665/330221/9789240000032-eng.pdf?ua=1\" target=\"_blank\">WHO, WHO global report on trends in prevalence of tobacco use 2000\u20132025, third edition, Geneva, 2019</a>. (<a data-storymaps=\"MJ-ACTION-1615179979667\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Ibid. (<a data-storymaps=\"MJ-ACTION-1615179986242\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Ibid. (<a data-storymaps=\"MJ-ACTION-1615179992525\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.who.int/bulletin/volumes/89/3/10-079905.pdf\" target=\"_blank\">Hitchman, S.C., Fong, G.T., \u201cGender empowerment and female-to-male smoking prevalence ratios\u201d, Bulletin of the World Health Organization, vol. 89 (3), 2011</a>. (<a data-storymaps=\"MJ-ACTION-1615180086914\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://apps.who.int/iris/bitstream/handle/10665/330221/9789240000032-eng.pdf?ua=1\" target=\"_blank\">WHO, WHO global report on trends in prevalence of tobacco use 2000\u20132025, third edition, Geneva, 2019</a>. (<a data-storymaps=\"MJ-ACTION-1615180094671\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30117-X/fulltext\" target=\"_blank\">Cai, H., \u201cSex difference and smoking predisposition in patients with Covid-19\u201d, Lancet Respiratory Medicine, vol.8, Issue 4, April 2020</a>. (<a data-storymaps=\"MJ-ACTION-1615180101309\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"http://www.tobaccoinduceddiseases.org/Covid-19-and-smoking-A-systematic-review-of-the-evidence,119324,0,2.html\" target=\"_blank\">Vardavas, C.I., Nikitara, K., \u201cCovid-19 and smoking: A systematic review of the evidence\u201d, Tobacco Induced Diseases, vol. 18, March 2020</a>. (<a data-storymaps=\"MJ-ACTION-1615180109162\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.epicentro.iss.it/passi-argento/dati/fumo#dati\" target=\"_blank\">National Health Institute, La sorveglianza Passi d'Argento, I dati per l'Italia: abitudine al fumo. [The Italian behavioural risk factor surveillance system in the elderly population, data for Italy: smoking habit] </a>(accessed on 24 April 2020) (Italian original). (<a data-storymaps=\"MJ-ACTION-1615180116913\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7238743/#r15\" target=\"_blank\">Michelozzi, P. et al., \u201cMortality impacts of the coronavirus disease (Covid-19) outbreak by sex and age: rapid mortality surveillance system, Italy, 1 February to 18 April 2020\u201d, Eurosurveillance, vol. 25 (19), May 2020</a>. (<a data-storymaps=\"MJ-ACTION-1615180129085\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://apps.who.int/iris/bitstream/handle/10665/274603/9789241565639-eng.pdf?ua=1\" target=\"_blank\">WHO, 2018, Global status report on alcohol and health 2018, Geneva, 2018</a>; and <a href=\"https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199551149.001.0001/acprof-9780199551149\" target=\"_blank\">Babor, T. et al., Alcohol: No Ordinary Commodity: Research and Public Policy, first edition, Oxford Scholarship Online, 2010</a>. (<a data-storymaps=\"MJ-ACTION-1615180250844\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Ibid. (<a data-storymaps=\"MJ-ACTION-1615180280727\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Ibid. (<a data-storymaps=\"MJ-ACTION-1615180286013\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Disability-adjusted life years (DALYs) measure the burden of disease, injury and death in a population. Alcohol-attributable DALYs may be interpreted as the number of years lost due to ill-health, disability or early death from the use of alcohol. Alcohol attributable DALYs are DALYs that would not have occurred if alcohol were not consumed in the population. (See <a href=\"https://apps.who.int/iris/bitstream/handle/10665/274603/9789241565639-eng.pdf?ua=1\" target=\"_blank\">WHO, Global status report on alcohol and health 2018, Geneva, 2018)</a>. (<a data-storymaps=\"MJ-ACTION-1615180297069\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://apps.who.int/iris/bitstream/handle/10665/274603/9789241565639-eng.pdf?ua=1\" target=\"_blank\">WHO, Global status report on alcohol and health 2018, Geneva, 2018</a>. (<a data-storymaps=\"MJ-ACTION-1615180326720\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://link.springer.com/article/10.1007/s10461-015-1108-9\" target=\"_blank\">Scott-Sheldon, L. et al, \u201cAlcohol use predicts sexual decision-making: a systematic review and meta-analysis of the experimental literature\u201d,AIDS and Behavior, vol. 20, 19\u201439(2016)</a>. (<a data-storymaps=\"MJ-ACTION-1615180334990\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/s12884-015-0663-4\" target=\"_blank\">Oulman, E. et al, \u201cPrevalence and predictors of unintended pregnancy among women: an analysis of the Canadian Maternity Experiences Survey\u201d, BMC Pregnancy and Childbirth, vol. 15, 260 (2015)</a>; and <a href=\"https://journals.lww.com/journaladdictionmedicine/Abstract/2018/08000/Is_Preconception_Substance_Use_Associated_With.12.aspx\" target=\"_blank\">Lundsberg, L. et al, \u201cIs preconception substance use associated with unplanned or poorly timed pregnancy?\u201d, Journal of Addiction Medicine, vol. 12, Issue 4, July/August 2018</a>. (<a data-storymaps=\"MJ-ACTION-1615180341810\" data-storymaps-type=\"navigate\">\u21e1 back to tex</a>t)</li>\n\t<li><a href=\"https://iris.paho.org/bitstream/handle/10665.2/6085/Prevention%20of%20alcohol-related%202013.pdf?sequence=1&amp;isAllowed=\" target=\"_blank\">Cherpitel, C.J. et al, Prevention of alcohol-related injuries in the Americas: from evidence to policy action, Pan American Health Organization and WHO, Washington, D.C., 2013</a>; and <a href=\"https://journals.sagepub.com/doi/10.1177/0886260510370596\" target=\"_blank\">Graham, K. et al, \u201cAlcohol may not cause partner violence but it seems to make it worse: a cross national comparison of the relationship between alcohol and severity of partner violence\u201d, Journal of Interpersonal Violence, vol. 26, Issue 8, 3 June 2010</a>. (<a data-storymaps=\"MJ-ACTION-1615180349505\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Current drinkers are defined as people who have consumed alcohol in the previous 12 months. (<a data-storymaps=\"MJ-ACTION-1615180411572\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://dx.doi.org/10.3390/ijerph7041392\" target=\"_blank\">Pompili, M. et al. \u201cSuicidal behavior and alcohol abuse\u201d, International Journal of Environmental Research and Public Health, vol. 7(4), 2010</a>. (<a data-storymaps=\"MJ-ACTION-1615180416929\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Current drinkers are defined as people who have consumed alcohol in the previous 12 months. (<a data-storymaps=\"MJ-ACTION-1615180744029\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Ibid. (<a data-storymaps=\"MJ-ACTION-1615180754471\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.sciencedirect.com/journal/obstetrics-and-gynecology-clinics-of-north-america/vol/41/issue/2\" target=\"_blank\">Connery, H.S., Albright, B.B. and Rodolico, J.M., \u201cAdolescent substance use and unplanned pregnancy: strategies for risk reduction\u201d Obstetrics and Gynecology Clinics of North America, vol. 41, Issue 2, June 2014</a>. (<a data-storymaps=\"MJ-ACTION-1615180763238\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.who.int/features/factfiles/obesity/en/\" target=\"_blank\">WHO, Health Topics, Fact sheets, 10 facts on obesity</a>. (<a data-storymaps=\"MJ-ACTION-1615180795326\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>According to WHO, a person with a body mass index of 25 or more is considered overweight, and a person with a body mass index of 30 or more is considered obese. (<a data-storymaps=\"MJ-ACTION-1615180801441\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://pubmed.ncbi.nlm.nih.gov/21295846/\" target=\"_blank\">Finucane, M. et al, \u201cNational, regional, and global trends in body-mass index since 1980: systematic analysis of health examination surveys and epidemiological studies with 960 country-years and 9,1 million participants\u201d, The Lancet, vol. 377, Issue 9765, February 2011</a>; <a href=\"https://www.who.int/whosis/whostat/2011/en/\" target=\"_blank\">WHO, World Health Statistics 2011, Geneva, 2011</a>; <a href=\"https://www.who.int/whosis/whostat/2009/en/\" target=\"_blank\">WHO, World Health Statistics 2009, Geneva, 2009</a>. (<a data-storymaps=\"MJ-ACTION-1615180808299\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.who.int/en/news-room/fact-sheets/detail/obesity-and-overweight\" target=\"_blank\">WHO, Health Topics, Fact sheets, Obesity and overweight</a>. (<a data-storymaps=\"MJ-ACTION-1615180813571\" data-storymaps-type=\"navigate\">\u21e1 back to tex</a>t)</li>\n\t<li><a href=\"https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32129-3/fulltext\" target=\"_blank\">Guthold, R., Stevens, G.A., Riley, L.M. and Bull, F.C., \u201cWorldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016, a pooled analysis of 2416 population-based measurement studies in 128.9 million children, adolescents, and adults\u201d, The Lancet, vol. 390, Issue 10113, 16 December 2017</a>. (<a data-storymaps=\"MJ-ACTION-1615180821000\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.who.int/news-room/fact-sheets/detail/physical-activity\" target=\"_blank\">WHO, Health Topics, Fact sheets, Physical activity, Geneva, 2018</a>. (<a data-storymaps=\"MJ-ACTION-1615180828519\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"http://www.gsws.pitt.edu/blogs/msf31/unexpected-social-pressures-males\" target=\"_blank\">University of Pittsburg, Gender, Sexuality, &amp; Women\u2019s Studies Program, \u201cUnexpected social pressures from males\u201d</a>. (<a data-storymaps=\"MJ-ACTION-1615180837242\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32129-3/fulltext\" target=\"_blank\">Guthold, R., Stevens, G.A., Riley, L.M. and Bull, F.C., \u201cWorldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016, a pooled analysis of 2416 population-based measurement studies in 128.9 million children, adolescents, and adults\u201d, The Lancet, vol. 390, Issue 10113, 16 December 2017</a>. (<a data-storymaps=\"MJ-ACTION-1615180844239\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Severe obesity is classified as a body mass index of 35 or more. (<a data-storymaps=\"MJ-ACTION-1615180881083\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7228874/\" target=\"_blank\">Palaiodimos, L. et al, \u201cSevere obesity, increasing age and male sex are independently associated with worse in-hospital outcomes, and higher in-hospital mortality, in a cohort of patients with Covid-19 in the Bronx, New York\u201d, Metabolism: Clinical and Experimental, vol., 108, July 2020</a>. (<a data-storymaps=\"MJ-ACTION-1615180889839\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7326434/\" target=\"_blank\">Sattar, N. et al, \u201cBMI and future risk for Covid-19 infection and death across sex, age and ethnicity: Preliminary findings from UK biobank\u201d, Diabetes &amp; Metabolic Syndrome: Clinical Research &amp; Reviews, vol. 14, Issue 5, September\u2014October 2020</a>. (<a data-storymaps=\"MJ-ACTION-1615180907387\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>In order to make the conversion into litres of pure alcohol, the alcohol content (% alcohol by volume) is considered to be as follows: Beer (barley beer 5%), Wine (grape wine 12%; must of grape 9%, vermouth 16%), Spirits (distilled spirits 40%; spirit-like 30%), and Other (sorghum, millet, maize beers 5%; cider 5%; fortified wine 17% and 18%; fermented wheat and fermented rice 9%; other fermented beverages 9%) (<a href=\"https://www.who.int/data/gho/data/indicators/indicator-details/GHO/alcohol-consumption-among-adults-aged-=-15-years-(litres-of-pure-alcohol-per-person-per-year)\" target=\"_blank\">WHO, The Global Health Observatory, Indicators, Metadata</a>) (<a data-storymaps=\"MJ-ACTION-1615181054836\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\" target=\"_blank\">Regional groupings under the Sustainable Development Goals (SDGs) indicators framework</a>. (<a data-storymaps=\"MJ-ACTION-1615181061284\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32129-3/fulltext\" target=\"_blank\">Data based on Guthold, R., Stevens, G.A., Riley, L.M. and Bull, F.C., \u201cWorldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016, a pooled analysis of 2416 population-based measurement studies in 128.9 million children, adolescents, and adults\u201d, The Lancet, vol. 390, Issue 10113, 16 December 2017</a>. (<a data-storymaps=\"MJ-ACTION-1615181067085\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n</ol>\n</div>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609848308",
@@ -389,10 +575,215 @@
                             "id": "MJ-ACTION-1598610194053",
                             "type": "navigate",
                             "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1615179827412",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1615179951188",
+                            "type": "navigate",
+                            "index": 3
+                        },
+                        {
+                            "id": "MJ-ACTION-1615179958239",
+                            "type": "navigate",
+                            "index": 3
+                        },
+                        {
+                            "id": "MJ-ACTION-1615179965752",
+                            "type": "navigate",
+                            "index": 3
+                        },
+                        {
+                            "id": "MJ-ACTION-1615179972508",
+                            "type": "navigate",
+                            "index": 3
+                        },
+                        {
+                            "id": "MJ-ACTION-1615179979667",
+                            "type": "navigate",
+                            "index": 3
+                        },
+                        {
+                            "id": "MJ-ACTION-1615179986242",
+                            "type": "navigate",
+                            "index": 3
+                        },
+                        {
+                            "id": "MJ-ACTION-1615179992525",
+                            "type": "navigate",
+                            "index": 3
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180086914",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180094671",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180101309",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180109162",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180116913",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180129085",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180250844",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180280727",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180286013",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180297069",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180326720",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180334990",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180341810",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180349505",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180411572",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180416929",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180744029",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180754471",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180763238",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180795326",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180801441",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180808299",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180813571",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180821000",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180828519",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180837242",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180844239",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180881083",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180889839",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1615180907387",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1615181054836",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615181061284",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615181067085",
+                            "type": "navigate",
+                            "index": 9
                         }
                     ],
-                    "creaDate": 1602973358475,
-                    "pubDate": 1602973358475,
+                    "creaDate": 1615181067705,
+                    "pubDate": 1615181067705,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -409,7 +800,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         },
         "doNotWarnTitle": true
     },

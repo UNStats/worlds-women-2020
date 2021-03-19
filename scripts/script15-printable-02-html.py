@@ -11,6 +11,7 @@ import re
 from selenium import webdriver
 from bs4 import BeautifulSoup
 
+from slugify import slugify
 
 import pdfkit 
 
@@ -39,6 +40,9 @@ def clean_text(x):
     x = x.replace(u'\u201d', '&#8221;')
     x = x.replace(u'e\u0301', '&#233;')
     x = x.replace(u'o\u0301', '&#243;')
+    x = x.replace(u'\u00fc', '&uuml;')
+    x = x.replace(u'\u00e7', '&ccedil;')
+    x = x.replace(u'&nbsp;', ' ')
     return x
 
 
@@ -66,6 +70,8 @@ json_dir = 'printable/json/'
 data_files = os.listdir('printable/json/')
 #print(data_files)
 
+index = []
+
 for item in data_files:
 
 
@@ -75,7 +81,7 @@ for item in data_files:
     with open('printable/json/' + item) as json_file:
         d = json.load(json_file)
 
-    theme = d['values']['title']
+    theme = clean_text(d['values']['title'])
     print('-----------')
     print(item)
     print('-----------')
@@ -118,9 +124,7 @@ for item in data_files:
 
                         if i == 0:
                             title = soup2.find('div', attrs={'class': 'title'}).string
-                            title = str(title).replace('&nbsp;', '')
-                            title = title.replace(u'\u00A0', '')
-                            title = title.replace(u'\u2014', '&#8212;')
+                            title = clean_text(str(title))
 
                             with tag('h5'):
                                 text(theme)
@@ -188,6 +192,12 @@ for item in data_files:
                                 #     doc.stag('img', src=url, style='height:400px;max-width:500px;width: expression(this.width > 500 ? 500: true);')
 
                             last_url = url
+        index_entry = dict()
+        index_entry['theme'] = theme
+        index_entry['title'] = title
+        index_entry['id'] = item.replace('.json','')
+
+    index.append(index_entry)
 
     result = doc.getvalue()
     
@@ -202,6 +212,8 @@ for item in data_files:
         sys.stdout = original_stdout # Reset the standard output to its original value
 
     
+    
 
+    pdfkit.from_file(filename,  'printable/pdf/' + slugify(theme) + '_' +item.replace('.json','') + '.pdf', options=options) 
 
-    pdfkit.from_file(filename,  'printable/pdf/' + item.replace('.json','') + '.pdf', options=options) 
+utils.dictList2tsv(index, 'printable/pdf/index.txt')

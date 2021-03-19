@@ -83,11 +83,11 @@
                     }
                 },
                 {
-                    "title": "<strong><span style=\"font-size:26px;\">Key points</span></strong>",
-                    "content": "<p>During the period from 1998 to 2014, there was a 30 percentage point increase in the proportion of deliveries at health facilities.</p>\n<p>In 1998, <span class=\"label-ref\">younger mothers</span> were more likely than older mothers to deliver their babies with the assistance of skilled health personnel, while by 2014 little difference was recorded by age.</p>\n<p>Overall, wealthier and more educated women and women living in urban areas are more likely to access the services of skilled personnel while giving birth.<br/>\n\u00a0</p>\n",
+                    "title": "<strong><span style=\"font-size:26px\">Key points</span></strong>",
+                    "content": "<ul class=\"key-points\">\n\t<li>During the period from 1998 to 2014, there was a 30 percentage point increase in the proportion of deliveries at health facilities.</li>\n\t<li>In 1998, <span class=\"label-ref\">younger mothers</span> were more likely than older mothers to deliver their babies with the assistance of skilled health personnel, while by 2014 little difference was recorded by age.</li>\n\t<li>Overall, wealthier and more educated women and women living in urban areas are more likely to access the services of skilled personnel while giving birth.</li>\n</ul>\n",
                     "contentActions": [],
-                    "creaDate": 1602980186408,
-                    "pubDate": 1602980186408,
+                    "creaDate": 1615210835553,
+                    "pubDate": 1615210835553,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -95,20 +95,13 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/b230e6e6cb2c4aafa07ab2c598eceb09/resources/francisco-venancio-M4Xloxsg0Gw-unsplash__1602980184651__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "francisco-venancio-M4Xloxsg0Gw-unsplash__1602980184651__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/b230e6e6cb2c4aafa07ab2c598eceb09/resources/francisco-venancio-M4Xloxsg0Gw-unsplash__1602980184651__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
                     "title": "<span style=\"font-size:28px;\"><strong>Background</strong></span>",
-                    "content": "<p>Women\u2019s access to skilled medical care, especially during childbirth, is a key strategy for the reduction of the maternal mortality ratio (MMR), which,\u00a0in Ghana, still reaches 310 deaths per 100,000 live births.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598642064733\" data-storymaps-type=\"navigate\">1</a></span></p>\n<p>The most dangerous time in a woman\u2019s pregnancy is during labour and delivery when the majority of maternal deaths occur. The presence of skilled medical attendants is essential for the timely management of complications that may arise during and after delivery: by providing important lifesaving intervention for both mothers and babies, skilled health personnel reduce the risk of maternal morbidity and long-lasting disability.</p>\n",
+                    "content": "<p>Women\u2019s access to skilled medical care, especially during childbirth, is a key strategy for the reduction of the maternal mortality ratio (MMR), which,&nbsp;in Ghana, still reaches 310 deaths per 100,000 live births.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598642064733\" data-storymaps-type=\"navigate\">1</a></span></p>\n<p>The most dangerous time in a woman\u2019s pregnancy is during labour and delivery when the majority of maternal deaths occur. The presence of skilled medical attendants is essential for the timely management of complications that may arise during and after delivery: by providing important lifesaving intervention for both mothers and babies, skilled health personnel reduce the risk of maternal morbidity and long-lasting disability.</p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598642064733",
@@ -213,7 +206,7 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<p><strong>Overall, wealthier and more educated women and women living in urban areas are more likely to access the services of skilled personnel while giving birth.</strong></p>\n<p>\u00a0</p>\n<p>In 2014, a large majority of pregnant women giving birth in urban areas (90%) received skilled care, as compared to women in <span class=\"label-ref\">rural</span> areas (60%) (see table 3), an increase from 84% in urban areas and 43% in rural areas as reported in 2008. The difference\u00a0between rural and urban rates is largely because of the greater concentration of health-care facilities in\u00a0urban areas and because pregnant women in rural areas must travel long distances to access health facilities with skilled medical personnel.</p>\n",
+                    "content": "<p><strong>Overall, wealthier and more educated women and women living in urban areas are more likely to access the services of skilled personnel while giving birth.</strong></p>\n<p>&nbsp;</p>\n<p>In 2014, a large majority of pregnant women giving birth in urban areas (90%) received skilled care, as compared to women in <span class=\"label-ref\">rural</span> areas (60%) (see table 3), an increase from 84% in urban areas and 43% in rural areas as reported in 2008. The difference&nbsp;between rural and urban rates is largely because of the greater concentration of health-care facilities in&nbsp;urban areas and because pregnant women in rural areas must travel long distances to access health facilities with skilled medical personnel.</p>\n",
                     "contentActions": [],
                     "creaDate": 1602955687577,
                     "pubDate": 1602955680000,
@@ -343,7 +336,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         },
         "doNotWarnTitle": true
     },

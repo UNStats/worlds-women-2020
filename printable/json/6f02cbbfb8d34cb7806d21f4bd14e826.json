@@ -60,10 +60,10 @@
             "sections": [
                 {
                     "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n",
-                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Time spent in unpaid work; total work burden; and work-life balance</div>\n",
+                    "content": "<style type=\"text/css\">p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Time spent in unpaid work; total work burden; and work-life balance</div>\n",
                     "contentActions": [],
-                    "creaDate": 1602459902673,
-                    "pubDate": 1602459902673,
+                    "creaDate": 1612103045245,
+                    "pubDate": 1612103045245,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -76,7 +76,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Key points</span>",
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
                     "content": "<ul class=\"key-points\">\n<li>On an average day, women spend about three times as many hours on unpaid domestic work and care work as men.</li>\n<li>Preliminary data from five developed countries on the activities of working parents during the Coronavirus-19 (COVID-19) pandemic show that while both women and men spent twice as much time on unpaid domestic work and care work during the pandemic, women still spent about two more hours per day than men on these activities.</li>\n<li>Gender inequality in the amount of time spent on unpaid domestic and care work is lowest in developed regions (where women spend twice as much time on domestic work as men) and the greatest in Northern Africa and Western Asia (where women spend more than seven times as much as men on unpaid domestic and care work).</li>\n<li>Compared to domestic work, there is less variance in the proportion of time spent on unpaid care work between the regions (around 50 minutes per day for women and 20 minutes per day for men, on average).</li>\n<li>In 65% of countries with comparable trend data disaggregated by sex and age category over the period 2001\u20142018, a small decrease has been observed in the time spent by women on unpaid domestic and care work relative to that spent by men.</li>\n<li>The value of unpaid work represents a substantial portion of gross domestic product (GDP) (20% to 60%) in selected countries producing estimates of the (economic) value of unpaid domestic and care work and volunteer work.</li>\n<li>On average, women spend about 38 more minutes per day on total work or the sum of paid and unpaid work than men, with far less variability across the regions than what is observed in terms of unpaid domestic work and care work.</li>\n<li>The highest proportion of countries that have ratified the ILO conventions on the reconciliation of work and family life are in developed regions, followed by a proportion of countries in the Latin America and the Caribbean region.</li>\n</ul>\n",
                     "contentActions": [],
                     "creaDate": 1602820026996,
@@ -160,11 +160,17 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">ILO conventions on the reconciliation of work and family life</span>",
-                    "content": "<p>Giving women and men the opportunity to make a conscious decision about how much time to spend on caring for family members, domestic work and career development is important for gender equality. In the absence of provisions in the workplace that grant employees the flexibility to effectively combine paid work and unavoidable unpaid work, women and men may end up stuck in traditional gender roles. In this regard, there are four conventions adopted by ILO that address the reconciliation of work and family life: ILO Convention No. 156 (adopted in 1981) (Workers with Family Responsibilities Convention), which prohibits discrimination of workers based on their family status and calls upon employers to take the needs of such workers into account, including by providing childcare; ILO Convention No. 175 (adopted in 1994) (Part-Time Work Convention), which calls upon employers to provide the equivalent conditions to their part-time employees that are enjoyed by their full-time employees, such as social security, equal hourly wages and the bargaining rights; ILO Convention No. 177 (adopted in 1996) (Home Work Convention), created to improve the employment situation of homeworkers, or as more commonly called, remote workers, by advocating for their equal treatment with onsite employees, including remuneration and access to social security; and ILO Convention No. 183 (adopted in 2000) (Maternity Protection Convention), which advocates for the provision of maternity leave for pregnant and nursing women. Collectively, the ratification of these four conventions promotes gender equality as it allows people to continue to participate in the workforce to the degree that they desire regardless of their family obligations.</p>\n<p>Overall, more countries in <span class=\"label-ref\">Developed Regions</span> have ratified<span class=\"footnote-index\">1</span> the ILO conventions on the reconciliation of work and family life (see figure II), followed by a number of countries in <span class=\"label-ref\">Latin America and the Caribbean</span>. Among countries in <span class=\"label-ref\">Central and Southern Asia</span> and <span class=\"label-ref\">Eastern and South-Eastern Asia</span>, very few have ratified the ILO conventions, while among countries in <span class=\"label-ref\">Oceania</span> (excluding Australia and New Zealand) not one single ILO convention has been ratified. In terms of specific conventions, ILO Convention No. 156 (Workers with Family Responsibilities Convention) has been ratified by 45 countries and ILO Convention No. 183 (<a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/85520f09c5d747f4b9c4ec858155f1ce#NW24\" target=\"_blank\">Maternity Protection Convention</a>) has been ratified by 38 countries. In contrast, ILO Convention No. 175 (Part-Time Work Convention) has been ratified by only 18 countries and ILO Convention No. 177 (Home-Work Convention) by only 10 countries. These data indicate that countries are more supportive of maternity leave and the equal treatment of employees, regardless of their family status, than the equality of part-time workers or remote workers with regular full-time onsite employees. These conventions should not be overlooked by countries since <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/11b52c23c621480db0f9017fa5bff63b#NW4\" target=\"_blank\">working part time</a> or from home enables women to participate in the workforce when conventional full-time employment is incompatible with their family situation.</p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602804818242,
-                    "pubDate": 1602804818242,
+                    "title": "<span style=\"font-size:26px\">ILO conventions on the reconciliation of work and family life</span>",
+                    "content": "<p>Giving women and men the opportunity to make a conscious decision about how much time to spend on caring for family members, domestic work and career development is important for gender equality. In the absence of provisions in the workplace that grant employees the flexibility to effectively combine paid work and unavoidable unpaid work, women and men may end up stuck in traditional gender roles. In this regard, there are four conventions adopted by ILO that address the reconciliation of work and family life: ILO Convention No. 156 (adopted in 1981) (Workers with Family Responsibilities Convention), which prohibits discrimination of workers based on their family status and calls upon employers to take the needs of such workers into account, including by providing childcare; ILO Convention No. 175 (adopted in 1994) (Part-Time Work Convention), which calls upon employers to provide the equivalent conditions to their part-time employees that are enjoyed by their full-time employees, such as social security, equal hourly wages and the bargaining rights; ILO Convention No. 177 (adopted in 1996) (Home Work Convention), created to improve the employment situation of homeworkers, or as more commonly called, remote workers, by advocating for their equal treatment with onsite employees, including remuneration and access to social security; and ILO Convention No. 183 (adopted in 2000) (Maternity Protection Convention), which advocates for the provision of maternity leave for pregnant and nursing women. Collectively, the ratification of these four conventions promotes gender equality as it allows people to continue to participate in the workforce to the degree that they desire regardless of their family obligations.</p>\n\n<p>Overall, more countries in <span class=\"label-ref\">Developed Regions</span> have ratified<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169589567\" data-storymaps-type=\"navigate\">1</a></span> the ILO conventions on the reconciliation of work and family life (see figure III), followed by a number of countries in <span class=\"label-ref\">Latin America and the Caribbean</span>. Among countries in <span class=\"label-ref\">Central and Southern Asia</span> and <span class=\"label-ref\">Eastern and South-Eastern Asia</span>, very few have ratified the ILO conventions, while among countries in <span class=\"label-ref\">Oceania</span> (excluding Australia and New Zealand) not one single ILO convention has been ratified. In terms of specific conventions, ILO Convention No. 156 (Workers with Family Responsibilities Convention) has been ratified by 45 countries and ILO Convention No. 183 (<a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/85520f09c5d747f4b9c4ec858155f1ce#NW24\" target=\"_blank\">Maternity Protection Convention</a>) has been ratified by 38 countries. In contrast, ILO Convention No. 175 (Part-Time Work Convention) has been ratified by only 18 countries and ILO Convention No. 177 (Home-Work Convention) by only 10 countries. These data indicate that countries are more supportive of maternity leave and the equal treatment of employees, regardless of their family status, than the equality of part-time workers or remote workers with regular full-time onsite employees. These conventions should not be overlooked by countries since <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/11b52c23c621480db0f9017fa5bff63b#NW4\" target=\"_blank\">working part time</a> or from home enables women to participate in the workforce when conventional full-time employment is incompatible with their family situation.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1615169589567",
+                            "type": "navigate",
+                            "index": 9
+                        }
+                    ],
+                    "creaDate": 1615169590532,
+                    "pubDate": 1615169590532,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -179,10 +185,41 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px\">Impact of COVID-19</span>",
-                    "content": "<p>The <span class=\"label-ref\">COVID-19</span> pandemic is radically changing how people, particularly women, spend their time \u2014 sometimes with a negative impact on their well-being. The national statistical offices of the United Kingdom of Great Britain and Northern Ireland and Italy have collected data on time use during the COVID-19 lockdown. In the United Kingdom<span class=\"footnote-index\">2</span> it was found that, although there is still a gender gap in unpaid work, with women continuing to do more unpaid household work and childcare than men, there was an observed increase in the proportion of men performing these tasks compared to the period before the pandemic. Thus, the gender gap in the average time spent on unpaid domestic and care work has been reduced during the pandemic (pre-COVID-19, just over two hours per day for men and almost four hours per day for women; during COVID-19, almost 2.5 hours per day for men and about 3.5 hours per day for women). Similarly, although men report spending more time on paid work than women, the gender gap has been reduced during COVID-19 (pre-COVID-19, about 3 hours and twenty minutes per day for men and over 2 hours per day for women, with men working an hour and six minutes more per day; during COVID-19, just under 3 hours per day for men and just over two hours per day for women, with men working 47 minutes more per day, on average). Both men and women reported having more free time for entertainment and socializing during the pandemic, and the gender gap with regard to those activities was also reduced (with men still reporting spending more time on entertainment and socializing than women). The questions in the survey undertaken by Italy\u2019s National Institute of Statistics<span class=\"footnote-index\">3</span> were mainly qualitative (asking people if they spent the same/more/less time on certain activities compared to pre-COVID-19). Overall, 67.2% of respondents reported devoting more time to unpaid care work (both mothers and fathers) than prior to COVID-19. The story on the <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/1c1d1fac8ddf47e3a0995cce1388b780#NW30\" target=\"_blank\">lockdown and gender in Italy</a> provides more specific details at the country level.</p>\n<p>While data from national statistical offices on the impact of the COVID-19 pandemic on the use of time are still scarce, a recent survey done by the Boston Consulting Group in France, Germany, Italy, the United Kingdom and the United States of America found that since the advent of COVID-19 the amount of time spent on unpaid work has doubled for both working women and men who have children. Nevertheless, on average, women spent 15 hours more per week, or just over two hours more per day, on unpaid domestic and care work compared to men, a marked increase over the 10 hours or more per week (about 1.5 hours more per day) prior to the pandemic.<span class=\"footnote-index\">4</span> In early May 2020, a poll of 18 countries conducted by Ipsos,<span class=\"footnote-index\">5</span> revealed that women have taken on a lot more responsibility for household domestic work and care of children and family during the pandemic. Across the 18 countries, on average, women were 4% more likely than men to say that they strongly agreed that their care load had increased during the pandemic. Mexico had the largest gender gap in responses, with 53% of women strongly agreeing with the statement, compared to only 41% of men.<span class=\"footnote-index\">6</span> Additional data collected by the United Nations Entity on Gender Equality and the Empowerment of Women (UN-Women) for six countries in Asia tells a similar story: unpaid domestic and care work has intensified during the pandemic, and women continue to take on the majority of it. In addition, women are also more likely than men to report that they are in charge of unpaid childcare, unpaid adult care and unpaid domestic work, while men tend to focus on tasks like shopping for the household, making repairs and playing with children, which, overall, are less time consuming.<span class=\"footnote-index\">7</span></p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602820081534,
-                    "pubDate": 1602820081534,
+                    "content": "<p>The <span class=\"label-ref\">COVID-19</span> pandemic is radically changing how people, particularly women, spend their time \u2014 sometimes with a negative impact on their well-being. The national statistical offices of the United Kingdom of Great Britain and Northern Ireland and Italy have collected data on time use during the COVID-19 lockdown. In the United Kingdom<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169628134\" data-storymaps-type=\"navigate\">2</a></span> it was found that, although there is still a gender gap in unpaid work, with women continuing to do more unpaid household work and childcare than men, there was an observed increase in the proportion of men performing these tasks compared to the period before the pandemic. Thus, the gender gap in the average time spent on unpaid domestic and care work has been reduced during the pandemic (pre-COVID-19, just over two hours per day for men and almost four hours per day for women; during COVID-19, almost 2.5 hours per day for men and about 3.5 hours per day for women). Similarly, although men report spending more time on paid work than women, the gender gap has been reduced during COVID-19 (pre-COVID-19, about 3 hours and twenty minutes per day for men and over 2 hours per day for women, with men working an hour and six minutes more per day; during COVID-19, just under 3 hours per day for men and just over two hours per day for women, with men working 47 minutes more per day, on average). Both men and women reported having more free time for entertainment and socializing during the pandemic, and the gender gap with regard to those activities was also reduced (with men still reporting spending more time on entertainment and socializing than women). The questions in the survey undertaken by Italy\u2019s National Institute of Statistics<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169724743\" data-storymaps-type=\"navigate\">3</a></span> were mainly qualitative (asking people if they spent the same/more/less time on certain activities compared to pre-COVID-19). Overall, 67.2% of respondents reported devoting more time to unpaid care work (both mothers and fathers) than prior to COVID-19. The story on the <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/1c1d1fac8ddf47e3a0995cce1388b780#NW30\" target=\"_blank\">lockdown and gender in Italy</a> provides more specific details at the country level.</p>\n\n<p>While data from national statistical offices on the impact of the COVID-19 pandemic on the use of time are still scarce, a recent survey done by the Boston Consulting Group in France, Germany, Italy, the United Kingdom and the United States of America found that since the advent of COVID-19 the amount of time spent on unpaid work has doubled for both working women and men who have children. Nevertheless, on average, women spent 15 hours more per week, or just over two hours more per day, on unpaid domestic and care work compared to men, a marked increase over the 10 hours or more per week (about 1.5 hours more per day) prior to the pandemic.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169672292\" data-storymaps-type=\"navigate\">4</a></span> In early May 2020, a poll of 18 countries conducted by Ipsos,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169665613\" data-storymaps-type=\"navigate\">5</a></span> revealed that women have taken on a lot more responsibility for household domestic work and care of children and family during the pandemic. Across the 18 countries, on average, women were 4% more likely than men to say that they strongly agreed that their care load had increased during the pandemic. Mexico had the largest gender gap in responses, with 53% of women strongly agreeing with the statement, compared to only 41% of men.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169659239\" data-storymaps-type=\"navigate\">6</a></span> Additional data collected by the United Nations Entity on Gender Equality and the Empowerment of Women (UN-Women) for six countries in Asia tells a similar story: unpaid domestic and care work has intensified during the pandemic, and women continue to take on the majority of it. In addition, women are also more likely than men to report that they are in charge of unpaid childcare, unpaid adult care and unpaid domestic work, while men tend to focus on tasks like shopping for the household, making repairs and playing with children, which, overall, are less time consuming.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169649973\" data-storymaps-type=\"navigate\">7</a></span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1615169628134",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169649973",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169659239",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169665613",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169672292",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169724743",
+                            "type": "navigate",
+                            "index": 9
+                        }
+                    ],
+                    "creaDate": 1615169725592,
+                    "pubDate": 1615169725592,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -190,23 +227,47 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/6f02cbbfb8d34cb7806d21f4bd14e826/resources/humberto-chavez-FVh_yqLR9eA-unsplash-woman%20standing%20under%20tree__1602820079846__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "humberto-chavez-FVh_yqLR9eA-unsplash-woman standing under tree__1602820079846__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/6f02cbbfb8d34cb7806d21f4bd14e826/resources/humberto-chavez-FVh_yqLR9eA-unsplash-woman%20standing%20under%20tree__1602820079846__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
                     "title": "<span style=\"font-size:26px\">The value of unpaid work represents up to 60% of gross domestic product (GDP) in selected countries</span>",
-                    "content": "<p>In addition to measuring time spent on unpaid domestic work, there is a strong argument for measuring its monetary value. Conventional statistics grossly understate the total contribution of women to the economy using traditional macroeconomic indicators, such as the gross domestic product (GDP), and do not account for unpaid work or unpaid household service work, about two-thirds of which are performed by women.<span class=\"footnote-index\">8</span> At the international level, it has been widely acknowledged<span class=\"footnote-index\">9</span> that proper recognition and valuation of unpaid household service work would help to uncover hidden aspects of the economy and raise vital policy issues that have long remained invisible.</p>\n<p>While not many countries estimate the economic value of unpaid work, the results from the ones that do demonstrate the significant value of domestic work and care work. For example, the value of unpaid household service work conducted in Australia relative to GDP ranks second highest among all other economic activities in the country, and in 2006, the value of unpaid household service work ranged from $416 billion to $586 billion, representing 41.6% to 58.7% of national GDP for that year.<span class=\"footnote-index\">10</span> In the Republic of Moldova, it was found that, on average, the monthly value of unpaid household service work in 2014 was 4.1 billion Moldovan leu. For the whole year, the estimated value of unpaid household service work was 48.9 billion Moldovan leu or about $3.5 billion, representing 43.6% of the national GDP in 2014.<span class=\"footnote-index\">11</span> In Switzerland, the monetary value of all unpaid household service work in 2013 was estimated at 401 billion Swiss francs (SwF), or 63% of the country\u2019s GDP for that year (estimated at about 635 billion SwF). Unpaid domestic work alone amounted to approximately 267 billion SwF (67% of the total value of unpaid work). Unpaid care work carried out at home were estimated at 93 billion SwF (23% of the total value of unpaid work) and formal and informal voluntary work at 41 billion SwF (10% of the total value). Work done by women in Switzerland accounted for 60% of the total value of unpaid work overall: this percentage varied depending on the field of activity, amounting to 61% for unpaid domestic work, approximately 62% for unpaid care work and 52% for voluntary work.<span class=\"footnote-index\">12</span> In Latin America, it is estimated that the value of unpaid work is between 15.2% of GDP in Ecuador and 25.3% of GDP in Costa Rica.<span class=\"footnote-index\">13</span> The story about the situation of women and men in <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/e254648c49d04717a98b44d8b203864b#NW7\" target=\"_blank\">Mexico</a> provides an in-depth analysis of the economic value of unpaid work.</p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602820042138,
-                    "pubDate": 1602820042138,
+                    "content": "<p>In addition to measuring time spent on unpaid domestic work, there is a strong argument for measuring its monetary value. Conventional statistics grossly understate the total contribution of women to the economy using traditional macroeconomic indicators, such as the gross domestic product (GDP), and do not account for unpaid work or unpaid household service work, about two-thirds of which are performed by women.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169813608\" data-storymaps-type=\"navigate\">8</a></span> At the international level, it has been widely acknowledged<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169819548\" data-storymaps-type=\"navigate\">9</a></span> that proper recognition and valuation of unpaid household service work would help to uncover hidden aspects of the economy and raise vital policy issues that have long remained invisible.</p>\n\n<p>While not many countries estimate the economic value of unpaid work, the results from the ones that do demonstrate the significant value of domestic work and care work. For example, the value of unpaid household service work conducted in Australia relative to GDP ranks second highest among all other economic activities in the country, and in 2006, the value of unpaid household service work ranged from $416 billion to $586 billion, representing 41.6% to 58.7% of national GDP for that year.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169828274\" data-storymaps-type=\"navigate\">10</a></span> In the Republic of Moldova, it was found that, on average, the monthly value of unpaid household service work in 2014 was 4.1 billion Moldovan leu. For the whole year, the estimated value of unpaid household service work was 48.9 billion Moldovan leu or about $3.5 billion, representing 43.6% of the national GDP in 2014.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169834360\" data-storymaps-type=\"navigate\">11</a></span> In Switzerland, the monetary value of all unpaid household service work in 2013 was estimated at 401 billion Swiss francs (SwF), or 63% of the country\u2019s GDP for that year (estimated at about 635 billion SwF). Unpaid domestic work alone amounted to approximately 267 billion SwF (67% of the total value of unpaid work). Unpaid care work carried out at home were estimated at 93 billion SwF (23% of the total value of unpaid work) and formal and informal voluntary work at 41 billion SwF (10% of the total value). Work done by women in Switzerland accounted for 60% of the total value of unpaid work overall: this percentage varied depending on the field of activity, amounting to 61% for unpaid domestic work, approximately 62% for unpaid care work and 52% for voluntary work.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169840175\" data-storymaps-type=\"navigate\">12</a></span> In Latin America, it is estimated that the value of unpaid work is between 15.2% of GDP in Ecuador and 25.3% of GDP in Costa Rica.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169846456\" data-storymaps-type=\"navigate\">13</a></span> The story about the situation of women and men in <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/e254648c49d04717a98b44d8b203864b#NW7\" target=\"_blank\">Mexico</a> provides an in-depth analysis of the economic value of unpaid work.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1615169813608",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169819548",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169828274",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169834360",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169840175",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169846456",
+                            "type": "navigate",
+                            "index": 9
+                        }
+                    ],
+                    "creaDate": 1615169847773,
+                    "pubDate": 1615169847773,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -214,20 +275,13 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/6f02cbbfb8d34cb7806d21f4bd14e826/resources/chitto-cancio-DiV6hNAn4bE-unsplash__1602820008635__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "chitto-cancio-DiV6hNAn4bE-unsplash__1602820008635__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/6f02cbbfb8d34cb7806d21f4bd14e826/resources/chitto-cancio-DiV6hNAn4bE-unsplash__1602820008635__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li><span class=\"concept\">Unpaid domestic work</span>: <span class=\"definition\">Refers to unpaid activities related to the maintenance of the household, including food preparation, dishwashing, cleaning, upkeep of the home, laundry, ironing, gardening, caring for pets, shopping, installation servicing and repair of personal and household goods</span></li>\n<li><span class=\"concept\">Unpaid care work</span>: <span class=\"definition\">Refers to unpaid activities for the purpose of taking care of others, which includes childcare and care of the sick, older persons or disabled household members.</span></li>\n<li><span class=\"concept\">Total work burden of women and men</span>: <span class=\"definition\">Combines both paid and unpaid work</span>\n<ul>\n<li><span class=\"concept\">Paid work</span>: <span class=\"definition\">Refers to work-related activities in formal or informal employment for pay or profit</span></li>\n<li><span class=\"concept\">Unpaid work</span>: <span class=\"definition\">Includes both unpaid domestic work and unpaid care work (described above), as well as community or volunteer work related to domestic work or care.</span></li>\n</ul>\n</li>\n<li><span class=\"concept\">ILO Convention No. 156 (adopted in 1981) (Workers with Family Responsibilities Convention)</span>: <span class=\"definition\"> Aims to promote equality of opportunity and treatment in the labour market for women and men with family responsibilities. The Convention applies to women and men workers with responsibilities for their dependent children or other members of their immediate family who need their care or support.<span class=\"footnote-index\">14</span></span></li>\n<li><span class=\"concept\">ILO Convention No. 175 (adopted in 1994) (Part-Time Work Convention)</span>: <span class=\"definition\">Recognizes the importance of productive and freely chosen employment for all workers, as well as the economic importance of part-time work.<span class=\"footnote-index\">15</span></span></li>\n<li><span class=\"concept\">ILO Convention No. 177 (adopted in 1996) (Home Work Convention)</span>: <span class=\"definition\">Aims to improve the employment situation of homeworkers (presently called remote workers).<span class=\"footnote-index\">16</span></span></li>\n<li><span class=\"concept\">ILO Convention No. 183 (adopted in 2000) (Maternity Protection Convention)</span>: <span class=\"definition\">Aims to improve the employment situation of mothers or expectant mothers.<span class=\"footnote-index\">17</span></span></li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<ul>\n<li><span class=\"concept\">Unpaid care work</span>: <span class=\"availability\">Data are available for 89 countries<span class=\"footnote-index\">18</span> for the period 2001\u20142018 (the latest available year for each country was used): data presented for this indicator are expressed as a percentage of time spent per day on unpaid domestic work and care work (for a portion of the narrative, data were converted into hours spent per day).<span class=\"footnote-index\">19</span></span></li>\n<li><span class=\"concept\">Total work burden</span>: <span class=\"availability\">Data are available for 82 countries for the period 2001\u20142018 (using the latest available year for each country).<span class=\"footnote-index\">20</span> Data presented for this indicator are expressed as an average number of hours per day. Countries are organized by <a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\" target=\"_blank\">regional groupings</a> under the Sustainable Development Goals (SDGs) indicators framework.</span></li>\n<li><span class=\"concept\">ILO Conventions</span>: <span class=\"availability\">ILO compiles a list of countries that adopt each convention and updates it regularly, including the dates of adoption and the dates they go into effect. The list is available on the website of the NORMLEX Information System on International Labour Standards.<span class=\"footnote-index\">21</span></span></li>\n</ul>\n</div>\n</div>\n",
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Unpaid domestic work</span>: <span class=\"definition\">Refers to unpaid activities related to the maintenance of the household, including food preparation, dishwashing, cleaning, upkeep of the home, laundry, ironing, gardening, caring for pets, shopping, installation servicing and repair of personal and household goods</span></li>\n\t<li><span class=\"concept\">Unpaid care work</span>: <span class=\"definition\">Refers to unpaid activities for the purpose of taking care of others, which includes childcare and care of the sick, older persons or disabled household members.</span></li>\n\t<li><span class=\"concept\">Total work burden of women and men</span>: <span class=\"definition\">Combines both paid and unpaid work</span>\n\t<ul>\n\t\t<li><span class=\"concept\">Paid work</span>: <span class=\"definition\">Refers to work-related activities in formal or informal employment for pay or profit</span></li>\n\t\t<li><span class=\"concept\">Unpaid work</span>: <span class=\"definition\">Includes both unpaid domestic work and unpaid care work (described above), as well as community or volunteer work related to domestic work or care.</span></li>\n\t</ul>\n\t</li>\n\t<li><span class=\"concept\">ILO Convention No. 156 (adopted in 1981) (Workers with Family Responsibilities Convention)</span>: <span class=\"definition\"> Aims to promote equality of opportunity and treatment in the labour market for women and men with family responsibilities. The Convention applies to women and men workers with responsibilities for their dependent children or other members of their immediate family who need their care or support.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169863206\" data-storymaps-type=\"navigate\">14</a></span></span></li>\n\t<li><span class=\"concept\">ILO Convention No. 175 (adopted in 1994) (Part-Time Work Convention)</span>: <span class=\"definition\">Recognizes the importance of productive and freely chosen employment for all workers, as well as the economic importance of part-time work.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169869615\" data-storymaps-type=\"navigate\">15</a></span></span></li>\n\t<li><span class=\"concept\">ILO Convention No. 177 (adopted in 1996) (Home Work Convention)</span>: <span class=\"definition\">Aims to improve the employment situation of homeworkers (presently called remote workers).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169874903\" data-storymaps-type=\"navigate\">16</a></span></span></li>\n\t<li><span class=\"concept\">ILO Convention No. 183 (adopted in 2000) (Maternity Protection Convention)</span>: <span class=\"definition\">Aims to improve the employment situation of mothers or expectant mothers.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169880613\" data-storymaps-type=\"navigate\">17</a></span></span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<ul>\n\t<li><span class=\"concept\">Unpaid care work</span>: <span class=\"availability\">Data are available for 89 countries<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169895605\" data-storymaps-type=\"navigate\">18</a></span> for the period 2001\u20142018 (the latest available year for each country was used): data presented for this indicator are expressed as a percentage of time spent per day on unpaid domestic work and care work (for a portion of the narrative, data were converted into hours spent per day).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169900904\" data-storymaps-type=\"navigate\">19</a></span></span></li>\n\t<li><span class=\"concept\">Total work burden</span>: <span class=\"availability\">Data are available for 82 countries for the period 2001\u20142018 (using the latest available year for each country).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169910100\" data-storymaps-type=\"navigate\">20</a></span> Data presented for this indicator are expressed as an average number of hours per day. Countries are organized by <a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\" target=\"_blank\">regional groupings</a> under the Sustainable Development Goals (SDGs) indicators framework.</span></li>\n\t<li><span class=\"concept\">ILO Conventions</span>: <span class=\"availability\">ILO compiles a list of countries that adopt each convention and updates it regularly, including the dates of adoption and the dates they go into effect. The list is available on the website of the NORMLEX Information System on International Labour Standards.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169915450\" data-storymaps-type=\"navigate\">21</a></span></span></li>\n</ul>\n</div>\n</div>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609809974",
@@ -243,10 +297,50 @@
                             "id": "MJ-ACTION-1598609820099",
                             "type": "navigate",
                             "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169863206",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169869615",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169874903",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169880613",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169895605",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169900904",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169910100",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169915450",
+                            "type": "navigate",
+                            "index": 9
                         }
                     ],
-                    "creaDate": 1602497556135,
-                    "pubDate": 1602497556135,
+                    "creaDate": 1615169986229,
+                    "pubDate": 1615169986229,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -259,8 +353,8 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li>For the purpose of the present review, countries that have ratified the ILO Convention without it yet being in force are also included in the list of ratified countries. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ons.gov.uk/economy/nationalaccounts/satelliteaccounts/bulletins/coronavirusandhowpeoplespenttheirtimeunderrestrictions/28marchto26april2020\" target=\"_blank\">Government of the United Kingdom of Great Britain and Northern Ireland, Office for National Statistics, \u201cCoronavirus and how people spent their time under lockdown: 28 March to 26 April 2020\u201d</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.istat.it/it/archivio/241013\" target=\"_blank\">Government of Italy, National Institute of Statistics (ISTAT), \u201cDay-diary and activities during Coronavirus-19\u201d (Italian original)</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.bcg.com/en-us/publications/2020/helping-working-parents-ease-the-burden-of-covid-19.aspx\" target=\"_blank\">Krentz, M., Kos, E., Green, A. and Garcia-Alonso, J., \u201cEasing the COVID-19 Burden on Working Parents\u201d, Boston Consulting Group, 21 May 2020</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ipsos.com/en\" target=\"_blank\">Ipsos is a multinational market research company based in Paris</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://data.unwomen.org/features/ipsos-survey-confirms-covid-19-intensifying-womens-workload-home\" target=\"_blank\">Azcona, G., Bhatt, A. and Love, K., \u201cIpsos survey confirms that COVID-19 is increasing women\u2019s workload at home\u201d, United Nations Entity for Gender Equality and the Empowerment of Women (UN-Women), 9 July 2020</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://data.unwomen.org/resources/surveys-show-covid-19-has-gendered-effects-asia-and-pacific\" target=\"_blank\">United Nations Entity on Gender Equality and the Empowerment of Women (UN-Women), Surveys show that COVID-19 has gendered effects in Asia and the Pacific, April 2020</a> (section on unpaid care and domestic work). (\u21e1 back to text)</li>\n<li><a href=\"https://www.unece.org/fileadmin/DAM/stats/publications/2018/ECECESSTAT20173.pdf\" target=\"_blank\">Economic Commission for Europe (ECE), Guide on Valuing Unpaid Household Service Work, New York and Geneva, 2017</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/sdgs/metadata?Text=&amp;Goal=5&amp;Target=5.4\" target=\"_blank\">UNDESA, Statistics Division, SDG Indicators, metadata repository</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.unece.org/fileadmin/DAM/stats/publications/2018/ECECESSTAT20173.pdf\" target=\"_blank\">Economic Commission for Europe (ECE), Guide on Valuing Unpaid Household Service Work, New York and Geneva, 2017</a>. (\u21e1 back to text)</li>\n<li>Ibid. (\u21e1 back to text)</li>\n<li>Ibid. (\u21e1 back to text)</li>\n<li><a href=\"https://oig.cepal.org/sites/default/files/2019-10_repositorio_uso_del_tiempo_eng.pdf\" target=\"_blank\">Economic Commission for Latin America and the Caribbean (ECLAC), Repository of information on time use in Latin America and the Caribbean, Santiago, 2019</a>. (\u21e1 back to text)</li>\n<li><a href=\"http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C156\" target=\"_blank\">International Labour Organization (ILO) Workers with Family Responsibilities Convention</a>. (\u21e1 back to text)</li>\n<li><a href=\"http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C175\" target=\"_blank\">ILO Part-Time Work Convention</a>. (\u21e1 back to text)</li>\n<li><a href=\"http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C177\" target=\"_blank\">ILO Home-Work Convention</a>. (\u21e1 back to text)</li>\n<li><a href=\"http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C183\" target=\"_blank\">ILO Maternity Protection Convention</a>. (\u21e1 back to text)</li>\n<li>Countries collecting time-use statistics around the world use different methods, which may affect the comparability of data across countries. Ongoing methodological developments will improve data harmonization and international comparability: see <a href=\"https://unstats.un.org/unsd/demographic-social/time-use/time-use-expert-group/\" target=\"_blank\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, Demographic and Social Statistics: United Nations Expert Group on Innovative and Expert Ways to Collect Time-Use Statistics</a>. (\u21e1 back to text)</li>\n<li>See also <a href=\"https://unstats.un.org/sdgs/indicators/database/\" target=\"_blank\">UNDESA, Statistics Division, Global SDGs Indicators Database, which presents metadata on the United Nations Sustainable Development Goals (SDGs)</a>. (\u21e1 back to text)</li>\n<li>Data for latest available year for each country for the period 2001\u20142018; some countries had data for earlier periods. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:1:0::NO:::\" target=\"_blank\">ILO, Normalex Information System on International Labour Standards</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li>For the purpose of the present review, countries that have ratified the ILO Convention without it yet being in force are also included in the list of ratified countries. (<a data-storymaps=\"MJ-ACTION-1615169607737\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.ons.gov.uk/economy/nationalaccounts/satelliteaccounts/bulletins/coronavirusandhowpeoplespenttheirtimeunderrestrictions/28marchto26april2020\" target=\"_blank\">Government of the United Kingdom of Great Britain and Northern Ireland, Office for National Statistics, \u201cCoronavirus and how people spent their time under lockdown: 28 March to 26 April 2020\u201d</a>. (<a data-storymaps=\"MJ-ACTION-1615169749729\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.istat.it/it/archivio/241013\" target=\"_blank\">Government of Italy, National Institute of Statistics (ISTAT), \u201cDay-diary and activities during Coronavirus-19\u201d (Italian original)</a>. (<a data-storymaps=\"MJ-ACTION-1615169756256\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.bcg.com/en-us/publications/2020/helping-working-parents-ease-the-burden-of-covid-19.aspx\" target=\"_blank\">Krentz, M., Kos, E., Green, A. and Garcia-Alonso, J., \u201cEasing the COVID-19 Burden on Working Parents\u201d, Boston Consulting Group, 21 May 2020</a>. (<a data-storymaps=\"MJ-ACTION-1615169765636\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.ipsos.com/en\" target=\"_blank\">Ipsos is a multinational market research company based in Paris</a>. (<a data-storymaps=\"MJ-ACTION-1615169772394\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://data.unwomen.org/features/ipsos-survey-confirms-covid-19-intensifying-womens-workload-home\" target=\"_blank\">Azcona, G., Bhatt, A. and Love, K., \u201cIpsos survey confirms that COVID-19 is increasing women\u2019s workload at home\u201d, United Nations Entity for Gender Equality and the Empowerment of Women (UN-Women), 9 July 2020</a>. (<a data-storymaps=\"MJ-ACTION-1615169778791\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://data.unwomen.org/resources/surveys-show-covid-19-has-gendered-effects-asia-and-pacific\" target=\"_blank\">United Nations Entity on Gender Equality and the Empowerment of Women (UN-Women), Surveys show that COVID-19 has gendered effects in Asia and the Pacific, April 2020</a> (section on unpaid care and domestic work). (<a data-storymaps=\"MJ-ACTION-1615169788404\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.unece.org/fileadmin/DAM/stats/publications/2018/ECECESSTAT20173.pdf\" target=\"_blank\">Economic Commission for Europe (ECE), Guide on Valuing Unpaid Household Service Work, New York and Geneva, 2017</a>. (<a data-storymaps=\"MJ-ACTION-1615170040565\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://unstats.un.org/sdgs/metadata?Text=&amp;Goal=5&amp;Target=5.4\" target=\"_blank\">UNDESA, Statistics Division, SDG Indicators, metadata repository</a>. (<a data-storymaps=\"MJ-ACTION-1615170048978\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.unece.org/fileadmin/DAM/stats/publications/2018/ECECESSTAT20173.pdf\" target=\"_blank\">Economic Commission for Europe (ECE), Guide on Valuing Unpaid Household Service Work, New York and Geneva, 2017</a>. (<a data-storymaps=\"MJ-ACTION-1615170054988\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Ibid. (<a data-storymaps=\"MJ-ACTION-1615170062398\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Ibid. (<a data-storymaps=\"MJ-ACTION-1615170067932\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://oig.cepal.org/sites/default/files/2019-10_repositorio_uso_del_tiempo_eng.pdf\" target=\"_blank\">Economic Commission for Latin America and the Caribbean (ECLAC), Repository of information on time use in Latin America and the Caribbean, Santiago, 2019</a>. (<a data-storymaps=\"MJ-ACTION-1615170095963\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C156\" target=\"_blank\">International Labour Organization (ILO) Workers with Family Responsibilities Convention</a>. (<a data-storymaps=\"MJ-ACTION-1615170116811\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C175\" target=\"_blank\">ILO Part-Time Work Convention</a>. (<a data-storymaps=\"MJ-ACTION-1615170123039\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C177\" target=\"_blank\">ILO Home-Work Convention</a>. (<a data-storymaps=\"MJ-ACTION-1615170128578\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C183\" target=\"_blank\">ILO Maternity Protection Convention</a>. (<a data-storymaps=\"MJ-ACTION-1615170133673\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Countries collecting time-use statistics around the world use different methods, which may affect the comparability of data across countries. Ongoing methodological developments will improve data harmonization and international comparability: see <a href=\"https://unstats.un.org/unsd/demographic-social/time-use/time-use-expert-group/\" target=\"_blank\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, Demographic and Social Statistics: United Nations Expert Group on Innovative and Expert Ways to Collect Time-Use Statistics</a>. (<a data-storymaps=\"MJ-ACTION-1615170142205\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>See also <a href=\"https://unstats.un.org/sdgs/indicators/database/\" target=\"_blank\">UNDESA, Statistics Division, Global SDGs Indicators Database, which presents metadata on the United Nations Sustainable Development Goals (SDGs)</a>. (<a data-storymaps=\"MJ-ACTION-1615170148688\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Data for latest available year for each country for the period 2001\u20142018; some countries had data for earlier periods. (<a data-storymaps=\"MJ-ACTION-1615170157835\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:1:0::NO:::\" target=\"_blank\">ILO, Normalex Information System on International Labour Standards</a>. (<a data-storymaps=\"MJ-ACTION-1615170163509\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n</ol>\n</div>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609848308",
@@ -326,10 +420,115 @@
                             "id": "MJ-ACTION-1598610194053",
                             "type": "navigate",
                             "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169607737",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169749729",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169756256",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169765636",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169772394",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169778791",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169788404",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1615170040565",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1615170048978",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1615170054988",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1615170062398",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1615170067932",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1615170095963",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1615170116811",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1615170123039",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1615170128578",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1615170133673",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1615170142205",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1615170148688",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1615170157835",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1615170163509",
+                            "type": "navigate",
+                            "index": 8
                         }
                     ],
-                    "creaDate": 1602349607501,
-                    "pubDate": 1602349607501,
+                    "creaDate": 1615170164054,
+                    "pubDate": 1615170164054,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -346,7 +545,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         },
         "doNotWarnTitle": true
     },

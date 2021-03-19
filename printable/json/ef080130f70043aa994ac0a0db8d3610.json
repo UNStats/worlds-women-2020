@@ -59,11 +59,11 @@
             "storage": "WEBAPP",
             "sections": [
                 {
-                    "title": "<p><span style=\"font-size:18px;\"><strong>Education</strong></span></p>\n",
-                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">School completion at primary and secondary levels of education</div>\n",
+                    "title": "<p><span style=\"font-size:18px\"><strong>Education</strong></span></p>\n",
+                    "content": "<style type=\"text/css\">p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">School completion at primary and secondary levels of education</div>\n",
                     "contentActions": [],
-                    "creaDate": 1602770911596,
-                    "pubDate": 1602770911596,
+                    "creaDate": 1612103797956,
+                    "pubDate": 1612103797956,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -71,19 +71,12 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/ef080130f70043aa994ac0a0db8d3610/resources/gift-habeshaw-PGaKmphvsrI-unsplash__1602770909820__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "gift-habeshaw-PGaKmphvsrI-unsplash__1602770909820__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/ef080130f70043aa994ac0a0db8d3610/resources/gift-habeshaw-PGaKmphvsrI-unsplash__1602770909820__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Key points</span>",
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
                     "content": "<ul class=\"key-points\">\n<li>Gender disparities in school completion rates show different patterns, depending on the level of education and income group.</li>\n<li>Among low-income countries, disparities in school completion, to the disadvantage of girls, are more common at higher levels of education; the converse is true among upper-income, middle-income and high-income countries.</li>\n<li>In upper-income, middle-income and high-income countries, boys are more likely than girls to drop out of school at the upper secondary levels of education as a result of a variety of factors, including poverty, which compels some to choose employment over continued education.</li>\n<li>Among poorer countries, particularly those in sub-Saharan Africa, lower levels of school completion among girls than boys tend to be more common among children from poor households than those from wealthier households, particularly at higher levels of education.</li>\n</ul>\n",
                     "contentActions": [],
                     "creaDate": 1603136844646,
@@ -107,7 +100,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:28px\">Background</span>",
+                    "title": "<span style=\"font-size:28px;\">Background</span>",
                     "content": "<p>The school completion rate indicates how many persons in a given age group have completed primary, lower secondary or upper secondary education. It indicates how many children and adolescents enter school on time and progress through the education system without excessive delays.</p>\n<p>A completion rate at or near 100% indicates that all or most children and adolescents have completed a level of education by the time they are 3\u20135 years older than the official age of entry into the last grade of that level of education.</p>\n<p>A low completion rate indicates low or delayed entry into a given level of education, high drop-out, high repetition, late completion or a combination of those elements.</p>\n<p>Difficulty in timely progression through primary and secondary grades occurs for a variety of reasons, mostly related to the educational system and social and economic factors. Gender also plays a significant role in school progression and completion in most countries.</p>\n",
                     "contentActions": [
                         {
@@ -138,7 +131,7 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">Gender disparities differ across income groups and levels of education</span>",
-                    "content": "<p>Gender differences in completion rates show different patterns, depending on the level of education and country income group (see figure I).</p>\n<p>Among low-income countries (and to a lesser extent lower-income and middle-income countries), the school completion rate for boys is generally higher than for girls\u00a0at higher levels of education. This is indicated by the proportion of countries above the parity line, together with the vertical distance between the observation and the parity line.</p>\n<p>The converse is true among upper-income, middle-income and high-income countries: male and female completion rates are very similar at the primary level, but diverge increasingly, to the disadvantage of boys, at secondary levels of education. In upper-income, middle-income and high-income countries, boys are more likely than girls to drop out of school at the upper secondary levels of education due to a variety of factors, including poverty, which compels some to choose employment over continuing their education.</p>\n",
+                    "content": "<p>Gender differences in completion rates show different patterns, depending on the level of education and country income group (see figure I).</p>\n<p>Among low-income countries (and to a lesser extent lower-income and middle-income countries), the school completion rate for boys is generally higher than for girls&nbsp;at higher levels of education. This is indicated by the proportion of countries above the parity line, together with the vertical distance between the observation and the parity line.</p>\n<p>The converse is true among upper-income, middle-income and high-income countries: male and female completion rates are very similar at the primary level, but diverge increasingly, to the disadvantage of boys, at secondary levels of education. In upper-income, middle-income and high-income countries, boys are more likely than girls to drop out of school at the upper secondary levels of education due to a variety of factors, including poverty, which compels some to choose employment over continuing their education.</p>\n",
                     "contentActions": [],
                     "creaDate": 1602770803861,
                     "pubDate": 1602770803861,
@@ -195,8 +188,8 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Sustained efforts are needed to improve girls&#39; and boys&#39; education</span>",
-                    "content": "<p>Despite substantial progress in improving school completion rates, more needs to be done to ensure universal primary and secondary education. Sustained efforts are needed to improve educational outcomes for both girls and boys.\u00a0As stressed by UNESCO in its reports on education for all, policies and programmes need to aim at changing social attitudes, making schools more accessible, monitoring trends in child labour and providing financial support for poor adolescents and youth to continue their education. <span class=\"label-ref\">Social protection</span> programmes, such as cash transfers, family or child allowances, could be considered to reduce direct and opportunity costs for vulnerable children and keep them from having to leave school to work.</p>\n",
+                    "title": "<span style=\"font-size:26px;\">Sustained efforts are needed to improve girls&#39; and boys&#39; education</span>",
+                    "content": "<p>Despite substantial progress in improving school completion rates, more needs to be done to ensure universal primary and secondary education. Sustained efforts are needed to improve educational outcomes for both girls and boys.&nbsp;As stressed by UNESCO in its reports on education for all, policies and programmes need to aim at changing social attitudes, making schools more accessible, monitoring trends in child labour and providing financial support for poor adolescents and youth to continue their education. <span class=\"label-ref\">Social protection</span> programmes, such as cash transfers, family or child allowances, could be considered to reduce direct and opportunity costs for vulnerable children and keep them from having to leave school to work.</p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609674534",
@@ -311,7 +304,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         },
         "doNotWarnTitle": true
     },

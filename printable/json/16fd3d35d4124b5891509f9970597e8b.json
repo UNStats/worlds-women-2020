@@ -59,17 +59,13 @@
             "storage": "WEBAPP",
             "sections": [
                 {
-                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Education</strong></span></span></p>\n",
-                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Schools and life skills-based HIV and sexuality education</div>\n",
+                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Education</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Schools providing life skills-based HIV and sexuality education&nbsp;</div>\n",
                     "contentActions": [
                         []
                     ],
-                    "creaDate": [
-                        1602805607319
-                    ],
-                    "pubDate": [
-                        1602805607319
-                    ],
+                    "creaDate": 1611944566654,
+                    "pubDate": 1611944566654,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -77,13 +73,6 @@
                             "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/alexis-brown--Xv7k95vOFA-unsplash.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "alexis-brown--Xv7k95vOFA-unsplash.jpg",
-                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/alexis-brown--Xv7k95vOFA-unsplash.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -141,13 +130,13 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Current situatoin</span>",
-                    "content": "<p><strong>Availability of life skills-based HIV and sexuality education</strong></p>\n<p>At the upper secondary level, 60% of countries with data (26 out of 43 countries and territories) provided life skills-based HIV and sexuality education at all schools, both public and private during the period 2015\u20142019 (see figure). These countries and territories represent different regional groupings: sub-Saharan Africa (Burundi, Cabo Verde, Eswatini, the Niger, Rwanda and Sao Tome and Principe); Europe and Northern America (Andorra, Bermuda, Finland, Gibraltar, Monaco and the Republic of Moldova); the Caribbean (Antigua and Barbuda, Cayman Islands, Cuba, Dominica and Jamaica); and Western Asia (Bahrain, Oman, Qatar and Saudi Arabia).</p>\n<p>At the lower secondary level, out of 42 countries with data, two out of three provided life skills-based HIV and sexuality education at all schools (see figure).</p>\n<p>Data availability on the provision of life skills-based HIV and sexuality education at the primary education level is limited, reflecting the fact that relatively few countries provide such programmes at that level, as opposed to the lower and upper secondary levels. Data available for 34 countries show that in 21 countries (62%) all schools provided age-appropriate sexuality education programmes at the primary education level.</p>\n",
+                    "title": "<span style=\"font-size:26px\">Current situation</span>",
+                    "content": "<p><strong>Availability of life skills-based HIV and sexuality education</strong></p>\n\n<p>At the upper secondary level, 60% of countries with data (26 out of 43 countries and territories) provided life skills-based HIV and sexuality education at all schools, both public and private during the period 2015\u20142019 (see figure). These countries and territories represent different regional groupings: sub-Saharan Africa (Burundi, Cabo Verde, Eswatini, Niger, Rwanda and Sao Tome and Principe); Europe and Northern America (Andorra, Bermuda, Finland, Gibraltar, Monaco and the Republic of Moldova); the Caribbean (Antigua and Barbuda, Cayman Islands, Cuba, Dominica and Jamaica); and Western Asia (Bahrain, Oman, Qatar and Saudi Arabia).</p>\n\n<p>At the lower secondary level, out of 42 countries with data, two out of three provided life skills-based HIV and sexuality education at all schools (see figure).</p>\n\n<p>Data availability on the provision of life skills-based HIV and sexuality education at the primary education level is limited, reflecting the fact that relatively few countries provide such programmes at that level, as opposed to the lower and upper secondary levels. Data available for 34 countries show that in 21 countries (62%) all schools provided age-appropriate sexuality education programmes at the primary education level.</p>\n",
                     "contentActions": [
                         []
                     ],
-                    "creaDate": 1606849404281,
-                    "pubDate": 1606849404281,
+                    "creaDate": 1611944599641,
+                    "pubDate": 1611944599641,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -187,7 +176,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Programmes providing life skills education are also needed outside schools to reach youth no longer in school</span>",
+                    "title": "<span style=\"font-size:26px;\">Programmes providing life skills education are also needed outside schools to reach youth no longer in school</span>",
                     "content": "<p>School-based programmes do not reach youth most at risk: those no longer in school. Furthermore, programmes outside school may be the only means of imparting knowledge and life skills education to young people in places where <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/9e5c189d5ee042c1b7f051ece189f018#NH14\" target=\"_blank\">teaching about sexuality</a> and <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/4086d9f255f7404e9e6d3a949ec42417#NH10\" target=\"_blank\">HIV and AIDS</a> in school is highly sensitive or forbidden. Life skills education outside school is likely to be most effective when it complements other services targeting young people. Voluntary and anonymous participation offered by youth drop-in centres can enhance the reach and effectiveness of such programmes.</p>\n<p>Moreover, whether life skills-based HIV and sexuality education is offered inside or outside a formal educational setting, it needs to reflect the fact that girls and boys have different needs and vulnerabilities. Single gender groups, with a teacher or facilitator of the same gender, can foster more open communication on sensitive issues. For example, as part of the \u201cSister 2 Sister\u201d initiative in Malawi, \u201cbig sisters\u201d (older young women) share their knowledge and life-skills experiences with young women aged 15\u201419. Overall, the programme has led to increased knowledge in the areas of sexuality, HIV, condom use, multiple and concurrent partners, age-disparate relationships and health-seeking behaviours, and there is evidence that such knowledge is sustained over time.<span class=\"footnote-index\">3</span></p>\n",
                     "contentActions": [
                         []
@@ -237,7 +226,7 @@
                 },
                 {
                     "title": "&nbsp;",
-                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"https://unesdoc.unesco.org/ark:/48223/pf0000368753\" target=\"_blank\">UNESCO, Global education monitoring report 2019 \u2013 Gender report: Building bridges for gender equality, Paris, 2019 </a>. (\u21e1 back to text)</li>\n<li>Ibid. (\u21e1 back to text)</li>\n<li>Bakaroudis, M., \u201cSister 2 Sister Initiative: Life Skills PLUS Extracurricular Peer Educator Training Package for Young Women 15\u201319 Years Old in Malawi\u201d, Lilongwe, 2011 (debrief presentation of consultancy mission and summary of proof of concept validation study, (unpublished.) (\u21e1 back to text)</li>\n<li>Data are from <a href=\"\" target=\"_blank\">United Nations Educational, Scientific and Cultural Organization (UNESCO), UNESCO Institute for Statistics database (accessed in May 2020)</a>. (\u21e1 back to text)</li>\n<li id=\"fn5\"><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\" target=\"_blank\">United Nations Department of Economic and Social Affairs (UNDESA), Statistical Division, regional groupings under the Sustainable Development Goals (SDGs) indicator framework </a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"https://unesdoc.unesco.org/ark:/48223/pf0000368753\" target=\"_blank\">UNESCO, Global education monitoring report 2019 \u2013 Gender report: Building bridges for gender equality, Paris, 2019 </a>. (\u21e1 back to text)</li>\n<li>Ibid. (\u21e1 back to text)</li>\n<li>Bakaroudis, M., \u201cSister 2 Sister Initiative: Life Skills PLUS Extracurricular Peer Educator Training Package for Young Women 15\u201319 Years Old in Malawi\u201d, Lilongwe, 2011 (debrief presentation of consultancy mission and summary of proof of concept validation study, (unpublished.) (\u21e1 back to text)</li>\n<li>Data are from <a href=\"\" target=\"_blank\">United Nations Educational, Scientific and Cultural Organization (UNESCO), UNESCO Institute for Statistics database (accessed in May 2020)</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\" target=\"_blank\">United Nations Department of Economic and Social Affairs (UNDESA), Statistical Division, regional groupings under the Sustainable Development Goals (SDGs) indicator framework </a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
                     "contentActions": [
                         []
                     ],
@@ -259,7 +248,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         },
         "doNotWarnTitle": true
     },

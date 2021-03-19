@@ -137,11 +137,17 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Current situation</span>",
-                    "content": "<p>In the course of the 2016 National Survey on the Dynamics of Household Relationships in Mexico,<span class=\"footnote-index\">1</span> almost one in four women (23.9%) aged 15 and older reported having suffered at least one occurrence of physical, sexual, or psychological violence during the 12 months prior to the survey. There was no significant change with respect to the results of the 2011 survey, when the prevalence of intimate partner violence was estimated at 24.7% (see figure I).</p>\n<p>Among the three types of violence against women, the most common was psychological violence, measured at 23.2% in 2016, a level that was very close to that recorded in 2011. The level of physical violence increased from 2011 to 2016, from 4.9% to 6.5%, although it is possible that the increase may be due to a better measurement of the two types of violence in the 2016 survey. Sexual violence, reported at 2.1% in 2016, was the least prevalent, although far from the least critical, among the three types of violence against women.</p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602276075456,
-                    "pubDate": 1602276075456,
+                    "title": "<span style=\"font-size:26px\">Current situation</span>",
+                    "content": "<p>In the course of the 2016 National Survey on the Dynamics of Household Relationships in Mexico,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615177343104\" data-storymaps-type=\"navigate\">1</a></span> almost one in four women (23.9%) aged 15 and older reported having suffered at least one occurrence of physical, sexual, or psychological violence during the 12 months prior to the survey. There was no significant change with respect to the results of the 2011 survey, when the prevalence of intimate partner violence was estimated at 24.7% (see figure I).</p>\n\n<p>Among the three types of violence against women, the most common was psychological violence, measured at 23.2% in 2016, a level that was very close to that recorded in 2011. The level of physical violence increased from 2011 to 2016, from 4.9% to 6.5%, although it is possible that the increase may be due to a better measurement of the two types of violence in the 2016 survey. Sexual violence, reported at 2.1% in 2016, was the least prevalent, although far from the least critical, among the three types of violence against women.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1615177343104",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1615177343610,
+                    "pubDate": 1615177343610,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -198,10 +204,16 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px\">Younger women are more likely to be subjected to intimate partner violence</span>",
-                    "content": "<p>The proportion of women in Mexico who reported at least one occurrence of physical, sexual or psychological violence inflicted by a current or former intimate partner in the last 12 months was higher among <span class=\"label-ref\">young women</span> aged 18\u201319 ( 30.9%).<span class=\"footnote-index\">2</span></p>\n",
-                    "contentActions": [],
-                    "creaDate": 1603049332181,
-                    "pubDate": 1603049332181,
+                    "content": "<p>The proportion of women in Mexico who reported at least one occurrence of physical, sexual or psychological violence inflicted by a current or former intimate partner in the last 12 months was higher among <span class=\"label-ref\">young women</span> aged 18\u201319 ( 30.9%).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615177373597\" data-storymaps-type=\"navigate\">2</a></span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1615177373597",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1615177374257,
+                    "pubDate": 1615177374257,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -209,23 +221,22 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/38ae8ce54de548f4bf6035f6ebacfc2e/resources/sydney-sims-fZ2hMpHIrbI-unsplash__1602818757841__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "sydney-sims-fZ2hMpHIrbI-unsplash__1602818757841__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/38ae8ce54de548f4bf6035f6ebacfc2e/resources/sydney-sims-fZ2hMpHIrbI-unsplash__1602818757841__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Legal framework</span>",
-                    "content": "<p>Progress has been made to address violence against women in the national legal framework, including, notably, the General Law on Women\u2019s Access to a Life Free from Violence,<span class=\"footnote-index\">3</span> and the inclusion of violent acts, such as femicide, into the national and subnational penal codes.</p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602818836445,
-                    "pubDate": 1602818836445,
+                    "title": "<span style=\"font-size:26px\">Legal framework</span>",
+                    "content": "<p>Progress has been made to address violence against women in the national legal framework, including, notably, the General Law on Women\u2019s Access to a Life Free from Violence,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615177400649\" data-storymaps-type=\"navigate\">3</a></span> and the inclusion of violent acts, such as femicide, into the national and subnational penal codes.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1615177400649",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1615177401318,
+                    "pubDate": 1615177401318,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -233,13 +244,6 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/38ae8ce54de548f4bf6035f6ebacfc2e/resources/marisol-casben-PbwKSCq9aVo-unsplash-Indigenous%20women__1602818835038__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "marisol-casben-PbwKSCq9aVo-unsplash-Indigenous women__1602818835038__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/38ae8ce54de548f4bf6035f6ebacfc2e/resources/marisol-casben-PbwKSCq9aVo-unsplash-Indigenous%20women__1602818835038__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -262,8 +266,8 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<p>Percentage of women and girls aged 15 and older who report having experienced at least one occurrence of physical, sexual or psychological violence by a current or former intimate partner during the 12 months previous to the survey.<span class=\"footnote-index\">4</span></p>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Women in Mexico aged 15 and older who have ever had an intimate partner: reporting at both the federal and state levels.</p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>Information necessary for the computation of this indicator is available at the webpage of the National Institute of Statistics and Geography (INEGI).<span class=\"footnote-index\">5</span></p>\n</div>\n</div>\n",
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<p>Percentage of women and girls aged 15 and older who report having experienced at least one occurrence of physical, sexual or psychological violence by a current or former intimate partner during the 12 months previous to the survey.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615177432828\" data-storymaps-type=\"navigate\">4</a></span></p>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Women in Mexico aged 15 and older who have ever had an intimate partner: reporting at both the federal and state levels.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Information necessary for the computation of this indicator is available at the webpage of the National Institute of Statistics and Geography (INEGI).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615177438389\" data-storymaps-type=\"navigate\">5</a></span></p>\n</div>\n</div>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598603509488",
@@ -314,10 +318,20 @@
                             "id": "MJ-ACTION-1598605681508",
                             "type": "navigate",
                             "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1615177432828",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615177438389",
+                            "type": "navigate",
+                            "index": 10
                         }
                     ],
-                    "creaDate": 1602275363187,
-                    "pubDate": 1602275340000,
+                    "creaDate": 1615177438853,
+                    "pubDate": 1615177438853,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -330,11 +344,37 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"https://en.www.inegi.org.mx/programas/endireh/2016/\" target=\"_blank\">INEGI, National Survey on the Dynamics of Household Relationships, 2016</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://en.www.inegi.org.mx/programas/endireh/2016/\" target=\"_blank\">INEGI, National Survey on the Dynamics of Household Relationships, 2016</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.refworld.org/docid/48a3028817.html\" target=\"_blank\">General Law on Women\u2019s Access to a Life Free of Violence, 2008</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://en.www.inegi.org.mx/programas/endireh/2016/\" target=\"_blank\">National Institute of Statistics and Geography (INEGI), National Survey on the Dynamics of Household Relationships, 2016</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://en.www.inegi.org.mx/datos/\" target=\"_blank\">INEGI website</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
-                    "contentActions": [],
-                    "creaDate": 1602275341901,
-                    "pubDate": 1602275340000,
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://en.www.inegi.org.mx/programas/endireh/2016/\" target=\"_blank\">INEGI, National Survey on the Dynamics of Household Relationships, 2016</a>. (<a data-storymaps=\"MJ-ACTION-1615177357379\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://en.www.inegi.org.mx/programas/endireh/2016/\" target=\"_blank\">INEGI, National Survey on the Dynamics of Household Relationships, 2016</a>. (<a data-storymaps=\"MJ-ACTION-1615177386660\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.refworld.org/docid/48a3028817.html\" target=\"_blank\">General Law on Women\u2019s Access to a Life Free of Violence, 2008</a>. (<a data-storymaps=\"MJ-ACTION-1615177414793\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://en.www.inegi.org.mx/programas/endireh/2016/\" target=\"_blank\">National Institute of Statistics and Geography (INEGI), National Survey on the Dynamics of Household Relationships, 2016</a>. (<a data-storymaps=\"MJ-ACTION-1615177450074\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://en.www.inegi.org.mx/datos/\" target=\"_blank\">INEGI website</a>. (<a data-storymaps=\"MJ-ACTION-1615177457718\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1615177357379",
+                            "type": "navigate",
+                            "index": 3
+                        },
+                        {
+                            "id": "MJ-ACTION-1615177386660",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1615177414793",
+                            "type": "navigate",
+                            "index": 7
+                        },
+                        {
+                            "id": "MJ-ACTION-1615177450074",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615177457718",
+                            "type": "navigate",
+                            "index": 9
+                        }
+                    ],
+                    "creaDate": 1615177458311,
+                    "pubDate": 1615177458311,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -351,7 +391,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         }
     },
     "_ssl": null,

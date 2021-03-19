@@ -59,17 +59,13 @@
             "storage": "WEBAPP",
             "sections": [
                 {
-                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Education</strong></span></span></p>\n",
-                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Youth and adult literacy rates for women and men</div>\n",
+                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Education</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Youth and adult literacy rates</div>\n",
                     "contentActions": [
                         []
                     ],
-                    "creaDate": [
-                        1602805607319
-                    ],
-                    "pubDate": [
-                        1602805607319
-                    ],
+                    "creaDate": 1612101495333,
+                    "pubDate": 1612101495333,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -77,19 +73,12 @@
                             "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/cheng-feng-IJuN68Wrw1c-unsplash.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "cheng-feng-IJuN68Wrw1c-unsplash.jpg",
-                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/cheng-feng-IJuN68Wrw1c-unsplash.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Key points</span>",
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
                     "content": "<ul class=\"key-points\">\n<li>The benefits of literacy, in particular for women, include greater participation in the labour market, delayed marriage, and improved child and family health and nutrition; these benefits, in turn, reduce poverty and expand life opportunities.</li>\n<li>Global literacy rates for both adults and youth have been rising steadily over the period 1995\u20142018, and gender gaps have narrowed consistently for both the adult (7 percentage points) and youth populations (2 percentage points) worldwide over the same period.</li>\n<li>Despite this improvement, gender gaps among the adult population aged 15 and older remain significant worldwide, with 9 in 10 adult men being literate in 2018 compared to about 8 in 10 women.</li>\n<li>The largest gender disparities in literacy (9\u201416 percentage points) for adult populations are concentrated in four regions: sub-Saharan Africa (73% for men versus 59% for women), Northern Africa (79% for men versus 66% for women), Southern Asia (81% for men versus 65% for women) and Western Asia (90% for men versus 81% for women</li>\n</ul>\n",
                     "contentActions": [
                         []
@@ -115,7 +104,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Background</span>",
+                    "title": "<span style=\"font-size:26px;\">Background</span>",
                     "content": "<p>Literacy is an indispensable skill, essential for accessing information and knowledge and for independent learning. It is a key driver of sustainable development, which enables greater participation in the labour market and civic life. A lack of literacy skills is strongly correlated with poverty and exclusion from social and economic opportunities. The benefits of literacy, in particular for women, are well documented, including increased participation in the labour market, delayed marriage and improved child and family health and nutrition, all of which reduce poverty and expand life opportunities. In the 2030 Agenda for Sustainable Development<span class=\"footnote-index\">1</span> literacy is highlighted as a public good, the foundation of basic education, and Sustainable Development Goal 4, target 4.6, specifically calls on countries to ensure that by 2030 \u201call youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy\u201d.</p>\n",
                     "contentActions": [
                         []
@@ -141,7 +130,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Gender disparities in literacy have narrowed over recent decades for both the adult and youth populations</span>",
+                    "title": "<span style=\"font-size:26px;\">Gender disparities in literacy have narrowed over recent decades for both the adult and youth populations</span>",
                     "content": "<p>Global literacy rates rose during the period 1995\u20142018 (see figure I). Over this period, gaps between women and men consistently narrowed in terms of reading and writing skills. At the global level, the gender gap in the youth literacy rates has been steadily closing (from about 8 percentage points in 1995 to about 2 percentage points in 2018), although disparities persist across and within regions. Gender parity in literacy among youth has been attained in the majority of regions, and data show remarkable improvement among adult populations, with a steady reduction in gender gaps from about 13 percentage points in 1995 to 7 percentage points in 2018. Nevertheless, gender gaps among the adult population aged 15 and older worldwide remain significant, with 9 in 10 adult men being literate in 2018 compared to about 8 in 10 women.</p>\n",
                     "contentActions": [
                         []
@@ -161,7 +150,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Gender disparities in literacy are concentrated in certain regions</span>",
+                    "title": "<span style=\"font-size:26px;\">Gender disparities in literacy are concentrated in certain regions</span>",
                     "content": "<p>Gender inequalities in literacy are most prevalent in four regions, with the widest gender disparities in the literacy rate, particularly for adult populations, observed in <span class=\"label-ref\">sub-Saharan Africa</span> (73% for men versus 59% for women), <span class=\"label-ref\">Northern Africa</span> (79% for men versus 66% for women), <span class=\"label-ref\">Southern Asia</span> (81% for men versus 65% for women) and Western Asia (90% for men versus 81% for women) (see figure II.A). Gender disparities were more pronounced in adult populations than among youth, a point that is further illustrated in terms of the gender parity index (GPI) (see figure II.A) for regions with available data.</p>\n",
                     "contentActions": [
                         []
@@ -182,12 +171,12 @@
                 },
                 {
                     "title": "&nbsp;&nbsp;",
-                    "content": "<p>Inequalities in literacy tend to be consistently against females, as illustrated in figure II.B. In some countries gender disparities among the adult population are particularly pronounced. For example, in Chad and Guinea-Bissau, less than 50 adult females are literate for every 100 literate males. Even among the youth population, gender inequalities can be stark in some countries, with less than 60 literate females for every 100 males in and the <span class=\"label-ref\">Central African Republic</span>. Similar, although less extreme, disparities against female youth are also evident in other countries in West Africa, including Guinea, Liberia and the Niger, as demonstrated in gender inequalities in school enrolment and learning.</p>\n<p>Despite the steady rise in literacy rates over the past few decades, more progress is needed to achieve SDG target 4.6, which aims to ensure that all youth and most adults achieve literacy and numeracy by 2030. This requires scaling up literacy and skills programmes and collaborating with civil society partners, particularly aimed at reaching girls and women and vulnerable groups, and integrating such programmes with skills development for decent work and livelihoods as essential elements of lifelong learning.</p>\n",
+                    "content": "<p>Inequalities in literacy tend to be consistently against females, as illustrated in figure II.B. In some countries gender disparities among the adult population are particularly pronounced. For example, in Chad and Guinea-Bissau, less than 50 adult females are literate for every 100 literate males. Even among the youth population, gender inequalities can be stark in some countries, with less than 60 literate females for every 100 males in Chad and the <span class=\"label-ref\">Central African Republic</span>. Similar, although less extreme, disparities against female youth are also evident in other countries in West Africa, including Guinea, Liberia and Niger, as demonstrated in gender inequalities in school enrolment and learning.</p>\n\n<p>Despite the steady rise in literacy rates over the past few decades, more progress is needed to achieve SDG target 4.6, which aims to ensure that all youth and most adults achieve literacy and numeracy by 2030. This requires scaling up literacy and skills programmes and collaborating with civil society partners, particularly aimed at reaching girls and women and vulnerable groups, and integrating such programmes with skills development for decent work and livelihoods as essential elements of lifelong learning.</p>\n",
                     "contentActions": [
                         []
                     ],
-                    "creaDate": 1606835585667,
-                    "pubDate": 1606835585667,
+                    "creaDate": 1611940210757,
+                    "pubDate": 1611940210757,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -265,7 +254,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         },
         "doNotWarnTitle": true
     },

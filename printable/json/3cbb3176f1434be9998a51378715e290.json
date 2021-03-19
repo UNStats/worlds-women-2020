@@ -60,10 +60,10 @@
             "sections": [
                 {
                     "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n",
-                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Unemployment rate by sex, age and persons with disabilities</div>\n",
+                    "content": "<style type=\"text/css\">p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Unemployment rate by sex, age and persons with disabilities</div>\n",
                     "contentActions": [],
-                    "creaDate": 1602473297300,
-                    "pubDate": 1602473297300,
+                    "creaDate": 1612102132952,
+                    "pubDate": 1612102132952,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -71,13 +71,6 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/3cbb3176f1434be9998a51378715e290/resources/ali-yahya-pvdRZLni3P0-unsplash__1602473292964__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "ali-yahya-pvdRZLni3P0-unsplash__1602473292964__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/3cbb3176f1434be9998a51378715e290/resources/ali-yahya-pvdRZLni3P0-unsplash__1602473292964__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -107,8 +100,8 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:28px\">The unemployment rate is higher for women than men in most countries</span>",
-                    "content": "<p>In 2019, in 85 countries and territories among 129 with available data (66%), the unemployment rate for women was higher than that for men. This pattern was particularly evident in , where the gender gap in the unemployment rate amounted to 12 percentage points (see figure I).</p>\n",
+                    "title": "<span style=\"font-size:28px;\">The unemployment rate is higher for women than men in most countries</span>",
+                    "content": "<p>In 2019, in 85 countries and territories among 129 with available data (66%), the unemployment rate for women was higher than that for men. This pattern was particularly evident in <span class=\"label-ref\">Northern Africa</span>, where the gender gap in the unemployment rate amounted to 12 percentage points (see figure I).</p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609558915",
@@ -116,8 +109,8 @@
                             "index": 11
                         }
                     ],
-                    "creaDate": 1602805150081,
-                    "pubDate": 1602805150081,
+                    "creaDate": 1614535622660,
+                    "pubDate": 1614535622660,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -132,10 +125,16 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px\">During the period 2000&ndash;2019, unemployment among youth has been persistently higher than among the overall working-age population</span>",
-                    "content": "<p>In 2019, the unemployment rate for women aged 15 years and older was 5.6% worldwide, slightly higher than that for men in the same age group (5.3%). The proportion of unemployed among working- age women and men in the labour force has remained steady since 2000, with a slight increase observed between 2008 and 2009.</p>\n<p>With regard to <span class=\"label-ref\">youth</span> unemployment, since 2000, on average, young men aged 15\u201324 have been slightly more likely (14%) to be unemployed than young women (13%), although young women have faced a significantly higher incidence of not being engaged in education, employment or training (<a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/a0e8cdf5770e41bca0f4b94df37131b2#NW18\" target=\"_blank\">NEET</a>),<span class=\"footnote-index\">x</span> which may indicate a level of discouragement about entering into the labour market and thus their exclusion from the count of unemployed persons. Overall, the age gap in unemployment appears more significant than the gender gap (see figure II). In 2019, unemployment rates for young women and young men were more than twice as high as those for the overall working- age population and more than three times as high as those for adult population aged 25 years or older. The difference between the unemployment rates for youth and total unemployment rates has been relatively stable since 2000.</p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602805219513,
-                    "pubDate": 1602805219513,
+                    "content": "<p>In 2019, the unemployment rate for women aged 15 years and older was 5.6% worldwide, slightly higher than that for men in the same age group (5.3%). The proportion of unemployed among working- age women and men in the labour force has remained steady since 2000, with a slight increase observed between 2008 and 2009.</p>\n\n<p>With regard to <span class=\"label-ref\">youth</span> unemployment, since 2000, on average, young men aged 15\u201324 have been slightly more likely (14%) to be unemployed than young women (13%), although young women have faced a significantly higher incidence of not being engaged in education, employment or training (<a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/a0e8cdf5770e41bca0f4b94df37131b2#NW18\" target=\"_blank\">NEET</a>),<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1614538767206\" data-storymaps-type=\"navigate\">1</a></span> which may indicate a level of discouragement about entering into the labour market and thus their exclusion from the count of unemployed persons. Overall, the age gap in unemployment appears more significant than the gender gap (see figure II). In 2019, unemployment rates for young women and young men were more than twice as high as those for the overall working- age population and more than three times as high as those for adult population aged 25 years or older. The difference between the unemployment rates for youth and total unemployment rates has been relatively stable since 2000.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1614538767206",
+                            "type": "navigate",
+                            "index": 11
+                        }
+                    ],
+                    "creaDate": 1614538769675,
+                    "pubDate": 1614538769675,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -149,7 +148,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Unemployment rates are higher for women than men in many regions</span>",
+                    "title": "<span style=\"font-size:26px;\">Unemployment rates are higher for women than men in many regions</span>",
                     "content": "<p>In 2019, women were more likely to be unemployed than men in 7 out of 12 regions, and unemployment among women was particularly pervasive in <span class=\"label-ref\">Northern Africa</span> (21.5%), <span class=\"label-ref\">Western Asia</span> (15.1%) and Latin America and the Caribbean (9.6%) (see figure III). The gender gap was the highest in countries in Northern Africa (12 percentage points), where historically women\u2019s participation rate in the <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/27c1c1ad540347aabc70434238223919#NW1\" target=\"_blank\">labour force</a> has been considerably lower than men\u2019s over time.</p>\n",
                     "contentActions": [],
                     "creaDate": 1602805272415,
@@ -167,7 +166,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Sharper increases in unemployment among men was significant during and after the global economic crisis in 2008 in selected advanced economies in the Eurozone</span>",
+                    "title": "<span style=\"font-size:26px;\">Sharper increases in unemployment among men was significant during and after the global economic crisis in 2008 in selected advanced economies in the Eurozone</span>",
                     "content": "<p>Following the global economic crisis in 2008, unemployment rates among women and men experienced an immediate increase, including long-lasting negative effects that have levelled out over subsequent years. The increase in unemployment rates were generally higher for men, who dominated employment in severely impacted subsectors, such as construction, in particular in selected advanced economies in <span class=\"label-ref\">Europe</span>, namely in Greece, Ireland, Italy, Portugal and Spain. In those countries, while unemployment rates among men increased at a faster pace than among women during and immediately after 2008, they also fell at higher rates in subsequent years (see figure IV).</p>\n",
                     "contentActions": [],
                     "creaDate": 1602805312590,
@@ -185,11 +184,22 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Disability is an exacerbating factor in unemployment among women and men</span>",
-                    "content": "<p>In 40 out of 59 countries with latest available data (68%), the unemployment rate as of 2018 was higher for <span class=\"label-ref\">persons with disabilities</span>.<span class=\"footnote-index\">2</span> Furthermore, in 24 countries with available sex-disaggregated data since 2016, the unemployment rate was higher among women with disabilities than among those without disabilities in 58% of countries and among men with disabilities than those without disabilities in 71% of countries. In the Russian Federation in 2018, women with disabilities were three times more likely (15.3%) to be unemployed than women without disabilities (4.6%). The corresponding unemployment rate for men with disabilities was four times higher (19.4%) than for men without disabilities (4.8%).<span class=\"footnote-index\">3</span> Overall, among persons with disabilities, unemployment rates were higher for women than for men in 13 out of 24 countries with available sex-disaggregated data since 2016.</p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602472556876,
-                    "pubDate": 1602472556876,
+                    "title": "<span style=\"font-size:26px\">Disability is an exacerbating factor in unemployment among women and men</span>",
+                    "content": "<p>In 40 out of 59 countries with latest available data (68%), the unemployment rate as of 2018 was higher for <span class=\"label-ref\">persons with disabilities</span>.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1614538796003\" data-storymaps-type=\"navigate\">2</a></span> Furthermore, in 24 countries with available sex-disaggregated data since 2016, the unemployment rate was higher among women with disabilities than among those without disabilities in 58% of countries and among men with disabilities than those without disabilities in 71% of countries. In the Russian Federation in 2018, women with disabilities were three times more likely (15.3%) to be unemployed than women without disabilities (4.6%). The corresponding unemployment rate for men with disabilities was four times higher (19.4%) than for men without disabilities (4.8%).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1614538805430\" data-storymaps-type=\"navigate\">3</a></span> Overall, among persons with disabilities, unemployment rates were higher for women than for men in 13 out of 24 countries with available sex-disaggregated data since 2016.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1614538796003",
+                            "type": "navigate",
+                            "index": 11
+                        },
+                        {
+                            "id": "MJ-ACTION-1614538805430",
+                            "type": "navigate",
+                            "index": 11
+                        }
+                    ],
+                    "creaDate": 1614538807106,
+                    "pubDate": 1614538807106,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -197,23 +207,22 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/3cbb3176f1434be9998a51378715e290/resources/analise-benevides-5zJ2FZ5M6DM-unsplash__1602472554621__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "analise-benevides-5zJ2FZ5M6DM-unsplash__1602472554621__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/3cbb3176f1434be9998a51378715e290/resources/analise-benevides-5zJ2FZ5M6DM-unsplash__1602472554621__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Social protection</span>",
-                    "content": "<p>In 10 out of 17 countries with available sex-disaggregated data since 2016, the proportion of the population receiving <span class=\"label-ref\">unemployment cash benefits</span> was higher among unemployed women than among unemployed men. In 2017, in the Islamic Republic of Iran, however, only 1% of unemployed women received unemployment cash benefits, compared with 12% of unemployed men.<span class=\"footnote-index\">4</span></p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602472939777,
-                    "pubDate": 1602472939777,
+                    "title": "<span style=\"font-size:26px\">Social protection</span>",
+                    "content": "<p>In 10 out of 17 countries with available sex-disaggregated data since 2016, the proportion of the population receiving <span class=\"label-ref\">unemployment cash benefits</span> was higher among unemployed women than among unemployed men. In 2017, in the Islamic Republic of Iran, however, only 1% of unemployed women received unemployment cash benefits, compared with 12% of unemployed men.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1614538829447\" data-storymaps-type=\"navigate\">4</a></span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1614538829447",
+                            "type": "navigate",
+                            "index": 11
+                        }
+                    ],
+                    "creaDate": 1614538830240,
+                    "pubDate": 1614538830240,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -221,23 +230,37 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/3cbb3176f1434be9998a51378715e290/resources/j-w-E8cenvOOpHQ-unsplash__1602472937356__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "j-w-E8cenvOOpHQ-unsplash__1602472937356__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/3cbb3176f1434be9998a51378715e290/resources/j-w-E8cenvOOpHQ-unsplash__1602472937356__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Covid-19</span>",
-                    "content": "<p>During the recovery from the global economic crisis of 2008, unemployment rates went down worldwide, despite large disparities across regions. In 2020, the <span class=\"label-ref\">Covid-19</span> pandemic has caused abrupt and adverse changes in the labour markets, and \u201cin fact, we can expect the biggest increase in global unemployment since World War II\u201d.<span class=\"footnote-index\">5</span></p>\n<blockquote>\n<p>\u201cThe pandemic is expected to have a devastating impact on global unemployment, which may reach an historic high in 2020, depending on the policies adopted. The eventual increase in global unemployment over 2020 will depend on how effectively policy measures preserve existing jobs and boost labour demand once the recovery phase begins.\u201d<span class=\"footnote-index\">6</span></p>\n</blockquote>\n<p>Preliminary estimates by the International Labour Organization indicate a significant rise in unemployment by approximately 13 million, or possibly by almost 25 million in a \u201chigh\u201d scenario. For comparison, during the global economic crisis in 2008, the number of unemployed worldwide increased by 22 million.<span class=\"footnote-index\">7</span> <span class=\"footnote-index\">8</span></p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602472645781,
-                    "pubDate": 1602472645781,
+                    "title": "<span style=\"font-size:26px\">Covid-19</span>",
+                    "content": "<p>During the recovery from the global economic crisis of 2008, unemployment rates went down worldwide, despite large disparities across regions. In 2020, the <span class=\"label-ref\">Covid-19</span> pandemic has caused abrupt and adverse changes in the labour markets, and \u201cin fact, we can expect the biggest increase in global unemployment since World War II\u201d.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1614538841984\" data-storymaps-type=\"navigate\">5</a></span></p>\n\n<blockquote>\n<p>\u201cThe pandemic is expected to have a devastating impact on global unemployment, which may reach an historic high in 2020, depending on the policies adopted. The eventual increase in global unemployment over 2020 will depend on how effectively policy measures preserve existing jobs and boost labour demand once the recovery phase begins.\u201d<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1614538860822\" data-storymaps-type=\"navigate\">6</a></span></p>\n</blockquote>\n\n<p>Preliminary estimates by the International Labour Organization indicate a significant rise in unemployment by approximately 13 million, or possibly by almost 25 million in a \u201chigh\u201d scenario. For comparison, during the global economic crisis in 2008, the number of unemployed worldwide increased by 22 million.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1614538849405\" data-storymaps-type=\"navigate\">7</a></span> <span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1614538854435\" data-storymaps-type=\"navigate\">8</a></span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1614538841984",
+                            "type": "navigate",
+                            "index": 11
+                        },
+                        {
+                            "id": "MJ-ACTION-1614538849405",
+                            "type": "navigate",
+                            "index": 11
+                        },
+                        {
+                            "id": "MJ-ACTION-1614538854435",
+                            "type": "navigate",
+                            "index": 11
+                        },
+                        {
+                            "id": "MJ-ACTION-1614538860822",
+                            "type": "navigate",
+                            "index": 11
+                        }
+                    ],
+                    "creaDate": 1614538893352,
+                    "pubDate": 1614538893352,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -245,23 +268,22 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/3cbb3176f1434be9998a51378715e290/resources/817248-Ring%20Vaccination%20at%20Kivika%20Health%20Centre%20in%20North%20Kivu__1602472643090__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "817248-Ring Vaccination at Kivika Health Centre in North Kivu__1602472643090__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/3cbb3176f1434be9998a51378715e290/resources/817248-Ring%20Vaccination%20at%20Kivika%20Health%20Centre%20in%20North%20Kivu__1602472643090__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Covid-19 and Northern America</span>",
-                    "content": "<p>The <span class=\"label-ref\">pandemic</span> and the lockdown measures to prevent its contagion paralysed economies in developed regions, including countries in <span class=\"label-ref\">Northern America</span>. Employed persons with the least \u201cteleworkable\u201d jobs were the hardest hit in the United States of America, where new claims for unemployment benefits increased by more than 10 million in just two weeks. In the United States, the unemployment rates among adult women and men aged 20 years and over were the same in July 2019 (3.3%): as of July 2020, the unemployment rate for women was 10.5% and 9.4% for men. The young are also likely to bear the brunt of the pandemic in Canada: in June 2020, the unemployment rate among young women was 27% (an increase from 11% in June 2019) and the unemployment rate among young men was 28% (an increase from 13% in June 2019).<span class=\"footnote-index\">9</span></p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602472690984,
-                    "pubDate": 1602472690984,
+                    "title": "<span style=\"font-size:26px\">Covid-19 and Northern America</span>",
+                    "content": "<p>The <span class=\"label-ref\">pandemic</span> and the lockdown measures to prevent its contagion paralysed economies in developed regions, including countries in <span class=\"label-ref\">Northern America</span>. Employed persons with the least \u201cteleworkable\u201d jobs were the hardest hit in the United States of America, where new claims for unemployment benefits increased by more than 10 million in just two weeks. In the United States, the unemployment rates among adult women and men aged 20 years and over were the same in July 2019 (3.3%): as of July 2020, the unemployment rate for women was 10.5% and 9.4% for men. The young are also likely to bear the brunt of the pandemic in Canada: in June 2020, the unemployment rate among young women was 27% (an increase from 11% in June 2019) and the unemployment rate among young men was 28% (an increase from 13% in June 2019).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1614538911711\" data-storymaps-type=\"navigate\">9</a></span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1614538911711",
+                            "type": "navigate",
+                            "index": 11
+                        }
+                    ],
+                    "creaDate": 1614538912289,
+                    "pubDate": 1614538912289,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -269,20 +291,13 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/3cbb3176f1434be9998a51378715e290/resources/840771-Street%20Scene%20in%20New%20York%20City%20during%20COVID-19%20Outbreak__1602472687120__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "840771-Street Scene in New York City during COVID-19 Outbreak__1602472687120__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/3cbb3176f1434be9998a51378715e290/resources/840771-Street%20Scene%20in%20New%20York%20City%20during%20COVID-19%20Outbreak__1602472687120__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li><span class=\"concept\">Unemployment rate by sex, age and persons with disabilities</span>: <span class=\"definition\">This indicator provides information on the proportion of unemployed persons in the labour force and is one of the key measures of labour underutilization. Unemployed persons include working-age individuals who were not in employment, actively seeking and available for work during the reference period. The working-age population is usually defined as persons aged 15 years and older to facilitate international comparability.</span>\n<p><span class=\"definition\">Unemployment rate (%) = (unemployed persons) / (employed persons + unemployed persons) x 100. <span class=\"footnote-index\">10</span></span></p>\n</li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Working-age women and men in 129 United Nations Member States and territories (with latest available data between 2015 and 2019).</p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Limitations</h2>\n<p>The unemployment rate is not a robust measure of the performance of the labour market, especially in developing regions where women and men, due to economic pressures to find work, may take up jobs that have vulnerable employment conditions.</p>\n<p>Looking at the unemployment rate in isolation does not capture the situation of people outside the labour force who may still have some connection to the labour force.</p>\n<p>Since 2013, the international statistical standards (19th ICLS) recommend reporting the unemployment rate as part of a wider set of measures of labour underutilization, to support more informed monitoring of labour markets and to shed light on differences in access to employment opportunities among women and men, youth and older age groups, and persons living in urban and rural areas.</p>\n</div>\n</div>\n",
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Unemployment rate by sex, age and persons with disabilities</span>: <span class=\"definition\">This indicator provides information on the proportion of unemployed persons in the labour force and is one of the key measures of labour underutilization. Unemployed persons include working-age individuals who were not in employment, actively seeking and available for work during the reference period. The working-age population is usually defined as persons aged 15 years and older to facilitate international comparability.</span>\n\n\t<p><span class=\"definition\">Unemployment rate (%) = (unemployed persons) / (employed persons + unemployed persons) x 100. <span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1614538924461\" data-storymaps-type=\"navigate\">10</a></span></span></p>\n\t</li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Working-age women and men in 129 United Nations Member States and territories (with latest available data between 2015 and 2019).</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Limitations</h2>\n\n<p>The unemployment rate is not a robust measure of the performance of the labour market, especially in developing regions where women and men, due to economic pressures to find work, may take up jobs that have vulnerable employment conditions.</p>\n\n<p>Looking at the unemployment rate in isolation does not capture the situation of people outside the labour force who may still have some connection to the labour force.</p>\n\n<p>Since 2013, the international statistical standards (19th ICLS) recommend reporting the unemployment rate as part of a wider set of measures of labour underutilization, to support more informed monitoring of labour markets and to shed light on differences in access to employment opportunities among women and men, youth and older age groups, and persons living in urban and rural areas.</p>\n</div>\n</div>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609809974",
@@ -298,10 +313,15 @@
                             "id": "MJ-ACTION-1598609820099",
                             "type": "navigate",
                             "index": 11
+                        },
+                        {
+                            "id": "MJ-ACTION-1614538924461",
+                            "type": "navigate",
+                            "index": 11
                         }
                     ],
-                    "creaDate": 1602351992217,
-                    "pubDate": 1602351992217,
+                    "creaDate": 1614538925176,
+                    "pubDate": 1614538925176,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -314,77 +334,62 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li>The <a href=\"https://ilostat.ilo.org/resources/methods/description-youth-neet/\" target=\"_blank\">youth NEET rate</a> provides information about the proportion of youth (aged 15\u201324) not in education, employment or training as part of the total youth population. (\u21e1 back to text)</li>\n<li>UNDESA, Statistics Division, The Sustainable Development Goals Report 2020, New York, 2020. (\u21e1 back to text)</li>\n<li>Global SDG Indicators Database; ILO modelled estimates (last accessed on 10 August 2020). (\u21e1 back to text)</li>\n<li>Source: Global SDG Indicators Database; ILO modelled estimates (last accessed on 10 August 2020). (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/sdgs/report/2020/goal-08/\" target=\"_blank\">Global SDG Indicators Database, Sustainable Development Goal 8</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/briefingnote/wcms_740877.pdf\" target=\"_blank\">ILO, \u201cCovid-19 and the world of work: updated estimates and analysis\u201d, 2nd edition, 7 April 2020</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/briefingnote/wcms_738753.pdf\" target=\"_blank\">ILO, \u201cCovid-19 and the world of work: Impact and policy responses\u201d, ILO Monitor, 1st edition, 18 March 2020</a>. (\u21e1 back to text)</li>\n<li>Source: UNDESA, Statistics Division, The Sustainable Development Goals Report 2020, New York, 2020. (\u21e1 back to text)</li>\n<li>Sources: <a href=\"https://www.un.org/development/desa/en/wp-content/uploads/2020/07/PB-Compilation-final.pdf\" target=\"_blank\">UNDESA, Responding to Covid-19 and Recovering Better, Policy Brief Series, Spring/Summer 2020</a>; <a href=\"https://www.un.org/development/desa/en/wp-content/uploads/2020/07/PB-Compilation-final.pdf\" target=\"_blank\">United States Bureau of Labor Statistics, \u201cThe Employment Situation \u2013July 2020\u201d</a>; <a href=\"https://www.bls.gov/news.release/pdf/empsit.pdf\" target=\"_blank\">United States Bureau of Labor Statistics, \u201cThe Employment Situation \u2013July 2020\u201d</a> (seasonally adjusted labour force characteristics data); <a href=\"https://www.statcan.gc.ca\" target=\"_blank\">Statistics Canada</a> (last accessed on 10 August 2020). (\u21e1 back to text)</li>\n<li><a href=\"https://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_498929.pdf\" target=\"_blank\">International Labour Organization (ILO), Key Indicators of the Labour Market, ninth edition, Geneva, 2016</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li>The <a href=\"https://ilostat.ilo.org/resources/methods/description-youth-neet/\" target=\"_blank\">youth NEET rate</a> provides information about the proportion of youth (aged 15\u201324) not in education, employment or training as part of the total youth population. (<a data-storymaps=\"MJ-ACTION-fn1-back\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>UNDESA, Statistics Division, The Sustainable Development Goals Report 2020, New York, 2020. (<a data-storymaps=\"MJ-ACTION-1614538593499\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Global SDG Indicators Database; ILO modelled estimates (last accessed on 10 August 2020). (<a data-storymaps=\"MJ-ACTION-1614538603887\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Source: Global SDG Indicators Database; ILO modelled estimates (last accessed on 10 August 2020). (<a data-storymaps=\"MJ-ACTION-1614538615262\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://unstats.un.org/sdgs/report/2020/goal-08/\" target=\"_blank\">Global SDG Indicators Database, Sustainable Development Goal 8</a>. (<a data-storymaps=\"MJ-ACTION-1614538670608\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/briefingnote/wcms_740877.pdf\" target=\"_blank\">ILO, \u201cCovid-19 and the world of work: updated estimates and analysis\u201d, 2nd edition, 7 April 2020</a>. (<a data-storymaps=\"MJ-ACTION-1614538687461\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/briefingnote/wcms_738753.pdf\" target=\"_blank\">ILO, \u201cCovid-19 and the world of work: Impact and policy responses\u201d, ILO Monitor, 1st edition, 18 March 2020</a>. (<a data-storymaps=\"MJ-ACTION-1614538696302\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Source: UNDESA, Statistics Division, The Sustainable Development Goals Report 2020, New York, 2020. (<a data-storymaps=\"MJ-ACTION-1614538704927\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Sources: <a href=\"https://www.un.org/development/desa/en/wp-content/uploads/2020/07/PB-Compilation-final.pdf\" target=\"_blank\">UNDESA, Responding to Covid-19 and Recovering Better, Policy Brief Series, Spring/Summer 2020</a>; <a href=\"https://www.un.org/development/desa/en/wp-content/uploads/2020/07/PB-Compilation-final.pdf\" target=\"_blank\">United States Bureau of Labor Statistics, \u201cThe Employment Situation \u2013July 2020\u201d</a>; <a href=\"https://www.bls.gov/news.release/pdf/empsit.pdf\" target=\"_blank\">United States Bureau of Labor Statistics, \u201cThe Employment Situation \u2013July 2020\u201d</a> (seasonally adjusted labour force characteristics data); <a href=\"https://www.statcan.gc.ca\" target=\"_blank\">Statistics Canada</a> (last accessed on 10 August 2020). (<a data-storymaps=\"MJ-ACTION-1614538716375\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.ilo.org/wcmsp5/groups/public/---dgreports/---stat/documents/publication/wcms_498929.pdf\" target=\"_blank\">International Labour Organization (ILO), Key Indicators of the Labour Market, ninth edition, Geneva, 2016</a>. (<a data-storymaps=\"MJ-ACTION-1614538727704\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n</ol>\n</div>\n",
                     "contentActions": [
                         {
-                            "id": "MJ-ACTION-1598609848308",
+                            "id": "MJ-ACTION-fn1-back",
                             "type": "navigate",
-                            "index": 2
+                            "index": 3
                         },
                         {
-                            "id": "MJ-ACTION-1598609857337",
+                            "id": "MJ-ACTION-1614538593499",
                             "type": "navigate",
-                            "index": -1
+                            "index": 6
                         },
                         {
-                            "id": "MJ-ACTION-1598609873239",
+                            "id": "MJ-ACTION-1614538603887",
                             "type": "navigate",
-                            "index": -1
+                            "index": 6
                         },
                         {
-                            "id": "MJ-ACTION-1598609883421",
+                            "id": "MJ-ACTION-1614538615262",
                             "type": "navigate",
-                            "index": -1
+                            "index": 7
                         },
                         {
-                            "id": "MJ-ACTION-1598609896997",
+                            "id": "MJ-ACTION-1614538670608",
                             "type": "navigate",
-                            "index": -1
+                            "index": 8
                         },
                         {
-                            "id": "MJ-ACTION-1598609906932",
+                            "id": "MJ-ACTION-1614538687461",
                             "type": "navigate",
-                            "index": -1
+                            "index": 8
                         },
                         {
-                            "id": "MJ-ACTION-1598609914851",
+                            "id": "MJ-ACTION-1614538696302",
                             "type": "navigate",
-                            "index": -1
+                            "index": 8
                         },
                         {
-                            "id": "MJ-ACTION-1598609927078",
+                            "id": "MJ-ACTION-1614538704927",
                             "type": "navigate",
-                            "index": -1
+                            "index": 8
                         },
                         {
-                            "id": "MJ-ACTION-1598609936839",
+                            "id": "MJ-ACTION-1614538716375",
                             "type": "navigate",
-                            "index": -1
+                            "index": 9
                         },
                         {
-                            "id": "MJ-ACTION-1598609958575",
+                            "id": "MJ-ACTION-1614538727704",
                             "type": "navigate",
                             "index": 10
-                        },
-                        {
-                            "id": "MJ-ACTION-1598609967973",
-                            "type": "navigate",
-                            "index": 10
-                        },
-                        {
-                            "id": "MJ-ACTION-1598609975942",
-                            "type": "navigate",
-                            "index": 10
-                        },
-                        {
-                            "id": "MJ-ACTION-1598610194053",
-                            "type": "navigate",
-                            "index": -1
                         }
                     ],
-                    "creaDate": 1602352021534,
-                    "pubDate": 1602352021534,
+                    "creaDate": 1614538728586,
+                    "pubDate": 1614538728586,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -401,7 +406,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         },
         "doNotWarnTitle": true
     },

@@ -59,7 +59,7 @@
             "storage": "WEBAPP",
             "sections": [
                 {
-                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Violence against women and the girl child</strong></span></span></p>\n",
+                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Violence against women and the girl child</strong></span></span></p>\n",
                     "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Women in the police</div>\n",
                     "contentActions": [],
                     "creaDate": 1602946115630,
@@ -83,7 +83,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Key points</span>",
+                    "title": "<span style=\"font-size:26px;\">Key points</span>",
                     "content": "<ul class=\"key-points\">\n<li>Women still account for a small percentage of police officers. Between 2004 and 2017, the share of women police officers worldwide increased from 10.1% to 12.9%.</li>\n<li>The largest percentage of women police officers in 2017 was reported in Australia and New Zealand (31.5%); in countries in the Northern Africa and Western Asia region the reported percentage was the lowest (4.1%).</li>\n</ul>\n",
                     "contentActions": [],
                     "creaDate": 1602945914113,
@@ -107,8 +107,8 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:28px\"><strong>Background</strong></span>",
-                    "content": "<p>Women play a vital role in policing and contribute, as much as their male colleagues, to providing safe and inclusive communities. Female police officers act as role models for gender equality, inspiring women and girls to advocate for their own rights and to pursue careers in law enforcement. Moreover, female police officers provide a greater sense of security to women and children and improve access and support from law enforcement agencies to all members of the community.</p>\n<p>Women police officers utilize a style of policing that relies less on physical force, are better at defusing potentially violent confrontations,are less likely to become involved in the use of excessive force and are more likely to respond effectively to violence against women.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598746765355\" data-storymaps-type=\"navigate\">1</a></span></p>\n",
+                    "title": "<span style=\"font-size:28px;\"><strong>Background</strong></span>",
+                    "content": "<p>Women play a vital role in policing and contribute, as much as their male colleagues, to providing safe and inclusive communities. Female police officers act as role models for gender equality, inspiring women and girls to advocate for their own rights and to pursue careers in law enforcement. Moreover, female police officers provide a greater sense of security to women and children and improve access and support from law enforcement agencies to all members of the community.</p>\n\n<p>Women police officers utilize a style of policing that relies less on physical force, are better at defusing potentially violent confrontations, are less likely to become involved in the use of excessive force and are more likely to respond effectively to violence against women.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598746765355\" data-storymaps-type=\"navigate\">1</a></span></p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609558915",
@@ -126,8 +126,8 @@
                             "index": 10
                         }
                     ],
-                    "creaDate": 1602946809435,
-                    "pubDate": 1602946809435,
+                    "creaDate": 1611597557553,
+                    "pubDate": 1611597557553,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -135,13 +135,6 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/1e36dc844718461b8a18ebf3e8a15858/resources/800033-UNIFIL%20Peacekeepers%20Receive%20Medals__1602946245069__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "800033-UNIFIL Peacekeepers Receive Medals__1602946245069__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/1e36dc844718461b8a18ebf3e8a15858/resources/800033-UNIFIL%20Peacekeepers%20Receive%20Medals__1602946245069__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -239,7 +232,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
                     "content": "<p>The United Nations Department of Safety and Security has made increased efforts to mainstream gender into its policies and programmes, working with the partners of the Inter-Agency Security Management Network to develop and improve gender sensitivity and responsiveness in all aspects of the United Nations Security Management System and its security risk management processes.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598746850031\" data-storymaps-type=\"navigate\">3</a></span></p>\n",
                     "contentActions": [
                         {
@@ -285,7 +278,7 @@
                 },
                 {
                     "title": "&nbsp;",
-                    "content": "<p>As a result of these efforts, the number of female police officers deployed with the United Nations increased from about 900 (7% of 12,000 police) in 2009 to 1,300 officers (10% of 13,000) in 2016. More needs to be done, however, to address the gender imbalance, as .reaffirmed by the Security Council in its resolution 2242 (2015), in which it mandated that the Organization double the numbers of women in military and police contingents of United Nations peacekeeping operations by 2020.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598746880303\" data-storymaps-type=\"navigate\">4</a></span></p>\n",
+                    "content": "<p>As a result of these efforts, the number of female police officers deployed with the United Nations increased from about 900 (7% of 12,000 police) in 2009 to 1,300 officers (10% of 13,000) in 2016. More needs to be done, however, to address the gender imbalance, as reaffirmed by the Security Council in its resolution 2242 (2015), in which it mandated that the Organization double the numbers of women in military and police contingents of United Nations peacekeeping operations by 2020.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598746880303\" data-storymaps-type=\"navigate\">4</a></span></p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598746880303",
@@ -293,8 +286,8 @@
                             "index": 10
                         }
                     ],
-                    "creaDate": 1602946247272,
-                    "pubDate": 1602946247272,
+                    "creaDate": 1611597735691,
+                    "pubDate": 1611597735691,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -302,13 +295,6 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/1e36dc844718461b8a18ebf3e8a15858/resources/800033-UNIFIL%20Peacekeepers%20Receive%20Medals__1602946245069__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "800033-UNIFIL Peacekeepers Receive Medals__1602946245069__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/1e36dc844718461b8a18ebf3e8a15858/resources/800033-UNIFIL%20Peacekeepers%20Receive%20Medals__1602946245069__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -354,11 +340,11 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Sources</span>",
-                    "content": "<div class=\"references\">\n<ul>\n<li><a href=\"https://dataunodc.un.org/crime/CJP\" target=\"_blank\">United Nations Office on Drugs and Crime database</a>.</li>\n<li><a href=\"https://www.un.org/development/desa/capacity-development/tools/tool/portal-on-minium-set-of-gender-indicators\" target=\"_blank\">United United Nations Department of Economic and Social Affairs (UNDESA), Statistical Division, Minimum Set of Gender Indicators.</a></li>\n<li><a href=\"https://www.inclusivesecurity.org/2014/05/13/policewomen-around-world/\" target=\"_blank\">United Inclusive Security, \u201cBreaking the Brass Ceiling: Policewomen Around the World\u201d, 2014</a>.</li>\n<li><a href=\"https://police.un.org/en/un-police-gender-initiatives\" target=\"_blank\">United Nations Police, UN Police Gender Initiatives</a>.</li>\n<li><a href=\"http://www.nbnp.ee/\" target=\"_blank\">Nordic-Baltic Network of Policewomen, website</a>.</li>\n</ul>\n</div>\n",
+                    "title": "<span style=\"font-size:26px\">Sources</span>",
+                    "content": "<div class=\"references\">\n<ul>\n\t<li><a href=\"https://dataunodc.un.org/crime/CJP\" target=\"_blank\">United Nations Office on Drugs and Crime database</a>.</li>\n\t<li><a href=\"https://genderstats.un.org/#/home\" target=\"_blank\">United United Nations Department of Economic and Social Affairs (UNDESA), Statistical Division, Minimum Set of Gender Indicators.</a></li>\n\t<li><a href=\"https://www.inclusivesecurity.org/2014/05/13/policewomen-around-world/\" target=\"_blank\">United Inclusive Security, \u201cBreaking the Brass Ceiling: Policewomen Around the World\u201d, 2014</a>.</li>\n\t<li><a href=\"https://police.un.org/en/un-police-gender-initiatives\" target=\"_blank\">United Nations Police, UN Police Gender Initiatives</a>.</li>\n\t<li><a href=\"http://www.nbnp.ee/\" target=\"_blank\">Nordic-Baltic Network of Policewomen, website</a>.</li>\n</ul>\n</div>\n",
                     "contentActions": [],
-                    "creaDate": 1602820777159,
-                    "pubDate": 1602820777159,
+                    "creaDate": 1615175980732,
+                    "pubDate": 1615175980732,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -366,13 +352,6 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/1e36dc844718461b8a18ebf3e8a15858/resources/clay-banks-GX8KBbVmC6c-unsplash__1602820774617__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "clay-banks-GX8KBbVmC6c-unsplash__1602820774617__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/1e36dc844718461b8a18ebf3e8a15858/resources/clay-banks-GX8KBbVmC6c-unsplash__1602820774617__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -507,7 +486,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         }
     },
     "_ssl": null,

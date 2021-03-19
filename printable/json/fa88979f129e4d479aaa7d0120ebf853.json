@@ -61,9 +61,7 @@
                 {
                     "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n",
                     "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Ratification of international agreements on equal renumeration and on equal rights in employment and discriminatory laws and regulations at the national level</div>\n",
-                    "contentActions": [
-                        []
-                    ],
+                    "contentActions": [],
                     "creaDate": [
                         1602805607319
                     ],
@@ -90,12 +88,16 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px\">Key points</span>",
-                    "content": "<ul class=\"key-points\">\n<li>As of 2020, 173 United Nations Member States and territories (93%) have ratified ILO Convention No. 100 on equal remuneration for women and men workers, and 175 Member States and territories (94%) have ratified ILO Convention No. 111 against discrimination in the field of employment and occupation.</li>\n<li>A number of least developed countries, small island developing States and territories and the United States of America have not ratified ILO Convention No. 100 and/or ILO Convention No. 111.</li>\n<li>National laws and regulations may not adequately protect women from discrimination in employment nor guarantee equal remuneration for women and men. As of 2020, in 33 out of 188 (18%) countries and territories with available data, laws do not \u201cprohibit discrimination in employment based on gender\u201d nor \u201cmandate equal remuneration for work of equal value\u201d.<span class=\"footnote-index\">1</span> In 26 out of those 33 countries and territories discriminatory laws exist, despite their having ratified ILO Convention No. 100 and/or ILO Convention No. 111.</li>\n</ul>\n",
+                    "content": "<ul class=\"key-points\">\n\t<li>As of 2020, 173 United Nations Member States and territories (93%) have ratified ILO Convention No. 100 on equal remuneration for women and men workers, and 175 Member States and territories (94%) have ratified ILO Convention No. 111 against discrimination in the field of employment and occupation.</li>\n\t<li>A number of least developed countries, small island developing States and territories and the United States of America have not ratified ILO Convention No. 100 and/or ILO Convention No. 111.</li>\n\t<li>National laws and regulations may not adequately protect women from discrimination in employment nor guarantee equal remuneration for women and men. As of 2020, in 33 out of 188 (18%) countries and territories with available data, laws do not \u201cprohibit discrimination in employment based on gender\u201d nor \u201cmandate equal remuneration for work of equal value\u201d.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615162859227\" data-storymaps-type=\"navigate\">1</a></span> In 26 out of those 33 countries and territories discriminatory laws exist, despite their having ratified ILO Convention No. 100 and/or ILO Convention No. 111.</li>\n</ul>\n",
                     "contentActions": [
-                        []
+                        {
+                            "id": "MJ-ACTION-1615162859227",
+                            "type": "navigate",
+                            "index": 6
+                        }
                     ],
-                    "creaDate": 1606792842129,
-                    "pubDate": 1606792842129,
+                    "creaDate": 1615162859746,
+                    "pubDate": 1615162859746,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -103,25 +105,27 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/fa88979f129e4d479aaa7d0120ebf853/resources/roberto-nickson-7BjmDICVloE-unsplash__1606792839101__w1920.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "roberto-nickson-7BjmDICVloE-unsplash__1606792839101__w1920.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/fa88979f129e4d479aaa7d0120ebf853/resources/roberto-nickson-7BjmDICVloE-unsplash__1606792839101__w1920.jpg",
-                                    "width": 1920
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
                     "title": "<span style=\"font-size:26px\">Background</span>",
-                    "content": "<p>Over 60 years ago, the International Labour Conference adopted two international conventions aimed at promoting gender equality in employment, ILO Convention No. 100, in 1951, and ILO Convention No. 111, in 1958. By ratifying ILO Convention No. 100, countries declare their commitment to gender equality in the workplace and to the adoption of national policies that ensure \u201cthe application to all workers of the principle of equal remuneration for men and women workers for work of equal value\u201d,<span class=\"footnote-index\">2</span> including addressing the <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/733303cb424641cf9f3ae89ea97874d2#NW21\" target=\"_blank\">gender pay gap</a> and eliminating biases determining the value of women\u2019s and men\u2019s work. By ratifying ILO Convention No. 111, countries declare their determination to ensure \u201cequality of opportunity and treatment in respect of employment and occupation\u201d<span class=\"footnote-index\">3</span> through the elimination of any direct or indirect discrimination, including on the basis of sex.</p>\n",
+                    "content": "<p>Over 60 years ago, the International Labour Conference adopted two international conventions aimed at promoting gender equality in employment, ILO Convention No. 100, in 1951, and ILO Convention No. 111, in 1958. By ratifying ILO Convention No. 100, countries declare their commitment to gender equality in the workplace and to the adoption of national policies that ensure \u201cthe application to all workers of the principle of equal remuneration for men and women workers for work of equal value\u201d,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615162892124\" data-storymaps-type=\"navigate\">2</a></span> including addressing the <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/733303cb424641cf9f3ae89ea97874d2#NW21\" target=\"_blank\">gender pay gap</a> and eliminating biases determining the value of women\u2019s and men\u2019s work. By ratifying ILO Convention No. 111, countries declare their determination to ensure \u201cequality of opportunity and treatment in respect of employment and occupation\u201d<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615162951215\" data-storymaps-type=\"navigate\">3</a></span> through the elimination of any direct or indirect discrimination, including on the basis of sex.</p>\n",
                     "contentActions": [
-                        []
+                        {
+                            "id": "MJ-ACTION-1615162892124",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1615162951215",
+                            "type": "navigate",
+                            "index": 6
+                        }
                     ],
-                    "creaDate": 1606792878461,
-                    "pubDate": 1606792878461,
+                    "creaDate": 1615162969925,
+                    "pubDate": 1615162969925,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -129,25 +133,22 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/fa88979f129e4d479aaa7d0120ebf853/resources/mariya-oliynyk-lxmhaNzI9LU-unsplash__1606792875680__w1920.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "mariya-oliynyk-lxmhaNzI9LU-unsplash__1606792875680__w1920.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/fa88979f129e4d479aaa7d0120ebf853/resources/mariya-oliynyk-lxmhaNzI9LU-unsplash__1606792875680__w1920.jpg",
-                                    "width": 1920
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
                     "title": "<span style=\"font-size:26px\">A number of least developed countries, small island developing States and territories and the United States of America have ratified neither ILO Convention No. 100 nor ILO Convention No. 111</span>",
-                    "content": "<p>Globally, as of 2020, 173 Member States and territories (93%) have ratified ILO Convention No. 100 and 175 Member States and territories (94%) have ratified ILO Convention No. 111 against discrimination in the field of employment and occupation.</p>\n<p>A total of 14 Member States and territories have not ratified ILO Convention No. 100, including four least developed countries (Liberia, Myanmar, Somalia and Tuvalu), five small island developing States and territories (the Cook Islands, the Marshall Islands, Palau, Tonga and Tuvalu)<span class=\"footnote-index\">4</span> and one developed country (the United States of America). Four of those 14 Member States are in <span class=\"label-ref\">Western Asia and Northern Africa</span> and five are in <span class=\"label-ref\">Oceania</span> (excluding Australia and New Zealand).</p>\n<p>A total of 12 Member States and territories have not ratified ILO Convention No. 111, including two least developed countries (Myanmar and Tuvalu), five small island developing States and territories (the Cook Islands, the Marshall Islands, Palau, Tonga and Tuvalu) and two developed countries (Japan and the United States). Five of those 12 Member States are in Oceania (excluding Australia and New Zealand) and five in <span class=\"label-ref\">Eastern and South-Eastern Asia</span> (see table).</p>\n",
+                    "content": "<p>Globally, as of 2020, 173 Member States and territories (93%) have ratified ILO Convention No. 100 and 175 Member States and territories (94%) have ratified ILO Convention No. 111 against discrimination in the field of employment and occupation.</p>\n\n<p>A total of 14 Member States and territories have not ratified ILO Convention No. 100, including four least developed countries (Liberia, Myanmar, Somalia and Tuvalu), five small island developing States and territories (the Cook Islands, the Marshall Islands, Palau, Tonga and Tuvalu)<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615163139092\" data-storymaps-type=\"navigate\">4</a></span> and one developed country (the United States of America). Four of those 14 Member States are in <span class=\"label-ref\">Western Asia and Northern Africa</span> and five are in <span class=\"label-ref\">Oceania</span> (excluding Australia and New Zealand).</p>\n\n<p>A total of 12 Member States and territories have not ratified ILO Convention No. 111, including two least developed countries (Myanmar and Tuvalu), five small island developing States and territories (the Cook Islands, the Marshall Islands, Palau, Tonga and Tuvalu) and two developed countries (Japan and the United States). Five of those 12 Member States are in Oceania (excluding Australia and New Zealand) and five in <span class=\"label-ref\">Eastern and South-Eastern Asia</span> (see table).</p>\n",
                     "contentActions": [
-                        []
+                        {
+                            "id": "MJ-ACTION-1615163139092",
+                            "type": "navigate",
+                            "index": 6
+                        }
                     ],
-                    "creaDate": 1606792950743,
-                    "pubDate": 1606792950743,
+                    "creaDate": 1615163140015,
+                    "pubDate": 1615163140015,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -162,12 +163,16 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px\">National laws and regulations may not always ensure gender equality in employment</span>",
-                    "content": "<p>In several parts of the world, however, laws and regulations currently in force do not adequately protect women from discrimination in employment nor guarantee equal remuneration for women and men. As of 2020, in 33 out of 188 (18%) countries and territories with available data, laws neither \u201cprohibit discrimination in employment based on gender\u201d nor \u201cmandate equal remuneration for work of equal value\u201d,<span class=\"footnote-index\">5</span> despite the fact that 26 of those countries and territories have ratified ILO Convention No. 100 and/or ILO Convention No. 111. Among these 33 countries and territories with discriminatory laws, Brunei Darussalam, the Marshall Islands, Myanmar, Palau and Tonga have ratified neither ILO Convention No. 100 nor ILO Convention No. 111.</p>\n<p>Even when protective legislation exists, this does not always mean that women and men enjoy <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/4b31b21a4ccb41558b6f140a2327d225#NW11\" target=\"_blank\">equal rights</a> to/at work. <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/247cc2188f2146beacad35ef94ccf7fa#NW8\" target=\"_blank\">Discriminatory attitudes</a> on the part of both women and men towards women\u2019s employment may also contribute to unfair treatment of women and impede gender equality in employment.</p>\n",
+                    "content": "<p>In several parts of the world, however, laws and regulations currently in force do not adequately protect women from discrimination in employment nor guarantee equal remuneration for women and men. As of 2020, in 33 out of 188 (18%) countries and territories with available data, laws neither \u201cprohibit discrimination in employment based on gender\u201d nor \u201cmandate equal remuneration for work of equal value\u201d,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615163182423\" data-storymaps-type=\"navigate\">5</a></span> despite the fact that 26 of those countries and territories have ratified ILO Convention No. 100 and/or ILO Convention No. 111. Among these 33 countries and territories with discriminatory laws, Brunei Darussalam, the Marshall Islands, Myanmar, Palau and Tonga have ratified neither ILO Convention No. 100 nor ILO Convention No. 111.</p>\n\n<p>Even when protective legislation exists, this does not always mean that women and men enjoy <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/4b31b21a4ccb41558b6f140a2327d225#NW11\" target=\"_blank\">equal rights</a> to/at work. <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/247cc2188f2146beacad35ef94ccf7fa#NW8\" target=\"_blank\">Discriminatory attitudes</a> on the part of both women and men towards women\u2019s employment may also contribute to unfair treatment of women and impede gender equality in employment.</p>\n",
                     "contentActions": [
-                        []
+                        {
+                            "id": "MJ-ACTION-1615163182423",
+                            "type": "navigate",
+                            "index": 6
+                        }
                     ],
-                    "creaDate": 1606793031613,
-                    "pubDate": 1606793031613,
+                    "creaDate": 1615163183564,
+                    "pubDate": 1615163183564,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -175,29 +180,37 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/fa88979f129e4d479aaa7d0120ebf853/resources/desiray-green-9c3QUsfRlJg-unsplash__1606793027558__w1920.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "desiray-green-9c3QUsfRlJg-unsplash__1606793027558__w1920.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/fa88979f129e4d479aaa7d0120ebf853/resources/desiray-green-9c3QUsfRlJg-unsplash__1606793027558__w1920.jpg",
-                                    "width": 1920
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\"> </span>",
-                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li>\n<span class=\"concept\">Qualitative indicator 1</span>: <span class=\"definition\">Whether International Labour Organization (ILO) Convention No. 100 (Equal Remuneration Convention)<span class=\"footnote-index\">6</span> has been ratified or not.</span>\n</li>\n<li>\n<span class=\"concept\">Qualitative indicator 2</span>: <span class=\"definition\">Whether ILO Convention No. 111 (Discrimination (Employment and Occupation) Convention)<span class=\"footnote-index\">7</span> has been ratified or not.</span>\n</li>\n</ul>\n<p>These qualitative indicators provide information about whether a country or territory has ratified ILO Convention No. 100 and/or ILO Convention No. 111.</p>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>187 United Nations Member States and territories (2020).<span class=\"footnote-index\">8</span></p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>Data on the ratification of ILO Convention No. 100 and ILO Convention No. 111 is provided through the ILO Information System on International Labour Standards (NORMALEX).<span class=\"footnote-index\">9</span></p>\n</div>\n</div>\n",
+                    "title": "&nbsp;",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Qualitative indicator 1</span>: <span class=\"definition\">Whether International Labour Organization (ILO) Convention No. 100 (Equal Remuneration Convention)<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615163221185\" data-storymaps-type=\"navigate\">6</a></span> has been ratified or not.</span></li>\n\t<li><span class=\"concept\">Qualitative indicator 2</span>: <span class=\"definition\">Whether ILO Convention No. 111 (Discrimination (Employment and Occupation) Convention)<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615163228382\" data-storymaps-type=\"navigate\">7</a></span> has been ratified or not.</span></li>\n</ul>\n\n<p>These qualitative indicators provide information about whether a country or territory has ratified ILO Convention No. 100 and/or ILO Convention No. 111.</p>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>187 United Nations Member States and territories (2020).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615163239473\" data-storymaps-type=\"navigate\">8</a></span></p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Data on the ratification of ILO Convention No. 100 and ILO Convention No. 111 is provided through the ILO Information System on International Labour Standards (NORMALEX).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615163245141\" data-storymaps-type=\"navigate\">9</a></span></p>\n</div>\n</div>\n",
                     "contentActions": [
-                        []
+                        {
+                            "id": "MJ-ACTION-1615163221185",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1615163228382",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1615163239473",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1615163245141",
+                            "type": "navigate",
+                            "index": 6
+                        }
                     ],
-                    "creaDate": [
-                        1602805607319
-                    ],
-                    "pubDate": [
-                        1602805607319
-                    ],
+                    "creaDate": 1615163250668,
+                    "pubDate": 1615163250668,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -205,29 +218,62 @@
                             "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
-                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\"> </span>",
-                    "content": "\n<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"https://openknowledge.worldbank.org/bitstream/handle/10986/32639/9781464815324.pdf\">The World Bank, Women, Business and the Law, table 1.1, Washington, D.C., 2020 (last accessed on 13 April 2020) </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312245:NO\">ILO Convention No. 100, article 2 (accessed on 13 April 2020) </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID:312256\">ILO Convention No. 111, article 2 (accessed on 13 April 2020) </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/unsd/methodology/m49/\">For statistical purposes, Tuvalu is categorized as both a least developed country and a small island developing State </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://openknowledge.worldbank.org/bitstream/handle/10986/32639/9781464815324.pdf\">The World Bank, Women, Business and the Law, table 1.1, Washington, D.C., 2020 (last accessed on 13 April 2020) </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ilo.org/dyn/normlex/en/f?p=1000:12100:0::NO::P12100_INSTRUMENT_ID,P12100_LANG_CODE:312245,es:NO\">International Labour Organization (ILO) Equal Remuneration Convention, 1951 (ILO Convention No. 100) </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID:312256\">ILO Discrimination (Employment and Occupation) Convention, 1958 (ILO Convention No. 111)</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\">Countries and territories have been organized in regional groupings under the Sustainable Development Goals (SDGs) indicator framework </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:11001:0::NO:::\">ILO, Information System on International Labour Standards (NORMLEX), Ratifications by country </a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "title": "&nbsp;",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://openknowledge.worldbank.org/bitstream/handle/10986/32639/9781464815324.pdf\" target=\"_blank\">The World Bank, Women, Business and the Law, table 1.1, Washington, D.C., 2020 (last accessed on 13 April 2020) </a>. (<a data-storymaps=\"MJ-ACTION-1615162873125\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO:12100:P12100_INSTRUMENT_ID:312245:NO\" target=\"_blank\">ILO Convention No. 100, article 2 (accessed on 13 April 2020) </a>. (<a data-storymaps=\"MJ-ACTION-1615162904905\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID:312256\" target=\"_blank\">ILO Convention No. 111, article 2 (accessed on 13 April 2020) </a>. (<a data-storymaps=\"MJ-ACTION-1615162986381\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://unstats.un.org/unsd/methodology/m49/\" target=\"_blank\">For statistical purposes, Tuvalu is categorized as both a least developed country and a small island developing State </a>. (<a data-storymaps=\"MJ-ACTION-1615163160760\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://openknowledge.worldbank.org/bitstream/handle/10986/32639/9781464815324.pdf\" target=\"_blank\">The World Bank, Women, Business and the Law, table 1.1, Washington, D.C., 2020 (last accessed on 13 April 2020) </a>. (<a data-storymaps=\"MJ-ACTION-1615163202040\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.ilo.org/dyn/normlex/en/f?p=1000:12100:0::NO::P12100_INSTRUMENT_ID,P12100_LANG_CODE:312245,es:NO\" target=\"_blank\">International Labour Organization (ILO) Equal Remuneration Convention, 1951 (ILO Convention No. 100) </a>. (<a data-storymaps=\"MJ-ACTION-1615163265254\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_INSTRUMENT_ID:312256\" target=\"_blank\">ILO Discrimination (Employment and Occupation) Convention, 1958 (ILO Convention No. 111)</a>. (<a data-storymaps=\"MJ-ACTION-1615163271643\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\" target=\"_blank\">Countries and territories have been organized in regional groupings under the Sustainable Development Goals (SDGs) indicator framework </a>. (<a data-storymaps=\"MJ-ACTION-1615163278053\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:11001:0::NO:::\" target=\"_blank\">ILO, Information System on International Labour Standards (NORMLEX), Ratifications by country </a>. (<a data-storymaps=\"MJ-ACTION-1615163283408\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n</ol>\n</div>\n",
                     "contentActions": [
-                        []
+                        {
+                            "id": "MJ-ACTION-1615162873125",
+                            "type": "navigate",
+                            "index": 1
+                        },
+                        {
+                            "id": "MJ-ACTION-1615162904905",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1615162986381",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1615163160760",
+                            "type": "navigate",
+                            "index": 3
+                        },
+                        {
+                            "id": "MJ-ACTION-1615163202040",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1615163265254",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1615163271643",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1615163278053",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1615163283408",
+                            "type": "navigate",
+                            "index": 5
+                        }
                     ],
-                    "creaDate": [
-                        1602805607319
-                    ],
-                    "pubDate": [
-                        1602805607319
-                    ],
+                    "creaDate": 1615163284091,
+                    "pubDate": 1615163284091,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -235,13 +281,6 @@
                             "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "lindsay-henwood-unsplash.jpg",
-                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -251,7 +290,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         },
         "doNotWarnTitle": true
     },

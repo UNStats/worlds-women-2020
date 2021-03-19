@@ -59,11 +59,11 @@
             "storage": "WEBAPP",
             "sections": [
                 {
-                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Education</strong></span></span></p>\n",
-                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Gross enrolment ratio in tertiary education</div>\n",
+                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Education</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Gross enrolment ratio in tertiary education</div>\n",
                     "contentActions": [],
-                    "creaDate": 1602500789822,
-                    "pubDate": 1602500789822,
+                    "creaDate": 1612101593063,
+                    "pubDate": 1612101593063,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -71,13 +71,6 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/vasily-koloda-8CqDvPuo_kI-unsplash__1602500788016__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "vasily-koloda-8CqDvPuo_kI-unsplash__1602500788016__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/vasily-koloda-8CqDvPuo_kI-unsplash__1602500788016__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -138,10 +131,10 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">Current situation</span>",
-                    "content": "<p><strong>Enrolment in tertiary education throughout the world has expanded substantially over the past three decades both for women and men; there has been a three-fold increase in the participation of women in tertiary education, and the participation has doubled for men</strong></p>\n<p>Participation in tertiary education expanded significantly during the period 1990\u20132018. As measured by the tertiary gross enrolment ratio (GER), participation rose from 13% to 41% for women and from 14% to 36% for men (see figure I). The substantial progress achieved reflects the steady expansion of education systems across the world, as well as the increasing demand for a highly skilled labour force.</p>\n",
+                    "content": "<p><strong>Enrolment in tertiary education throughout the world has expanded substantially over the past three decades both for women and men; there has been a three-fold increase in the participation of women in tertiary education, and the participation has doubled for men.</strong></p>\n\n<p>Participation in tertiary education expanded significantly during the period 1990\u20132018. As measured by the tertiary gross enrolment ratio (GER), participation rose from 13% to 41% for women and from 14% to 36% for men (see figure I). The substantial progress achieved reflects the steady expansion of education systems across the world, as well as the increasing demand for a highly skilled labour force.</p>\n",
                     "contentActions": [],
-                    "creaDate": 1602677743072,
-                    "pubDate": 1602677743072,
+                    "creaDate": 1611941204630,
+                    "pubDate": 1611941204630,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -156,7 +149,7 @@
                 },
                 {
                     "title": "<span style=\"font-size:28px;\">Participation in tertiary education shows large regional disparities</span>",
-                    "content": "<p>Progress has been fastest in Eastern Asia and Australia and New Zealand and slowest in sub-Saharan Africa; Central Asia was the only region in the world to experience stagnation.</p>\n<p>Enrolment in tertiary education, as measured by gross enrolment ratios, shows large regional disparities. Ratios are high for both women and men in regions where participation has historically been at high levels: Northern America and Europe, Australia and New Zealand, Latin America and the Caribbean, Eastern Asia and Western Asia are the global leaders in terms of enrolment in tertiary education.</p>\n<p>During the period 1990\u20132018, enrolment in tertiary education in Northern America expanded from 65% to 73% for men and from 82% to 100% for women. In Europe, over the same time period, men\u2019s enrolment expanded from 34% to 65% and women\u2019s enrolment from 36% to 79%. In <span class=\"label-ref\">Latin America and the Caribbean</span>, gross enrolment ratios more than doubled for men and more than tripled for women. In terms of progress since 1990, in countries in <span class=\"label-ref\">Eastern Asia</span> there was a six-fold increase in enrolment in tertiary education for men and a thirteen-fold gain for women: growth in tertiary enrolment in this region has been particularly remarkable since 2000. Similarly, in <span class=\"label-ref\">Western Asia</span> enrolment ratios nearly tripled for men and increased almost five times for women.</p>\n<p>Despite this significant expansion of enrolment in tertiary education in a number of regions, it has remained low in others. In <span class=\"label-ref\">sub-Saharan Africa</span>, participation rose only slightly, from 4% to 10% for men and from 2% to 8% for women over the period 1990\u20132018. Similarly, in countries in Southern Asia, gross enrolment ratios for 2018 were lower than global averages (26% for both men and women). Countries in Northern Africa and South-Eastern Asia also recorded enrolment in tertiary education below the global averages for both women and men. Over the period 1990\u20132018, <span class=\"label-ref\">Central Asia</span>, where gross enrolment ratios have remained in the mid 20% range, for both women and men, was the only region in the world to experience stagnation in participation in tertiary education.</p>\n",
+                    "content": "<p>Progress has been fastest in Eastern Asia and Australia and New Zealand and slowest in sub-Saharan Africa; Central Asia was the only region in the world to experience stagnation.</p>\n\n<p>Enrolment in tertiary education, as measured by gross enrolment ratios, shows large regional disparities. Ratios are high for both women and men in regions where participation has historically been at high levels: Northern America, Europe, Australia and New Zealand, Latin America and the Caribbean, Eastern Asia and Western Asia are the global leaders in terms of enrolment in tertiary education.</p>\n\n<p>During the period 1990\u20132018, enrolment in tertiary education in Northern America expanded from 65% to 73% for men and from 82% to 100% for women. In Europe, over the same time period, men\u2019s enrolment expanded from 34% to 65% and women\u2019s enrolment from 36% to 79%. In <span class=\"label-ref\">Latin America and the Caribbean</span>, gross enrolment ratios more than doubled for men and more than tripled for women. In terms of progress since 1990, in countries in <span class=\"label-ref\">Eastern Asia</span> there was a six-fold increase in enrolment in tertiary education for men and a thirteen-fold gain for women: growth in tertiary enrolment in this region has been particularly remarkable since 2000. Similarly, in <span class=\"label-ref\">Western Asia</span> enrolment ratios nearly tripled for men and increased almost five times for women.</p>\n\n<p>Despite this significant expansion of enrolment in tertiary education in a number of regions, it has remained low in others. In <span class=\"label-ref\">sub-Saharan Africa</span>, participation rose only slightly, from 4% to 10% for men and from 2% to 8% for women over the period 1990\u20132018. Similarly, in countries in Southern Asia, gross enrolment ratios for 2018 were lower than global averages (26% for both men and women). Countries in Northern Africa and South-Eastern Asia also recorded enrolment in tertiary education below the global averages for both women and men. Over the period 1990\u20132018, <span class=\"label-ref\">Central Asia</span>, where gross enrolment ratios have remained in the mid 20% range, for both women and men, was the only region in the world to experience stagnation in participation in tertiary education.</p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609631920",
@@ -174,8 +167,8 @@
                             "index": -1
                         }
                     ],
-                    "creaDate": 1602678126488,
-                    "pubDate": 1602678126488,
+                    "creaDate": 1611941308464,
+                    "pubDate": 1611941308464,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -253,7 +246,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Methodological challenges: measuring participation in tertiary education</span>",
+                    "title": "<span style=\"font-size:26px;\">Methodological challenges: measuring participation in tertiary education</span>",
                     "content": "<p>Unlike primary and secondary education, where the target age groups consist of the official school-age populations, the notion of a target population is not easily applied to tertiary education as there are usually no official ages for attendance. Most tertiary education systems offer a wide range of programmes and pathways, allowing students to achieve a degree in two years or to complete an advanced research degree in seven or eight years. In the light of this variation, the gross enrolment ratio for tertiary education is calculated based on a standard age range of five years, which begins at the end of secondary education.</p>\n<p>The ratio is computed as the total enrolment in tertiary education, regardless of age, expressed as a percentage of the target population made up of the five-year age group following graduation from secondary school. While the gross enrolment ratio in tertiary education is useful for computing the volume of participation in tertiary programmes, it is important to note that there are limitations when comparing the actual population coverage across countries owing to: differences in the duration of tertiary education programmes; the enrolment of large numbers of women and men outside the target age group; and high drop-out rates and frequent re-enrolments.</p>\n",
                     "contentActions": [
                         {
@@ -319,10 +312,10 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li><span class=\"concept\">Gross enrolment ratio (GER) in tertiary education</span>: <span class=\"definition\">Number of students enrolled in tertiary education, regardless of age, expressed as a percentage of the population in the five-year age group starting from the official secondary school graduation age. There are limitations when comparing the actual population coverage across countries due to: the diversity in the duration of tertiary programmes; the enrolment of large numbers of women and men outside the target age group; and high drop-out rates and frequent re-enrolments.</span></li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Women and men in tertiary education.</p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>Data are available for all regional groupings for under the Sustainable Development Goals (SDG)<span class=\"footnote-index\">2</span> and for 189 countries for the period 1990\u20132018 (latest available).<span class=\"footnote-index\">3</span></p>\n</div>\n</div>\n",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Gross enrolment ratio (GER) in tertiary education</span>: <span class=\"definition\">Number of students enrolled in tertiary education, regardless of age, expressed as a percentage of the population in the five-year age group starting from the official secondary school graduation age. There are limitations when comparing the actual population coverage across countries due to: the diversity in the duration of tertiary programmes; the enrolment of large numbers of women and men outside the target age group; and high drop-out rates and frequent re-enrolments.</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Women and men in tertiary education.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Data are available for all regional groupings under the Sustainable Development Goals (SDG)<span class=\"footnote-index\">2</span> and for 189 countries for the period 1990\u20132018 (latest available).<span class=\"footnote-index\">3</span></p>\n</div>\n</div>\n",
                     "contentActions": [],
-                    "creaDate": 1602500676437,
-                    "pubDate": 1602500676437,
+                    "creaDate": 1611941358322,
+                    "pubDate": 1611941358322,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -330,13 +323,6 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602500674804__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1602500674804__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11a30d2e3cfb4e428a5124534a0ee81c/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602500674804__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -386,7 +372,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         },
         "doNotWarnTitle": true
     },

@@ -60,10 +60,10 @@
             "sections": [
                 {
                     "title": "<p><span style=\"color:#FF8C00;\"><span style=\"font-size:18px;\"><strong>Violence</strong></span></span><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>&nbsp;against women and the girl child</strong></span></span></p>\n",
-                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Sexual violence in childhood</div>\n",
+                    "content": "<style type=\"text/css\">p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Sexual violence in childhood</div>\n",
                     "contentActions": [],
-                    "creaDate": 1603056819457,
-                    "pubDate": 1603056819457,
+                    "creaDate": 1612101820762,
+                    "pubDate": 1612101820762,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -71,13 +71,6 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/1dc2ad5ad619470ba1e998dcfc71db0a/resources/sophie-vinetlouis-3wsl_Q8UzRM-unsplash__1603056818287__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "sophie-vinetlouis-3wsl_Q8UzRM-unsplash__1603056818287__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/1dc2ad5ad619470ba1e998dcfc71db0a/resources/sophie-vinetlouis-3wsl_Q8UzRM-unsplash__1603056818287__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -108,16 +101,26 @@
                 },
                 {
                     "title": "<span style=\"font-size:28px;\"><strong>Background</strong></span>",
-                    "content": "<p>p&gt;Experiences of sexual violence in childhood hinder all aspects of development, physical, psychological/emotional and social. Apart from the physical injuries that can result from sexual violence, researchers have consistently found that sexual abuse of children is associated with a wide array of mental health consequences and adverse behavioural outcomes in adulthood.<span class=\"footnote-index\">1</span> The psychological impact of sexual violence can be severe due to the intense shame, secrecy and stigma that tend to accompany it.<span class=\"footnote-index\">2</span></p>\n<p>\u00a0</p>\n",
+                    "content": "<p>Experiences of sexual violence in childhood hinder all aspects of development, physical, psychological/emotional and social. Apart from the physical injuries that can result from sexual violence, researchers have consistently found that sexual abuse of children is associated with a wide array of mental health consequences and adverse behavioural outcomes in adulthood.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615176408116\" data-storymaps-type=\"navigate\">1</a></span> The psychological impact of sexual violence can be severe due to the intense shame, secrecy and stigma that tend to accompany it.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615176413456\" data-storymaps-type=\"navigate\">2</a></span></p>\n\n<p>&nbsp;</p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598603710821",
                             "type": "navigate",
                             "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615176408116",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615176413456",
+                            "type": "navigate",
+                            "index": 10
                         }
                     ],
-                    "creaDate": 1602049437207,
-                    "pubDate": 1602049380000,
+                    "creaDate": 1615176429261,
+                    "pubDate": 1615176429261,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -131,10 +134,16 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">Current situation</span>",
-                    "content": "<p>Sexual violence against children, which occurs in all countries at all levels of income and development, can affect children at all ages and in different settings. While both sexes can be victimized, data suggest that girls are generally at heightened risk, although there is a lack of data documenting the experiences of sexual violence among boys. The absence of such data may have led to the erroneous perception that boys are relatively immune from this form of violence.</p>\n<p>In slightly more than 1 in 4 countries with comparable data at least 5% of women aged 18\u201329 reported experiencing sexual violence in childhood. In five countries (Cameroon, the Democratic Republic of the Congo, Ghana, Sweden and Trinidad and Tobago), more than 10% of women reported experiencing sexual violence during childhood.</p>\n<p>Comparable data on sexual violence in childhood among men aged 18\u201329 are available for only 11 countries, and figures are lower than those reported among women in 10 of those countries, with reported rates of sexual violence perpetrated against boys under 18 years old, on average, between 4 and 5 times lower than that experienced by girls under 18 (see figure I). Care should be used when interpreting these gender differences due to the differing types of stigma faced by young women and men when reporting childhood sexual violence.<span class=\"footnote-index\">3</span></p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602523456405,
-                    "pubDate": 1602523456405,
+                    "content": "<p>Sexual violence against children, which occurs in all countries at all levels of income and development, can affect children at all ages and in different settings. While both sexes can be victimized, data suggest that girls are generally at heightened risk, although there is a lack of data documenting the experiences of sexual violence among boys. The absence of such data may have led to the erroneous perception that boys are relatively immune from this form of violence.</p>\n\n<p>In slightly more than 1 in 4 countries with comparable data at least 5% of women aged 18\u201329 reported experiencing sexual violence in childhood. In five countries (Cameroon, the Democratic Republic of the Congo, Ghana, Sweden and Trinidad and Tobago), more than 10% of women reported experiencing sexual violence during childhood.</p>\n\n<p>Comparable data on sexual violence in childhood among men aged 18\u201329 are available for only 11 countries, and figures are lower than those reported among women in 10 of those countries, with reported rates of sexual violence perpetrated against boys under 18 years old, on average, between 4 and 5 times lower than that experienced by girls under 18 (see figure I). Care should be used when interpreting these gender differences due to the differing types of stigma faced by young women and men when reporting childhood sexual violence.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615176474458\" data-storymaps-type=\"navigate\">3</a></span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1615176474458",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1615176475264,
+                    "pubDate": 1615176475264,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -149,10 +158,21 @@
                 },
                 {
                     "title": "&nbsp;",
-                    "content": "<p>Regional averages for the proportion of young women aged 18\u201329 who experienced sexual violence by age 18 are available only for countries in <span class=\"label-ref\">sub-Saharan Africa</span> and Central and Southern Asia: data show a higher prevalence of sexual violence against young women in countries in sub-Saharan Africa. Estimates are also available for the least developed countries and landlocked developing countries (see figure II).<span class=\"footnote-index\">4</span> Based on data collected up to 2019, the global estimate of sexual violence in childhood for women aged 18 to 29\u00a0is 2.7%,<span class=\"footnote-index\">5</span> although great care should be taken when interpreting this figure as there are significant data gaps for countries in many regions of the world.</p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602523640881,
-                    "pubDate": 1602523640881,
+                    "content": "<p>Regional averages for the proportion of young women aged 18\u201329 who experienced sexual violence by age 18 are available only for countries in <span class=\"label-ref\">sub-Saharan Africa</span> and Central and Southern Asia: data show a higher prevalence of sexual violence against young women in countries in sub-Saharan Africa. Estimates are also available for the least developed countries and landlocked developing countries (see figure II).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615176501381\" data-storymaps-type=\"navigate\">4</a></span> Based on data collected up to 2019, the global estimate of sexual violence in childhood for women aged 18 to 29&nbsp;is 2.7%,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615176505292\" data-storymaps-type=\"navigate\">5</a></span> although great care should be taken when interpreting this figure as there are significant data gaps for countries in many regions of the world.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1615176501381",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615176505292",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1615176505778,
+                    "pubDate": 1615176505778,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -166,11 +186,17 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">There is a correlation between the rates of childhood sexual abuse and sexual abuse among young women</span>",
-                    "content": "<p>There is a strong correlation between the proportion of women aged 18-29 who have experienced sexual violence by age 18 (SDG indicator 16.2.3) and the proportion of women aged 20 \u2013 29 who have experienced sexual abuse since age 15. While there is some overlap between the age groups used in these two indicators,<span class=\"footnote-index\">6</span> the correlation suggests that in countries where there is a higher risk of childhood sexual abuse, young women also face an increased risk of sexual abuse after the age of 15. In addition, the correlation suggests that girls aged 15\u201318 are more likely to be victims of childhood sexual abuse than during earlier stages of childhood, thus confirming that the highest risk of sexual abuse is among adolescents. Figure III shows this correlation among the 43 countries with data for both indicators.</p>\n",
-                    "contentActions": [],
-                    "creaDate": 1603077411762,
-                    "pubDate": 1603077411762,
+                    "title": "<span style=\"font-size:26px;\">There is a correlation between the rates of childhood sexual abuse and sexual abuse among young women</span>",
+                    "content": "<p>There is a strong correlation between the proportion of women aged 18-29 who have experienced sexual violence by age 18 (SDG indicator 16.2.3) and the proportion of women aged 20 \u2013 29 who have experienced sexual abuse since age 15. While there is some overlap between the age groups used in these two indicators,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615176574253\" data-storymaps-type=\"navigate\">6</a></span> the correlation suggests that in countries where there is a higher risk of childhood sexual abuse, young women also face an increased risk of sexual abuse after the age of 15. In addition, the correlation suggests that girls aged 15\u201318 are more likely to be victims of childhood sexual abuse than during earlier stages of childhood, thus confirming that the highest risk of sexual abuse is among adolescents. Figure III shows this correlation among the 43 countries with data for both indicators.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1615176574253",
+                            "type": "navigate",
+                            "index": 10
+                        }
+                    ],
+                    "creaDate": 1615176594933,
+                    "pubDate": 1615176594933,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -225,11 +251,11 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"references\">\n<h1>Sources</h1>\n<ul>\n<li><a href=\"https://unstats.un.org/sdgs/indicators/database/\" target=\"_blank\">United Nations Department for Economic and Social Affairs (UNDESA), Statistics Division, Global SDG Indicators Database</a> (accessed July 2020).</li>\n<li><a href=\"https://data.unicef.org/topic/child-protection/violence/\" target=\"_blank\">United Nations Children\u2019s Fund (UNICEF), latest data (2012 \u2013 2019)</a></li>\n<li><a href=\"https://www.unicef.org/protection/files/Together_for_Girls_Sexual_Violence_Fact_Sheet_July_2012.pdf\" target=\"_blank\">UNICEF, Together for Girls: Sexual Violence Fact Sheet, July 2012</a></li>\n</ul>\n</div>\n",
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"references\">\n<h1>Sources</h1>\n\n<ul>\n\t<li><a href=\"https://unstats.un.org/sdgs/indicators/database/\" target=\"_blank\">United Nations Department for Economic and Social Affairs (UNDESA), Statistics Division, Global SDG Indicators Database</a> (accessed July 2020).</li>\n\t<li><a href=\"https://data.unicef.org/topic/child-protection/violence/\" target=\"_blank\">United Nations Children\u2019s Fund (UNICEF), latest data (2012 \u2013 2019)</a></li>\n\t<li><a href=\"https://www.togetherforgirls.org/wp-content/uploads/2019-5-15-SV-Perpetration-Issue-Area-1-pager-DIGITAL.pdf\" target=\"_blank\">UNICEF, Together for Girls: Sexual Violence Fact Sheet, July 2012</a></li>\n</ul>\n</div>\n",
                     "contentActions": [],
-                    "creaDate": 1603055997634,
-                    "pubDate": 1603055997634,
+                    "creaDate": 1615176738815,
+                    "pubDate": 1615176738815,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -237,20 +263,13 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/1dc2ad5ad619470ba1e998dcfc71db0a/resources/clay-banks-GX8KBbVmC6c-unsplash__1603055995488__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "clay-banks-GX8KBbVmC6c-unsplash__1603055995488__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/1dc2ad5ad619470ba1e998dcfc71db0a/resources/clay-banks-GX8KBbVmC6c-unsplash__1603055995488__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li><span class=\"concept\">Proportion of young women and men aged 18\u201329 who experienced sexual violence by age 18 (Sustainable Development Goal (SDG) indicator 16.2.3)</span>: <span class=\"definition\">Sexual violence during childhood is often used as an umbrella term to cover all types of sexual victimization. According to general comment No. 13 of the Committee on the Rights of the Child,<span class=\"footnote-index\">7</span> sexual violence against children \"comprises any sexual activities imposed by an adult on a child against which the child is entitled to protection by criminal law\u201d. In the absence of comparable and available data, a more narrow operational definition, which refers to sexual intercourse or any other sexual acts that were forced, physically or in any other way, is used herein for purposes of reporting on this indicator.</span></li>\n</ul>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>The availability of comparable data remains a serious challenge in this area: study methodologies and designs, definitions of sexual violence and the samples and questions used to elicit information have not been consistent across data collection efforts. Nationally representative and comparable data are currently available for women from 52 countries and for men from 11 countries.</p>\n</div>\n</div>\n",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Proportion of young women and men aged 18\u201329 who experienced sexual violence by age 18 (Sustainable Development Goal (SDG) indicator 16.2.3)</span>: <span class=\"definition\">Sexual violence during childhood is often used as an umbrella term to cover all types of sexual victimization. According to general comment No. 13 of the Committee on the Rights of the Child,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615176659937\" data-storymaps-type=\"navigate\">7</a></span> sexual violence against children \"comprises any sexual activities imposed by an adult on a child against which the child is entitled to protection by criminal law\u201d. In the absence of comparable and available data, a more narrow operational definition, which refers to sexual intercourse or any other sexual acts that were forced, physically or in any other way, is used herein for purposes of reporting on this indicator.</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>The availability of comparable data remains a serious challenge in this area: study methodologies and designs, definitions of sexual violence and the samples and questions used to elicit information have not been consistent across data collection efforts. Nationally representative and comparable data are currently available for women from 52 countries and for men from 11 countries.</p>\n</div>\n</div>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598603509488",
@@ -301,10 +320,15 @@
                             "id": "MJ-ACTION-1598605681508",
                             "type": "navigate",
                             "index": -1
+                        },
+                        {
+                            "id": "MJ-ACTION-1615176659937",
+                            "type": "navigate",
+                            "index": 10
                         }
                     ],
-                    "creaDate": 1603056019992,
-                    "pubDate": 1603056019992,
+                    "creaDate": 1615176660462,
+                    "pubDate": 1615176660462,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -312,23 +336,52 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/1dc2ad5ad619470ba1e998dcfc71db0a/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1603056018741__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1603056018741__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/1dc2ad5ad619470ba1e998dcfc71db0a/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1603056018741__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0890856709667125\" target=\"_blank\">Brown, J., et al., \u201cChild Abuse and Neglect: Specificity of Effects on Adolescent and Young Adult Depression and Suicidality\u201d, Journal of the American Academy of Child &amp; Adolescent Psychiatry, vol. 38, Issue 12, December 1999</a>; <a href=\"https://www.cambridge.org/core/journals/psychological-medicine/article/early-sexual-abuse-and-lifetime-psychopathology-a-cotwincontrol-study/E8FBB4D2D9C83B4E0C25EE2E6394A9D8\" target=\"_blank\">Dinwiddie, S., et al., \u201cEarly sexual abuse and lifetime psychopathology: A co-twin-control study\u201d, Psychological Medicine, vol. 30, Issue 1, January 2000</a>; <a href=\"https://eric.ed.gov/?id=ED465926\" target=\"_blank\">Widom, Cathy Spatz, \u201cChildhood Victimization: Early adversity, later psychopathology\u201d, National Institute of Justice Journal, January 2000</a>(\u21e1 back to text)</li>\n<li><a href=\"https://digitallibrary.un.org/record/587334?ln=en\" target=\"_blank\">Pinheiro, Paulo S\u00e9rgio, World Report on Violence against Children, United Nations, Geneva, 2006</a>; <a href=\"https://daccess-ods.un.org/TMP/8368275.76160431.html\" target=\"_blank\">United Nations study on violence against children (General Assembly document A/61/299)</a>. (\u21e1 back to text)</li>\n<li>Rape, Abuse &amp; Incest National Network (RAINN), Barriers for men reporting childhood sexual violence (see <a href=\"https://www.rainn.org/articles/sexual-assault-men-and-boys\" target=\"_blank\">https://www.rainn.org/articles/sexual-assault-men-and-boys</a>). (\u21e1 back to text)</li>\n<li>Where enough data in a region is available, the regional average is applied to those countries within the region with missing values for the purposes of calculating regional aggregates only, but these are not published as country-level estimates. Regional aggregates are only produced when at least 50% of the regional population is covered by the available data. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/sdgs/indicators/database/\" target=\"_blank\">United Nations Department of Economic and Social Development (UNDESA), Statistics Division, Global SDG Indicators Database</a>. (\u21e1 back to text)</li>\n<li>The two measures are not independent of each other, for example, a 25-year-old woman who experienced sexual abuse at age 16 would be covered under both measures. (\u21e1 back to text)</li>\n<li><a href=\"https://ww2.ohchr.org/english/bodies/crc/docs/CRC.C.GC.13_en.pdf\" target=\"_blank\">Committee on the Rights of the Child, general comment No. 13, The right of the child to freedom from all forms of violence (CRC/C/GC/13)</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
-                    "contentActions": [],
-                    "creaDate": 1603056047650,
-                    "pubDate": 1603056047650,
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0890856709667125\" target=\"_blank\">Brown, J., et al., \u201cChild Abuse and Neglect: Specificity of Effects on Adolescent and Young Adult Depression and Suicidality\u201d, Journal of the American Academy of Child &amp; Adolescent Psychiatry, vol. 38, Issue 12, December 1999</a>; <a href=\"https://www.cambridge.org/core/journals/psychological-medicine/article/early-sexual-abuse-and-lifetime-psychopathology-a-cotwincontrol-study/E8FBB4D2D9C83B4E0C25EE2E6394A9D8\" target=\"_blank\">Dinwiddie, S., et al., \u201cEarly sexual abuse and lifetime psychopathology: A co-twin-control study\u201d, Psychological Medicine, vol. 30, Issue 1, January 2000</a>; <a href=\"https://eric.ed.gov/?id=ED465926\" target=\"_blank\">Widom, Cathy Spatz, \u201cChildhood Victimization: Early adversity, later psychopathology\u201d, National Institute of Justice Journal, January 2000</a>(<a data-storymaps=\"MJ-ACTION-1615176454229\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://digitallibrary.un.org/record/587334?ln=en\" target=\"_blank\">Pinheiro, Paulo S\u00e9rgio, World Report on Violence against Children, United Nations, Geneva, 2006</a>; <a href=\"https://daccess-ods.un.org/TMP/8368275.76160431.html\" target=\"_blank\">United Nations study on violence against children (General Assembly document A/61/299)</a>. (<a data-storymaps=\"MJ-ACTION-1615176461753\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Rape, Abuse &amp; Incest National Network (RAINN), Barriers for men reporting childhood sexual violence (see <a href=\"https://www.rainn.org/articles/sexual-assault-men-and-boys\" target=\"_blank\">https://www.rainn.org/articles/sexual-assault-men-and-boys</a>). (<a data-storymaps=\"MJ-ACTION-1615176489370\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Where enough data in a region is available, the regional average is applied to those countries within the region with missing values for the purposes of calculating regional aggregates only, but these are not published as country-level estimates. Regional aggregates are only produced when at least 50% of the regional population is covered by the available data. (<a data-storymaps=\"MJ-ACTION-1615176527024\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://unstats.un.org/sdgs/indicators/database/\" target=\"_blank\">United Nations Department of Economic and Social Development (UNDESA), Statistics Division, Global SDG Indicators Database</a>. (<a data-storymaps=\"MJ-ACTION-1615176535127\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>The two measures are not independent of each other, for example, a 25-year-old woman who experienced sexual abuse at age 16 would be covered under both measures. (<a data-storymaps=\"MJ-ACTION-1615176619207\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://ww2.ohchr.org/english/bodies/crc/docs/CRC.C.GC.13_en.pdf\" target=\"_blank\">Committee on the Rights of the Child, general comment No. 13, The right of the child to freedom from all forms of violence (CRC/C/GC/13)</a>. (<a data-storymaps=\"MJ-ACTION-1615176672797\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n</ol>\n</div>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1615176454229",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1615176461753",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1615176489370",
+                            "type": "navigate",
+                            "index": 3
+                        },
+                        {
+                            "id": "MJ-ACTION-1615176527024",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1615176535127",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1615176619207",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1615176672797",
+                            "type": "navigate",
+                            "index": 9
+                        }
+                    ],
+                    "creaDate": 1615176673354,
+                    "pubDate": 1615176673354,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -336,13 +389,6 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/1dc2ad5ad619470ba1e998dcfc71db0a/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1603056046235__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1603056046235__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/1dc2ad5ad619470ba1e998dcfc71db0a/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1603056046235__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -352,7 +398,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         }
     },
     "_ssl": null,

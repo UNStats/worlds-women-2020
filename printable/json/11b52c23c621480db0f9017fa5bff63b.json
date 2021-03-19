@@ -60,10 +60,10 @@
             "sections": [
                 {
                     "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n",
-                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Women and men in part-time employment</div>\n",
+                    "content": "<style type=\"text/css\">p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Women and men in part-time employment</div>\n",
                     "contentActions": [],
-                    "creaDate": 1602476072200,
-                    "pubDate": 1602476072200,
+                    "creaDate": 1612101648765,
+                    "pubDate": 1612101648765,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -71,13 +71,6 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/11b52c23c621480db0f9017fa5bff63b/resources/leonard-beck-wwQNoDA3cTQ-unsplash__1602476067044__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "leonard-beck-wwQNoDA3cTQ-unsplash__1602476067044__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11b52c23c621480db0f9017fa5bff63b/resources/leonard-beck-wwQNoDA3cTQ-unsplash__1602476067044__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -101,16 +94,36 @@
                 },
                 {
                     "title": "<span style=\"font-size:28px;\">&nbsp;</span>",
-                    "content": "<p>Part-time employment may offer an effective way to balance time spent on paid work, household responsibilities and childrearing, and being able to work for fewer hours is also seen as a means to increase employment levels, particularly among women.<span class=\"footnote-index\">1\u00a0</span>In addition, part-time work facilitates the gradual entry into, participation in and exit from the labor market.<span class=\"footnote-index\">2</span></p>\n<p>Part-time employment comes at a cost for workers, however, as they oftentimes face difficult working conditions, including lower hourly wages and little job security, and receive less training and promotion opportunities than their full-time counterparts. They are also at a higher risk of falling into poverty and are less likely to have access to social protections, including\u00a0<a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/3cbb3176f1434be9998a51378715e290#NW26\" target=\"_blank\">unemployment benefits</a>.<span class=\"footnote-index\">3</span> In developed countries, some forms of part-time work are defined as non-standard work, with employment conditions similar to those described under <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/3cbb3176f1434be9998a51378715e290#NW26\" target=\"_blank\">informal employment</a>.<span class=\"footnote-index\">4</span> The proportion of part-time employment in informal wage employment was almost twice as high among women than among men, resulting in their greater exposure to the compounded vulnerabilities of part-time and informal employment.</p>\n",
+                    "content": "<p>Part-time employment may offer an effective way to balance time spent on paid work, household responsibilities and childrearing, and being able to work for fewer hours is also seen as a means to increase employment levels, particularly among women.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1614863419754\" data-storymaps-type=\"navigate\">1</a>&nbsp;</span>In addition, part-time work facilitates the gradual entry into, participation in and exit from the labor market.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1614863426563\" data-storymaps-type=\"navigate\">2</a></span></p>\n\n<p>Part-time employment comes at a cost for workers, however, as they oftentimes face difficult working conditions, including lower hourly wages and little job security, and receive less training and promotion opportunities than their full-time counterparts. They are also at a higher risk of falling into poverty and are less likely to have access to social protections, including&nbsp;<a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/3cbb3176f1434be9998a51378715e290#NW26\" target=\"_blank\">unemployment benefits</a>.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1614863434698\" data-storymaps-type=\"navigate\">3</a></span> In developed countries, some forms of part-time work are defined as non-standard work, with employment conditions similar to those described under <a class=\"narrative-ref\" href=\"https://undesa.maps.arcgis.com/apps/MapJournal/index.html?appid=80c59f2ac4ac457c8f5b4223992fb06f#NW5\" target=\"_blank\">informal employment</a>.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1614863440206\" data-storymaps-type=\"navigate\">4</a></span> The proportion of part-time employment in informal wage employment was almost twice as high among women than among men, resulting in their greater exposure to the compounded vulnerabilities of part-time and informal employment.</p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609558915",
                             "type": "navigate",
                             "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1614863419754",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1614863426563",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1614863434698",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1614863440206",
+                            "type": "navigate",
+                            "index": 10
                         }
                     ],
-                    "creaDate": 1602477156492,
-                    "pubDate": 1602477156492,
+                    "creaDate": 1614863477751,
+                    "pubDate": 1614863477751,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -118,19 +131,12 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/11b52c23c621480db0f9017fa5bff63b/resources/egor-myznik-D-T_dEFgoH8-unsplash-Man%20and%20woman%20sitting%20on%20bench__1602476865668__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "egor-myznik-D-T_dEFgoH8-unsplash-Man and woman sitting on bench__1602476865668__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11b52c23c621480db0f9017fa5bff63b/resources/egor-myznik-D-T_dEFgoH8-unsplash-Man%20and%20woman%20sitting%20on%20bench__1602476865668__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Globally, as of 2019, women are much more likely to be engaged in part-time employment</span>",
+                    "title": "<span style=\"font-size:26px;\">Globally, as of 2019, women are much more likely to be engaged in part-time employment</span>",
                     "content": "<p>Among the 127 countries with latest available data for 2015\u20132019, the highest proportions of women working part-time were recorded in Liberia (94%), the Netherlands (75%) and Rwanda (62%). Part-time employment was common among men in Liberia (77%), Rwanda (49%) and Tuvalu (45%). There was a higher proportion of women than men working part-time in 121 countries (95%), with the largest gender gaps reported in the <span class=\"label-ref\">Netherlands</span> (36 percentage points), Pakistan (33 percentage points) and <span class=\"label-ref\">Austria</span> (32 percentage points) (see figure I).</p>\n",
                     "contentActions": [],
                     "creaDate": 1602595191019,
@@ -148,7 +154,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:28px\">Part-time employment is more prevalent in developed regions</span>",
+                    "title": "<span style=\"font-size:28px;\">Part-time employment is more prevalent in developed regions</span>",
                     "content": "<p>As of 2019, in all regions with available data, part-time employment was more prevalent among women than among men, with prevalence rates for women almost double those of men. Part-time employment was more common in developed regions than in developing ones, particularly for women in Western Europe (57%), Australia and New Zealand (56%) and Northern Europe (46%). <span class=\"label-ref\">Sub-Saharan Africa</span> also recorded high proportions of women (39%) and men (28%) in part-time employment (see figure II). Among countries in Latin America and the Caribbean, where the proportion of women in part-time employment was prevalent, at 30%, <span class=\"label-ref\">Argentina</span> had the highest proportion (53%) and also the largest gender gap (24 percentage points).</p>\n",
                     "contentActions": [
                         {
@@ -182,7 +188,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Part-time employment shows a mixed picture since 1995</span>",
+                    "title": "<span style=\"font-size:26px;\">Part-time employment shows a mixed picture since 1995</span>",
                     "content": "<p>Among the 20 countries with available data since 1995, all of which are located in developed regions, trends for part-time employment have been mixed both for employed women and men. In the majority of those countries, there has been an increase in the proportion of part-time employment in women\u2019s and men\u2019s total employment, notably by 30 percentage points for women in <span class=\"label-ref\">Austria</span> and by 18 percentage points for men in <span class=\"label-ref\">Germany</span> (see figure III). In general, the incidence of part-time work among employed women has decreased in Northern Europe, the <span class=\"label-ref\">Netherlands</span> and the United States of America. As a point of reference, the proportion of part-time employment in women\u2019s total employment was 82% in the Netherlands in 1995.</p>\n",
                     "contentActions": [
                         {
@@ -206,8 +212,8 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Time-related underemployment is higher among young women and men</span>",
-                    "content": "<p>Part-time employment is not necessarily a choice, and a significant number of people in part-time employment would prefer to work full-time. This is measured by the time-related underemployment rate, which in 2019 was slightly higher at the global level among women (11%) than among men (10%). Young women and men aged 15\u201324 were twice as likely to want to work more hours (20%). In <span class=\"label-ref\">Northern Africa</span>, where women\u2019s unemployment rate was the highest among all regions, women\u2019s time-related underemployment rate stood at 26%, compared with 14% for men.</p>\n",
+                    "title": "<span style=\"font-size:26px\">Time-related underemployment is higher among young women and men</span>",
+                    "content": "<p>Part-time employment is not necessarily a choice, and a significant number of people in part-time employment would prefer to work full-time. This is measured by the time-related underemployment rate,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1614863925413\" data-storymaps-type=\"navigate\">5</a></span> which in 2019 was slightly higher at the global level among women (11%) than among men (10%). Young women and men aged 15\u201324 were twice as likely to want to work more hours (20%). In <span class=\"label-ref\">Northern Africa</span>, where women\u2019s unemployment rate was the highest among all regions, women\u2019s time-related underemployment rate stood at 26%, compared with 14% for men.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1614863943145\" data-storymaps-type=\"navigate\">6</a></span></p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609698448",
@@ -218,10 +224,20 @@
                             "id": "MJ-ACTION-1598609707111",
                             "type": "navigate",
                             "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1614863925413",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1614863943145",
+                            "type": "navigate",
+                            "index": 10
                         }
                     ],
-                    "creaDate": 1602477303545,
-                    "pubDate": 1602477303545,
+                    "creaDate": 1614863943841,
+                    "pubDate": 1614863943841,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -229,13 +245,6 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/11b52c23c621480db0f9017fa5bff63b/resources/jade-scarlato-sEGt6bYp7VU-unsplash__1602477301757__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "jade-scarlato-sEGt6bYp7VU-unsplash__1602477301757__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11b52c23c621480db0f9017fa5bff63b/resources/jade-scarlato-sEGt6bYp7VU-unsplash__1602477301757__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -271,8 +280,8 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">COVID-19</span>",
-                    "content": "<p>Prior to the onset of <span class=\"label-ref\">COVID-19</span>, labour underutilization, in particular the combined rates of unemployment and time-related underemployment, was much higher, at 20%, among young women and young men than among adult women (9%) and adult men (8%), leaving youth more vulnerable to the shocks of the pandemic.<span class=\"footnote-index\">7</span></p>\n",
+                    "title": "<span style=\"font-size:26px\">COVID-19</span>",
+                    "content": "<p>Prior to the onset of <span class=\"label-ref\">COVID-19</span>, labour underutilization, in particular the combined rates of unemployment and time-related underemployment, was much higher, at 20%, among young women and young men than among adult women (9%) and adult men (8%), leaving youth more vulnerable to the shocks of the pandemic.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1614863996693\" data-storymaps-type=\"navigate\">7</a></span></p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609766300",
@@ -283,10 +292,15 @@
                             "id": "MJ-ACTION-1598609772459",
                             "type": "navigate",
                             "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1614863996693",
+                            "type": "navigate",
+                            "index": 10
                         }
                     ],
-                    "creaDate": 1602476907408,
-                    "pubDate": 1602476907408,
+                    "creaDate": 1614863997376,
+                    "pubDate": 1614863997376,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -294,20 +308,13 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/11b52c23c621480db0f9017fa5bff63b/resources/819593-Ebola%20Emergency%20Response%20in%20Democratic%20Republic%20of%20the%20Congo__1602476905251__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "819593-Ebola Emergency Response in Democratic Republic of the Congo__1602476905251__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11b52c23c621480db0f9017fa5bff63b/resources/819593-Ebola%20Emergency%20Response%20in%20Democratic%20Republic%20of%20the%20Congo__1602476905251__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definition</h2>\n<ul>\n<li><span class=\"concept\">Proportion of employed women and men working part-time</span>: <span class=\"definition\">This indicator </span>provides information on the proportion of employed women and men whose working hours are fewer than those of comparable full-time workers. While the definition between part-time and full-time employment is decided by individual countries, for purposes of international comparability, throughout this narrative part-time employment refers to work involving less than 35 working hours per week<span class=\"definition\">.</span></li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Employed women and men.</p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>Data is presented for<strong>\u00a0</strong>127 United Nations Member States and territories with the latest available sex-disaggregated data for the period 2015\u20132019 and by regional groupings under the Sustainable Development Goals (SDGs) indicators framework.<span class=\"footnote-index\">8</span></p>\n</div>\n<div class=\"methodology-limitations\">\n<h2>Limitations</h2>\n<p>Countries have different definitions for full-time and part-time work, which may result in difficulties for purposes of international comparability. These definitions may use different age limits (lower and upper age limits and/or no upper age limit) or varying cut-offs based on the number of hours worked per week.<span class=\"footnote-index\">9</span></p>\n</div>\n</div>\n",
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definition</h2>\n\n<ul>\n\t<li><span class=\"concept\">Proportion of employed women and men working part-time</span>: <span class=\"definition\">This indicator </span>provides information on the proportion of employed women and men whose working hours are fewer than those of comparable full-time workers. While the definition between part-time and full-time employment is decided by individual countries, for purposes of international comparability, throughout this narrative part-time employment refers to work involving less than 35 working hours per week<span class=\"definition\">.</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Employed women and men.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Data is presented for<strong>&nbsp;</strong>127 United Nations Member States and territories with the latest available sex-disaggregated data for the period 2015\u20132019 and by regional groupings under the Sustainable Development Goals (SDGs) indicators framework.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1614864062243\" data-storymaps-type=\"navigate\">8</a></span></p>\n</div>\n\n<div class=\"methodology-limitations\">\n<h2>Limitations</h2>\n\n<p>Countries have different definitions for full-time and part-time work, which may result in difficulties for purposes of international comparability. These definitions may use different age limits (lower and upper age limits and/or no upper age limit) or varying cut-offs based on the number of hours worked per week.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1614864067723\" data-storymaps-type=\"navigate\">9</a></span></p>\n</div>\n</div>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609809974",
@@ -323,10 +330,20 @@
                             "id": "MJ-ACTION-1598609820099",
                             "type": "navigate",
                             "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1614864062243",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1614864067723",
+                            "type": "navigate",
+                            "index": 10
                         }
                     ],
-                    "creaDate": 1602477033961,
-                    "pubDate": 1602477033961,
+                    "creaDate": 1614864068335,
+                    "pubDate": 1614864068335,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -334,20 +351,13 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/11b52c23c621480db0f9017fa5bff63b/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602477032324__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1602477032324__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11b52c23c621480db0f9017fa5bff63b/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602477032324__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li>Hakim, C., Key Issues in Women\u2019s Work: Female Diversity and the Polarization of Women\u2019s Employment, second edition, Contemporary Issues in Public Policy, The Glass House Press, London, 2004; Th\u00e9venon, O., \u201cDrivers of Labour Force Participation in the OECD\u201d, Organization for Economic Cooperation and Development (OECD) Social Employment and Migration Working Papers, No. 145, OECD Publishing, Paris, 2013. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ilo.org/global/statistics-and-databases/research-and-databases/kilm/WCMS_498929/lang--en/index.htm\" target=\"_blank\">ILO, Key Indicators of the Labour Market 2015, chapter 6 (Part-time workers), Geneva, 2016</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.oecd-ilibrary.org/employment/oecd-employment-outlook-2010/moving-beyond-the-jobs-crisis_empl_outlook-2010-2-en\" target=\"_blank\">Organization for Economic Cooperation and Development (OECD), Employment Outlook 2010: Moving Beyond the Jobs Crisis, OECD Publishing, Paris, 2010</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.wiego.org/publications/statistics-informal-economy-definitions-regional-estimates-challenges\" target=\"_blank\">Vanek, J. and others, Statistics on the Informal Economy: Definitions, Regional Estimates &amp; Challenges, Women in Informal Employment Globalizing and Organizing (WIEGO) Working Paper (Statistics) No. 2, April 2014</a>. (\u21e1 back to text)</li>\n<li>Three criteria are used to define time-related underemployment: the term refers to employed persons who, in a short reference period, (a) wanted to work additional hours, (b) worked less than a certain hourly threshold set at the national level and (c) in a subsequent reference period, were available to work additional hours. (\u21e1 back to text)</li>\n<li><a href=\"https://ilostat.ilo.org/resources/methods/ilo-modelled-estimates/\" target=\"_blank\">ILOSTAT, ILO modelled estimates (last accessed on 18 August 2020)</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ilo.org/global/topics/coronavirus/impacts-and-responses/WCMS_745963/lang--en/index.htm\" target=\"_blank\">Source: International Labour Organization (ILO), ILO Monitor: Covid-19 and the world of work, fourth edition, May 2020 (last accessed on 18 August 2020)</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\" target=\"_blank\">Regional groupings under the Sustainable Development Goals (SDGs) indicators framework</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ilo.org/global/statistics-and-databases/research-and-databases/kilm/WCMS_498929/lang--en/index.htm\" target=\"_blank\">International Labour Organization (ILO), Key Indicators of the Labour Market, ninth edition, Geneva, 2016</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li>Hakim, C., Key Issues in Women\u2019s Work: Female Diversity and the Polarization of Women\u2019s Employment, second edition, Contemporary Issues in Public Policy, The Glass House Press, London, 2004; Th\u00e9venon, O., \u201cDrivers of Labour Force Participation in the OECD\u201d, Organization for Economic Cooperation and Development (OECD) Social Employment and Migration Working Papers, No. 145, OECD Publishing, Paris, 2013. (<a data-storymaps=\"MJ-ACTION-1614863502953\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.ilo.org/global/statistics-and-databases/research-and-databases/kilm/WCMS_498929/lang--en/index.htm\" target=\"_blank\">ILO, Key Indicators of the Labour Market 2015, chapter 6 (Part-time workers), Geneva, 2016</a>. (<a data-storymaps=\"MJ-ACTION-1614863516523\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.oecd-ilibrary.org/employment/oecd-employment-outlook-2010/moving-beyond-the-jobs-crisis_empl_outlook-2010-2-en\" target=\"_blank\">Organization for Economic Cooperation and Development (OECD), Employment Outlook 2010: Moving Beyond the Jobs Crisis, OECD Publishing, Paris, 2010</a>. (<a data-storymaps=\"MJ-ACTION-1614863531589\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.wiego.org/publications/statistics-informal-economy-definitions-regional-estimates-challenges\" target=\"_blank\">Vanek, J. and others, Statistics on the Informal Economy: Definitions, Regional Estimates &amp; Challenges, Women in Informal Employment Globalizing and Organizing (WIEGO) Working Paper (Statistics) No. 2, April 2014</a>. (<a data-storymaps=\"MJ-ACTION-1614863537473\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Three criteria are used to define time-related underemployment: the term refers to employed persons who, in a short reference period, (a) wanted to work additional hours, (b) worked less than a certain hourly threshold set at the national level and (c) in a subsequent reference period, were available to work additional hours. (<a data-storymaps=\"MJ-ACTION-1614863966375\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://ilostat.ilo.org/data/\" target=\"_blank\">ILOSTAT, ILO modelled estimates (last accessed on 18 August 2020)</a>. (<a data-storymaps=\"MJ-ACTION-1614863975052\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.ilo.org/global/topics/coronavirus/impacts-and-responses/WCMS_745963/lang--en/index.htm\" target=\"_blank\">Source: International Labour Organization (ILO), ILO Monitor: Covid-19 and the world of work, fourth edition, May 2020 (last accessed on 18 August 2020)</a>. (<a data-storymaps=\"MJ-ACTION-1614864013913\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\" target=\"_blank\">Regional groupings under the Sustainable Development Goals (SDGs) indicators framework</a>. (<a data-storymaps=\"MJ-ACTION-1614864028718\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.ilo.org/global/statistics-and-databases/research-and-databases/kilm/WCMS_498929/lang--en/index.htm\" target=\"_blank\">International Labour Organization (ILO), Key Indicators of the Labour Market, ninth edition, Geneva, 2016</a>. (<a data-storymaps=\"MJ-ACTION-1614864034713\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n</ol>\n</div>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609848308",
@@ -413,10 +423,55 @@
                             "id": "MJ-ACTION-1598610194053",
                             "type": "navigate",
                             "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1614863502953",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1614863516523",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1614863531589",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1614863537473",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1614863966375",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1614863975052",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1614864013913",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1614864028718",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1614864034713",
+                            "type": "navigate",
+                            "index": 9
                         }
                     ],
-                    "creaDate": 1602476998225,
-                    "pubDate": 1602476998225,
+                    "creaDate": 1614864035334,
+                    "pubDate": 1614864035334,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -424,13 +479,6 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/11b52c23c621480db0f9017fa5bff63b/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602476996420__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602476996420__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/11b52c23c621480db0f9017fa5bff63b/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602476996420__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -440,7 +488,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         },
         "doNotWarnTitle": true
     },

@@ -84,7 +84,7 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">Key points</span>",
-                    "content": "<ul class=\"key-points\">\n<li>One in five cancer deaths among women over age 50 are from breast and cervical cancer, with significant regional differences, particularly for cervical cancer. The death rate from cervical cancer is the highest in sub-Saharan Africa, and the lowest in Australia and New Zealand.</li>\n<li>Mortality rates from cancers among people aged 50 or older are generally higher in men than women. After age 50, mortality rates from cancer of the trachea, bronchia, lung, oesophagus, liver, stomach and bladder are at least twice as high in men as in women.</li>\n<li>Globally, men over age 50 are significantly more likely than women to die from ischaemic heart disease or cirrhosis of the liver: at ages 50\u201459 they are at least twice as likely to die from ischaemic heart disease, and at ages 50\u201469 they have the same gap in chances of dying from cirrhosis of the liver.</li>\n<li>After age 70, women are between 20% and 30% more likely than men to die from\u00a0Alzheimer\u2019s disease and other types of dementia: 1 in 12 deaths among women over the age of 70 are due to this cause, compared to 1 in 20 deaths among men of the same age. The principal risk factor for Alzheimer\u2019s disease is age, with death rates in both sexes more than doubling with each 5 years over age 70.\u00a0In coping with Alzheimer\u2019s disease, women face a double burden: they are both at higher risk of dementia as they grow older as well as of being the main caregivers for members of their families.</li>\n</ul>\n",
+                    "content": "<ul class=\"key-points\">\n<li>One in five cancer deaths among women over age 50 are from breast and cervical cancer, with significant regional differences, particularly for cervical cancer. The death rate from cervical cancer is the highest in sub-Saharan Africa, and the lowest in Australia and New Zealand.</li>\n<li>Mortality rates from cancers among people aged 50 or older are generally higher in men than women. After age 50, mortality rates from cancer of the trachea, bronchia, lung, oesophagus, liver, stomach and bladder are at least twice as high in men as in women.</li>\n<li>Globally, men over age 50 are significantly more likely than women to die from ischaemic heart disease or cirrhosis of the liver: at ages 50\u201459 they are at least twice as likely to die from ischaemic heart disease, and at ages 50\u201469 they have the same gap in chances of dying from cirrhosis of the liver.</li>\n<li>After age 70, women are between 20% and 30% more likely than men to die from&nbsp;Alzheimer\u2019s disease and other types of dementia: 1 in 12 deaths among women over the age of 70 are due to this cause, compared to 1 in 20 deaths among men of the same age. The principal risk factor for Alzheimer\u2019s disease is age, with death rates in both sexes more than doubling with each 5 years over age 70.&nbsp;In coping with Alzheimer\u2019s disease, women face a double burden: they are both at higher risk of dementia as they grow older as well as of being the main caregivers for members of their families.</li>\n</ul>\n",
                     "contentActions": [],
                     "creaDate": 1602798543325,
                     "pubDate": 1602798543325,
@@ -107,17 +107,32 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:28px;\">90% of women and men aged 50 and older die from non-communicable diseases</span>",
-                    "content": "<p>In 2016, <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b4595513eee24d9aa4a7677b2e2d6784#NH9\" target=\"_blank\">non-communicable diseases</a> (group 2), including Alzheimer\u2019s disease, other types of dementia and cancer, accounted for 90% of deaths in the population aged 50 and older (see figure\u00a0I).<span class=\"footnote-index\">1</span> Lower respiratory infections (group 1) were also common causes of death, while <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b0c1d58d7f044717985af52c7b6ad2ab#NH8\" target=\"_blank\">injuries</a> (group 3) were not among the 10 leading causes of death for this age cohort. While the risk of death is higher for men at all ages, gender differences in death rates are less marked as men and women grow older.</p>\n<p>Taken together, cardiovascular diseases<span class=\"footnote-index\">2</span> were the number one cause of death in 2016, representing 31% of all deaths worldwide.<span class=\"footnote-index\">3</span> Men aged 50 and older were at higher risk than women of dying from ischaemic heart disease, and at ages 50\u201454 more than twice as likely to die from the disease. While the gender gap decreases with age, men are still more likely to die from the disease well into their early 80s. After age 85, however, both sexes are at equal risk of dying from ischaemic heart disease, with virtually no gender gap at very old ages.</p>\n",
+                    "title": "<span style=\"font-size:28px\">90% of women and men aged 50 and older die from non-communicable diseases</span>",
+                    "content": "<p>In 2016, <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b4595513eee24d9aa4a7677b2e2d6784#NH9\" target=\"_blank\">non-communicable diseases</a> (group 2), including Alzheimer\u2019s disease, other types of dementia and cancer, accounted for 90% of deaths in the population aged 50 and older (see figure&nbsp;I).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615214330572\" data-storymaps-type=\"navigate\">1</a></span> Lower respiratory infections (group 1) were also common causes of death, while <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/b0c1d58d7f044717985af52c7b6ad2ab#NH8\" target=\"_blank\">injuries</a> (group 3) were not among the 10 leading causes of death for this age cohort. While the risk of death is higher for men at all ages, gender differences in death rates are less marked as men and women grow older.</p>\n\n<p>Taken together, cardiovascular diseases<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615214340063\" data-storymaps-type=\"navigate\">2</a></span> were the number one cause of death in 2016, representing 31% of all deaths worldwide.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615214397115\" data-storymaps-type=\"navigate\">3</a></span> Men aged 50 and older were at higher risk than women of dying from ischaemic heart disease, and at ages 50\u201454 more than twice as likely to die from the disease. While the gender gap decreases with age, men are still more likely to die from the disease well into their early 80s. After age 85, however, both sexes are at equal risk of dying from ischaemic heart disease, with virtually no gender gap at very old ages.</p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609558915",
                             "type": "navigate",
                             "index": 14
+                        },
+                        {
+                            "id": "MJ-ACTION-1615214330572",
+                            "type": "navigate",
+                            "index": 14
+                        },
+                        {
+                            "id": "MJ-ACTION-1615214340063",
+                            "type": "navigate",
+                            "index": 14
+                        },
+                        {
+                            "id": "MJ-ACTION-1615214397115",
+                            "type": "navigate",
+                            "index": 14
                         }
                     ],
-                    "creaDate": 1602797605859,
-                    "pubDate": 1602797605859,
+                    "creaDate": 1615214409361,
+                    "pubDate": 1615214409361,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -132,7 +147,7 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<p>At the regional level, men were 51% more likely to die of ischaemic heart disease in <span class=\"label-ref\">Oceania</span> (excluding Australia and New Zealand) and 44% more likely in <span class=\"label-ref\">Central and Southern Asia</span>, although no gender difference was noticeable in Eastern and South-Eastern Asia and sub-Saharan Africa.</p>\n<p>In <span class=\"label-ref\">Australia and New Zealand</span>, <span class=\"label-ref\">Northern America and Europe</span> and <span class=\"label-ref\">sub-Saharan Africa</span>, women aged 50 and older were more likely than men in the same age bracket to die of stroke (41%, 23% and 21%, respectively), while in Latin America and the Caribbean and Eastern and South-Eastern Asia men were at greater risk of stroke.\u00a0</p>\n",
+                    "content": "<p>At the regional level, men were 51% more likely to die of ischaemic heart disease in <span class=\"label-ref\">Oceania</span> (excluding Australia and New Zealand) and 44% more likely in <span class=\"label-ref\">Central and Southern Asia</span>, although no gender difference was noticeable in Eastern and South-Eastern Asia and sub-Saharan Africa.</p>\n<p>In <span class=\"label-ref\">Australia and New Zealand</span>, <span class=\"label-ref\">Northern America and Europe</span> and <span class=\"label-ref\">sub-Saharan Africa</span>, women aged 50 and older were more likely than men in the same age bracket to die of stroke (41%, 23% and 21%, respectively), while in Latin America and the Caribbean and Eastern and South-Eastern Asia men were at greater risk of stroke.&nbsp;</p>\n",
                     "contentActions": [],
                     "creaDate": 1602797647018,
                     "pubDate": 1602797647018,
@@ -149,8 +164,8 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:28px;\">&nbsp;</span>",
-                    "content": "<p>In 2016, the risk of dying from cirrhosis of the liver<span class=\"footnote-index\">4</span> was higher for men than women aged 50 and older at the global level and in all regions of the world. Men aged 50\u201454 were almost three times as likely as women to die from this cause, and at least twice as likely, until age 70. Although the gender gap decreases with age, globally men remain at higher risk of dying from liver disease over the life course.</p>\n<p>While reported at lower rates in comparison to the death rate from ischaemic heart disease and cirrhosis of the liver, in 2016 men over age 50 were also more likely than women to die from chronic obstructive pulmonary disease.<span class=\"footnote-index\">5</span> The gender gap was consistent across all geographic regions and was the largest in Oceania (excluding Australia and New Zealand), where men were almost twice as likely to die of chronic obstructive pulmonary disease than women.</p>\n<p>In 2016, in most regions, no significant differences in mortality rates due to diabetes\u00a0mellitus<span class=\"footnote-index\">6</span> were reported between women and men aged 50 and older. The two regions with the lowest death rates due to diabetes mellitus were exceptions: in Australia and New Zealand, men were at higher risk (19% more likely than women), and in Eastern and South-Eastern Asia, women were at higher risk (30% more likely than men).</p>\n",
+                    "title": "<span style=\"font-size:28px\">&nbsp;</span>",
+                    "content": "<p>In 2016, the risk of dying from cirrhosis of the liver<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615215107578\" data-storymaps-type=\"navigate\">4</a></span> was higher for men than women aged 50 and older at the global level and in all regions of the world. Men aged 50\u201454 were almost three times as likely as women to die from this cause, and at least twice as likely, until age 70. Although the gender gap decreases with age, globally men remain at higher risk of dying from liver disease over the life course.</p>\n\n<p>While reported at lower rates in comparison to the death rate from ischaemic heart disease and cirrhosis of the liver, in 2016 men over age 50 were also more likely than women to die from chronic obstructive pulmonary disease.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615214671318\" data-storymaps-type=\"navigate\">5</a></span> The gender gap was consistent across all geographic regions and was the largest in Oceania (excluding Australia and New Zealand), where men were almost twice as likely to die of chronic obstructive pulmonary disease than women.</p>\n\n<p>In 2016, in most regions, no significant differences in mortality rates due to diabetes&nbsp;mellitus<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615214691692\" data-storymaps-type=\"navigate\">6</a></span> were reported between women and men aged 50 and older. The two regions with the lowest death rates due to diabetes mellitus were exceptions: in Australia and New Zealand, men were at higher risk (19% more likely than women), and in Eastern and South-Eastern Asia, women were at higher risk (30% more likely than men).</p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609631920",
@@ -166,10 +181,35 @@
                             "id": "MJ-ACTION-1598609651540",
                             "type": "navigate",
                             "index": 14
+                        },
+                        {
+                            "id": "MJ-ACTION-1615214464854",
+                            "type": "navigate",
+                            "index": 14
+                        },
+                        {
+                            "id": "MJ-ACTION-1615214475224",
+                            "type": "navigate",
+                            "index": 14
+                        },
+                        {
+                            "id": "MJ-ACTION-1615214671318",
+                            "type": "navigate",
+                            "index": 14
+                        },
+                        {
+                            "id": "MJ-ACTION-1615214691692",
+                            "type": "navigate",
+                            "index": 14
+                        },
+                        {
+                            "id": "MJ-ACTION-1615215107578",
+                            "type": "navigate",
+                            "index": 14
                         }
                     ],
-                    "creaDate": 1602797741233,
-                    "pubDate": 1602797741233,
+                    "creaDate": 1615215124100,
+                    "pubDate": 1615215124100,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -183,17 +223,32 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Lower respiratory infections are a prominent cause of death for women and men at age 70 and older worldwide; and in sub-Saharan Africa at age 50 and older</span>",
-                    "content": "<p>For decades, acute lower respiratory infections have been among the top three causes of death and disability worldwide, although substantial progress has been made to reduce their spread. In 2016, lower respiratory infections were the cause of approximately one million deaths in adults aged 70 and older and 2.38 million deaths among people of all ages worldwide,<span class=\"footnote-index\">7</span> with a particularly high death rate reported in developing regions.</p>\n<p>Overall, streptococcus pneumoniae was the leading cause of illness and death from lower respiratory infections globally\u2014 the cause of more deaths than all other aetiologies combined.<span class=\"footnote-index\">8</span> The most prominent risk factors for such infections include: old age, crowded living conditions, malnutrition, HIV infection, lack of immunization, chronic health conditions and exposure to tobacco smoke or indoor air pollutants.<span class=\"footnote-index\">9</span></p>\n<p>Men aged 50 and older were at higher risk of dying from lower respiratory infections than women, and men aged 50\u201459 were about 58% more likely than women to die from lower respiratory infections. While the gender gap in the death rate from respiratory infections decreases slightly with age, men remain at a disadvantage over the life course (see figure I).\u00a0</p>\n<p>At the regional level, for both women and men, death rates due to lower respiratory infections were highest in sub-Saharan Africa; followed by Oceania (excluding Australia and New Zealand) for men; and Central and Southern Asia for women. The degree of the gender gap differed, depending on the region: in Australia and New Zealand and in Central and Southern Asia women aged 50 and older were more likely\u00a0than men in the same age bracket\u00a0to die from lower respiratory infections (29% and 21%, respectively), while in all other regions men aged 50 and older were more likely to die from such infections.\u00a0</p>\n",
+                    "title": "<span style=\"font-size:26px\">Lower respiratory infections are a prominent cause of death for women and men at age 70 and older worldwide; and in sub-Saharan Africa at age 50 and older</span>",
+                    "content": "<p>For decades, acute lower respiratory infections have been among the top three causes of death and disability worldwide, although substantial progress has been made to reduce their spread. In 2016, lower respiratory infections were the cause of approximately one million deaths in adults aged 70 and older and 2.38 million deaths among people of all ages worldwide,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615215507901\" data-storymaps-type=\"navigate\">7</a></span> with a particularly high death rate reported in developing regions.</p>\n\n<p>Overall, streptococcus pneumoniae was the leading cause of illness and death from lower respiratory infections globally\u2014 the cause of more deaths than all other aetiologies combined.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615215517275\" data-storymaps-type=\"navigate\">8</a></span> The most prominent risk factors for such infections include: old age, crowded living conditions, malnutrition, HIV infection, lack of immunization, chronic health conditions and exposure to tobacco smoke or indoor air pollutants.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615215521972\" data-storymaps-type=\"navigate\">9</a></span></p>\n\n<p>Men aged 50 and older were at higher risk of dying from lower respiratory infections than women, and men aged 50\u201459 were about 58% more likely than women to die from lower respiratory infections. While the gender gap in the death rate from respiratory infections decreases slightly with age, men remain at a disadvantage over the life course (see figure I).&nbsp;</p>\n\n<p>At the regional level, for both women and men, death rates due to lower respiratory infections were highest in sub-Saharan Africa; followed by Oceania (excluding Australia and New Zealand) for men; and Central and Southern Asia for women. The degree of the gender gap differed, depending on the region: in Australia and New Zealand and in Central and Southern Asia women aged 50 and older were more likely&nbsp;than men in the same age bracket&nbsp;to die from lower respiratory infections (29% and 21%, respectively), while in all other regions men aged 50 and older were more likely to die from such infections.&nbsp;</p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609674534",
                             "type": "navigate",
                             "index": 14
+                        },
+                        {
+                            "id": "MJ-ACTION-1615215507901",
+                            "type": "navigate",
+                            "index": 14
+                        },
+                        {
+                            "id": "MJ-ACTION-1615215517275",
+                            "type": "navigate",
+                            "index": 14
+                        },
+                        {
+                            "id": "MJ-ACTION-1615215521972",
+                            "type": "navigate",
+                            "index": 14
                         }
                     ],
-                    "creaDate": 1602958243544,
-                    "pubDate": 1602958243544,
+                    "creaDate": 1615215529353,
+                    "pubDate": 1615215529353,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -207,8 +262,8 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Mortality due to cancer at age 50 and older</span>",
-                    "content": "<p><strong>At age 50 and older, men are at a higher risk of dying from cancer than women</strong></p>\n<p>In 2016, mortality rates from cancer<span class=\"footnote-index\">10</span> were generally higher in men than women aged 50 and older, in particular cancer of the trachea, bronchia, lung, oesophagus, liver, stomach, prostate and bladder, for which death rates were at least twice as high among men than women (see figure II). The reported exception was breast cancer, which was extremely rare among men. Behavioural and dietary risks, including <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/022ab89e10d04700901ced2a133eda86#NH6\" target=\"_blank\">tobacco use and alcohol consumption</a>, responsible for most of these types for cancers, are more prevalent in men than in women.\u00a0</p>\n<p>Among the population aged 50 and older, the gender gap in mortality due to cancer, to the disadvantage of men, is found in all regions. The gender difference is largest\u00a0in <span class=\"label-ref\">Eastern and South-Eastern Asia</span>, the region with the highest standardized death rates, where men aged 50 and older are twice as likely as women to die from cancer. These trends coincide with the incidence of tobacco smoking: the highest rates of tobacco smoking among men are in Eastern and South Eastern Asia. The smallest gender difference in mortality is in Oceania (excluding Australia and New Zealand), where men are only about 20% more likely to die of cancer than women. It is notable that women in Oceania (excluding Australia and New Zealand) have the highest mortality rate due to cancer compared to women in other regions.</p>\n",
+                    "title": "<span style=\"font-size:26px\">Mortality due to cancer at age 50 and older</span>",
+                    "content": "<p><strong>At age 50 and older, men are at a higher risk of dying from cancer than women</strong></p>\n\n<p>In 2016, mortality rates from cancer<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615215752160\" data-storymaps-type=\"navigate\">10</a></span> were generally higher in men than women aged 50 and older, in particular cancer of the trachea, bronchia, lung, oesophagus, liver, stomach, prostate and bladder, for which death rates were at least twice as high among men than women (see figure II). The reported exception was breast cancer, which was extremely rare among men. Behavioural and dietary risks, including <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/022ab89e10d04700901ced2a133eda86#NH6\" target=\"_blank\">tobacco use and alcohol consumption</a>, responsible for most of these types for cancers, are more prevalent in men than in women.&nbsp;</p>\n\n<p>Among the population aged 50 and older, the gender gap in mortality due to cancer, to the disadvantage of men, is found in all regions. The gender difference is largest&nbsp;in <span class=\"label-ref\">Eastern and South-Eastern Asia</span>, the region with the highest standardized death rates, where men aged 50 and older are twice as likely as women to die from cancer. These trends coincide with the incidence of tobacco smoking: the highest rates of tobacco smoking among men are in Eastern and South Eastern Asia. The smallest gender difference in mortality is in Oceania (excluding Australia and New Zealand), where men are only about 20% more likely to die of cancer than women. It is notable that women in Oceania (excluding Australia and New Zealand) have the highest mortality rate due to cancer compared to women in other regions.</p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609698448",
@@ -219,10 +274,15 @@
                             "id": "MJ-ACTION-1598609707111",
                             "type": "navigate",
                             "index": 14
+                        },
+                        {
+                            "id": "MJ-ACTION-1615215752160",
+                            "type": "navigate",
+                            "index": 14
                         }
                     ],
-                    "creaDate": 1602797946632,
-                    "pubDate": 1602797946632,
+                    "creaDate": 1615215769881,
+                    "pubDate": 1615215769881,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -237,7 +297,7 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<p><strong>Breast cancer remains among the most common cancer and cause of death among women aged 50 and older.</strong></p>\n<p>Globally, one in five cancer deaths among women aged 50 and older are from breast and cervical cancer, with some significant regional differences, particularly for cervical cancer. In low-income countries, where access to health services is poor, and which have lower standardized cancer rates for other cancers,\u00a0death rates from cervical cancer are high.</p>\n<p>The death rate from cervical cancer is the highest in sub-Saharan Africa (247 deaths per 100,000 women over age 50), followed by Oceania (excluding Australia and New Zealand) (148 deaths per 100,000). The death rate is the lowest in Australia and New Zealand (20 deaths per 100,000), followed by Western Asia and Northern Africa (29 deaths per 100,000). Regional variations in the death rate from breast cancer are smaller. Countries in Eastern and South-Eastern Asia have the lowest death rate from breast cancer for women aged 50 and older (80 deaths per 100,000), while the death rate from breast cancer in other regions of the world ranges from 135 deaths per 100,000 in Central and Southern Asia to 208 deaths per 100,000 in Northern America and Europe.</p>\n<p>Death rates from cancer increase with age for both women and men. The death rate for cervical cancer among women aged 50\u201454 stands at 17 deaths per 100,000, increases to about 29 deaths per 100,000 at ages 70\u201474 and reaches 34 deaths per 100,000 among women aged 85\u201489. In the case of prostate cancer, the upward trend in death rates among men as they age is striking: at ages 50\u201454, there are 1.4 deaths per 100,000, by ages 70\u201474 the death rate increases to 74 per 100,000 and by ages 85\u201490 it is as high as 441 deaths per 100,000.</p>\n",
+                    "content": "<p><strong>Breast cancer remains among the most common cancer and cause of death among women aged 50 and older.</strong></p>\n<p>Globally, one in five cancer deaths among women aged 50 and older are from breast and cervical cancer, with some significant regional differences, particularly for cervical cancer. In low-income countries, where access to health services is poor, and which have lower standardized cancer rates for other cancers,&nbsp;death rates from cervical cancer are high.</p>\n<p>The death rate from cervical cancer is the highest in sub-Saharan Africa (247 deaths per 100,000 women over age 50), followed by Oceania (excluding Australia and New Zealand) (148 deaths per 100,000). The death rate is the lowest in Australia and New Zealand (20 deaths per 100,000), followed by Western Asia and Northern Africa (29 deaths per 100,000). Regional variations in the death rate from breast cancer are smaller. Countries in Eastern and South-Eastern Asia have the lowest death rate from breast cancer for women aged 50 and older (80 deaths per 100,000), while the death rate from breast cancer in other regions of the world ranges from 135 deaths per 100,000 in Central and Southern Asia to 208 deaths per 100,000 in Northern America and Europe.</p>\n<p>Death rates from cancer increase with age for both women and men. The death rate for cervical cancer among women aged 50\u201454 stands at 17 deaths per 100,000, increases to about 29 deaths per 100,000 at ages 70\u201474 and reaches 34 deaths per 100,000 among women aged 85\u201489. In the case of prostate cancer, the upward trend in death rates among men as they age is striking: at ages 50\u201454, there are 1.4 deaths per 100,000, by ages 70\u201474 the death rate increases to 74 per 100,000 and by ages 85\u201490 it is as high as 441 deaths per 100,000.</p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609766300",
@@ -266,10 +326,16 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px\">Coronavirus-19 (COVID-19), cancer and gender</span>",
-                    "content": "<p>Emerging data in the United Kingdom of Great Britain and Northern Ireland indicate that cancer patients with <span class=\"label-ref\">COVID-19</span> are significantly more likely to be male. Patients with breast cancer or malignancies of the female genital tract appear to be at a much lower risk of contracting or dying from COVID-19. In multivariable analysis, this protection was attributed to the patients being women rather than to any inherently lower risk associated with these types of tumours.</p>\n",
-                    "contentActions": [],
-                    "creaDate": 1603045384987,
-                    "pubDate": 1603045384987,
+                    "content": "<p>Emerging data in the United Kingdom of Great Britain and Northern Ireland<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615216045978\" data-storymaps-type=\"navigate\">11</a></span> indicate that cancer patients with <span class=\"label-ref\">COVID-19</span> are significantly more likely to be male. Patients with breast cancer or malignancies of the female genital tract appear to be at a much lower risk of contracting or dying from COVID-19. In multivariable analysis, this protection was attributed to the patients being women rather than to any inherently lower risk associated with these types of tumours.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1615216045978",
+                            "type": "navigate",
+                            "index": 14
+                        }
+                    ],
+                    "creaDate": 1615216047280,
+                    "pubDate": 1615216047280,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -282,11 +348,22 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Alzheimer&#39;s disease and dementia</span>",
-                    "content": "<p>Older age is usually characterized by an increasing and general impairment of physiological functioning, resulting in the growing risk of disease and death. More common among people later in life, Alzheimer\u2019s disease<strong>\u00a0</strong>is a chronic neurodegenerative disease with\u00a0an average life expectancy following diagnosis of between three to nine years.<span class=\"footnote-index\">12</span>,<span class=\"footnote-index\">13</span> Among other effects, degenerative changes in the brain lead to deterioration in memory, thinking, behaviour and the ability to perform everyday activities. The result is a loss of the skills that enable people to live independently. Worldwide, around 50 million people suffer from Alzheimer\u2019s or other types of dementia, with nearly 60% of that population living in low-income and middle-income countries. By 2030, the total number of people with dementia is projected to reach 82 million.</p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602798689888,
-                    "pubDate": 1602798689888,
+                    "title": "<span style=\"font-size:26px\">Alzheimer&#39;s disease and dementia</span>",
+                    "content": "<p>Older age is usually characterized by an increasing and general impairment of physiological functioning, resulting in the growing risk of disease and death. More common among people later in life, Alzheimer\u2019s disease<strong>&nbsp;</strong>is a chronic neurodegenerative disease with&nbsp;an average life expectancy following diagnosis of between three to nine years.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615216093568\" data-storymaps-type=\"navigate\">12</a></span>,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615216100366\" data-storymaps-type=\"navigate\">13</a></span> Among other effects, degenerative changes in the brain lead to deterioration in memory, thinking, behaviour and the ability to perform everyday activities. The result is a loss of the skills that enable people to live independently. Worldwide, around 50 million people suffer from Alzheimer\u2019s or other types of dementia, with nearly 60% of that population living in low-income and middle-income countries. By 2030, the total number of people with dementia is projected to reach 82 million.</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1615216093568",
+                            "type": "navigate",
+                            "index": 14
+                        },
+                        {
+                            "id": "MJ-ACTION-1615216100366",
+                            "type": "navigate",
+                            "index": 14
+                        }
+                    ],
+                    "creaDate": 1615216101151,
+                    "pubDate": 1615216101151,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -294,23 +371,32 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/527e660cda4c470980fca8eca7b2c3fc/resources/mihai-lazar-j1mTILTUuuI-unsplash__1602798688411__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "mihai-lazar-j1mTILTUuuI-unsplash__1602798688411__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/527e660cda4c470980fca8eca7b2c3fc/resources/mihai-lazar-j1mTILTUuuI-unsplash__1602798688411__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<p><strong>Women are more likely than men to be affected by dementia</strong></p>\n<p>Alzheimer\u2019s disease and other dementias account for 1 in 12 deaths among women aged 70 and older,<span class=\"footnote-index\">14</span> compared to 1 in 20 deaths among men of the same age. The principal risk factor for Alzheimer\u2019s disease is age: death\u00a0rates in both sexes double with each additional 5 years of life.\u00a0The lifetime risk for Alzheimer\u2019s disease is greater among women than men, partly because more women survive to ages at which the onset of the disease is most common.<span class=\"footnote-index\">15</span> Little is yet known about risk factors for the disease except age itself, although evidence points to risk factors that are shared with cardiovascular disease. Smoking, obesity, diabetes, high cholesterol and hypertension may increase the risk of dementia, while physical activity, a healthy diet, social activities and education may have a protective effect. There is some evidence that certain genetic factors may increase an individual\u2019s risk of having dementia.<span class=\"footnote-index\">16</span></p>\n<p>Of the leading causes of death among people aged 50 and older (see figure I), the single cause of death that significantly affects women more than men is Alzheimer\u2019s disease and other types of dementia. Globally, at every age bracket, women are at least 20% more likely than men to die from these causes (see figure III), and gender disparities to women\u2019s disadvantage are more marked in some regions: in <span class=\"label-ref\">Eastern and South-Eastern Asia</span>, women aged 50 and older are 85% more likely than men to die from Alzheimer\u2019s and other types of dementia, and in <span class=\"label-ref\">Northern America and Europe</span> women are 76% more likely than men to die from this cause.</p>\n<p>The smallest gender gap in mortality due to Alzheimer\u2019s and other dementias is found in Oceania (excluding Australia and New Zealand) (24% to the disadvantage of women). These trends match the gender differences in life expectancy\u00a0at <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/536c080d27194e38931fc638612c1f68#NP3\" target=\"_blank\">older ages</a>: among those aged 80 and older this gap is high in Eastern and South-Eastern Asia, where women outlive men by about two years, while there is practically no gap in Oceania (excluding Australia and New Zealand).</p>\n",
-                    "contentActions": [],
-                    "creaDate": 1602798251570,
-                    "pubDate": 1602798251570,
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<p><strong>Women are more likely than men to be affected by dementia</strong></p>\n\n<p>Alzheimer\u2019s disease and other dementias account for 1 in 12 deaths among women aged 70 and older,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615216160354\" data-storymaps-type=\"navigate\">14</a></span> compared to 1 in 20 deaths among men of the same age. The principal risk factor for Alzheimer\u2019s disease is age: death&nbsp;rates in both sexes double with each additional 5 years of life.&nbsp;The lifetime risk for Alzheimer\u2019s disease is greater among women than men, partly because more women survive to ages at which the onset of the disease is most common.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615216168044\" data-storymaps-type=\"navigate\">15</a></span> Little is yet known about risk factors for the disease except age itself, although evidence points to risk factors that are shared with cardiovascular disease. Smoking, obesity, diabetes, high cholesterol and hypertension may increase the risk of dementia, while physical activity, a healthy diet, social activities and education may have a protective effect. There is some evidence that certain genetic factors may increase an individual\u2019s risk of having dementia.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615216174413\" data-storymaps-type=\"navigate\">16</a></span></p>\n\n<p>Of the leading causes of death among people aged 50 and older (see figure I), the single cause of death that significantly affects women more than men is Alzheimer\u2019s disease and other types of dementia. Globally, at every age bracket, women are at least 20% more likely than men to die from these causes (see figure III), and gender disparities to women\u2019s disadvantage are more marked in some regions: in <span class=\"label-ref\">Eastern and South-Eastern Asia</span>, women aged 50 and older are 85% more likely than men to die from Alzheimer\u2019s and other types of dementia, and in <span class=\"label-ref\">Northern America and Europe</span> women are 76% more likely than men to die from this cause.</p>\n\n<p>The smallest gender gap in mortality due to Alzheimer\u2019s and other dementias is found in Oceania (excluding Australia and New Zealand) (24% to the disadvantage of women). These trends match the gender differences in life expectancy&nbsp;at <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/536c080d27194e38931fc638612c1f68#NP3\" target=\"_blank\">older ages</a>: among those aged 80 and older this gap is high in Eastern and South-Eastern Asia, where women outlive men by about two years, while there is practically no gap in Oceania (excluding Australia and New Zealand).</p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1615216160354",
+                            "type": "navigate",
+                            "index": 14
+                        },
+                        {
+                            "id": "MJ-ACTION-1615216168044",
+                            "type": "navigate",
+                            "index": 14
+                        },
+                        {
+                            "id": "MJ-ACTION-1615216174413",
+                            "type": "navigate",
+                            "index": 14
+                        }
+                    ],
+                    "creaDate": 1615216175018,
+                    "pubDate": 1615216175018,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -325,10 +411,16 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px\">&nbsp;</span>",
-                    "content": "<p>The quality of life of those suffering from Alzheimer\u2019s disease and their carers, most commonly female family members, can be severely impaired. Women experience a double burden: they are at higher risk of dementia as they grow older and they are also likely to be the main caregivers as partners, daughters and daughters-in-law.</p>\n<p><a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/6f02cbbfb8d34cb7806d21f4bd14e826#NW25\" target=\"_blank\">Informal care of individuals with dementia</a> is common, not only in most low-income and middle-income countries, where professional or institutional care is often not available, but is also frequent in developed countries<em>.</em>\u00a0For instance, in the United States of America, two-thirds of primary unpaid caregivers of those with Alzheimer\u2019s disease are women, and over one-third are daughters. Alzheimer's disease takes a devastating toll: compared with caregivers of people without dementia, twice as many caregivers of those with dementia report substantial emotional, financial and physical difficulties.<span class=\"footnote-index\">17</span></p>\n",
-                    "contentActions": [],
-                    "creaDate": 1603045495229,
-                    "pubDate": 1603045495229,
+                    "content": "<p>The quality of life of those suffering from Alzheimer\u2019s disease and their carers, most commonly female family members, can be severely impaired. Women experience a double burden: they are at higher risk of dementia as they grow older and they are also likely to be the main caregivers as partners, daughters and daughters-in-law.</p>\n\n<p><a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/6f02cbbfb8d34cb7806d21f4bd14e826#NW25\" target=\"_blank\">Informal care of individuals with dementia</a> is common, not only in most low-income and middle-income countries, where professional or institutional care is often not available, but is also frequent in developed countries<em>.</em>&nbsp;For instance, in the United States of America, two-thirds of primary unpaid caregivers of those with Alzheimer\u2019s disease are women, and over one-third are daughters. Alzheimer's disease takes a devastating toll: compared with caregivers of people without dementia, twice as many caregivers of those with dementia report substantial emotional, financial and physical difficulties.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615216269767\" data-storymaps-type=\"navigate\">17</a></span></p>\n",
+                    "contentActions": [
+                        {
+                            "id": "MJ-ACTION-1615216269767",
+                            "type": "navigate",
+                            "index": 14
+                        }
+                    ],
+                    "creaDate": 1615216270496,
+                    "pubDate": 1615216270496,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -359,8 +451,8 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li><span class=\"concept\">Deaths by leading causes of death in the population aged 50 and older</span>: Number of deaths due to a specific cause of death per 100,000 population aged 50 and older.</li>\n<li><span class=\"concept\">Deaths due to Alzheimer\u2019s disease and other types of dementia per 100,000 population aged 50 and older</span>: Measuring the risk of dying from dementia is important in assessment of the burden of these diseases in a population.\u00a0Number of deaths due to Alzheimer\u2019s disease and other dementias per 100,000 population aged 50 and older<span class=\"definition\">.</span></li>\n<li><span class=\"concept\">Age-standardized death rates from the 12 leading causes of cancer in the population aged 50 and older</span>: Measuring the risk of dying from cancer is important in assessment of the disease burden from cancer in a population. Age-standardized rates are adjusted for differences in the age distribution of a population by applying observed age-specific rates for each population to a standard population.\u00a0The age-standardized rate is a weighted average of the age-specific rates per 100,000 population, where the weights are the proportions of persons in the corresponding age groups of the standard population as defined by the World Health Organization (WHO).</li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>WHO calculates estimates for all WHO member States with a population of more than 90,000 (184 countries).</p>\n<p>While age 65 is generally used for statistical purposes to identify older persons, most indicators in this story refer broadly to an older population aged 50 and over.</p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>Data on individual countries are derived from WHO Global Health Estimates for United Nations Member States organized by regional groupings under the Sustainable Development Goals (SDGs) indicators framework.<span class=\"footnote-index\">18</span></p>\n</div>\n</div>\n",
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Deaths by leading causes of death in the population aged 50 and older</span>: Number of deaths due to a specific cause of death per 100,000 population aged 50 and older.</li>\n\t<li><span class=\"concept\">Deaths due to Alzheimer\u2019s disease and other types of dementia per 100,000 population aged 50 and older</span>: Measuring the risk of dying from dementia is important in assessment of the burden of these diseases in a population.&nbsp;Number of deaths due to Alzheimer\u2019s disease and other dementias per 100,000 population aged 50 and older<span class=\"definition\">.</span></li>\n\t<li><span class=\"concept\">Age-standardized death rates from the 12 leading causes of cancer in the population aged 50 and older</span>: Measuring the risk of dying from cancer is important in assessment of the disease burden from cancer in a population. Age-standardized rates are adjusted for differences in the age distribution of a population by applying observed age-specific rates for each population to a standard population.&nbsp;The age-standardized rate is a weighted average of the age-specific rates per 100,000 population, where the weights are the proportions of persons in the corresponding age groups of the standard population as defined by the World Health Organization (WHO).</li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>WHO calculates estimates for all WHO member States with a population of more than 90,000 (184 countries).</p>\n\n<p>While age 65 is generally used for statistical purposes to identify older persons, most indicators in this story refer broadly to an older population aged 50 and over.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>Data on individual countries are derived from WHO Global Health Estimates for United Nations Member States organized by regional groupings under the Sustainable Development Goals (SDGs) indicators framework.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615216316358\" data-storymaps-type=\"navigate\">18</a></span></p>\n</div>\n</div>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609809974",
@@ -376,10 +468,15 @@
                             "id": "MJ-ACTION-1598609820099",
                             "type": "navigate",
                             "index": 14
+                        },
+                        {
+                            "id": "MJ-ACTION-1615216316358",
+                            "type": "navigate",
+                            "index": 14
                         }
                     ],
-                    "creaDate": 1602797184145,
-                    "pubDate": 1602797184145,
+                    "creaDate": 1615216317292,
+                    "pubDate": 1615216317292,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -392,8 +489,8 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li>In 2016, non-communicable diseases accounted for 71% of global deaths among people of all ages (41 million deaths (21 million deaths among men and 20 million among women)). (\u21e1 back to text)</li>\n<li>Cardiovascular diseases are a group of disorders of the heart and blood vessels, including ischaemic heart disease, cerebrovascular disease, rheumatic heart disease and other related conditions. (\u21e1 back to text)</li>\n<li><a href=\"https://www.who.int/en/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)\" target=\"_blank\">WHO, Cardiovascular diseases (CVDs)</a>. (\u21e1 back to text)</li>\n<li>Cirrhosis of the liver refers to the replacement of normal liver tissue with non-living scar tissue, which can result in irrevocable liver failure. It is most commonly caused by Hepatitis C and prolonged excessive alcohol consumption. (\u21e1 back to text)</li>\n<li>Chronic obstructive pulmonary disease (COPD) is a progressive life-threatening lung disease that causes breathlessness. The disease develops slowly and usually becomes apparent after age 50. (\u21e1 back to text)</li>\n<li>Diabetes is a chronic disease that occurs either when the pancreas does not produce enough insulin (a hormone that regulates blood sugar) or when the body cannot effectively use the insulin it produces. (\u21e1 back to text)</li>\n<li><a href=\"https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(18)30310-4/fulltext#%20\" target=\"_blank\">The Global Burden of Diseases, Injuries, and Risk Factors Study 2016, Lower Respiratory Infections Collaborators, \u201cEstimates of the global, regional, and national morbidity, mortality, and aetiologies of lower respiratory infections in 195 countries, 1990\u20132016: a systematic analysis for the Global Burden of Disease Study 2016\u201d, The Lancet, vol. 18, Issue 11, November 2018</a>. (\u21e1 back to text)</li>\n<li>Ibid. (\u21e1 back to text)</li>\n<li><a href=\"https://www.who.int/gard/publications/The_Global_Impact_of_Respiratory_Disease.pdf\" target=\"_blank\">Forum of International Respiratory Societies, The Global Impact of Respiratory Disease, second edition, Sheffield, European Respiratory Society, 2017</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.who.int/cancer/prevention/en/\" target=\"_blank\">Cancers are a group of diseases characterized by uncontrolled growth and spread of abnormal cells (metastasis): they comprise a complex group of diseases and have a variety of causes, usually modified by an individual\u2019s genetic make-up. WHO estimates that about 30%-50% of cancers may be prevented with lifestyle modifications, such as eliminating tobacco use, being physically active, and reducing access to carcinogens in the environment</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(20)30442-3/fulltext\" target=\"_blank\">Lee, Lennard, Y.W., Cazier, Jean-Baptiste, Starkey, Thomas, Briggs, Sarah E.W., Arnold, Roland, Bisht, Vartika et al, \u201cCOVID-19 prevalence and mortality in patients with cancer and the effect of primary tumour subtype and patient demographics: a prospective cohort study\u201d, The Lancet Oncology, August 2020 (online)</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.nejm.org/doi/full/10.1056/NEJMra0909142\" target=\"_blank\">Querfurth, H.W. and LaFerla, F.M., \"Mechanisms of disease: Alzheimer's disease\", The New England Journal of Medicine, vol. 362, No. 4, January 2010</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://pubmed.ncbi.nlm.nih.gov/23526458/\" target=\"_blank\">Todd, S., Barr, S., Roberts, M., Passmore, A.P., \"Survival in dementia and predictors of mortality: a review\", International Journal of Geriatric Psychiatry, vol. 28 (11)</a>. (\u21e1 back to text)</li>\n<li>Death rates from Alzheimer\u2019s disease before age 70 are practically negligible. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30196887\" target=\"_blank\">Mielke, M.M., Ferretti, M.T., Iulita, M.F., Hayden, K., Khachaturian, A.S., \u201cSex and gender in Alzheimer\u2019s disease \u2013 does it matter?\u201d, Alzheimer\u2019s &amp; Dementia. 2018;14(9):1101</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4119094/\" target=\"_blank\">Barnes, Deborah, E. and others, \u201cDevelopment and validation of a brief dementia screening indicator for primary care\u201d, Alzheimer\u2019s &amp; Dementia, The Journal of the Alzheimer\u2019s Association, vol. 10 (6), February 2014</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.alz.org/alzheimers-dementia/facts-figures\" target=\"_blank\">Alzheimer\u2019s Association, 2020: Alzheimer\u2019s Disease: Facts and Figures</a>. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\" target=\"_blank\">Regional groupings under the Sustainable Development Goals (SDGs) indicators framework</a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li>In 2016, non-communicable diseases accounted for 71% of global deaths among people of all ages (41 million deaths (21 million deaths among men and 20 million among women)). (<a data-storymaps=\"MJ-ACTION-1615214362449\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Cardiovascular diseases are a group of disorders of the heart and blood vessels, including ischaemic heart disease, cerebrovascular disease, rheumatic heart disease and other related conditions. (<a data-storymaps=\"MJ-ACTION-1615214372353\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.who.int/en/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)\" target=\"_blank\">WHO, Cardiovascular diseases (CVDs)</a>. (<a data-storymaps=\"MJ-ACTION-1615214432955\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Cirrhosis of the liver refers to the replacement of normal liver tissue with non-living scar tissue, which can result in irrevocable liver failure. It is most commonly caused by Hepatitis C and prolonged excessive alcohol consumption. (<a data-storymaps=\"MJ-ACTION-1615215175111\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Chronic obstructive pulmonary disease (COPD) is a progressive life-threatening lung disease that causes breathlessness. The disease develops slowly and usually becomes apparent after age 50. (<a data-storymaps=\"MJ-ACTION-1615215184352\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Diabetes is a chronic disease that occurs either when the pancreas does not produce enough insulin (a hormone that regulates blood sugar) or when the body cannot effectively use the insulin it produces. (<a data-storymaps=\"MJ-ACTION-1615215192349\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(18)30310-4/fulltext#%20\" target=\"_blank\">The Global Burden of Diseases, Injuries, and Risk Factors Study 2016, Lower Respiratory Infections Collaborators, \u201cEstimates of the global, regional, and national morbidity, mortality, and aetiologies of lower respiratory infections in 195 countries, 1990\u20132016: a systematic analysis for the Global Burden of Disease Study 2016\u201d, The Lancet, vol. 18, Issue 11, November 2018</a>. (<a data-storymaps=\"MJ-ACTION-1615215587800\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Ibid. (<a data-storymaps=\"MJ-ACTION-1615215598308\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.who.int/gard/publications/The_Global_Impact_of_Respiratory_Disease.pdf\" target=\"_blank\">Forum of International Respiratory Societies, The Global Impact of Respiratory Disease, second edition, Sheffield, European Respiratory Society, 2017</a>. (<a data-storymaps=\"MJ-ACTION-1615215604003\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.who.int/cancer/prevention/en/\" target=\"_blank\">Cancers are a group of diseases characterized by uncontrolled growth and spread of abnormal cells (metastasis): they comprise a complex group of diseases and have a variety of causes, usually modified by an individual\u2019s genetic make-up. WHO estimates that about 30%-50% of cancers may be prevented with lifestyle modifications, such as eliminating tobacco use, being physically active, and reducing access to carcinogens in the environment</a>. (<a data-storymaps=\"MJ-ACTION-1615215808271\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(20)30442-3/fulltext\" target=\"_blank\">Lee, Lennard, Y.W., Cazier, Jean-Baptiste, Starkey, Thomas, Briggs, Sarah E.W., Arnold, Roland, Bisht, Vartika et al, \u201cCOVID-19 prevalence and mortality in patients with cancer and the effect of primary tumour subtype and patient demographics: a prospective cohort study\u201d, The Lancet Oncology, August 2020 (online)</a>. (<a data-storymaps=\"MJ-ACTION-1615216077192\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.nejm.org/doi/full/10.1056/NEJMra0909142\" target=\"_blank\">Querfurth, H.W. and LaFerla, F.M., \"Mechanisms of disease: Alzheimer's disease\", The New England Journal of Medicine, vol. 362, No. 4, January 2010</a>. (<a data-storymaps=\"MJ-ACTION-1615216120163\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://pubmed.ncbi.nlm.nih.gov/23526458/\" target=\"_blank\">Todd, S., Barr, S., Roberts, M., Passmore, A.P., \"Survival in dementia and predictors of mortality: a review\", International Journal of Geriatric Psychiatry, vol. 28 (11)</a>. (<a data-storymaps=\"MJ-ACTION-1615216128804\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>Death rates from Alzheimer\u2019s disease before age 70 are practically negligible. (<a data-storymaps=\"MJ-ACTION-1615216203453\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.ncbi.nlm.nih.gov/pubmed/30196887\" target=\"_blank\">Mielke, M.M., Ferretti, M.T., Iulita, M.F., Hayden, K., Khachaturian, A.S., \u201cSex and gender in Alzheimer\u2019s disease \u2013 does it matter?\u201d, Alzheimer\u2019s &amp; Dementia. 2018;14(9):1101</a>. (<a data-storymaps=\"MJ-ACTION-1615216213672\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4119094/\" target=\"_blank\">Barnes, Deborah, E. and others, \u201cDevelopment and validation of a brief dementia screening indicator for primary care\u201d, Alzheimer\u2019s &amp; Dementia, The Journal of the Alzheimer\u2019s Association, vol. 10 (6), February 2014</a>. (<a data-storymaps=\"MJ-ACTION-1615216219893\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.alz.org/alzheimers-dementia/facts-figures\" target=\"_blank\">Alzheimer\u2019s Association, 2020: Alzheimer\u2019s Disease: Facts and Figures</a>. (<a data-storymaps=\"MJ-ACTION-1615216294161\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\" target=\"_blank\">Regional groupings under the Sustainable Development Goals (SDGs) indicators framework</a>. (<a data-storymaps=\"MJ-ACTION-1615216336361\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n</ol>\n</div>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609848308",
@@ -459,10 +556,100 @@
                             "id": "MJ-ACTION-1598610194053",
                             "type": "navigate",
                             "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1615214362449",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1615214372353",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1615214432955",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1615215175111",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1615215184352",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1615215192349",
+                            "type": "navigate",
+                            "index": 4
+                        },
+                        {
+                            "id": "MJ-ACTION-1615215587800",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1615215598308",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1615215604003",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1615215808271",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1615216077192",
+                            "type": "navigate",
+                            "index": 8
+                        },
+                        {
+                            "id": "MJ-ACTION-1615216120163",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615216128804",
+                            "type": "navigate",
+                            "index": 9
+                        },
+                        {
+                            "id": "MJ-ACTION-1615216203453",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615216213672",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615216219893",
+                            "type": "navigate",
+                            "index": 10
+                        },
+                        {
+                            "id": "MJ-ACTION-1615216294161",
+                            "type": "navigate",
+                            "index": 11
+                        },
+                        {
+                            "id": "MJ-ACTION-1615216336361",
+                            "type": "navigate",
+                            "index": 13
                         }
                     ],
-                    "creaDate": 1602765609692,
-                    "pubDate": 1602765609692,
+                    "creaDate": 1615216336926,
+                    "pubDate": 1615216336926,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -470,13 +657,6 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/527e660cda4c470980fca8eca7b2c3fc/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602765606477__w600.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "lindsay-henwood-7_kRuX1hSXM-unsplash__1602765606477__w600.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/527e660cda4c470980fca8eca7b2c3fc/resources/lindsay-henwood-7_kRuX1hSXM-unsplash__1602765606477__w600.jpg",
-                                    "width": 600
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -486,7 +666,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         },
         "doNotWarnTitle": true
     },

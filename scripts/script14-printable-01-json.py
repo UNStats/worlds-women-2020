@@ -40,5 +40,6 @@ for item in user_items:
     json_data = item.get_data()
 
     print(item['title'])
-    with open('pdf/'+item['id']+'.json', 'w') as fout:
+
+    with open('printable/json/'+item['id']+'.json', 'w') as fout:
         json.dump(json_data, fout, indent=4)

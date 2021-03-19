@@ -59,11 +59,11 @@
             "storage": "WEBAPP",
             "sections": [
                 {
-                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Education</strong></span></span></p>\n",
-                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Out-of-school children, adolescents and youth</div>\n",
+                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Education</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Out-of-school children, adolescents and youth</div>\n",
                     "contentActions": [],
-                    "creaDate": 1602767876028,
-                    "pubDate": 1602767876028,
+                    "creaDate": 1612103114335,
+                    "pubDate": 1612103114335,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -71,13 +71,6 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/7b2391b3dbc341a68b9724c0266a1bf5/resources/pranav-nahata-6ttYvAR7yio-unsplash-woman%20in%20blue%20and%20brown__1602767874168__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "pranav-nahata-6ttYvAR7yio-unsplash-woman in blue and brown__1602767874168__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/7b2391b3dbc341a68b9724c0266a1bf5/resources/pranav-nahata-6ttYvAR7yio-unsplash-woman%20in%20blue%20and%20brown__1602767874168__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -107,7 +100,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:28px\">Background</span>",
+                    "title": "<span style=\"font-size:28px;\">Background</span>",
                     "content": "<p>Out-of-school children, adolescents and youth comprise two groups based on their exposure to education: those who have entered school in the past and dropped out; and those who have not entered school. Children who drop out in early grades are unlikely to acquire even the most basic mastery of reading and writing, numeracy and other skills. Children who never enter school will have no exposure to formal education at all and will bear the attendant lifelong consequences.</p>\n<p>Children, adolescents and youth who are not enrolled in school are often those from poor households and from socially marginalized communities, including children with disabilities, and from ethnic-minority communities, rural areas and areas with conflict. These barriers often interact with gender to create even greater disadvantages in learning opportunities. Education is essential to the achievement of the SDGs: it will not be possible to achieve universal completion of primary and secondary education by 2030 (SDG Goal 4) without tackling the problem of out-of-school children, adolescents and youth.</p>\n",
                     "contentActions": [
                         {
@@ -242,7 +235,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
                     "content": "<p>As countries strive to achieve universal primary and secondary education by 2030, they face different challenges and require different policies, depending on their circumstances.</p>\n<p>Interventions that have been used successfully to reach the disadvantaged and the marginalized, especially girls, include: the abolishment of school fees; increased education budgets; social cash transfers, especially to support poor families, making it easier for them to send their children to school; increasing attention to ethnic and linguistic minorities; overcoming conflicts that keep children out of school because of hostilities; and improving the quality of education.</p>\n",
                     "contentActions": [
                         {
@@ -375,7 +368,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         },
         "doNotWarnTitle": true
     },

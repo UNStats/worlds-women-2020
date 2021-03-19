@@ -59,11 +59,11 @@
             "storage": "WEBAPP",
             "sections": [
                 {
-                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Education</strong></span></span></p>\n",
-                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Female graduates in science, technology, engineering and mathematics at the tertiary level of education</div>\n",
+                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Education</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Female graduates in science, technology, engineering and mathematics at the tertiary level of education</div>\n",
                     "contentActions": [],
-                    "creaDate": 1602775743711,
-                    "pubDate": 1602775743711,
+                    "creaDate": 1612101880397,
+                    "pubDate": 1612101880397,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -71,13 +71,6 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/205f074abfa7482487614a3536f9c10c/resources/jeswin-thomas-2Q3Ivd-HsaM-unsplash__1602775742047__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "jeswin-thomas-2Q3Ivd-HsaM-unsplash__1602775742047__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/205f074abfa7482487614a3536f9c10c/resources/jeswin-thomas-2Q3Ivd-HsaM-unsplash__1602775742047__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -107,7 +100,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:28px\">Background</span>",
+                    "title": "<span style=\"font-size:28px;\">Background</span>",
                     "content": "<p>Science, technology, engineering and mathematics (STEM) are key drivers of economic growth. They are also key to the achievement of the SDGs and to tackling the environmental, social and economic concerns facing the world today. Furthermore, they are critical to efforts to address the impact of climate change, increase food security, improve health care, manage limited freshwater resources and protect biodiversity.<span class=\"footnote-index\">1</span> If women are to play important roles in crafting solutions to improve lives and generate inclusive growth that benefits all, they need to be adequately represented in the next generation of STEM professionals.</p>\n",
                     "contentActions": [
                         {
@@ -138,10 +131,10 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<p><strong>Female graduates in STEM at the tertiary level are vastly underrepresented in both developed and developing regions</strong></p>\n<p>Gender differences in STEM graduates at the tertiary level are evident in both developed and developing regions of the world. According to data available on the share of female STEM graduates for 131 countries for the period 2010\u20132019 (see figure I): slightly more than one-third (35%) of the world\u2019s STEM graduates were women (unweighted average); women represented less than 30% of STEM graduates in 37 countries; and only 11 countries achieved gender parity in the proportion of STEM graduates (defined as a share of between 45% and 55% of either sex). In four countries, however, significantly more women than men graduated in STEM.</p>\n<p>In 45 countries with data, almost all in Northern America and Europe, the proportion of women among STEM graduates at the tertiary level was less than 45%, with the exception of Albania and North Macedonia, which, with 47% of female graduates in STEM education, achieved gender parity.</p>\n<p>The situation was similar among 86 countries with data in developing regions. In nearly 9 out of 10 developing countries, the proportion of women graduates in STEM at the tertiary level was less than 45%, although in three countries and one territory (Algeria, Myanmar, Oman and Sint Maartin) women were more likely than men to graduate in fields related to STEM. Women\u2019s share was within the range of parity in five countries in <span class=\"label-ref\">Northern Africa and Western Asia</span> (Morocco, Qatar, the Sudan, the Syrian Arab Republic and Tunisia) and in four other countries (Benin, Brunei Darussalam, the Gambia and Peru).</p>\n",
+                    "content": "<p><strong>Female graduates in STEM at the tertiary level are vastly underrepresented in both developed and developing regions</strong></p>\n\n<p>Gender differences in STEM graduates at the tertiary level are evident in both developed and developing regions of the world. According to data available on the share of female STEM graduates for 131 countries for the period 2010\u20132019 (see figure I): slightly more than one-third (35%) of the world\u2019s STEM graduates were women (unweighted average); women represented less than 30% of STEM graduates in 37 countries; and only 11 countries achieved gender parity in the proportion of STEM graduates (defined as a share of between 45% and 55% of either sex). In four countries, however, significantly more women than men graduated in STEM.</p>\n\n<p>In 45 countries with data, almost all in Europe and Northern America, the proportion of women among STEM graduates at the tertiary level was less than 45%, with the exception of Albania and North Macedonia, which, with 47% of female graduates in STEM education, achieved gender parity.</p>\n\n<p>The situation was similar among 86 countries with data in developing regions. In nearly 9 out of 10 developing countries, the proportion of women graduates in STEM at the tertiary level was less than 45%, although in three countries and one territory (Algeria, Myanmar, Oman and Sint Maartin) women were more likely than men to graduate in fields related to STEM. Women\u2019s share was within the range of parity in five countries in <span class=\"label-ref\">Northern Africa and Western Asia</span> (Morocco, Qatar, the Sudan, the Syrian Arab Republic and Tunisia) and in four other countries (Benin, Brunei Darussalam, the Gambia and Peru).</p>\n",
                     "contentActions": [],
-                    "creaDate": 1602699582670,
-                    "pubDate": 1602699582670,
+                    "creaDate": 1611942649182,
+                    "pubDate": 1611942649182,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -156,7 +149,7 @@
                 },
                 {
                     "title": "<span style=\"font-size:28px;\">&nbsp;</span>",
-                    "content": "<p><strong>All regions of the world display severe gender disparities in STEM, mostly to the disadvantage of women\u00a0</strong></p>\n<p>In half of the countries with data in sub-Saharan Africa (24 countries), women accounted for less than 30% of STEM graduates at the tertiary level. Benin and the Gambia were the only countries in the region to report gender parity. No country (out of eight with data) in Central Asia and Southern Asia reported gender parity, and in three of those countries women represented less than 30% of STEM graduates. Half of the countries in Eastern Asia and South-Eastern Asia displayed moderate male predominance (with a 30% to 45% share of female graduates in STEM education).</p>\n<p>In the Latin America and the Caribbean region, the proportions of women among STEM graduates covered a significant range, from 19% in Chile to 75% in Sint Maarten, and in 7 out of 10 countries in the region there was a moderate male predominance (30% to 45% female). Out of 23 countries with data, only one country, Peru, has achieved gender parity among STEM graduates.</p>\n<p>Women were more prominently represented among STEM graduates in <span class=\"label-ref\">Northern Africa and Western Asia</span>, where their share among STEM graduates ranged from 35% in Turkey to 58% in Algeria. Women were also more likely than men to graduate in fields related to STEM in Oman and Tunisia.</p>\n",
+                    "content": "<p><strong>All regions of the world display severe gender disparities in STEM, mostly to the disadvantage of women&nbsp;</strong></p>\n\n<p>In half of the countries with data in sub-Saharan Africa (24 countries), women accounted for less than 30% of STEM graduates at the tertiary level. Benin and the Gambia were the only countries in the region to report gender parity. No country (out of eight with data) in Central and Southern Asia reported gender parity, and in three of those countries women represented less than 30% of STEM graduates. Half of the countries in Eastern and South-Eastern Asia displayed moderate male predominance (with a 30% to 45% share of female graduates in STEM education).</p>\n\n<p>In the Latin America and the Caribbean region, the proportions of women among STEM graduates covered a significant range, from 19% in Chile to 75% in Sint Maarten, and in 7 out of 10 countries in the region there was a moderate male predominance (30% to 45% female). Out of 23 countries with data, only one country, Peru, has achieved gender parity among STEM graduates.</p>\n\n<p>Women were more prominently represented among STEM graduates in <span class=\"label-ref\">Northern Africa and Western Asia</span>, where their share among STEM graduates ranged from 35% in Turkey to 58% in Algeria. Women were also more likely than men to graduate in fields related to STEM in Oman and Tunisia.</p>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609631920",
@@ -174,8 +167,8 @@
                             "index": -1
                         }
                     ],
-                    "creaDate": 1602775510395,
-                    "pubDate": 1602775510395,
+                    "creaDate": 1611942704172,
+                    "pubDate": 1611942704172,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -340,7 +333,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         },
         "doNotWarnTitle": true
     },

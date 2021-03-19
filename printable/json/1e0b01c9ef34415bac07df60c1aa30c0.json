@@ -59,7 +59,7 @@
             "storage": "WEBAPP",
             "sections": [
                 {
-                    "title": "<p><span style=\"color:#FF8C00\"><span style=\"font-size:18px\"><strong>Violence&nbsp;against women and the girl child</strong></span></span></p>\n",
+                    "title": "<p><span style=\"color:#FF8C00;\"><span style=\"font-size:18px;\"><strong>Violence&nbsp;against women and the girl child</strong></span></span></p>\n",
                     "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Femicide in Latin America and the Caribbean [ECLAC]</div>\n",
                     "contentActions": [],
                     "creaDate": 1602958950827,
@@ -83,7 +83,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Femicide, the most extreme expression of violence against women</span>",
+                    "title": "<span style=\"font-size:26px;\">Femicide, the most extreme expression of violence against women</span>",
                     "content": "<p>Structural discriminatory, violent and patriarchal cultural patterns sustain gender inequality in the Latin America and the Caribbean region. Despite progress over recent decades, gender-based discrimination and violence against women remains a serious problem, which manifests itself in various areas and in multiple forms. <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/f59163868d1d48d59723c8686af8a37b#NV7\" target=\"_blank\">Femicide</a><span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598676980441\" data-storymaps-type=\"navigate\">1</a></span>, described as the most dramatic and extreme form of violence against women, represents an attack on women and their human rights on a daily or exceptional basis in two settings: (a) violence in relationships, whether in a union or not (intimate femicide); and (b) violence inflicted by other persons, whether relatives, people from a woman\u2019s social environment or strangers, which may derive from situations of social conflict or crime.</p>\n",
                     "contentActions": [
                         {
@@ -138,7 +138,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:28px\"><strong>Current situation</strong></span>",
+                    "title": "<span style=\"font-size:28px;\"><strong>Current situation</strong></span>",
                     "content": "<p><strong>Progress made in countries in Latin America and the Caribbean regarding the codification of femicide as a criminal offence and its statistical visibility have not been effective in reducing this expression of extreme violence against women.</strong> According to the information for the most recent year, as provided by 33 countries in the region to the Gender Equality Observatory for Latin America and the Caribbean,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1598677038846\" data-storymaps-type=\"navigate\">2</a></span> more than 3,800 women were killed because of their gender.</p>\n",
                     "contentActions": [
                         {
@@ -183,7 +183,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
                     "content": "<p>The incidence of femicide in some countries in Central America remains an acute and worrying problem (see figure I). In 2018, four of the five highest rates of femicide were recorded in Central America: in <span class=\"label-ref\">El Salvador</span> (6.8 femicides per 100,000 women); <span class=\"label-ref\">Honduras</span> (5.1 femicides per 100,000 women), Guatemala (2.0 femicides per 100,000 women); and the Dominican Republic (1.9 femicides per 100,000 women).</p>\n",
                     "contentActions": [],
                     "creaDate": 1602958056069,
@@ -201,7 +201,7 @@
                     }
                 },
                 {
-                    "title": "<font><span style=\"font-size:28px\"><strong>&nbsp;</strong></span></font>",
+                    "title": "<font><span style=\"font-size:28px;\"><strong>&nbsp;</strong></span></font>",
                     "content": "<p>In the Caribbean, <span class=\"label-ref\">Guyana</span> and <span class=\"label-ref\">Saint Lucia</span> both recorded at least 4 deaths per 100,000 women according to the data provided for the latest available year (see figure II).</p>\n",
                     "contentActions": [],
                     "creaDate": 1602959125704,
@@ -219,7 +219,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
                     "content": "<p>In some countries of the region, in the majority of instances, the murders of women are cases of femicide. For example, in <span class=\"label-ref\">El Salvador</span>, three out of five murders of women were recorded as femicides in 2018 \u2013 in other words, 60% involved a component of \u201chate or contempt for women\u201d, as codified in article 45 of the comprehensive Law for a Life Free of Violence against Women passed by the legislature in 2011.</p>\n<p><strong>In most countries of the region, 25% to 33% of women have experienced an episode of physical or sexual violence inflicted by a partner.</strong> Those figures are higher in certain countries, such as the Bolivia (Plurinational State of) (58.5%), Colombia (33.3%), Costa Rica (35.8%) and Ecuador (35.5%), where data show that more than one third of women have been subjected to <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/50dd1b2d6167437693178836261522e6#NV1\" target=\"_blank\">physical or sexual violence by an intimate partner</a>.</p>\n",
                     "contentActions": [
                         {
@@ -267,11 +267,11 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
-                    "content": "<div class=\"methodology\">\n<h1>About the data</h1>\n<h2>Coverage</h2>\n<p>Data covers the murder of women (femicide) in 33 countries in the Latin America and the Caribbean region.</p>\n<p>Oceania (excl) refers to Oceania excluding Australia and New Zealand throughout the publication.</p>\n<h2>Definitions</h2>\n<ul class=\"definitions\">\n<li><span class=\"definition\">Femicide rate:</span> Quantification of the murder of women killed because they are women, expressed in absolute numbers at a rate per 100,000 women. Under national laws, this type of murder is called femicide or aggravated homicide due to gender.</li>\n</ul>\n</div>\n",
+                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "content": "<div class=\"methodology\">\n<h1>About the data</h1>\n\n<h2>Coverage</h2>\n\n<p>Data covers the murder of women (femicide) in 33 countries in the Latin America and the Caribbean region.</p>\n\n<h2>Definitions</h2>\n\n<ul class=\"definitions\">\n\t<li><span class=\"definition\">Femicide rate:</span> Quantification of the murder of women killed because they are women, expressed in absolute numbers at a rate per 100,000 women. Under national laws, this type of murder is called femicide or aggravated homicide due to gender.</li>\n</ul>\n</div>\n",
                     "contentActions": [],
-                    "creaDate": 1602819664983,
-                    "pubDate": 1602819664983,
+                    "creaDate": 1611609243983,
+                    "pubDate": 1611609243983,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -279,13 +279,6 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/1e0b01c9ef34415bac07df60c1aa30c0/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602819663879__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "alissa-de-leva-bZ_RkRKE0Po-unsplash__1602819663879__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/1e0b01c9ef34415bac07df60c1aa30c0/resources/alissa-de-leva-bZ_RkRKE0Po-unsplash__1602819663879__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -440,7 +433,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         }
     },
     "_ssl": null,

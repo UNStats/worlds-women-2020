@@ -59,17 +59,13 @@
             "storage": "WEBAPP",
             "sections": [
                 {
-                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Education</strong></span></span></p>\n",
-                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">The impact of birth registration on educational outcomes in Pakistan (United Nations Economic and Social Commission for Asia and the Pacific (ESCAP))</div>\n",
+                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Education</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">The impact of birth registration on educational outcomes in Pakistan [ESCAP]</div>\n",
                     "contentActions": [
                         []
                     ],
-                    "creaDate": [
-                        1602805607319
-                    ],
-                    "pubDate": [
-                        1602805607319
-                    ],
+                    "creaDate": 1611939356012,
+                    "pubDate": 1611939356012,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -77,13 +73,6 @@
                             "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ashkan-forouzani-tcNNJNtTdW4-unsplash.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "ashkan-forouzani-tcNNJNtTdW4-unsplash.jpg",
-                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/ashkan-forouzani-tcNNJNtTdW4-unsplash.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -142,12 +131,12 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px\">Birth registration is associated with positive educational outcomes for all children, but the impact of registration is even greater for girls</span>",
-                    "content": "<p>Although a causal relationship cannot be ascertained, educational outcomes in Pakistan are far higher for children who have their births registered than those who do not, and even more so for those with a birth certificate (see figure). The gender gap in <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/ef080130f70043aa994ac0a0db8d3610#NE6\" target=\"_blank\">school completion</a> at each of the three education levels, (a) any education, (b) completed primary education and (c) secondary education, is higher than 20 percentage points for unregistered children. It falls to around 8 percentage points for registered children and is under 3 percentage points for those who have a birth certificate. Although a birth certificate is not required to attend school in Pakistan, some local or provincial school requirements (for example, to produce a birth certificate before registration) probably affect outcomes. What stands out is the specific importance of registration for girls. Boys without registration have far greater access to all levels of education than girls in the same situation; this gap narrows for registered children, both girls and boys.</p>\n<p>Even after controlling for other socioeconomic factors such as wealth, type of residence or mothers\u2019 highest educational attainment, the positive effect of birth registration remains statistically significant. With all other factors being equal, unregistered boys have better access to education than unregistered girls, but this effect is significantly reduced for those who are registered. While all children benefit from registration, the link is especially strong for girls, effectively reducing, if not eliminating, the gender gap in educational outcomes for those who have been registered.</p>\n",
+                    "content": "<p>Although a causal relationship cannot be ascertained, educational outcomes in Pakistan are far higher for children who have their births registered than for those who do not, and even more so for those with a birth certificate (see figure). The gender gap in <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/ef080130f70043aa994ac0a0db8d3610#NE6\" target=\"_blank\">school completion</a> at each of the three education levels, (a) any education, (b) completed primary education and (c) completed secondary education, is higher than 20 percentage points for unregistered children. It falls to around 8 percentage points for registered children and is under 3 percentage points for those who have a birth certificate. Although a birth certificate is not required to attend school in Pakistan, some local or provincial school requirements (for example, to produce a birth certificate before registration) probably affect outcomes. What stands out is the specific importance of registration for girls. Boys without registration have far greater access to all levels of education than girls in the same situation; this gap narrows for registered children, both girls and boys.</p>\n\n<p>Even after controlling for other socioeconomic factors such as wealth, type of residence or mothers\u2019 highest educational attainment, the positive effect of birth registration remains statistically significant. With all other factors being equal, unregistered boys have better access to education than unregistered girls, but this effect is significantly reduced for those who are registered. While all children benefit from registration, the link is especially strong for girls, effectively reducing, if not eliminating, the gender gap in educational outcomes for those who have been registered.</p>\n",
                     "contentActions": [
                         []
                     ],
-                    "creaDate": 1606866255018,
-                    "pubDate": 1606866255018,
+                    "creaDate": 1611939552565,
+                    "pubDate": 1611939552565,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -213,7 +202,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">&nbsp; </span>",
+                    "title": "<span style=\"font-size:26px;\">&nbsp; </span>",
                     "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<p>Civil registration is the continuous, permanent, compulsory and universal recording of the occurrence and characteristics of vital events pertaining to the population. Birth registration is especially important as the issuance of birth certificates provides individuals with their legal identity and ensures their access to rights and services. The importance of birth registration is reflected in Sustainable Development Goal (SDG) 16, target 16.9, as measured by indicator 16.9.1: \u201cProportion of children under 5 years of age whose births have been registered with a civil authority, by age\u201d. Disaggregation by sex is recommended to ensure that girls are not excluded from registration procedures and to compare the differential impact of birth registration, which can help track progress towards achieving SDG target 4.5, aimed at equal access to education for the most vulnerable and the elimination of gender disparities.</p>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Girls and boys aged 14\u201417.</p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>Data from the Pakistan Demographic and Health Survey 2017-18<span class=\"footnote-index\">9</span> by sex, educational outcome and birth registration status.</p>\n</div>\n<div class=\"methodology-limitations\">\n<h2>Limitations</h2>\n<p>Demographic and Health Surveys have two major limitations regarding the computation of registration completeness: they include only those living in households, potentially not counting the most disadvantaged; and the registration variable is solely declarative. Registration estimations are therefore likely to be overestimations.</p>\n</div>\n</div>\n",
                     "contentActions": [
                         []
@@ -266,7 +255,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         },
         "doNotWarnTitle": true
     },

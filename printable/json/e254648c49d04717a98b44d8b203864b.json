@@ -60,12 +60,10 @@
             "sections": [
                 {
                     "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Economic empowerment</strong></span></span></p>\n",
-                    "content": "<style type=\"text/css\">p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Economic impact of unpaid work in Mexico</div>\n",
-                    "contentActions": [
-                        []
-                    ],
-                    "creaDate": 1606793398830,
-                    "pubDate": 1606793398830,
+                    "content": "<style type=\"text/css\">p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Mexico: economic impact of unpaid work on households&nbsp;</div>\n",
+                    "contentActions": [],
+                    "creaDate": 1610746835572,
+                    "pubDate": 1610746835572,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -73,13 +71,6 @@
                             "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/volha-flaxeco-_BiXLzpVHao-unsplash.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "volha-flaxeco-_BiXLzpVHao-unsplash.jpg",
-                                    "url": "https://raw.githubusercontent.com/UNStats/worlds-women-2020/main/assets/photos/Medium/volha-flaxeco-_BiXLzpVHao-unsplash.jpg",
-                                    "width": 1920
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -87,9 +78,7 @@
                 {
                     "title": "<span style=\"font-size:26px;\">Key points</span>",
                     "content": "<ul class=\"key-points\">\n<li>The value of unpaid domestic and care work in Mexico increased from $78.8 billion in 2003 to $274.2 billion in 2018, accounting for 23.5% of Mexico\u2019s gross domestic product in 2018.</li>\n<li>In Mexico, women work a total of 10 hours a day, on average, while men work 8.1 hours. Women also dedicate more hours to unpaid domestic and care work, spending an average of 37.9 hours per week, while men spend 14.9 hours per week on unpaid domestic and care work.</li>\n</ul>\n",
-                    "contentActions": [
-                        []
-                    ],
+                    "contentActions": [],
                     "creaDate": 1606793437608,
                     "pubDate": 1606793437608,
                     "status": "PUBLISHED",
@@ -111,13 +100,17 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Economic valuation of unpaid domestic and care work</span>",
-                    "content": "<p>In the context of the twenty-fifth anniversary of the adoption of the Beijing Declaration and Platform for Action at the Fourth World Conference on Women in 1995,<span class=\"footnote-index\">1</span> it is informative to examine the evolution of unpaid domestic and care work in Mexican households. In terms of monetary value, the contribution to the national GDP made by unpaid services provided by households, increased from $78.8 billion in 2003 to $274.2 billion in 2018. The value of unpaid domestic and care work expressed as a share of GDP, which remained above 20% over a 10-year span, accounted for 23.5% of GDP in 2018 (see figure I).</p>\n<p>Although these unpaid activities are not traded in the economy, the estimate of their monetary value (23.5% of GDP in 2018) is comparatively larger than the GDP generated by sectors of the Mexican economy such as commerce (18.8%) and the manufacturing industry (17.3%). The value of unpaid work of Mexican women alone (who carry out 75.1% of the total unpaid work of Mexican households), represents 17.7% of the national GDP, a higher share than manufacturing. The dedicated story on <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/6f02cbbfb8d34cb7806d21f4bd14e826#NW25\" target=\"_blank\">unpaid work and total work burden</a> provides more information on this subject.</p>\n",
+                    "title": "<span style=\"font-size:26px\">Economic valuation of unpaid domestic and care work</span>",
+                    "content": "<p>In the context of the twenty-fifth anniversary of the adoption of the Beijing Declaration and Platform for Action at the Fourth World Conference on Women in 1995,<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169099657\" data-storymaps-type=\"navigate\">1</a></span> it is informative to examine the evolution of unpaid domestic and care work in Mexican households. In terms of monetary value, the contribution to the national GDP made by unpaid services provided by households, increased from $78.8 billion in 2003 to $274.2 billion in 2018. The value of unpaid domestic and care work expressed as a share of GDP, which remained above 20% over a 10-year span, accounted for 23.5% of GDP in 2018 (see figure I).</p>\n\n<p>Although these unpaid activities are not traded in the economy, the estimate of their monetary value (23.5% of GDP in 2018) is comparatively larger than the GDP generated by sectors of the Mexican economy such as commerce (18.8%) and the manufacturing industry (17.3%). The value of unpaid work of Mexican women alone (who carry out 75.1% of the total unpaid work of Mexican households), represents 17.7% of the national GDP, a higher share than manufacturing. The dedicated story on <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/6f02cbbfb8d34cb7806d21f4bd14e826#NW25\" target=\"_blank\">unpaid work and total work burden</a> provides more information on this subject.</p>\n",
                     "contentActions": [
-                        []
+                        {
+                            "id": "MJ-ACTION-1615169099657",
+                            "type": "navigate",
+                            "index": 8
+                        }
                     ],
-                    "creaDate": 1606793465119,
-                    "pubDate": 1606793465119,
+                    "creaDate": 1615169101244,
+                    "pubDate": 1615169101244,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -132,12 +125,10 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">Unpaid household work, by whom, for whom</span>",
-                    "content": "<p>By adding up the total of paid and unpaid work performed by the entire population, it is evident that Mexican women have s larger total amount of the workload compared to Mexican men, since for every 10 hours worked by women, men worked only 8.1 hours. Women dedicate more hours to unpaid domestic and care work: in 2018 they spent an average of 37.9 hours per week, which in some cases represented a second working day per week for woman with a paid job, which, on average, took up to 41.3 hours a week. In contrast, men spent 53.6 hours on paid work and only 14.9 hours on unpaid domestic and care work.</p>\n<p>In terms of specific unpaid activities, women also carried out the bulk of those tasks, food preparation being the activity that represented the highest burden, taking up 31.3% of the total amount of weekly time. Time spent on general health care provided to household members represented 18.2% of women\u2019s time per week, while also representing the most important economic contribution (see figure II).</p>\n",
-                    "contentActions": [
-                        []
-                    ],
-                    "creaDate": 1606793502080,
-                    "pubDate": 1606793502080,
+                    "content": "<p>By adding up the total of paid and unpaid work performed by the entire population, it is evident that Mexican women have a&nbsp;larger total amount of the workload compared to Mexican men, since for every 10 hours worked by women, men worked only 8.1 hours. Women dedicate more hours to unpaid domestic and care work: in 2018 they spent an average of 37.9 hours per week, which in some cases represented a second working day per week for woman with a paid job, which, on average, took up to 41.3 hours a week. In contrast, men spent 53.6 hours on paid work and only 14.9 hours on unpaid domestic and care work.</p>\n\n<p>In terms of specific unpaid activities, women also carried out the bulk of those tasks, food preparation being the activity that represented the highest burden, taking up 31.3% of the total amount of weekly time. Time spent on general health care provided to household members represented 18.2% of women\u2019s time per week, while also representing the most important economic contribution (see figure II).</p>\n",
+                    "contentActions": [],
+                    "creaDate": 1611543372585,
+                    "pubDate": 1611543372585,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -153,9 +144,7 @@
                 {
                     "title": "&nbsp;",
                     "content": "<p>Taking into consideration the average economic value of unpaid household work per person in 2018, each Mexican woman contributed the equivalent of $2,959 annually to the household, a figure roughly equivalent to 1.8 times the national minimum wage ($1,600). While women's contribution in terms of unpaid household work varies according to their sociodemographic characteristics, location and family composition (see table), their contribution is consistently larger than that of men. The dedicated stories submitted by <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/ac2f22fca7014384bd63d3f9384fd2e5#NW16\" target=\"_blank\">Colombia</a> and the <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/a96b50d9213f4da4897f149d6ec339be#NW29\" target=\"_blank\">Economic Commission for Latin America and the Caribbean</a> provide additional information on this topic.</p>\n<p>In addition, in order to analyse the subject in detail, several studies have been carried out, including the measurement of unpaid domestic work relative to the population under age 12. Around 8.8 million girls and boys between ages 5 and 11 carry out unpaid household domestic and care activities. In 2018, girls spent an average of 4.2 hours per week on these activities, while boys spent 4.0 hours per week, which shows that socially assigned roles begin from as young as 5 years of age, when girls are charged with greater responsibility for domestic and care work than boys. In terms of monetary value, this means that each girl between the ages of 5 and 11 works for the equivalent of $299 per year.</p>\n<p>Another contribution derived from these studies is the simulator of the economic value of domestic and care work, a tool intended to contribute to the understanding of the economic importance of unpaid household work in contributing to the well-being of the household and its members, based on the acknowledgement of the value that individuals contribute through daily domestic and care work.</p>\n",
-                    "contentActions": [
-                        []
-                    ],
+                    "contentActions": [],
                     "creaDate": 1606847672306,
                     "pubDate": 1606847672306,
                     "status": "PUBLISHED",
@@ -171,11 +160,9 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">Unpaid health care, a support to the health system</span>",
+                    "title": "<span style=\"font-size:26px;\">Unpaid health care, a support to the health system</span>",
                     "content": "<p>In an analysis of data series from 2003 to 2018, there is an observable shift in the health services offered by the market to the household sphere. Although health services in Mexico have been increased to meet the needs of the sick, they have also been complemented, to a significant degree, by an increase in unpaid household care.</p>\n\n<p>In 2018, the total amount of time spent in providing unpaid health care amounted to more than 5,656 million hours, 68.5% of which were spent within the household (on temporary care, preventive care and specialized care), and the rest as support to other households, either directly or through non-profit organizations providing health-care services. Within households, care for the chronically ill or those with disabilities took up 27.8% of the time. Of the total proportion of unpaid work, 69.0% was carried out by women and 31.0% by men; the majority of care provided by women within the household was specialized care, while men mainly handled preventive care.</p>\n\n<p>The economic value of unpaid health care amounted to $18.8 billion in 2018, equivalent to 1.6% of national GDP. Had families been obliged to hire a person to provide health care for their members in need, for every $100 spent, about $50 would had been spent on members with disabilities or chronic illness; $22 to provide health assistance to members with a temporary health-related condition (flu, cough or headache) or on a preventive basis, and the remaining $28 to help other households and/or as volunteer work for health-care related non-profit organizations.</p>\n\n<p>Measuring and valuing unpaid household domestic and care work and acknowledging the greater burden of those activities on women than men, help to provide an integral view into the total contribution of women to the economy and the well-being of households in Mexico.</p>\n\n<p>In this context, the national Supreme Court of Justice concluded that \u201cthe economic contribution of unpaid household domestic work represents monetary savings, because to obtain the same level of well-being in the household without doing such work would imply the payment of large amounts of money\u201d.</p>\n",
-                    "contentActions": [
-                        []
-                    ],
+                    "contentActions": [],
                     "creaDate": 1607029096820,
                     "pubDate": 1607029096820,
                     "status": "PUBLISHED",
@@ -190,13 +177,11 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Sources</span>",
-                    "content": "<ul>\n<li>National Institute of Statistics and Geography (INEGI), System of National Accounts of Mexico. Unpaid Household Work Satellite Account of Mexico 2018, Mexico, 2019. (\u21e1 back to text)</li>\n<li><a href=\"https://en.www.inegi.org.mx/programas/enut/2014/\" target=\"_blank\">INEGI, National Survey on Time Use (ENUT) 2014, Basic tables, Mexico, 2015</a>. (\u21e1 back to text)</li>\n<li><a href=\"http://www2.scjn.gob.mx/ConsultaTematica/PaginasPub/DetallePub.aspx?AsuntoID=179568&amp;SinBotonRegresar=1\" target=\"_blank\">Mexico, Supreme Court of Justice, Direct protection in review 1754/2015</a> (Spanish original). (\u21e1 back to text)</li>\n</ul>\n",
-                    "contentActions": [
-                        []
-                    ],
-                    "creaDate": 1606793736405,
-                    "pubDate": 1606793736405,
+                    "title": "<span style=\"font-size:26px\">Sources</span>",
+                    "content": "<ul>\n\t<li>National Institute of Statistics and Geography (INEGI), System of National Accounts of Mexico. Unpaid Household Work Satellite Account of Mexico 2018, Mexico, 2019. (\u21e1 back to text)</li>\n\t<li><a href=\"https://en.www.inegi.org.mx/programas/enut/2014/\" target=\"_blank\">INEGI, National Survey on Time Use (ENUT) 2014, Basic tables, Mexico, 2015</a>.</li>\n\t<li><a href=\"http://www2.scjn.gob.mx/ConsultaTematica/PaginasPub/DetallePub.aspx?AsuntoID=179568&amp;SinBotonRegresar=1\" target=\"_blank\">Mexico, Supreme Court of Justice, Direct protection in review 1754/2015</a> (Spanish original).</li>\n</ul>\n",
+                    "contentActions": [],
+                    "creaDate": 1615169077843,
+                    "pubDate": 1615169077843,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -204,29 +189,22 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/e254648c49d04717a98b44d8b203864b/resources/clay-banks-GX8KBbVmC6c-unsplash__1606793733112__w1920.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "clay-banks-GX8KBbVmC6c-unsplash__1606793733112__w1920.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/e254648c49d04717a98b44d8b203864b/resources/clay-banks-GX8KBbVmC6c-unsplash__1606793733112__w1920.jpg",
-                                    "width": 1920
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\"> </span>",
-                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li>\n<span class=\"concept\">Time spent on unpaid work</span>: <span class=\"definition\">Includes time spent on unpaid domestic chores such as cleaning or cooking; unpaid care work entails taking care of others, including childcare, help to other households and volunteer work.</span>\n</li>\n<li>\n<span class=\"concept\">Total work burden</span>: <span class=\"definition\">Total of time spent on paid and unpaid work.</span>\n</li>\n<li>\n<span class=\"concept\">Paid work</span>: <span class=\"definition\">Work-related activities in formal or informal employment, carried out for pay or profit.</span>\n</li>\n<li>\n<span class=\"concept\">Value of unpaid work </span>: <span class=\"definition\">Amount of money<span class=\"footnote-index\">2</span> that a particular unpaid activity (for example, childcare) would cost in the market. It can also be expressed as a share of gross domestic product (GDP).</span>\n</li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>Population carrying out unpaid work in Mexico: women aged 12 and older in selected population groups.</p>\n</div>\n</div>\n",
+                    "title": "&nbsp;",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Time spent on unpaid work</span>: <span class=\"definition\">Includes time spent on unpaid domestic chores such as cleaning or cooking; unpaid care work entails taking care of others, including childcare, help to other households and volunteer work.</span></li>\n\t<li><span class=\"concept\">Total work burden</span>: <span class=\"definition\">Total of time spent on paid and unpaid work.</span></li>\n\t<li><span class=\"concept\">Paid work</span>: <span class=\"definition\">Work-related activities in formal or informal employment, carried out for pay or profit.</span></li>\n\t<li><span class=\"concept\">Value of unpaid work </span>: <span class=\"definition\">Amount of money<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615169147259\" data-storymaps-type=\"navigate\">2</a></span> that a particular unpaid activity (for example, childcare) would cost in the market. It can also be expressed as a share of gross domestic product (GDP).</span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>Population carrying out unpaid work in Mexico: women aged 12 and older in selected population groups.</p>\n</div>\n</div>\n",
                     "contentActions": [
-                        []
+                        {
+                            "id": "MJ-ACTION-1615169147259",
+                            "type": "navigate",
+                            "index": 8
+                        }
                     ],
-                    "creaDate": [
-                        1602805607319
-                    ],
-                    "pubDate": [
-                        1602805607319
-                    ],
+                    "creaDate": 1615169151207,
+                    "pubDate": 1615169151207,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -234,29 +212,27 @@
                             "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
-                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\"> </span>",
-                    "content": "\n<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li><a href=\"https://www.un.org/womenwatch/daw/beijing/platform/\">Report of the Fourth World Conference on Women, Beijing, 4\u201315 September 1995 (United Nations publication, Sales No. E.96.IV.13), chap. I, resolution 1, annexes I and II </a>. (\u21e1 back to text)</li>\n<li>In all cases throughout the indicator, amounts of money are given in United States dollars ($). (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "title": "&nbsp;",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li><a href=\"https://www.un.org/womenwatch/daw/beijing/platform/\" target=\"_blank\">Report of the Fourth World Conference on Women, Beijing, 4\u201315 September 1995 (United Nations publication, Sales No. E.96.IV.13), chap. I, resolution 1, annexes I and II </a>. (<a data-storymaps=\"MJ-ACTION-1615169124768\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li>In all cases throughout the indicator, amounts of money are given in United States dollars ($). (<a data-storymaps=\"MJ-ACTION-1615169162611\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n</ol>\n</div>\n",
                     "contentActions": [
-                        []
+                        {
+                            "id": "MJ-ACTION-1615169124768",
+                            "type": "navigate",
+                            "index": 2
+                        },
+                        {
+                            "id": "MJ-ACTION-1615169162611",
+                            "type": "navigate",
+                            "index": 7
+                        }
                     ],
-                    "creaDate": [
-                        1602805607319
-                    ],
-                    "pubDate": [
-                        1602805607319
-                    ],
+                    "creaDate": 1615169163161,
+                    "pubDate": 1615169163161,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -264,13 +240,6 @@
                             "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "lindsay-henwood-unsplash.jpg",
-                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -280,7 +249,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         },
         "doNotWarnTitle": true
     },

@@ -59,11 +59,11 @@
             "storage": "WEBAPP",
             "sections": [
                 {
-                    "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Education</strong></span></span></p>\n",
-                    "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .definition {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Enrolment in technical and vocational programmes</div>\n",
+                    "title": "<p><span style=\"font-size:18px\"><span style=\"color:#FF8C00\"><strong>Education</strong></span></span></p>\n",
+                    "content": "<style type=\"text/css\">p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept{\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Enrolment in technical and vocational programmes</div>\n",
                     "contentActions": [],
-                    "creaDate": 1602772623546,
-                    "pubDate": 1602772623546,
+                    "creaDate": 1612101688461,
+                    "pubDate": 1612101688461,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -71,20 +71,13 @@
                             "url": "https://www.arcgis.com/sharing/rest/content/items/145fff1d87b04bd5a777f6b1b6f702aa/resources/837206-Secretary-Generals%20Envoy%20on%20Youth%20Visits%20Youth%20in%20PoC%20Site%20in%20Juba__1602772622117__w1200.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "837206-Secretary-Generals Envoy on Youth Visits Youth in PoC Site in Juba__1602772622117__w1200.jpg",
-                                    "url": "https://www.arcgis.com/sharing/rest/content/items/145fff1d87b04bd5a777f6b1b6f702aa/resources/837206-Secretary-Generals%20Envoy%20on%20Youth%20Visits%20Youth%20in%20PoC%20Site%20in%20Juba__1602772622117__w1200.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
                     "title": "<span style=\"font-size:26px;\">Key points</span>",
-                    "content": "<ul class=\"key-points\">\n<li>In 2018, the global participation rate in technical and vocational programmes was 4.4% for girls and 5.0% for boys.</li>\n<li>The average enrolment of girls and boys in technical and vocational programmes varies greatly across regions.</li>\n<li>More boys than girls enrol in technical and vocational programmes in most regions of the world, with the exception of Eastern Asia, Northern America and Latin America and the Caribbean.</li>\n<li>Gender disparities show an underrepresentation of girls in technical and vocational programmes in 110 of 141 countries (78%) with data.\u00a0</li>\n<li>Despite persistent gender disparities, girls\u2019 enrolment in technical and vocational programmes nearly doubled over the past three decades.</li>\n</ul>\n",
+                    "content": "<ul class=\"key-points\">\n<li>In 2018, the global participation rate in technical and vocational programmes was 4.4% for girls and 5.0% for boys.</li>\n<li>The average enrolment of girls and boys in technical and vocational programmes varies greatly across regions.</li>\n<li>More boys than girls enrol in technical and vocational programmes in most regions of the world, with the exception of Eastern Asia, Northern America and Latin America and the Caribbean.</li>\n<li>Gender disparities show an underrepresentation of girls in technical and vocational programmes in 110 of 141 countries (78%) with data.&nbsp;</li>\n<li>Despite persistent gender disparities, girls\u2019 enrolment in technical and vocational programmes nearly doubled over the past three decades.</li>\n</ul>\n",
                     "contentActions": [],
                     "creaDate": 1602772662538,
                     "pubDate": 1602772662538,
@@ -107,7 +100,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:28px\">Background</span>",
+                    "title": "<span style=\"font-size:28px;\">Background</span>",
                     "content": "<p>Technical and vocational education and training programmes develop skills and competencies valued by employers and/or are useful for self-employment. Such programmes equip young women and men with skills and capabilities that can broaden their opportunities in life and prepare them for the transition from school to work.</p>\n<p>Technical and vocational programmes encompass a wide range of subject matters, from teacher training programmes to commercial studies, including various technical fields in industry and engineering. The participation rate of young people aged 15\u201324 in technical and vocational programmes is monitored under SDG target 4.3: \u201cBy 2030, ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university\u201d.</p>\n",
                     "contentActions": [
                         {
@@ -156,7 +149,7 @@
                 },
                 {
                     "title": "<span style=\"font-size:28px;\">&nbsp;</span>",
-                    "content": "<p><strong>More boys than girls participate in technical and vocational programmes in most regions of the world</strong></p>\n<p>More boys participate in technical and vocational programmes in all regions worldwide except\u00a0<span class=\"label-ref\">Eastern Asia</span>, <span class=\"label-ref\">Northern America</span> and <span class=\"label-ref\">Latin America and the Caribbean</span>. Girls were severely underrepresented in: Northern Africa (36 girls for every 100 boys), Southern Asia (46 girls for every 100 boys) and Oceania (excluding Australia and New Zealand) (72 girls for every 100 boys).</p>\n<p>Of the 141 countries for which data were available for the period 2010\u20132018 (see figure II), in 110 countries (78%) there was an underrepresentation of girls. Significantly fewer girls than boys (less than 75 girls for every 100 boys) were enrolled in technical and vocational programmes in about half of the 110 countries. Girls were significantly underrepresented in technical and vocational programmes, accounting for less than 50 girls for every 100 boys, in several countries in Southern Asia (Afghanistan, Bangladesh, Iran (Islamic Republic of) and Pakistan) and sub-Saharan Africa (Angola, Benin, Cameroon, the Central African Republic, Eswatini, Ghana, Madagascar, Mauritania, Mauritius, Mozambique and the United Republic of Tanzania).</p>\n<p>Gender parity was attained in only 10 countries with data, half of which were in Latin America and the Caribbean (Chile, El Salvador, Mexico, Paraguay and Venezuela (Bolivarian Republic of)). In contrast, more girls were enrolled than boys in 21 countries with data. Several countries and one territory in Latin America and the Caribbean were represented in the latter group:\u00a0technical and vocational programmes, including Brazil, the British Virgin Islands, Colombia, Costa Rica, the Dominican Republic, Guatemala, Honduras, Nicaragua and Peru.</p>\n<h5><em>The boundaries and names shown and the designations used on this and other maps throughout this publication do not imply official endorsement or acceptance by the United Nations.</em></h5>\n",
+                    "content": "<p><strong>More boys than girls participate in technical and vocational programmes in most regions of the world</strong></p>\n<p>More boys participate in technical and vocational programmes in all regions worldwide except&nbsp;<span class=\"label-ref\">Eastern Asia</span>, <span class=\"label-ref\">Northern America</span> and <span class=\"label-ref\">Latin America and the Caribbean</span>. Girls were severely underrepresented in: Northern Africa (36 girls for every 100 boys), Southern Asia (46 girls for every 100 boys) and Oceania (excluding Australia and New Zealand) (72 girls for every 100 boys).</p>\n<p>Of the 141 countries for which data were available for the period 2010\u20132018 (see figure II), in 110 countries (78%) there was an underrepresentation of girls. Significantly fewer girls than boys (less than 75 girls for every 100 boys) were enrolled in technical and vocational programmes in about half of the 110 countries. Girls were significantly underrepresented in technical and vocational programmes, accounting for less than 50 girls for every 100 boys, in several countries in Southern Asia (Afghanistan, Bangladesh, Iran (Islamic Republic of) and Pakistan) and sub-Saharan Africa (Angola, Benin, Cameroon, the Central African Republic, Eswatini, Ghana, Madagascar, Mauritania, Mauritius, Mozambique and the United Republic of Tanzania).</p>\n<p>Gender parity was attained in only 10 countries with data, half of which were in Latin America and the Caribbean (Chile, El Salvador, Mexico, Paraguay and Venezuela (Bolivarian Republic of)). In contrast, more girls were enrolled than boys in 21 countries with data. Several countries and one territory in Latin America and the Caribbean were represented in the latter group:&nbsp;technical and vocational programmes, including Brazil, the British Virgin Islands, Colombia, Costa Rica, the Dominican Republic, Guatemala, Honduras, Nicaragua and Peru.</p>\n<h5><em>The boundaries and names shown and the designations used on this and other maps throughout this publication do not imply official endorsement or acceptance by the United Nations.</em></h5>\n",
                     "contentActions": [
                         {
                             "id": "MJ-ACTION-1598609631920",
@@ -224,7 +217,7 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px\">&nbsp;</span>",
+                    "title": "<span style=\"font-size:26px;\">&nbsp;</span>",
                     "content": "<p><strong>Understanding the relationship between gender and technical and vocational programmes</strong></p>\n<p>Investigating overall enrolment rates alone is not sufficient to obtain a comprehensive understanding of the relationship between gender and participation in technical and vocational programmes, it is also necessary to assess the enrolment of girls and boys by different fields of study in order to have a fuller understanding of gender disparities in participation in such programmes, including in understanding the extent to which the traditional differentiation between \u201cmasculine\u201d and \u201cfeminine\u201d subjects remains.</p>\n",
                     "contentActions": [
                         {
@@ -320,7 +313,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         },
         "doNotWarnTitle": true
     },

@@ -61,9 +61,7 @@
                 {
                     "title": "<p><span style=\"font-size:18px;\"><span style=\"color:#FF8C00;\"><strong>Power and decision making</strong></span></span></p>\n",
                     "content": "<style type=\"text/css\">    p,\n    h1,\n    h2,\n    h3,\n    h4,\n    h5,\n    li {\n        margin-bottom: 2em;\n    }\n\n    .sidePanel .content {\n        font-size: 13px;\n    }\n\n    title {\n        font-size: 40px;\n        line-height: 1.6;\n\n    }\n\n    .methodology {\n        margin: 10px;\n        padding: 40px 20px 20px 20px;\n        background-color: rgb(255, 206, 151);\n    }\n\n    .concept {\n        font-weight: 600;\n    }\n\n    .footnote-index {\n        vertical-align: super;\n        font-size: 0.7em;\n        margin-left: 2px;\n        color: #FF5733;\n    }\n\n    .section a[data-storymaps] {\n        border-bottom: none !important;\n        text-decoration: none;\n        cursor: pointer;\n        color: #FF5733;\n    }\n\n    /* This is based on https: //www.sitepoint.com/accessible-footnotes-css/ */\n\n    .footnotes {\n        border-top: 1px solid #555;\n\n        font-size: 0.9em;\n    }\n\n    .references {\n        font-size: 0.9em;\n    }\n</style>\n<div class=\"title\">Factors affecting women\u2019s representation in parliament</div>\n",
-                    "contentActions": [
-                        []
-                    ],
+                    "contentActions": [],
                     "creaDate": [
                         1602805607319
                     ],
@@ -91,9 +89,7 @@
                 {
                     "title": "<span style=\"font-size:26px;\">Key points</span>",
                     "content": "<ul class=\"key-points\">\n<li>In 2020, elections in 118 countries are governed by some type of gender quota in lower or single houses of parliament.</li>\n<li>In 2020, women hold 27% of seats in lower or single houses of parliament in countries implementing some type of gender quota compared to 18% in countries without any quota.</li>\n<li>Among the three types of quotas, reserved seats, voluntary political party quotas and legislated candidate quotas, the latter two appear slightly more effective than the reserved seats quota: in 2020, over 28% of seats were held by women in countries implementing voluntary political party quotas and legislated candidate quotas, compared to 25% in countries with reserved seats quotas.</li>\n<li>High proportions of female candidates in parliamentary elections are correlated with high proportions of seats held by women in parliament.</li>\n<li>During the period 2015\u20142020, while the Northern America and Europe region continued to rank first in terms of the highest share of female candidates (36%), the largest increase in the number of female candidates in parliamentary elections was recorded in countries in Latin America and the Caribbean, where the proportion of women candidates rose from 17% to 27% (10 percentage points).</li>\n</ul>\n",
-                    "contentActions": [
-                        []
-                    ],
+                    "contentActions": [],
                     "creaDate": 1606771649739,
                     "pubDate": 1606771649739,
                     "status": "PUBLISHED",
@@ -117,9 +113,7 @@
                 {
                     "title": "<span style=\"font-size:26px;\">Gender quotas</span>",
                     "content": "<p>Gender quotas are aimed at reversing discrimination in law and practice and to levelling the playing field for women in politics. Gender quotas may be mandated in the constitution, stipulated in domestic legislation or formulated in the statutes of political parties. Typically, three types of electoral quotas are used: (a) reserved seats quotas, which reserve a number of seats for women in a legislative assembly; (b) legislated candidate quotas, which reserve a number of places on electoral lists for female candidates; and (c) voluntary party quotas, which are targets voluntarily adopted by political parties to include a certain percentage of women as candidates in elections.</p>\n",
-                    "contentActions": [
-                        []
-                    ],
+                    "contentActions": [],
                     "creaDate": 1606771703988,
                     "pubDate": 1606771703988,
                     "status": "PUBLISHED",
@@ -142,12 +136,16 @@
                 },
                 {
                     "title": "<span style=\"font-size:26px\">Electoral quotas for women have spread to all regions of the world </span>",
-                    "content": "<p>Elections in 118 countries are currently governed by some type of gender quota in the lower or single houses of parliament. Across all regions, the <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/abc5dcf8f01342adbc9578b4677e4832#ND6\" target=\"_blank\">proportion of seats held by women in lower or single houses of parliament</a> is higher in countries with some type of gender quota compared with those without quotas in the same region (see figure I).<span class=\"footnote-index\">1</span> In 2020, the global average proportion of seats held by women in lower or single houses of parliament was 27% in countries implementing some type of gender quota compared to 18% in countries without any quota.</p>\n<p>Gender quotas tend to play a more important role in improving women\u2019s representation in parliament in regions with overall lower representation of women in parliament, with the exception of Oceania, excluding Australia and New Zealand, where the proportion of seats in parliament held by women remains below 10% even in countries that have adopted gender quotas.</p>\n",
+                    "content": "<p>Elections in 118 countries are currently governed by some type of gender quota in the lower or single houses of parliament. Across all regions, the <a class=\"narrative-ref\" href=\"https://worlds-women-2020-data-undesa.hub.arcgis.com/app/abc5dcf8f01342adbc9578b4677e4832#ND6\" target=\"_blank\">proportion of seats held by women in lower or single houses of parliament</a> is higher in countries with some type of gender quota compared with those without quotas in the same region (see figure I).<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615170421829\" data-storymaps-type=\"navigate\">1</a></span> In 2020, the global average proportion of seats held by women in lower or single houses of parliament was 27% in countries implementing some type of gender quota compared to 18% in countries without any quota.</p>\n\n<p>Gender quotas tend to play a more important role in improving women\u2019s representation in parliament in regions with overall lower representation of women in parliament, with the exception of Oceania, excluding Australia and New Zealand, where the proportion of seats in parliament held by women remains below 10% even in countries that have adopted gender quotas.</p>\n",
                     "contentActions": [
-                        []
+                        {
+                            "id": "MJ-ACTION-1615170421829",
+                            "type": "navigate",
+                            "index": 8
+                        }
                     ],
-                    "creaDate": 1606865443127,
-                    "pubDate": 1606865443127,
+                    "creaDate": 1615170422943,
+                    "pubDate": 1615170422943,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -163,9 +161,7 @@
                 {
                     "title": "<span style=\"font-size:26px;\">Among the three types of gender quotas, voluntary political party quotas and legislated candidate quotas continue to appear more effective than reserved seats</span>",
                     "content": "<p>Voluntary political party quotas and legislated candidate quotas mandate the number or percentage of women to be included in a candidate list, while reserved seats quotas allocate a number of seats for women in a legislature. In 2020, over 28% of parliamentary seats are currently held by women in countries implementing voluntary political party quotas and legislated candidate quotas. The majority of countries (79%) also tend to apply these two types of quotas (34 implementing voluntary political party quotas and 59 implementing legislated candidate quotas, out of 191 countries with data).</p>\n",
-                    "contentActions": [
-                        []
-                    ],
+                    "contentActions": [],
                     "creaDate": 1606771878409,
                     "pubDate": 1606771878409,
                     "status": "PUBLISHED",
@@ -181,13 +177,17 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">High proportions of female candidates standing in parliamentary elections are correlated with high proportions of seats held by women in parliament</span>",
-                    "content": "<p>As of 2020, the proportion of female candidates in parliamentary elections was higher than 40% in only 18 of 139 countries with available data. With the exception of Chile (see country in focus below), these are also the countries where women\u2019s representation in parliament is higher than 24.9%, which is the global average. Cuba stands out as the only country in the world where women hold over 50% (53%) of parliamentary seats.</p>\n<p>In most regions of the world, the proportion of female candidates in parliamentary elections increased between 2015 and 2020. In 2020, countries in Northern America and Europe continued to rank first in terms of the highest share of female candidates (36%). The greatest increase was recorded in Latin America and the Caribbean, where the share of female candidates rose from 17% in 2015 to 27% in 2020. Improvement was also recorded in Oceania, excluding Australia and New Zealand, the region with the lowest share of female candidates, where the proportion of women running for parliament increased from 7% in 2015 to 19% in 2020 (see figure III). <span class=\"footnote-index\">2</span></p>\n",
+                    "title": "<span style=\"font-size:26px\">High proportions of female candidates standing in parliamentary elections are correlated with high proportions of seats held by women in parliament</span>",
+                    "content": "<p>As of 2020, the proportion of female candidates in parliamentary elections was higher than 40% in only 18 of 139 countries with available data. With the exception of Chile (see country in focus below), these are also the countries where women\u2019s representation in parliament is higher than 24.9%, which is the global average. Cuba stands out as the only country in the world where women hold over 50% (53%) of parliamentary seats.</p>\n\n<p>In most regions of the world, the proportion of female candidates in parliamentary elections increased between 2015 and 2020. In 2020, countries in Northern America and Europe continued to rank first in terms of the highest share of female candidates (36%). The greatest increase was recorded in Latin America and the Caribbean, where the share of female candidates rose from 17% in 2015 to 27% in 2020. Improvement was also recorded in Oceania, excluding Australia and New Zealand, the region with the lowest share of female candidates, where the proportion of women running for parliament increased from 7% in 2015 to 19% in 2020 (see figure III). <span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615170474862\" data-storymaps-type=\"navigate\">2</a></span></p>\n",
                     "contentActions": [
-                        []
+                        {
+                            "id": "MJ-ACTION-1615170474862",
+                            "type": "navigate",
+                            "index": 8
+                        }
                     ],
-                    "creaDate": 1606778170339,
-                    "pubDate": 1606778170339,
+                    "creaDate": 1615170475674,
+                    "pubDate": 1615170475674,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "webpage",
@@ -201,13 +201,17 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\">Country in focus: Chile</span>",
-                    "content": "<p>After implementing a gender quota in 2015, <span class=\"label-ref\">Chile</span> recorded a 22 percentage point increase in the proportion of female candidates for parliament (from 20% in 2015 to 41% in 2020). Furthermore, there has been a 7 percentage point increase in the proportion of parliamentary seats held by women, reconfirming the positive correlation between women as candidates and women as parliamentarians. Before 2015, although a voluntary political party quota had been implemented in Chile, results in terms of women\u2019s representation were not satisfactory. To address the inequality, in 2015 Congress passed a bill on constitutional reform, including a gender quota, as well as legal sanctions for non-compliance. Parties that fail to comply with the mandated gender quota by submitting candidacy lists with more than 60% of men are sanctioned, and all candidates on the list are rejected.<span class=\"footnote-index\">3</span></p>\n",
+                    "title": "<span style=\"font-size:26px\">Country in focus: Chile</span>",
+                    "content": "<p>After implementing a gender quota in 2015, <span class=\"label-ref\">Chile</span> recorded a 22 percentage point increase in the proportion of female candidates for parliament (from 20% in 2015 to 41% in 2020). Furthermore, there has been a 7 percentage point increase in the proportion of parliamentary seats held by women, reconfirming the positive correlation between women as candidates and women as parliamentarians. Before 2015, although a voluntary political party quota had been implemented in Chile, results in terms of women\u2019s representation were not satisfactory. To address the inequality, in 2015 Congress passed a bill on constitutional reform, including a gender quota, as well as legal sanctions for non-compliance. Parties that fail to comply with the mandated gender quota by submitting candidacy lists with more than 60% of men are sanctioned, and all candidates on the list are rejected.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615170502801\" data-storymaps-type=\"navigate\">3</a></span></p>\n",
                     "contentActions": [
-                        []
+                        {
+                            "id": "MJ-ACTION-1615170502801",
+                            "type": "navigate",
+                            "index": 8
+                        }
                     ],
-                    "creaDate": 1606857002877,
-                    "pubDate": 1606857002877,
+                    "creaDate": 1615170503299,
+                    "pubDate": 1615170503299,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -220,17 +224,17 @@
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\"> </span>",
-                    "content": "\n<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n<ul>\n<li>\n<span class=\"concept\">Proportion of female candidates for parliamentary elections</span>: <span class=\"definition\">The number of women among candidates for lower or single houses of parliament, expressed as a percentage of all candidates in the latest election year and calculated as the total number of female candidates divided by the total number of candidates for parliamentary elections. </span>\n</li>\n</ul>\n</div>\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n<p>This indicator covers the single chamber in unicameral parliaments and the lower chamber in bicameral parliaments but not the upper chamber of bicameral parliaments. </p>\n</div>\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n<p>As at 1 January 2020, data on the proportion of parliamentary seats held by women were available for 191 countries. Data on the proportion of women among candidates for parliament were available for 139 countries. Data on quota systems were available for 191 countries. Countries are organized by regional groupings under the Sustainable Development Goals (SDGs) indicator framework.<span class=\"footnote-index\">4</span></p>\n</div>\n</div>\n",
+                    "title": "&nbsp;",
+                    "content": "<div class=\"methodology\">\n<h1 class=\"methodology-subtitle\">About the data</h1>\n\n<div class=\"methodology-definitions\">\n<h2>Definitions</h2>\n\n<ul>\n\t<li><span class=\"concept\">Proportion of female candidates for parliamentary elections</span>: <span class=\"definition\">The number of women among candidates for lower or single houses of parliament, expressed as a percentage of all candidates in the latest election year and calculated as the total number of female candidates divided by the total number of candidates for parliamentary elections. </span></li>\n</ul>\n</div>\n\n<div class=\"methodology-coverage\">\n<h2>Coverage</h2>\n\n<p>This indicator covers the single chamber in unicameral parliaments and the lower chamber in bicameral parliaments but not the upper chamber of bicameral parliaments.</p>\n</div>\n\n<div class=\"methodology-availability\">\n<h2>Availability</h2>\n\n<p>As at 1 January 2020, data on the proportion of parliamentary seats held by women were available for 191 countries. Data on the proportion of women among candidates for parliament were available for 139 countries. Data on quota systems were available for 191 countries. Countries are organized by regional groupings under the Sustainable Development Goals (SDGs) indicator framework.<span class=\"footnote-index\"><a data-storymaps=\"MJ-ACTION-1615170535620\" data-storymaps-type=\"navigate\">4</a></span></p>\n</div>\n</div>\n",
                     "contentActions": [
-                        []
+                        {
+                            "id": "MJ-ACTION-1615170535620",
+                            "type": "navigate",
+                            "index": 8
+                        }
                     ],
-                    "creaDate": [
-                        1602805607319
-                    ],
-                    "pubDate": [
-                        1602805607319
-                    ],
+                    "creaDate": 1615170540197,
+                    "pubDate": 1615170540197,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -238,29 +242,37 @@
                             "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
-                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/alissa-de-leva-unsplash.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
                 },
                 {
-                    "title": "<span style=\"font-size:26px;\"> </span>",
-                    "content": "\n<div class=\"footnotes\">\n<h5>Footnotes</h5>\n<ol>\n<li>The exception of Australia and New Zealand shown in figure I is caused by the reclassification of New Zealand from the group of countries without any type of quota in 2015 to the group of countries implementing some type of quota in 2020. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/unsd/gender/worldswomen.html\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, The World\u2019s Women 2015: Trends and Statistics, New York, 2015 </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://www.idea.int/data-tools/data/gender-quotas/country-view/79/35\">Institute for Democracy and Electoral Assistance (IDEA), Country Data, Chile </a>. (\u21e1 back to text)</li>\n<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, regional groupings under the Sustainable Development Goals (SDGs) indicator framework </a>. (\u21e1 back to text)</li>\n</ol>\n</div>\n",
+                    "title": "&nbsp;",
+                    "content": "<div class=\"footnotes\">\n<h5>Footnotes</h5>\n\n<ol>\n\t<li>The exception of Australia and New Zealand shown in figure I is caused by the reclassification of New Zealand from the group of countries without any type of quota in 2015 to the group of countries implementing some type of quota in 2020. (<a data-storymaps=\"MJ-ACTION-1615170438649\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://unstats.un.org/unsd/gender/worldswomen.html\" target=\"_blank\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, The World\u2019s Women 2015: Trends and Statistics, New York, 2015 </a>. (<a data-storymaps=\"MJ-ACTION-1615170490453\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://www.idea.int/data-tools/data/gender-quotas/country-view/79/35\" target=\"_blank\">Institute for Democracy and Electoral Assistance (IDEA), Country Data, Chile </a>. (<a data-storymaps=\"MJ-ACTION-1615170522140\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n\t<li><a href=\"https://unstats.un.org/sdgs/report/2019/regional-groups/\" target=\"_blank\">United Nations Department of Economic and Social Affairs (UNDESA), Statistics Division, regional groupings under the Sustainable Development Goals (SDGs) indicator framework </a>. (<a data-storymaps=\"MJ-ACTION-1615170553215\" data-storymaps-type=\"navigate\">\u21e1 back to text</a>)</li>\n</ol>\n</div>\n",
                     "contentActions": [
-                        []
+                        {
+                            "id": "MJ-ACTION-1615170438649",
+                            "type": "navigate",
+                            "index": 3
+                        },
+                        {
+                            "id": "MJ-ACTION-1615170490453",
+                            "type": "navigate",
+                            "index": 5
+                        },
+                        {
+                            "id": "MJ-ACTION-1615170522140",
+                            "type": "navigate",
+                            "index": 6
+                        },
+                        {
+                            "id": "MJ-ACTION-1615170553215",
+                            "type": "navigate",
+                            "index": 7
+                        }
                     ],
-                    "creaDate": [
-                        1602805607319
-                    ],
-                    "pubDate": [
-                        1602805607319
-                    ],
+                    "creaDate": 1615170553846,
+                    "pubDate": 1615170553846,
                     "status": "PUBLISHED",
                     "media": {
                         "type": "image",
@@ -268,13 +280,6 @@
                             "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
                             "type": "image",
                             "altText": "",
-                            "sizes": [
-                                {
-                                    "name": "lindsay-henwood-unsplash.jpg",
-                                    "url": "https://unstats.un.org/unsd/demographic-social/gender/worldswomen/2020/img/lindsay-henwood-unsplash.jpg",
-                                    "width": 1200
-                                }
-                            ],
                             "display": "fill"
                         }
                     }
@@ -284,7 +289,7 @@
         "template": {
             "name": "Map Journal",
             "createdWith": "1.24.1",
-            "editedWith": "1.25.0"
+            "editedWith": "1.26.0"
         },
         "doNotWarnTitle": true
     },
