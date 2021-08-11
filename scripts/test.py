@@ -1,5 +1,4 @@
 import utils
-import utils2
 from os import listdir
 from os.path import isfile, join
 
